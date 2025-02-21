@@ -526,11 +526,15 @@
           - rdg: FΟΙΝΕΣ
     - inscription[n=130]:
       - lb[n=1]:
-        - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: ']esservasbo-[,'
-        - ']ΕΣΣΕΡFΑΣΒΟ-[,'
-        - foreign[lg=eng-Latn]: ⌐corrected from¬
-        - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: ']esservaspo-[,'
-        - ']ΕΣΣΕΡFΑΣΠΟ-[,'
+        - choice:
+          - reg:
+            - app:
+              - rdg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']esservasbo-[,'
+              - rdg: ']ΕΣΣΕΡFΑΣΒΟ-[,'
+          - orig:
+            - app:
+              - rdg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']esservaspo-[,'
+              - rdg: ']ΕΣΣΕΡFΑΣΠΟ-[,'
     - inscription[n=131]:
       - lb[n=1]:
         - app:
@@ -608,11 +612,15 @@
           - rdg: ΕΣΤΑΤΟΙΑFΥΝ
     - inscription[n=145]:
       - lb[n=1]:
-        - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: voineiosuriienoisku.-[,
-        - FΟΙΝΕΙΟΣΥΡΙΙΕΝΟΙΣΚΥ.-[,
-        - foreign[lg=eng-Latn]: ⌐corrected from¬
-        - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: voineioQuriienoisku.-[,
-        - FΟΙΝΕΙΟΞΥΡΙΙΕΝΟΙΣΚΥ.-[,
+        - choice:
+          - reg:
+            - app:
+              - rdg[lg=xpg-Latn-x-old-phrygian-transliterated]: voineiosuriienoisku.-[,
+              - rdg: FΟΙΝΕΙΟΣΥΡΙΙΕΝΟΙΣΚΥ.-[,
+          - orig:
+            - app:
+              - rdg[lg=xpg-Latn-x-old-phrygian-transliterated]: voineioQuriienoisku.-[,
+              - rdg: FΟΙΝΕΙΟΞΥΡΙΙΕΝΟΙΣΚΥ.-[,
     - inscription[n=146]:
       - lb[n=1]:
         - app:
