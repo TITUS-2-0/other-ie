@@ -4,22 +4,23 @@
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'ates : arkiaevais : akenanogavos
-              : midai : lavagtaei : vanaktei : edaes'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'ates
+              : arkiaevais : akenanogavos : midai : lavagtaei : vanaktei : edaes'
           - orig: 'ΑΤΕΣ : ΑΡΚΙΑΕFΑΙΣ : ΑΚΕΝΑΝΟΓΑFΟΣ : ΜΙΔΑΙ : ΛΑFΑΓΤΑΕΙ : FΑΝΑΚΤΕΙ
               : ΕΔΑΕΣ'
     - inscription[n=1b]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'baba : memevais : proitavos
-              : kFiyanaveyos : sikeneman : edaes'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'baba
+              : memevais : proitavos : kFiyanaveyos : sikeneman : edaes'
           - orig: 'ΒΑΒΑ : ΜΕΜΕFΑΙΣ : ΠΡΟΙΤΑFΟΣ : ΚΦΙJΑΝΑFΕJΟΣ : ΣΙΚΕΝΕΜΑΝ : ΕΔΑΕΣ'
     - inscription[n=1c]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: mate.r.[--] (...) atatasm.?onokaua.
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: mate.r.[--]
+              (...) atatasm.?onokaua.
           - orig: ΜΑΤΕ.Ρ.[--] (...) ΑΤΑΤΑΣΜ.?ΟΝΟΚΑΥΑ.
     - inscription-group[n=1d]:
       - p:
@@ -28,78 +29,84 @@
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: midas
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: midas
             - orig: ΜΙΔΑΣ
           - lb[n=2]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: smateran
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: smateran
             - orig: ΣΜΑΤΕΡΑΝ
           - lb[n=3]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: tvemeseneparkes? ...
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: tvemeseneparkes?
+                ...
             - orig: ΤFΕΜΕΣΕΝΕΠΑΡΚΕΣ? ...
       - inscription[n=1dII]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: matera[
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: matera[
             - orig: ΜΑΤΕΡΑ[
           - lb[n=2]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: avie[
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: avie[
             - orig: ΑFΙΕ[
     - inscription[n=1e]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']ma.ter.ey['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']ma.ter.ey['
           - orig: ']ΜΑ.ΤΕΡ.ΕJ['
     - inscription[n=1f]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: '[-?-]as : tuav?e/niy'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: '[-?-]as
+              : tuav?e/niy'
           - orig: '[-?-]ΑΣ : ΤΥΑF?Ε/ΝΙJ'
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ': ae : esuryoyoy: totin
-              : e.d.ae.[s]'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ': ae
+              : esuryoyoy: totin : e.d.ae.[s]'
           - orig: ': ΑΕ : ΕΣΥΡJΟJΟJ: ΤΟΤΙΝ : Ε.Δ.ΑΕ.[Σ]'
     - inscription[n=2]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'bba : memevais : proitavo[s]'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'bba :
+              memevais : proitavo[s]'
           - orig: 'ΒΒΑ : ΜΕΜΕFΑΙΣ : ΠΡΟΙΤΑFΟ[Σ]'
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'kcianaveyos : akaragayun'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'kcianaveyos
+              : akaragayun'
           - orig: 'Κ!ΙΑΝΑFΕJΟΣ : ΑΚΑΡΑΓΑJΥΝ'
         - lb[n=3]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: edaes
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: edaes
           - orig: ΕΔΑΕΣ
     - inscription[n=3]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']abasim.an.akio['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']abasim.an.akio['
           - orig: ']ΑΒΑΣΙΜ.ΑΝ.ΑΚΙΟ['
     - inscription[n=4]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'a.kinanogavan. : tiyes'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'a.kinanogavan.
+              : tiyes'
           - orig: 'Α.ΚΙΝΑΝΟΓΑFΑΝ. : ΤΙJΕΣ'
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'mod.rov.anak : [?]avara.[?]'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'mod.rov.anak
+              : [?]avara.[?]'
           - orig: 'ΜΟΔ.ΡΟF.ΑΝΑΚ : [?]ΑFΑΡΑ.[?]'
     - inscription[n=5]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]:
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]:
             - apelan
             - space[type=hole]:
             - mekastevano.[
@@ -111,29 +118,30 @@
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: '[?]r.ekun : deiatiteea?[?]'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: '[?]r.ekun
+              : deiatiteea?[?]'
           - orig: '[?]Ρ.ΕΚΥΝ : ΔΕΙΑΤΙΤΕΕΑ?[?]'
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: davoiiman
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: davoiiman
           - orig: ΔΑFΟΙΙΜΑΝ
     - inscription[n=7]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: tolos
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: tolos
           - orig: ΤΟΛΟΣ
     - inscription[n=8]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: '[---------]s.a.bas'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: '[---------]s.a.bas'
           - orig: '[---------]Σ.Α.ΒΑΣ'
     - inscription[n=9]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.ke-?ano?['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.ke-?ano?['
           - orig: ']Α.ΚΕ-?ΑΝΟ?['
     - inscription[n=10]:
       - p:
@@ -141,11 +149,13 @@
         - app:
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']gen : ['
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']gen
+                  : ['
               - orig: ']ΓΕΝ : ['
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']t.en : ['
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']t.en
+                  : ['
               - orig: ']Τ.ΕΝ : ['
   - provenance[n=W]:
     - inscription-group[n=1a]:
@@ -153,139 +163,146 @@
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'vrekun : tedatoy :
-                yostutut---a.-m-?noy : akenanogavos'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'vrekun
+                : tedatoy : yostutut---a.-m-?noy : akenanogavos'
             - orig: 'FΡΕΚΥΝ : ΤΕΔΑΤΟJ : JΟΣΤΥΤΥΤ---Α.-Μ-?ΝΟJ : ΑΚΕΝΑΝΟΓΑFΟΣ'
           - lb[n=2]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: aey
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: aey
             - orig: ΑΕJ
       - inscription[n=1aII]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'materan : areyastin'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'materan
+                : areyastin'
             - orig: 'ΜΑΤΕΡΑΝ : ΑΡΕJΑΣΤΙΝ'
       - inscription[n=1aIII]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'bonok : akenanogavo.s.'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'bonok
+                : akenanogavo.s.'
             - orig: 'ΒΟΝΟΚ : ΑΚΕΝΑΝΟΓΑFΟ.Σ.'
     - inscription[n=1b]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'yosesait : materey :
-              eveteksete.y : ovevin : onoman : daQet : la'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'yosesait
+              : materey : eveteksete.y : ovevin : onoman : daQet : la'
           - orig: 'JΟΣΕΣΑΙΤ : ΜΑΤΕΡΕJ : ΕFΕΤΕΚΣΕΤΕ.J : ΟFΕFΙΝ : ΟΝΟΜΑΝ : ΔΑΞΕΤ : ΛΑ'
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'kedokey : venavtun :
-              avtay : materey'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'kedokey
+              : venavtun : avtay : materey'
           - orig: 'ΚΕΔΟΚΕJ : FΕΝΑFΤΥΝ : ΑFΤΑJ : ΜΑΤΕΡΕJ'
     - inscription[n=1c]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'ataniyen : kuryaneyon
-              : ta/negertoy'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'ataniyen
+              : kuryaneyon : ta/negertoy'
           - orig: 'ΑΤΑΝΙJΕΝ : ΚΥΡJΑΝΕJΟΝ : ΤΑ/ΝΕΓΕΡΤΟJ'
     - inscription[n=2]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'iketayos : pseik--?ed.?[a]e.?s'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'iketayos
+              : pseik--?ed.?[a]e.?s'
           - orig: 'ΙΚΕΤΑJΟΣ : ΠΣΕΙΚ--?ΕΔ.?[Α]Ε.?Σ'
     - inscription[n=3]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']m[ ]t[ ]m[ ]m['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']m[ ]t[
+              ]m[ ]m['
           - orig: ']Μ[ ]Τ[ ]Μ[ ]Μ['
     - inscription[n=4]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: matarkubileya[ ]toy
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: matarkubileya[
+              ]toy
           - orig: ΜΑΤΑΡΚΥΒΙΛΕJΑ[ ]ΤΟJ
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: en
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: en
           - orig: ΕΝ
     - inscription[n=5a]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: natimeyonna.
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: natimeyonna.
           - orig: ΝΑΤΙΜΕJΟΝΝΑ.
     - inscription[n=5b]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: '[  ]nst[ ]daesporma.te.[  ]'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: '[  ]nst[
+              ]daesporma.te.[  ]'
           - orig: '[  ]ΝΣΤ[ ]ΔΑΕΣΠΟΡΜΑ.ΤΕ.[  ]'
     - inscription[n=6]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]mata.r.[?
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]mata.r.[?
           - orig: ?]ΜΑΤΑ.Ρ.[?
     - inscription[n=7]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']t.?[  ]:[  ]n.?[       ]e.sagas
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']t.?[  ]:[  ]n.?[       ]e.sagas
               : akena.s.?['
           - orig: ']Τ.?[  ]:[  ]Ν.?[ ]Ε.ΣΑΓΑΣ : ΑΚΕΝΑ.Σ.?['
     - inscription[n=8]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: '[?]atesagomoi'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: '[?]atesagomoi'
           - orig: '[?]ΑΤΕΣΑΓΟΜΟΙ'
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: sa-tatedaes
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: sa-tatedaes
           - orig: ΣΑ-ΤΑΤΕΔΑΕΣ
         - lb[n=3]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: alussiceto
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: alussiceto
           - orig: ΑΛΥΣΣΙ!ΕΤΟ
         - lb[n=4]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: BatelesBaB-[?]
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: BatelesBaB-[?]
           - orig: 8ΑΤΕΛΕΣ8Α8-[?]
     - inscription[n=9]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: sicetoae
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: sicetoae
           - orig: ΣΙ!ΕΤΟΑΕ
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: alus
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: alus
           - orig: ΑΛΥΣ
     - inscription[n=10]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: a.taiedaele-avo
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: a.taiedaele-avo
           - orig: Α.ΤΑΙΕΔΑΕΛΕ-ΑFΟ
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: viceatevoatoios
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: viceatevoatoios
           - orig: FΙ!ΕΑΤΕFΟΑΤΟΙΟΣ
         - lb[n=3]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: alu.ssicetodas
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: alu.ssicetodas
           - orig: ΑΛΥ.ΣΣΙ!ΕΤΟΔΑΣ
     - inscription[n=11(?)]:
       - p:
         - note[lg=eng-Latn]: Ikiztepe
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: midas aros.aypu.-u.n
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: midas
+              aros.aypu.-u.n
           - orig: ΜΙΔΑΣ ΑΡΟΣ.ΑJΠΥ.-Υ.Ν
   - provenance[n=B]:
     - inscription[n=1]:
@@ -293,44 +310,48 @@
         - note[lg=eng-Latn]: (Germanos)
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: s[-]bev[-]os adi[---]
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: s[-]bev[-]os
+              adi[---]
           - orig: Σ[-]ΒΕF[-]ΟΣ ΑΔΙ[---]
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ka.v.armo.yo imroy edaes
-              etovesniyo[-]
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ka.v.armo.yo
+              imroy edaes etovesniyo[-]
           - orig: ΚΑ.F.ΑΡΜΟ.JΟ ΙΜΡΟJ ΕΔΑΕΣ ΕΤΟFΕΣΝΙJΟ[-]
         - lb[n=3]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: matar kubeleya ibeya duman
-              ektetoy
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: matar
+              kubeleya ibeya duman ektetoy
           - orig: ΜΑΤΑΡ ΚΥΒΕΛΕJΑ ΙΒΕJΑ ΔΥΜΑΝ ΕΚΤΕΤΟJ
         - lb[n=4]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: yos tivo[-]a.spereta.
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: yos tivo[-]a.spereta.
               ayni. kin te[-]e.mi
           - orig: JΟΣ ΤΙFΟ[-]Α.ΣΠΕΡΕΤΑ. ΑJΝΙ. ΚΙΝ ΤΕ[-]Ε.ΜΙ
         - lb[n=5]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: '[--]toyo[-]is[-]er kte.voys
-              ekey da.[-]ati'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: '[--]toyo[-]is[-]er
+              kte.voys ekey da.[-]ati'
           - orig: '[--]ΤΟJΟ[-]ΙΣ[-]ΕΡ ΚΤΕ.FΟJΣ ΕΚΕJ ΔΑ.[-]ΑΤΙ'
         - lb[n=6]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: opito[-]eyoy ev[-]m[-]mesmeneya
-              anato[-]
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: opito[-]eyoy
+              ev[-]m[-]mesmeneya anato[-]
           - orig: ΟΠΙΤΟ[-]ΕJΟJ ΕF[-]Μ[-]ΜΕΣΜΕΝΕJΑ ΑΝΑΤΟ[-]
         - lb[n=7]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: kavarmoy.un matar otekonov[-]
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: kavarmoy.un
+              matar otekonov[-]
           - orig: ΚΑFΑΡΜΟJ.ΥΝ ΜΑΤΑΡ ΟΤΕΚΟΝΟF[-]
         - lb[n=8]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: kesiti oyvosaey apaktneni
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: kesiti
+              oyvosaey apaktneni
           - orig: ΚΕΣΙΤΙ ΟJFΟΣΑΕJ ΑΠΑΚΤΝΕΝΙ
         - lb[n=9]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: pakray evkobeyan epaktoy
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: pakray
+              evkobeyan epaktoy
           - orig: ΠΑΚΡΑJ ΕFΚΟΒΕJΑΝ ΕΠΑΚΤΟJ
     - inscription[n=2,lg=eng-Latn]:
       - p:
@@ -340,15 +361,15 @@
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: e.s.k.---a[]a--[]
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: e.s.k.---a[]a--[]
           - orig: Ε.Σ.Κ.---Α[]Α--[]
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: evteveyay.yosyosyen?vr.a.
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: evteveyay.yosyosyen?vr.a.
           - orig: ΕFΤΕFΕJΑJ.JΟΣJΟΣJΕΝ?FΡ.Α.
         - lb[n=3]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: etitevteveyme-ounlakeao./?
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: etitevteveyme-ounlakeao./?
           - orig: ΕΤΙΤΕFΤΕFΕJΜΕ-ΟΥΝΛΑΚΕΑΟ./?
   - provenance[n=G]:
     - inscription-group[n=1]:
@@ -356,108 +377,111 @@
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: '[                  ]vo[---]'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: '[                  ]vo[---]'
             - orig: '[                  ]FΟ[---]'
           - lb[n=2]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: '[---]s.a.y.uve[              ]'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: '[---]s.a.y.uve[              ]'
             - orig: '[---]Σ.Α.J.ΥFΕ[              ]'
           - lb[n=3]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: '[      ]o.?lavi.?[    ]isvolkay'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: '[      ]o.?lavi.?[    ]isvolkay'
             - orig: '[      ]Ο.?ΛΑFΙ.?[ ]ΙΣFΟΛΚΑJ'
           - lb[n=4]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ': dumeyay : [ ]d.ed.a[      ]'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ': dumeyay
+                : [ ]d.ed.a[      ]'
             - orig: ': ΔΥΜΕJΑJ : [ ]Δ.ΕΔ.Α[      ]'
       - inscription[n=1B]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: '[    ]ita-[ ]t.?erkeyaask'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: '[    ]ita-[
+                ]t.?erkeyaask'
             - orig: '[    ]ΙΤΑ-[ ]Τ.?ΕΡΚΕJΑΑΣΚ'
           - note[lg=eng-Latn]: transcription impossible
       - inscription[n=1C]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: e]n.[e]/p/arkesv[
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: e]n.[e]/p/arkesv[
             - orig: Ε]Ν.[Ε]/Π/ΑΡΚΕΣF[
     - inscription-group[n=2]:
       - inscription[n=2A]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'agart.ioi : iktes :
-                adoikavoi'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'agart.ioi
+                : iktes : adoikavoi'
             - orig: 'ΑΓΑΡΤ.ΙΟΙ : ΙΚΤΕΣ : ΑΔΟΙΚΑFΟΙ'
       - inscription[n=2B]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: iosoporokitis-?
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: iosoporokitis-?
             - orig: ΙΟΣΟΠΟΡΟΚΙΤΙΣ-?
       - inscription[n=2C]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'kakoioitovo : podaska[?]'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'kakoioitovo
+                : podaska[?]'
             - orig: 'ΚΑΚΟΙΟΙΤΟFΟ : ΠΟΔΑΣΚΑ[?]'
     - inscription[n=3]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]kakrayunni[?
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]kakrayunni[?
           - orig: ?]ΚΑΚΡΑJΥΝΝΙ[?
     - inscription[n=4]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']evi-'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']evi-'
           - orig: ']ΕFΙ-'
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: tatas-[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: tatas-[
           - orig: ΤΑΤΑΣ-[
         - lb[n=3]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']-m.-['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']-m.-['
           - orig: ']-Μ.-['
     - inscription[n=6]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']b.a.b.a.s.?['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']b.a.b.a.s.?['
           - orig: ']Β.Α.Β.Α.Σ.?['
     - inscription[n=7]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']-?a.esi-['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']-?a.esi-['
           - orig: ']-?Α.ΕΣΙ-['
     - inscription[n=8]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']o.sve['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']o.sve['
           - orig: ']Ο.ΣFΕ['
     - inscription[n=9]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']r.eme.['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']r.eme.['
           - orig: ']Ρ.ΕΜΕ.['
     - inscription[n=101]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: kuliya.[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: kuliya.[
           - orig: ΚΥΛΙJΑ.[
     - inscription[n=103]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: kadiun[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: kadiun[
           - orig: ΚΑΔΙΥΝ[
     - inscription[n=104]:
       - p:
@@ -465,137 +489,139 @@
         - app:
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: kerno.[
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: kerno.[
               - orig: ΚΕΡΝΟ.[
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: kerm.o.[
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: kerm.o.[
               - orig: ΚΕΡΜ.Ο.[
     - inscription[n=105]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: sicidosakor
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: sicidosakor
           - orig: ΣΙ!ΙΔΟΣΑΚΟΡ
     - inscription[n=107]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ata
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ata
           - orig: ΑΤΑ
     - inscription[n=108]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: eies
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: eies
           - orig: ΕΙΕΣ
     - inscription[n=109]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: aladis url
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: aladis
+              url
           - orig: ΑΛΑΔΙΣ ΥΡΛ
     - inscription[n=110]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: lagineyos
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: lagineyos
           - orig: ΛΑΓΙΝΕJΟΣ
     - inscription[n=111]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']o.mekas'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']o.mekas'
           - orig: ']Ο.ΜΕΚΑΣ'
     - inscription[n=112]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: eOta.[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: eOta.[
           - orig: ΕΩΤΑ.[
     - inscription[n=113]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a?stoipitave['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a?stoipitave['
           - orig: ']Α?ΣΤΟΙΠΙΤΑFΕ['
     - inscription[n=114]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ise
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ise
           - orig: ΙΣΕ
     - inscription[n=115]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: QuvaQaros
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: QuvaQaros
           - orig: ΞΥFΑΞΑΡΟΣ
     - inscription[n=116]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: benagonos
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: benagonos
           - orig: ΒΕΝΑΓΟΝΟΣ
     - inscription[n=117]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: iosais
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: iosais
           - orig: ΙΟΣΑΙΣ
     - inscription[n=118]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ata
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ata
           - orig: ΑΤΑ
     - inscription[n=119]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: a.t.as.
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: a.t.as.
           - orig: Α.Τ.ΑΣ.
     - inscription[n=121]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: b.a.b.a.
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: b.a.b.a.
           - orig: Β.Α.Β.Α.
     - inscription[n=122]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: tates
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: tates
           - orig: ΤΑΤΕΣ
     - inscription[n=123]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]ates
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]ates
           - orig: ?]ΑΤΕΣ
     - inscription[n=125]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']rono-oy : eneparkes-ei?es'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']rono-oy
+              : eneparkes-ei?es'
           - orig: ']ΡΟΝΟ-ΟJ : ΕΝΕΠΑΡΚΕΣ-ΕΙ?ΕΣ'
     - inscription[n=127]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: k.u.liyas
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: k.u.liyas
           - orig: Κ.Υ.ΛΙJΑΣ
     - inscription[n=128]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ataskek-[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ataskek-[
           - orig: ΑΤΑΣΚΕΚ-[
     - inscription[n=129]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: voines
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: voines
           - orig: FΟΙΝΕΣ
     - inscription[n=130]:
       - p:
@@ -604,24 +630,24 @@
           - rdg:
             - corr:
               - choice:
-                - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']esservasbo-[,'
+                - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']esservasbo-[,'
                 - orig: ']ΕΣΣΕΡFΑΣΒΟ-[,'
           - rdg:
             - orig:
               - choice:
-                - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']esservaspo-[,'
+                - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']esservaspo-[,'
                 - orig: ']ΕΣΣΕΡFΑΣΠΟ-[,'
     - inscription[n=131]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]dumastaeia[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]dumastaeia[
           - orig: ?]ΔΥΜΑΣΤΑΕΙΑ[
     - inscription[n=132]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: plor.iata.[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: plor.iata.[
           - orig: ΠΛΟΡ.ΙΑΤΑ.[
     - inscription[n=133]:
       - p:
@@ -629,75 +655,76 @@
         - app:
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: t.uvatis
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: t.uvatis
               - orig: Τ.ΥFΑΤΙΣ
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: guvatis
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: guvatis
               - orig: ΓΥFΑΤΙΣ
     - inscription[n=135]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]agipeia
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]agipeia
           - orig: ?]ΑΓΙΠΕΙΑ
     - inscription[n=136]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'tadoy : iman'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'tadoy
+              : iman'
           - orig: 'ΤΑΔΟJ : ΙΜΑΝ'
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: bag.un
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: bag.un
           - orig: ΒΑΓ.ΥΝ
     - inscription[n=137]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: midas[?
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: midas[?
           - orig: ΜΙΔΑΣ[?
     - inscription[n=138]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: babiy.[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: babiy.[
           - orig: ΒΑΒΙJ.[
     - inscription[n=139]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]kupolas
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]kupolas
           - orig: ?]ΚΥΠΟΛΑΣ
     - inscription[n=140]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: noievos
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: noievos
           - orig: ΝΟΙΕFΟΣ
     - inscription[n=141]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']t.vitenorola['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']t.vitenorola['
           - orig: ']Τ.FΙΤΕΝΟΡΟΛΑ['
     - inscription[n=142]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.vas.s.['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.vas.s.['
           - orig: ']Α.FΑΣ.Σ.['
     - inscription[n=143]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']-eveis.['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']-eveis.['
           - orig: ']-ΕFΕΙΣ.['
     - inscription[n=144]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: estatoiavun
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: estatoiavun
           - orig: ΕΣΤΑΤΟΙΑFΥΝ
     - inscription[n=145]:
       - p:
@@ -706,73 +733,74 @@
           - rdg:
             - corr:
               - choice:
-                - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: voineiosuriienoisku.-[,
+                - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: voineiosuriienoisku.-[,
                 - orig: FΟΙΝΕΙΟΣΥΡΙΙΕΝΟΙΣΚΥ.-[,
           - rdg:
             - orig:
               - choice:
-                - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: voineioQuriienoisku.-[,
+                - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: voineioQuriienoisku.-[,
                 - orig: FΟΙΝΕΙΟΞΥΡΙΙΕΝΟΙΣΚΥ.-[,
     - inscription[n=146]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: "]-oikavos' = '[a]d.oikavos"
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: "]-oikavos'\
+              \ = '[a]d.oikavos"
           - orig: ']-ΟΙΚΑFΟΣ ἦ [Α]Δ.ΟΙΚΑFΟΣ'
     - inscription[n=147]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']mekastosk['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']mekastosk['
           - orig: ']ΜΕΚΑΣΤΟΣΚ['
     - inscription[n=148]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.tes'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.tes'
           - orig: ']Α.ΤΕΣ'
     - inscription-group[n=150]:
       - inscription[n=150A]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: olgiavos
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: olgiavos
             - orig: ΟΛΓΙΑFΟΣ
       - inscription[n=150C]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: asakas
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: asakas
             - orig: ΑΣΑΚΑΣ
     - inscription[n=153]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']d.oika-['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']d.oika-['
           - orig: ']Δ.ΟΙΚΑ-['
     - inscription[n=155]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.mai--['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.mai--['
           - orig: ']Α.ΜΑΙ--['
     - inscription[n=158]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: tib
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: tib
           - orig: ΤΙΒ
     - inscription[n=159]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']ser-[...]a.ios'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']ser-[...]a.ios'
           - orig: ']ΣΕΡ-[...]Α.ΙΟΣ'
     - inscription[n=160]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: aka-[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: aka-[
           - orig: ΑΚΑ-[
     - inscription[n=161]:
       - p:
@@ -780,11 +808,11 @@
         - app:
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: a.s.u.i.a.d.os.
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: a.s.u.i.a.d.os.
               - orig: Α.Σ.Υ.Ι.Α.Δ.ΟΣ.
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: a.s.k.i.a.d.os.
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: a.s.k.i.a.d.os.
               - orig: Α.Σ.Κ.Ι.Α.Δ.ΟΣ.
     - inscription[n=162]:
       - p:
@@ -792,221 +820,222 @@
         - app:
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ap
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ap
               - orig: ΑΠ
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: pa
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: pa
               - orig: ΠΑ
     - inscription[n=163]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']sa.es['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']sa.es['
           - orig: ']ΣΑ.ΕΣ['
     - inscription[n=164]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]-astoy
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]-astoy
           - orig: ?]-ΑΣΤΟJ
     - inscription[n=165]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']v.e.s.t.a.'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']v.e.s.t.a.'
           - orig: ']F.Ε.Σ.Τ.Α.'
     - inscription[n=166]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: abs
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: abs
           - orig: ΑΒΣ
     - inscription[n=170]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: a.re.?
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: a.re.?
           - orig: Α.ΡΕ.?
     - inscription[n=173]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: mama
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: mama
           - orig: ΜΑΜΑ
     - inscription[n=174]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']pbas.['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']pbas.['
           - orig: ']ΠΒΑΣ.['
     - inscription[n=176]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']-ay.ost.es.['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']-ay.ost.es.['
           - orig: ']-ΑJ.ΟΣΤ.ΕΣ.['
     - inscription[n=177]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]kalai.[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]kalai.[
           - orig: ?]ΚΑΛΑΙ.[
     - inscription[n=178]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: eymiv.a.k.i.[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: eymiv.a.k.i.[
           - orig: ΕJΜΙF.Α.Κ.Ι.[
     - inscription[n=179]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']ime['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']ime['
           - orig: ']ΙΜΕ['
     - inscription[n=182]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ta
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ta
           - orig: ΤΑ
     - inscription-group[n=183]:
       - inscription[n=183A]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: tiveia
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: tiveia
             - orig: ΤΙFΕΙΑ
       - inscription[n=183B]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: imeneia
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: imeneia
             - orig: ΙΜΕΝΕΙΑ
     - inscription[n=184]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ba.b.a.
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ba.b.a.
           - orig: ΒΑ.Β.Α.
     - inscription[n=185]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: sir
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: sir
           - orig: ΣΙΡ
     - inscription[n=189]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: uposo.y
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: uposo.y
           - orig: ΥΠΟΣΟ.J
     - inscription[n=196]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']l.i.-e---mi.'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']l.i.-e---mi.'
           - orig: ']Λ.Ι.-Ε---ΜΙ.'
     - inscription[n=197]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.res'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.res'
           - orig: ']Α.ΡΕΣ'
     - inscription[n=198]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: gard.[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: gard.[
           - orig: ΓΑΡΔ.[
     - inscription[n=199]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']r.maniv['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']r.maniv['
           - orig: ']Ρ.ΜΑΝΙF['
     - inscription[n=202]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ma-[-]as
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ma-[-]as
           - orig: ΜΑ-[-]ΑΣ
     - inscription[n=204]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']d.a alu m s  ['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']d.a
+              alu m s  ['
           - orig: ']Δ.Α ΑΛΥ Μ Σ  ['
     - inscription[n=210]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: iman
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: iman
           - orig: ΙΜΑΝ
     - inscription[n=212]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: nina
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: nina
           - orig: ΝΙΝΑ
     - inscription[n=214]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: mor.o-[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: mor.o-[
           - orig: ΜΟΡ.Ο-[
     - inscription[n=215]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: nm
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: nm
           - orig: ΝΜ
     - inscription[n=216]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']lasime-['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']lasime-['
           - orig: ']ΛΑΣΙΜΕ-['
     - inscription[n=219]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']t.ivi-['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']t.ivi-['
           - orig: ']Τ.ΙFΙ-['
     - inscription[n=221]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]a-iy[?
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]a-iy[?
           - orig: ?]Α-ΙJ[?
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]keno[?
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]keno[?
           - orig: ?]ΚΕΝΟ[?
         - lb[n=3]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]atas
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]atas
           - orig: ?]ΑΤΑΣ
         - lb[n=4]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]aratapa.[?
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]aratapa.[?
           - orig: ?]ΑΡΑΤΑΠΑ.[?
         - lb[n=5]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]obatam--[?
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]obatam--[?
           - orig: ?]ΟΒΑΤΑΜ--[?
     - inscription[n=222]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: rigaru
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: rigaru
           - orig: ΡΙΓΑΡΥ
     - inscription-group[n=224]:
       - inscription[n=224A]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ata
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ata
             - orig: ΑΤΑ
       - inscription[n=224B]:
         - p:
@@ -1014,45 +1043,45 @@
           - app:
             - rdg:
               - choice:
-                - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: garies
+                - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: garies
                 - orig: ΓΑΡΙΕΣ
             - rdg:
               - choice:
-                - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: p.aries
+                - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: p.aries
                 - orig: Π.ΑΡΙΕΣ
     - inscription[n=226]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: murtan
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: murtan
           - orig: ΜΥΡΤΑΝ
     - inscription[n=228]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: voine
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: voine
           - orig: FΟΙΝΕ
     - inscription[n=229]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: mamutassokposa
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: mamutassokposa
           - orig: ΜΑΜΥΤΑΣΣΟΚΠΟΣΑ
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: mamutasitoiesgloka
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: mamutasitoiesgloka
           - orig: ΜΑΜΥΤΑΣΙΤΟΙΕΣΓΛΟΚΑ
     - inscription[n=230]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ey.-[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ey.-[
           - orig: ΕJ.-[
     - inscription[n=234]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ata
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ata
           - orig: ΑΤΑ
     - inscription[n=236]:
       - p:
@@ -1060,23 +1089,23 @@
         - app:
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: nanavata[?
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: nanavata[?
               - orig: ΝΑΝΑFΑΤΑ[?
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: nanagata[?
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: nanagata[?
               - orig: ΝΑΝΑΓΑΤΑ[?
     - inscription[n=237]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ako
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ako
           - orig: ΑΚΟ
     - inscription[n=239]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: mekai.s.[?
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: mekai.s.[?
           - orig: ΜΕΚΑΙ.Σ.[?
     - inscription[n=245]:
       - p:
@@ -1084,77 +1113,79 @@
         - app:
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: d.umast-v-[?
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: d.umast-v-[?
               - orig: Δ.ΥΜΑΣΤ-F-[?
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: d.umas tive.[
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: d.umas
+                  tive.[
               - orig: Δ.ΥΜΑΣ ΤΙFΕ.[
     - inscription[n=249]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: se?Q?e?lt/ias
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: se?Q?e?lt/ias
           - orig: ΣΕ?Ξ?Ε?ΛΤ/ΙΑΣ
     - inscription[n=250]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]-eivanous.[?
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]-eivanous.[?
           - orig: ?]-ΕΙFΑΝΟΥΣ.[?
     - inscription[n=251]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ray. or bay.
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ray. or
+              bay.
           - orig: ΡΑJ. ΟΡ ΒΑJ.
     - inscription[n=252]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]atesito-[?
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]atesito-[?
           - orig: ?]ΑΤΕΣΙΤΟ-[?
     - inscription[n=253]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: bab[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: bab[
           - orig: ΒΑΒ[
     - inscription[n=255]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']nolo.['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']nolo.['
           - orig: ']ΝΟΛΟ.['
     - inscription[n=258]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: pa
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: pa
           - orig: ΠΑ
     - inscription[n=259]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: il.?a.[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: il.?a.[
           - orig: ΙΛ.?Α.[
     - inscription[n=261]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']-tuti-['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']-tuti-['
           - orig: ']-ΤΥΤΙ-['
     - inscription[n=262]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: n.a.e.[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: n.a.e.[
           - orig: Ν.Α.Ε.[
     - inscription[n=264]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]unik[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]unik[
           - orig: ?]ΥΝΙΚ[
     - inscription[n=268]:
       - p:
@@ -1162,11 +1193,11 @@
         - app:
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: i.l.a.[?
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: i.l.a.[?
               - orig: Ι.Λ.Α.[?
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: i.y.a.[?
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: i.y.a.[?
               - orig: Ι.J.Α.[?
     - inscription[n=269]:
       - p:
@@ -1174,55 +1205,55 @@
         - app:
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: aoa
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: aoa
               - orig: ΑΟΑ
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: aoa
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: aoa
               - orig: ΑΟΑ
     - inscription[n=272]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.kios'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.kios'
           - orig: ']Α.ΚΙΟΣ'
     - inscription-group[n=274]:
       - inscription[n=274A]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: mami
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: mami
             - orig: ΜΑΜΙ
     - inscription[n=275]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: Ti
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: Ti
           - orig: ΘΙ
     - inscription[n=276]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.gineia'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a.gineia'
           - orig: ']Α.ΓΙΝΕΙΑ'
   - provenance[n=C]:
     - inscription[n=1]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']e[...]alab.i.o.s'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']e[...]alab.i.o.s'
           - orig: ']Ε[...]ΑΛΑΒ.Ι.Ο.Σ'
     - inscription[n=101]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: kad[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: kad[
           - orig: ΚΑΔ[
     - inscription[n=102]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: amos
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: amos
           - orig: ΑΜΟΣ
   - provenance[n=P]:
     - inscription[n=1]:
@@ -1231,11 +1262,11 @@
         - app:
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]e[--]u[---]ovoiman[?
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]e[--]u[---]ovoiman[?
               - orig: ?]Ε[--]Υ[---]ΟFΟΙΜΑΝ[?
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: eppuioitovoiman
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: eppuioitovoiman
               - orig: ΕΠΠΥΙΟΙΤΟFΟΙΜΑΝ
     - inscription[n=2]:
       - p:
@@ -1243,113 +1274,117 @@
         - app:
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: sestbug.nosva/soskanutii?evanos.?
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: sestbug.nosva/soskanutii?evanos.?
               - orig: ΣΕΣΤΒΥΓ.ΝΟΣFΑ/ΣΟΣΚΑΝΥΤΙΙ?ΕFΑΝΟΣ.?
           - rdg:
             - choice:
-              - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: sestbug.nosva/soskanutie.?evanos.?
+              - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: sestbug.nosva/soskanutie.?evanos.?
               - orig: ΣΕΣΤΒΥΓ.ΝΟΣFΑ/ΣΟΣΚΑΝΥΤΙΕ.?ΕFΑΝΟΣ.?
     - inscription[n=3]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: vasousimanmekas
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: vasousimanmekas
           - orig: FΑΣΟΥΣΙΜΑΝΜΕΚΑΣ
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: k.anutieiva.i.s
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: k.anutieiva.i.s
           - orig: Κ.ΑΝΥΤΙΕΙFΑ.Ι.Σ
         - lb[n=3]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: dev.o.skemek.a.s
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: dev.o.skemek.a.s
           - orig: ΔΕF.Ο.ΣΚΕΜΕΚ.Α.Σ
     - inscription[n=4a]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: otuvoiveteietlnaie
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: otuvoiveteietlnaie
           - orig: ΟΤΥFΟΙFΕΤΕΙΕΤΛΝΑΙΕ
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: iosnia.k.enanegeseti
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: iosnia.k.enanegeseti
           - orig: ΙΟΣΝΙΑ.Κ.ΕΝΑΝΕΓΕΣΕΤΙ
         - lb[n=3]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: o.?k.?irterk.o.[---]tekmor.
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: o.?k.?irterk.o.[---]tekmor.
           - orig: Ο.?Κ.?ΙΡΤΕΡΚ.Ο.[---]ΤΕΚΜΟΡ.
         - lb[n=4]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ot[----]setivebru
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ot[----]setivebru
           - orig: ΟΤ[----]ΣΕΤΙFΕΒΡΥ
     - inscription[n=4b]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ioser?v?ot?s?atikakuioi
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ioser?v?ot?s?atikakuioi
           - orig: ΙΟΣΕΡ?F?ΟΤ?Σ?ΑΤΙΚΑΚΥΙΟΙ
     - inscription[n=4c]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: iman--------/e.da.e.[s]mekas
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: iman--------/e.da.e.[s]mekas
           - orig: ΙΜΑΝ--------/Ε.ΔΑ.Ε.[Σ]ΜΕΚΑΣ
     - inscription[n=5]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: vasuskanutie.[
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: vasuskanutie.[
           - orig: FΑΣΥΣΚΑΝΥΤΙΕ.[
     - inscription[n=6]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]a?kiti?---s
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ?]a?kiti?---s
           - orig: ?]Α?ΚΙΤΙ?---Σ
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'ai : i?osa?ei?ketio[?]ivi--se-[?]n?'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'ai :
+              i?osa?ei?ketio[?]ivi--se-[?]n?'
           - orig: 'ΑΙ : Ι?ΟΣΑ?ΕΙ?ΚΕΤΙΟ[?]ΙFΙ--ΣΕ-[?]Ν?'
     - inscription[n=101]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: a.ini/daBp?ulai?sini
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: a.ini/daBp?ulai?sini
           - orig: Α.ΙΝΙ/ΔΑ8Π?ΥΛΑΙ?ΣΙΝΙ
     - inscription[n=106]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']-ti : makio?taTiBi :
-              -['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']-ti
+              : makio?taTiBi : -['
           - orig: ']-ΤΙ : ΜΑΚΙΟ?ΤΑΘΙ8Ι : -['
   - provenance[n=T]:
     - inscription[n=2b]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: '.............................'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: '.............................'
           - orig: '.............................'
         - lb[n=2]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']t.umida : memeuis :
-              ['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']t.umida
+              : memeuis : ['
           - orig: ']Τ.ΥΜΙΔΑ : ΜΕΜΕΥΙΣ : ['
         - lb[n=3]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a : tesan : acion :
-              v['
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']a :
+              tesan : acion : v['
           - orig: ']Α : ΤΕΣΑΝ : Α!ΙΟΝ : F['
         - lb[n=4]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']oitumen : mi.d.a.[.......'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']oitumen
+              : mi.d.a.[.......'
           - orig: ']ΟΙΤΥΜΕΝ : ΜΙ.Δ.Α.[.......'
         - lb[n=5]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']n : acios : mi[.......'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']n :
+              acios : mi[.......'
           - orig: ']Ν : Α!ΙΟΣ : ΜΙ[.......'
         - lb[n=6]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']n. : batan : e-[.......'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']n. :
+              batan : e-[.......'
           - orig: ']Ν. : ΒΑΤΑΝ : Ε-[.......'
     - inscription-group[n=3]:
       - inscription[n=3a]:
@@ -1358,59 +1393,64 @@
           - app:
             - rdg:
               - choice:
-                - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'aciiai : polodra./tes'
+                - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'aciiai
+                    : polodra./tes'
                 - orig: 'Α!ΙΙΑΙ : ΠΟΛΟΔΡΑ./ΤΕΣ'
             - rdg[wit=Br,lg=xpg-Latn-x-old-phrygian-transliterated]: polodre.tes
           - lb[n=2]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ': poreti. : otu'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ': poreti.
+                : otu'
             - orig: ': ΠΟΡΕΤΙ. : ΟΤΥ'
       - inscription[n=3b]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']sn/a['
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']sn/a['
             - orig: ']ΣΝ/Α['
           - lb[n=2]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']ed/eia['
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']ed/eia['
             - orig: ']ΕΔ/ΕΙΑ['
           - lb[n=3]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']rce/s'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']rce/s'
             - orig: ']Ρ!Ε/Σ'
           - lb[n=4]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ': ar['
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ': ar['
             - orig: ': ΑΡ['
       - inscription[n=3c]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']nimoi :'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']nimoi
+                :'
             - orig: ']ΝΙΜΟΙ :'
           - lb[n=2]:
           - app:
             - rdg:
               - choice:
-                - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ekoe.[
+                - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ekoe.[
                 - orig: ΕΚΟΕ.[
             - rdg[wit=Br,lg=xpg-Latn-x-old-phrygian-transliterated]: eko.-[
       - inscription[n=3d]:
         - p:
           - lb[n=1]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']oi : avtoi'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ']oi
+                : avtoi'
             - orig: ']ΟΙ : ΑFΤΟΙ'
           - lb[n=2]:
           - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ': eptuve/[-]itan'
+            - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ': eptuve/[-]itan'
             - orig: ': ΕΠΤΥFΕ/[-]ΙΤΑΝ'
           - lb[n=3]:
           - app:
             - rdg:
               - choice:
-                - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ': mn/[-]n.?is'
+                - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ':
+                    mn/[-]n.?is'
                 - orig: ': ΜΝ/[-]Ν.?ΙΣ'
             - rdg[wit=Br,lg=xpg-Latn-x-old-phrygian-transliterated]: 'me./[---]p?is:'
   - provenance[n=Dask]:
@@ -1418,15 +1458,15 @@
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 's.t.al.ake : cekm.[--]e?s.?ke[------]i.?yo.?
-              [----]'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 's.t.al.ake
+              : cekm.[--]e?s.?ke[------]i.?yo.? [----]'
           - orig: 'Σ.Τ.ΑΛ.ΑΚΕ : !ΕΚΜ.[--]Ε?Σ.?ΚΕ[------]Ι.?JΟ.? [----]'
     - inscription[n=2]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'd.?e.?s.?i.?[--]n.? :
-              e.?ventnoktoy : em.ete.tariyois'
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'd.?e.?s.?i.?[--]n.?
+              : e.?ventnoktoy : em.ete.tariyois'
           - orig: 'Δ.?Ε.?Σ.?Ι.?[--]Ν.? : Ε.?FΕΝΤΝΟΚΤΟJ : ΕΜ.ΕΤΕ.ΤΑΡΙJΟΙΣ'
     - inscription[n=3]:
       - p:
@@ -1454,36 +1494,37 @@
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ates
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ates
           - orig: ΑΤΕΣ
     - inscription[n=8]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: sicidos
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: sicidos
           - orig: ΣΙ!ΙΔΟΣ
     - inscription[n=9]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ata
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ata
           - orig: ΑΤΑ
     - inscription[n=10]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: dide
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: dide
           - orig: ΔΙΔΕ
   - provenance[n=Dd]:
     - inscription[n=101]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: pser?keyoyatas
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: pser?keyoyatas
           - orig: ΠΣΕΡ?ΚΕJΟJΑΤΑΣ
     - inscription[n=102]:
       - p:
         - lb[n=1]:
         - choice:
-          - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: surgastoy inas
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: surgastoy
+              inas
           - orig: ΣΥΡΓΑΣΤΟJ ΙΝΑΣ
