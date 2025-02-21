@@ -2102,27 +2102,27 @@
 				<div n="3" xml:id="provenance-8-inscription-178" type="inscription" data-level="2">
 					<p xml:id="provenance-8-inscription-178-p-179">
 						<lb n="1" />
-						<app xml:id="provenance-8-inscription-178-p-179-app-18">
-							<rdg xml:id="provenance-8-inscription-178-p-179-app-18-rdg-35">
-								<gap quantity="10" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-178-p-179-app-18-rdg-35-gap-1" xml:lang="eng-Latn" />
+						<choice>
+							<reg type="transliteration">
+								<gap quantity="10" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-178-p-179-gap-1" xml:lang="eng-Latn" />
 								<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">y. : yostumoy : cekmatin</foreign>
-							</rdg>
-							<rdg xml:id="provenance-8-inscription-178-p-179-app-18-rdg-36">
-								<gap quantity="10" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-178-p-179-app-18-rdg-36-gap-2" xml:lang="eng-Latn" />J. : JΟΣΤΥΜΟJ : !ΕΚΜΑΤΙΝ</rdg>
-						</app>
+							</reg>
+							<orig>
+								<gap quantity="10" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-178-p-179-gap-2" xml:lang="eng-Latn" />J. : JΟΣΤΥΜΟJ : !ΕΚΜΑΤΙΝ</orig>
+						</choice>
 					</p>
 				</div>
 				<div n="4" xml:id="provenance-8-inscription-179" type="inscription" data-level="2">
 					<p xml:id="provenance-8-inscription-179-p-180">
 						<lb n="1" />
-						<app xml:id="provenance-8-inscription-179-p-180-app-19">
-							<rdg xml:id="provenance-8-inscription-179-p-180-app-19-rdg-37">
-								<gap quantity="11" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-179-p-180-app-19-rdg-37-gap-3" xml:lang="eng-Latn" />
+						<choice>
+							<reg type="transliteration">
+								<gap quantity="11" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-179-p-180-gap-3" xml:lang="eng-Latn" />
 								<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">atonkeyen</foreign>
-							</rdg>
-							<rdg xml:id="provenance-8-inscription-179-p-180-app-19-rdg-38">
-								<gap quantity="11" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-179-p-180-app-19-rdg-38-gap-4" xml:lang="eng-Latn" />ΑΤΟΝΚΕJΕΝ</rdg>
-						</app>
+							</reg>
+							<orig>
+								<gap quantity="11" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-179-p-180-gap-4" xml:lang="eng-Latn" />ΑΤΟΝΚΕJΕΝ</orig>
+						</choice>
 					</p>
 				</div>
 			</div>

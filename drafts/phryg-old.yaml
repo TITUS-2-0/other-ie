@@ -1471,22 +1471,22 @@
     - inscription[n=3]:
       - p:
         - lb[n=1]:
-        - app:
-          - rdg:
+        - choice:
+          - reg@transliteration:
             - gap[lg=eng-Latn,quantity=10,reason=lost,unit=line,precision=low]:
             - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: 'y. : yostumoy :
                 cekmatin'
-          - rdg:
+          - orig:
             - gap[lg=eng-Latn,quantity=10,reason=lost,unit=line,precision=low]:
             - 'J. : JΟΣΤΥΜΟJ : !ΕΚΜΑΤΙΝ'
     - inscription[n=4]:
       - p:
         - lb[n=1]:
-        - app:
-          - rdg:
+        - choice:
+          - reg@transliteration:
             - gap[lg=eng-Latn,quantity=11,reason=lost,unit=line,precision=low]:
             - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: atonkeyen
-          - rdg:
+          - orig:
             - gap[lg=eng-Latn,quantity=11,reason=lost,unit=line,precision=low]:
             - ΑΤΟΝΚΕJΕΝ
   - provenance[n=Bay]:
