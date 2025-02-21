@@ -86,12 +86,15 @@
           - rdg: 'ΜΟΔ.ΡΟF.ΑΝΑΚ : [?]ΑFΑΡΑ.[?]'
     - inscription[n=5]:
       - lb[n=1]:
-        - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: apelan
-        - space[type=hole]:
-        - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: mekastevano.[
-        - ΑΠΕΛΑΝ
-        - space[type=hole]:
-        - ΜΕΚΑΣΤΕFΑΝΟ.[
+        - app:
+          - rdg:
+            - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: apelan
+            - space[type=hole]:
+            - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: mekastevano.[
+          - rdg:
+            - ΑΠΕΛΑΝ
+            - space[type=hole]:
+            - ΜΕΚΑΣΤΕFΑΝΟ.[
     - inscription[n=6]:
       - lb[n=1]:
         - app:
@@ -297,7 +300,7 @@
           - rdg: ΠΑΚΡΑJ ΕFΚΟΒΕJΑΝ ΕΠΑΚΤΟJ
     - inscription[n=2]:
       - lb[n=1]:
-        - foreign[lg=eng-Latn]: ⌐no transcription possible¬
+        - note[lg=eng-Latn]: no transcription possible
     - inscription[n=3]:
       - lb[n=1]:
         - app:
@@ -331,10 +334,10 @@
             - rdg[lg=xpg-Latn-x-old-phrygian-transliterated]: ': dumeyay : [ ]d.ed.a[      ]'
             - rdg: ': ΔΥΜΕJΑJ : [ ]Δ.ΕΔ.Α[      ]'
       - inscription[n=1B]:
-        - lb[n=1]:
-          - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: '[    ]ita-[ ]t.?erkeyaask'
-          - '[    ]ΙΤΑ-[ ]Τ.?ΕΡΚΕJΑΑΣΚ'
-          - foreign[lg=eng-Latn]: ⌐transcription impossible¬
+        - app:
+          - rdg[lg=xpg-Latn-x-old-phrygian-transliterated]: '[    ]ita-[ ]t.?erkeyaask'
+          - rdg: '[    ]ΙΤΑ-[ ]Τ.?ΕΡΚΕJΑΑΣΚ'
+          - note[lg=eng-Latn]: transcription impossible
       - inscription[n=1C]:
         - lb[n=1]:
           - app:
