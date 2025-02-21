@@ -1178,12 +1178,13 @@
     - inscription-group[n=3]:
       - inscription[n=3a]:
         - lb[n=1]:
-          - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'aciiai : polodra./tes'
-            - orig: 'Α!ΙΙΑΙ : ΠΟΛΟΔΡΑ./ΤΕΣ'
-          - note[lg=eng-Latn]:
-            - 'Brixhe:'
-            - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: polodre.tes
+          - app:
+            - rdg:
+              - choice:
+                - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: 'aciiai : polodra./tes'
+                - orig: 'Α!ΙΙΑΙ : ΠΟΛΟΔΡΑ./ΤΕΣ'
+            - rdg[wit=Br]:
+              - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: polodre.tes
         - lb[n=2]:
           - choice:
             - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ': poreti. : otu'
@@ -1211,12 +1212,13 @@
             - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ']nimoi :'
             - orig: ']ΝΙΜΟΙ :'
         - lb[n=2]:
-          - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ekoe.[
-            - orig: ΕΚΟΕ.[
-          - note[lg=eng-Latn]:
-            - 'Brixhe:'
-            - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: eko.-[
+          - app:
+            - rdg:
+              - choice:
+                - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ekoe.[
+                - orig: ΕΚΟΕ.[
+            - rdg[wit=Br]:
+              - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: eko.-[
       - inscription[n=3d]:
         - lb[n=1]:
           - choice:
@@ -1227,12 +1229,13 @@
             - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ': eptuve/[-]itan'
             - orig: ': ΕΠΤΥFΕ/[-]ΙΤΑΝ'
         - lb[n=3]:
-          - choice:
-            - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ': mn/[-]n.?is'
-            - orig: ': ΜΝ/[-]Ν.?ΙΣ'
-          - note[lg=eng-Latn]:
-            - 'Brixhe:'
-            - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: 'me./[---]p?is:'
+          - app:
+            - rdg:
+              - choice:
+                - reg[lg=xpg-Latn-x-old-phrygian-transliterated]: ': mn/[-]n.?is'
+                - orig: ': ΜΝ/[-]Ν.?ΙΣ'
+            - rdg[wit=Br]:
+              - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: 'me./[---]p?is:'
   - provenance[n=Dask]:
     - inscription[n=1]:
       - lb[n=1]:
