@@ -1,0 +1,3872 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Phrygian Corpus</title>
+				<author>Unknown</author>
+			</titleStmt>
+			<editionStmt>
+				<edition n="1" />
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Goethe-Universität</publisher>
+				<pubPlace>Frankfurt</pubPlace>
+				<date>2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Missing metadata</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="xpg-Grek-x-old-phrygian">Phrygian</language>
+				<language ident="xpg-Latn-x-old-phrygian-transliterated">Phrygian</language>
+				<language ident="eng-Latn">English</language>
+				<language ident="xpg-Latn-x-mysian-transliterated">Phrygian</language>
+				<language ident="yms-Grek-x-mysian">Mysian</language>
+				<language ident="xpg-Latn-x-neo-phrygian-transliterated">Phrygian</language>
+				<language ident="xpg-Grek-x-neo-phrygian">Phrygian</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div n="M" xml:id="provenance-1" type="provenance" data-level="1">
+				<div n="1a" xml:id="provenance-1-inscription-1" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-1-p-1">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ates : arkiaevais : akenanogavos : midai : lavagtaei : vanaktei : edaes</rdg>
+							<rdg>ΑΤΕΣ : ΑΡΚΙΑΕFΑΙΣ : ΑΚΕΝΑΝΟΓΑFΟΣ : ΜΙΔΑΙ : ΛΑFΑΓΤΑΕΙ : FΑΝΑΚΤΕΙ : ΕΔΑΕΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="1b" xml:id="provenance-1-inscription-2" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-2-p-2">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">baba : memevais : proitavos : kFiyanaveyos : sikeneman : edaes</rdg>
+							<rdg>ΒΑΒΑ : ΜΕΜΕFΑΙΣ : ΠΡΟΙΤΑFΟΣ : ΚΦΙJΑΝΑFΕJΟΣ : ΣΙΚΕΝΕΜΑΝ : ΕΔΑΕΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="1c" xml:id="provenance-1-inscription-3" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-3-p-3">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">mate.r.[--] (...) atatasm.?onokaua.</rdg>
+							<rdg>ΜΑΤΕ.Ρ.[--] (...) ΑΤΑΤΑΣΜ.?ΟΝΟΚΑΥΑ.</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="1d" xml:id="provenance-1-inscription-group-1" type="inscription-group" data-level="2">
+					<p xml:id="provenance-1-inscription-group-1-p-4">
+						<note xml:id="provenance-1-inscription-group-1-p-4-note-1" xml:lang="eng-Latn">(Graffiti)</note>
+					</p>
+					<div n="1dI" xml:id="provenance-1-inscription-group-1-inscription-4" type="inscription" data-level="3">
+						<p xml:id="provenance-1-inscription-group-1-inscription-4-p-5">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">midas</rdg>
+								<rdg>ΜΙΔΑΣ</rdg>
+							</app>
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">smateran</rdg>
+								<rdg>ΣΜΑΤΕΡΑΝ</rdg>
+							</app>
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">tvemeseneparkes? ...</rdg>
+								<rdg>ΤFΕΜΕΣΕΝΕΠΑΡΚΕΣ? ...</rdg>
+							</app>
+						</p>
+					</div>
+					<div n="1dII" xml:id="provenance-1-inscription-group-1-inscription-5" type="inscription" data-level="3">
+						<p xml:id="provenance-1-inscription-group-1-inscription-5-p-6">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">matera[</rdg>
+								<rdg>ΜΑΤΕΡΑ[</rdg>
+							</app>
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">avie[</rdg>
+								<rdg>ΑFΙΕ[</rdg>
+							</app>
+						</p>
+					</div>
+				</div>
+				<div n="1e" xml:id="provenance-1-inscription-6" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-6-p-7">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]ma.ter.ey[</rdg>
+							<rdg>]ΜΑ.ΤΕΡ.ΕJ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="1f" xml:id="provenance-1-inscription-7" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-7-p-8">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">[-?-]as : tuav?e/niy</rdg>
+							<rdg>[-?-]ΑΣ : ΤΥΑF?Ε/ΝΙJ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">: ae : esuryoyoy: totin : e.d.ae.[s]</rdg>
+							<rdg>: ΑΕ : ΕΣΥΡJΟJΟJ: ΤΟΤΙΝ : Ε.Δ.ΑΕ.[Σ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="2" xml:id="provenance-1-inscription-8" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-8-p-9">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">bba : memevais : proitavo[s]</rdg>
+							<rdg>ΒΒΑ : ΜΕΜΕFΑΙΣ : ΠΡΟΙΤΑFΟ[Σ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">kcianaveyos : akaragayun</rdg>
+							<rdg>Κ!ΙΑΝΑFΕJΟΣ : ΑΚΑΡΑΓΑJΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">edaes</rdg>
+							<rdg>ΕΔΑΕΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="3" xml:id="provenance-1-inscription-9" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-9-p-10">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]abasim.an.akio[</rdg>
+							<rdg>]ΑΒΑΣΙΜ.ΑΝ.ΑΚΙΟ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="4" xml:id="provenance-1-inscription-10" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-10-p-11">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">a.kinanogavan. : tiyes</rdg>
+							<rdg>Α.ΚΙΝΑΝΟΓΑFΑΝ. : ΤΙJΕΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">mod.rov.anak : [?]avara.[?]</rdg>
+							<rdg>ΜΟΔ.ΡΟF.ΑΝΑΚ : [?]ΑFΑΡΑ.[?]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="5" xml:id="provenance-1-inscription-11" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-11-p-12">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">
+								<lb n="1" />apelan<space type="hole" /> mekastevano.[</rdg>
+							<rdg>
+								<lb n="2" />ΑΠΕΛΑΝ<space type="hole" /> ΜΕΚΑΣΤΕFΑΝΟ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="6" xml:id="provenance-1-inscription-12" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-12-p-13">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">[?]r.ekun : deiatiteea?[?]</rdg>
+							<rdg>[?]Ρ.ΕΚΥΝ : ΔΕΙΑΤΙΤΕΕΑ?[?]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">davoiiman</rdg>
+							<rdg>ΔΑFΟΙΙΜΑΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="7" xml:id="provenance-1-inscription-13" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-13-p-14">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">tolos</rdg>
+							<rdg>ΤΟΛΟΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="8" xml:id="provenance-1-inscription-14" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-14-p-15">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">[---------]s.a.bas</rdg>
+							<rdg>[---------]Σ.Α.ΒΑΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="9" xml:id="provenance-1-inscription-15" type="inscription" data-level="2">
+					<p xml:id="provenance-1-inscription-15-p-16">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]a.ke-?ano?[</rdg>
+							<rdg>]Α.ΚΕ-?ΑΝΟ?[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="10" xml:id="provenance-1-inscription-16" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-1-inscription-16-line-1" type="line" data-level="3">
+						<p xml:id="provenance-1-inscription-16-line-1-p-17">
+							<choice>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]gen : [</rdg>
+										<rdg>]ΓΕΝ : [</rdg>
+									</app>
+								</unclear>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]t.en : [</rdg>
+										<rdg>]Τ.ΕΝ : [</rdg>
+									</app>
+								</unclear>
+							</choice>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div n="W" xml:id="provenance-2" type="provenance" data-level="1">
+				<div n="1a" xml:id="provenance-2-inscription-group-2" type="inscription-group" data-level="2">
+					<div n="1aI" xml:id="provenance-2-inscription-group-2-inscription-17" type="inscription" data-level="3">
+						<p xml:id="provenance-2-inscription-group-2-inscription-17-p-18">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">vrekun : tedatoy : yostutut---a.-m-?noy : akenanogavos</rdg>
+								<rdg>FΡΕΚΥΝ : ΤΕΔΑΤΟJ : JΟΣΤΥΤΥΤ---Α.-Μ-?ΝΟJ : ΑΚΕΝΑΝΟΓΑFΟΣ</rdg>
+							</app>
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">aey</rdg>
+								<rdg>ΑΕJ</rdg>
+							</app>
+						</p>
+					</div>
+					<div n="1aII" xml:id="provenance-2-inscription-group-2-inscription-18" type="inscription" data-level="3">
+						<p xml:id="provenance-2-inscription-group-2-inscription-18-p-19">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">materan : areyastin</rdg>
+								<rdg>ΜΑΤΕΡΑΝ : ΑΡΕJΑΣΤΙΝ</rdg>
+							</app>
+						</p>
+					</div>
+					<div n="1aIII" xml:id="provenance-2-inscription-group-2-inscription-19" type="inscription" data-level="3">
+						<p xml:id="provenance-2-inscription-group-2-inscription-19-p-20">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">bonok : akenanogavo.s.</rdg>
+								<rdg>ΒΟΝΟΚ : ΑΚΕΝΑΝΟΓΑFΟ.Σ.</rdg>
+							</app>
+						</p>
+					</div>
+				</div>
+				<div n="1b" xml:id="provenance-2-inscription-20" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-20-p-21">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">yosesait : materey : eveteksete.y : ovevin : onoman : daQet : la</rdg>
+							<rdg>JΟΣΕΣΑΙΤ : ΜΑΤΕΡΕJ : ΕFΕΤΕΚΣΕΤΕ.J : ΟFΕFΙΝ : ΟΝΟΜΑΝ : ΔΑΞΕΤ : ΛΑ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">kedokey : venavtun : avtay : materey</rdg>
+							<rdg>ΚΕΔΟΚΕJ : FΕΝΑFΤΥΝ : ΑFΤΑJ : ΜΑΤΕΡΕJ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="1c" xml:id="provenance-2-inscription-21" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-21-p-22">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ataniyen : kuryaneyon : ta/negertoy</rdg>
+							<rdg>ΑΤΑΝΙJΕΝ : ΚΥΡJΑΝΕJΟΝ : ΤΑ/ΝΕΓΕΡΤΟJ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="2" xml:id="provenance-2-inscription-22" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-22-p-23">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">iketayos : pseik--?ed.?[a]e.?s</rdg>
+							<rdg>ΙΚΕΤΑJΟΣ : ΠΣΕΙΚ--?ΕΔ.?[Α]Ε.?Σ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="3" xml:id="provenance-2-inscription-23" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-23-p-24">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]m[ ]t[ ]m[ ]m[</rdg>
+							<rdg>]Μ[ ]Τ[ ]Μ[ ]Μ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="4" xml:id="provenance-2-inscription-24" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-24-p-25">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">matarkubileya[ ]toy</rdg>
+							<rdg>ΜΑΤΑΡΚΥΒΙΛΕJΑ[ ]ΤΟJ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">en</rdg>
+							<rdg>ΕΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="5a" xml:id="provenance-2-inscription-25" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-25-p-26">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">natimeyonna.</rdg>
+							<rdg>ΝΑΤΙΜΕJΟΝΝΑ.</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="5b" xml:id="provenance-2-inscription-26" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-26-p-27">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">[  ]nst[ ]daesporma.te.[  ]</rdg>
+							<rdg>[  ]ΝΣΤ[ ]ΔΑΕΣΠΟΡΜΑ.ΤΕ.[  ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="6" xml:id="provenance-2-inscription-27" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-27-p-28">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]mata.r.[?</rdg>
+							<rdg>?]ΜΑΤΑ.Ρ.[?</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="7" xml:id="provenance-2-inscription-28" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-28-p-29">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]t.?[  ]:[  ]n.?[       ]e.sagas : akena.s.?[</rdg>
+							<rdg>]Τ.?[  ]:[  ]Ν.?[ ]Ε.ΣΑΓΑΣ : ΑΚΕΝΑ.Σ.?[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="8" xml:id="provenance-2-inscription-29" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-29-p-30">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">[?]atesagomoi</rdg>
+							<rdg>[?]ΑΤΕΣΑΓΟΜΟΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">sa-tatedaes</rdg>
+							<rdg>ΣΑ-ΤΑΤΕΔΑΕΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">alussiceto</rdg>
+							<rdg>ΑΛΥΣΣΙ!ΕΤΟ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">BatelesBaB-[?]</rdg>
+							<rdg>8ΑΤΕΛΕΣ8Α8-[?]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="9" xml:id="provenance-2-inscription-30" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-30-p-31">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">sicetoae</rdg>
+							<rdg>ΣΙ!ΕΤΟΑΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">alus</rdg>
+							<rdg>ΑΛΥΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="10" xml:id="provenance-2-inscription-31" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-31-p-32">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">a.taiedaele-avo</rdg>
+							<rdg>Α.ΤΑΙΕΔΑΕΛΕ-ΑFΟ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">viceatevoatoios</rdg>
+							<rdg>FΙ!ΕΑΤΕFΟΑΤΟΙΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">alu.ssicetodas</rdg>
+							<rdg>ΑΛΥ.ΣΣΙ!ΕΤΟΔΑΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="11(?)" xml:id="provenance-2-inscription-32" type="inscription" data-level="2">
+					<p xml:id="provenance-2-inscription-32-p-33">
+						<note xml:id="provenance-2-inscription-32-p-33-note-2" xml:lang="eng-Latn">Ikiztepe</note>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">midas aros.aypu.-u.n</rdg>
+							<rdg>ΜΙΔΑΣ ΑΡΟΣ.ΑJΠΥ.-Υ.Ν</rdg>
+						</app>
+					</p>
+				</div>
+			</div>
+			<div n="B" xml:id="provenance-3" type="provenance" data-level="1">
+				<div n="1" xml:id="provenance-3-inscription-33" type="inscription" data-level="2">
+					<p xml:id="provenance-3-inscription-33-p-34">
+						<note xml:id="provenance-3-inscription-33-p-34-note-3" xml:lang="eng-Latn">(Germanos)</note>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">s[-]bev[-]os adi[---]</rdg>
+							<rdg>Σ[-]ΒΕF[-]ΟΣ ΑΔΙ[---]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ka.v.armo.yo imroy edaes etovesniyo[-]</rdg>
+							<rdg>ΚΑ.F.ΑΡΜΟ.JΟ ΙΜΡΟJ ΕΔΑΕΣ ΕΤΟFΕΣΝΙJΟ[-]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">matar kubeleya ibeya duman ektetoy</rdg>
+							<rdg>ΜΑΤΑΡ ΚΥΒΕΛΕJΑ ΙΒΕJΑ ΔΥΜΑΝ ΕΚΤΕΤΟJ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">yos tivo[-]a.spereta. ayni. kin te[-]e.mi</rdg>
+							<rdg>JΟΣ ΤΙFΟ[-]Α.ΣΠΕΡΕΤΑ. ΑJΝΙ. ΚΙΝ ΤΕ[-]Ε.ΜΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">[--]toyo[-]is[-]er kte.voys ekey da.[-]ati</rdg>
+							<rdg>[--]ΤΟJΟ[-]ΙΣ[-]ΕΡ ΚΤΕ.FΟJΣ ΕΚΕJ ΔΑ.[-]ΑΤΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">opito[-]eyoy ev[-]m[-]mesmeneya anato[-]</rdg>
+							<rdg>ΟΠΙΤΟ[-]ΕJΟJ ΕF[-]Μ[-]ΜΕΣΜΕΝΕJΑ ΑΝΑΤΟ[-]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">kavarmoy.un matar otekonov[-]</rdg>
+							<rdg>ΚΑFΑΡΜΟJ.ΥΝ ΜΑΤΑΡ ΟΤΕΚΟΝΟF[-]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">kesiti oyvosaey apaktneni</rdg>
+							<rdg>ΚΕΣΙΤΙ ΟJFΟΣΑΕJ ΑΠΑΚΤΝΕΝΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">pakray evkobeyan epaktoy</rdg>
+							<rdg>ΠΑΚΡΑJ ΕFΚΟΒΕJΑΝ ΕΠΑΚΤΟJ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="2" xml:id="provenance-3-inscription-34" type="inscription" data-level="2" xml:lang="eng-Latn">
+					<div n="1" xml:id="provenance-3-inscription-34-line-2" type="line" data-level="3">
+						<note xml:id="provenance-3-inscription-34-line-2-note-4">no transcription possible</note>
+					</div>
+				</div>
+				<div n="3" xml:id="provenance-3-inscription-35" type="inscription" data-level="2">
+					<p xml:id="provenance-3-inscription-35-p-35">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">e.s.k.---a[]a--[]</rdg>
+							<rdg>Ε.Σ.Κ.---Α[]Α--[]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">evteveyay.yosyosyen?vr.a.</rdg>
+							<rdg>ΕFΤΕFΕJΑJ.JΟΣJΟΣJΕΝ?FΡ.Α.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">etitevteveyme-ounlakeao./?</rdg>
+							<rdg>ΕΤΙΤΕFΤΕFΕJΜΕ-ΟΥΝΛΑΚΕΑΟ./?</rdg>
+						</app>
+					</p>
+				</div>
+			</div>
+			<div n="G" xml:id="provenance-4" type="provenance" data-level="1">
+				<div n="1" xml:id="provenance-4-inscription-group-3" type="inscription-group" data-level="2">
+					<div n="1A" xml:id="provenance-4-inscription-group-3-inscription-36" type="inscription" data-level="3">
+						<p xml:id="provenance-4-inscription-group-3-inscription-36-p-36">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">[                  ]vo[---]</rdg>
+								<rdg>[                  ]FΟ[---]</rdg>
+							</app>
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">[---]s.a.y.uve[              ]</rdg>
+								<rdg>[---]Σ.Α.J.ΥFΕ[              ]</rdg>
+							</app>
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">[      ]o.?lavi.?[    ]isvolkay</rdg>
+								<rdg>[      ]Ο.?ΛΑFΙ.?[ ]ΙΣFΟΛΚΑJ</rdg>
+							</app>
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">: dumeyay : [ ]d.ed.a[      ]</rdg>
+								<rdg>: ΔΥΜΕJΑJ : [ ]Δ.ΕΔ.Α[      ]</rdg>
+							</app>
+						</p>
+					</div>
+					<div n="1B" xml:id="provenance-4-inscription-group-3-inscription-37" type="inscription" data-level="3">
+						<p xml:id="provenance-4-inscription-group-3-inscription-37-p-37">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">[    ]ita-[ ]t.?erkeyaask</rdg>
+								<rdg>[    ]ΙΤΑ-[ ]Τ.?ΕΡΚΕJΑΑΣΚ</rdg>
+								<note xml:id="provenance-4-inscription-group-3-inscription-37-p-37-note-5" xml:lang="eng-Latn">transcription impossible</note>
+							</app>
+						</p>
+					</div>
+					<div n="1C" xml:id="provenance-4-inscription-group-3-inscription-38" type="inscription" data-level="3">
+						<p xml:id="provenance-4-inscription-group-3-inscription-38-p-38">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">e]n.[e]/p/arkesv[</rdg>
+								<rdg>Ε]Ν.[Ε]/Π/ΑΡΚΕΣF[</rdg>
+							</app>
+						</p>
+					</div>
+				</div>
+				<div n="2" xml:id="provenance-4-inscription-group-4" type="inscription-group" data-level="2">
+					<div n="2A" xml:id="provenance-4-inscription-group-4-inscription-39" type="inscription" data-level="3">
+						<p xml:id="provenance-4-inscription-group-4-inscription-39-p-39">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">agart.ioi : iktes : adoikavoi</rdg>
+								<rdg>ΑΓΑΡΤ.ΙΟΙ : ΙΚΤΕΣ : ΑΔΟΙΚΑFΟΙ</rdg>
+							</app>
+						</p>
+					</div>
+					<div n="2B" xml:id="provenance-4-inscription-group-4-inscription-40" type="inscription" data-level="3">
+						<p xml:id="provenance-4-inscription-group-4-inscription-40-p-40">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">iosoporokitis-?</rdg>
+								<rdg>ΙΟΣΟΠΟΡΟΚΙΤΙΣ-?</rdg>
+							</app>
+						</p>
+					</div>
+					<div n="2C" xml:id="provenance-4-inscription-group-4-inscription-41" type="inscription" data-level="3">
+						<p xml:id="provenance-4-inscription-group-4-inscription-41-p-41">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">kakoioitovo : podaska[?]</rdg>
+								<rdg>ΚΑΚΟΙΟΙΤΟFΟ : ΠΟΔΑΣΚΑ[?]</rdg>
+							</app>
+						</p>
+					</div>
+				</div>
+				<div n="3" xml:id="provenance-4-inscription-42" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-42-p-42">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]kakrayunni[?</rdg>
+							<rdg>?]ΚΑΚΡΑJΥΝΝΙ[?</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="4" xml:id="provenance-4-inscription-43" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-43-p-43">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]evi-</rdg>
+							<rdg>]ΕFΙ-</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">tatas-[</rdg>
+							<rdg>ΤΑΤΑΣ-[</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]-m.-[</rdg>
+							<rdg>]-Μ.-[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="6" xml:id="provenance-4-inscription-44" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-44-p-44">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]b.a.b.a.s.?[</rdg>
+							<rdg>]Β.Α.Β.Α.Σ.?[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="7" xml:id="provenance-4-inscription-45" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-45-p-45">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]-?a.esi-[</rdg>
+							<rdg>]-?Α.ΕΣΙ-[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="8" xml:id="provenance-4-inscription-46" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-46-p-46">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]o.sve[</rdg>
+							<rdg>]Ο.ΣFΕ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="9" xml:id="provenance-4-inscription-47" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-47-p-47">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]r.eme.[</rdg>
+							<rdg>]Ρ.ΕΜΕ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="101" xml:id="provenance-4-inscription-48" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-48-p-48">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">kuliya.[</rdg>
+							<rdg>ΚΥΛΙJΑ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="103" xml:id="provenance-4-inscription-49" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-49-p-49">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">kadiun[</rdg>
+							<rdg>ΚΑΔΙΥΝ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="104" xml:id="provenance-4-inscription-50" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-4-inscription-50-line-3" type="line" data-level="3">
+						<p xml:id="provenance-4-inscription-50-line-3-p-50">
+							<choice>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">kerno.[</rdg>
+										<rdg>ΚΕΡΝΟ.[</rdg>
+									</app>
+								</unclear>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">kerm.o.[</rdg>
+										<rdg>ΚΕΡΜ.Ο.[</rdg>
+									</app>
+								</unclear>
+							</choice>
+						</p>
+					</div>
+				</div>
+				<div n="105" xml:id="provenance-4-inscription-51" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-51-p-51">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">sicidosakor</rdg>
+							<rdg>ΣΙ!ΙΔΟΣΑΚΟΡ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="107" xml:id="provenance-4-inscription-52" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-52-p-52">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ata</rdg>
+							<rdg>ΑΤΑ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="108" xml:id="provenance-4-inscription-53" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-53-p-53">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">eies</rdg>
+							<rdg>ΕΙΕΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="109" xml:id="provenance-4-inscription-54" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-54-p-54">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">aladis url</rdg>
+							<rdg>ΑΛΑΔΙΣ ΥΡΛ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="110" xml:id="provenance-4-inscription-55" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-55-p-55">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">lagineyos</rdg>
+							<rdg>ΛΑΓΙΝΕJΟΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="111" xml:id="provenance-4-inscription-56" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-56-p-56">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]o.mekas</rdg>
+							<rdg>]Ο.ΜΕΚΑΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="112" xml:id="provenance-4-inscription-57" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-57-p-57">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">eOta.[</rdg>
+							<rdg>ΕΩΤΑ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="113" xml:id="provenance-4-inscription-58" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-58-p-58">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]a?stoipitave[</rdg>
+							<rdg>]Α?ΣΤΟΙΠΙΤΑFΕ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="114" xml:id="provenance-4-inscription-59" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-59-p-59">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ise</rdg>
+							<rdg>ΙΣΕ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="115" xml:id="provenance-4-inscription-60" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-60-p-60">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">QuvaQaros</rdg>
+							<rdg>ΞΥFΑΞΑΡΟΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="116" xml:id="provenance-4-inscription-61" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-61-p-61">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">benagonos</rdg>
+							<rdg>ΒΕΝΑΓΟΝΟΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="117" xml:id="provenance-4-inscription-62" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-62-p-62">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">iosais</rdg>
+							<rdg>ΙΟΣΑΙΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="118" xml:id="provenance-4-inscription-63" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-63-p-63">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ata</rdg>
+							<rdg>ΑΤΑ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="119" xml:id="provenance-4-inscription-64" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-64-p-64">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">a.t.as.</rdg>
+							<rdg>Α.Τ.ΑΣ.</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="121" xml:id="provenance-4-inscription-65" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-65-p-65">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">b.a.b.a.</rdg>
+							<rdg>Β.Α.Β.Α.</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="122" xml:id="provenance-4-inscription-66" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-66-p-66">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">tates</rdg>
+							<rdg>ΤΑΤΕΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="123" xml:id="provenance-4-inscription-67" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-67-p-67">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]ates</rdg>
+							<rdg>?]ΑΤΕΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="125" xml:id="provenance-4-inscription-68" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-68-p-68">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]rono-oy : eneparkes-ei?es</rdg>
+							<rdg>]ΡΟΝΟ-ΟJ : ΕΝΕΠΑΡΚΕΣ-ΕΙ?ΕΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="127" xml:id="provenance-4-inscription-69" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-69-p-69">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">k.u.liyas</rdg>
+							<rdg>Κ.Υ.ΛΙJΑΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="128" xml:id="provenance-4-inscription-70" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-70-p-70">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ataskek-[</rdg>
+							<rdg>ΑΤΑΣΚΕΚ-[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="129" xml:id="provenance-4-inscription-71" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-71-p-71">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">voines</rdg>
+							<rdg>FΟΙΝΕΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="130" xml:id="provenance-4-inscription-72" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-4-inscription-72-line-4" type="line" data-level="3">
+						<p xml:id="provenance-4-inscription-72-line-4-p-72">
+							<choice>
+								<reg>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]esservasbo-[,</rdg>
+										<rdg>]ΕΣΣΕΡFΑΣΒΟ-[,</rdg>
+									</app>
+								</reg>
+								<orig>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]esservaspo-[,</rdg>
+										<rdg>]ΕΣΣΕΡFΑΣΠΟ-[,</rdg>
+									</app>
+								</orig>
+							</choice>
+						</p>
+					</div>
+				</div>
+				<div n="131" xml:id="provenance-4-inscription-73" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-73-p-73">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]dumastaeia[</rdg>
+							<rdg>?]ΔΥΜΑΣΤΑΕΙΑ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="132" xml:id="provenance-4-inscription-74" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-74-p-74">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">plor.iata.[</rdg>
+							<rdg>ΠΛΟΡ.ΙΑΤΑ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="133" xml:id="provenance-4-inscription-75" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-4-inscription-75-line-5" type="line" data-level="3">
+						<p xml:id="provenance-4-inscription-75-line-5-p-75">
+							<choice>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">t.uvatis</rdg>
+										<rdg>Τ.ΥFΑΤΙΣ</rdg>
+									</app>
+								</unclear>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">guvatis</rdg>
+										<rdg>ΓΥFΑΤΙΣ</rdg>
+									</app>
+								</unclear>
+							</choice>
+						</p>
+					</div>
+				</div>
+				<div n="135" xml:id="provenance-4-inscription-76" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-76-p-76">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]agipeia</rdg>
+							<rdg>?]ΑΓΙΠΕΙΑ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="136" xml:id="provenance-4-inscription-77" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-77-p-77">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">tadoy : iman</rdg>
+							<rdg>ΤΑΔΟJ : ΙΜΑΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">bag.un</rdg>
+							<rdg>ΒΑΓ.ΥΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="137" xml:id="provenance-4-inscription-78" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-78-p-78">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">midas[?</rdg>
+							<rdg>ΜΙΔΑΣ[?</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="138" xml:id="provenance-4-inscription-79" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-79-p-79">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">babiy.[</rdg>
+							<rdg>ΒΑΒΙJ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="139" xml:id="provenance-4-inscription-80" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-80-p-80">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]kupolas</rdg>
+							<rdg>?]ΚΥΠΟΛΑΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="140" xml:id="provenance-4-inscription-81" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-81-p-81">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">noievos</rdg>
+							<rdg>ΝΟΙΕFΟΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="141" xml:id="provenance-4-inscription-82" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-82-p-82">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]t.vitenorola[</rdg>
+							<rdg>]Τ.FΙΤΕΝΟΡΟΛΑ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="142" xml:id="provenance-4-inscription-83" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-83-p-83">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]a.vas.s.[</rdg>
+							<rdg>]Α.FΑΣ.Σ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="143" xml:id="provenance-4-inscription-84" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-84-p-84">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]-eveis.[</rdg>
+							<rdg>]-ΕFΕΙΣ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="144" xml:id="provenance-4-inscription-85" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-85-p-85">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">estatoiavun</rdg>
+							<rdg>ΕΣΤΑΤΟΙΑFΥΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="145" xml:id="provenance-4-inscription-86" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-4-inscription-86-line-6" type="line" data-level="3">
+						<p xml:id="provenance-4-inscription-86-line-6-p-86">
+							<choice>
+								<reg>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">voineiosuriienoisku.-[,</rdg>
+										<rdg>FΟΙΝΕΙΟΣΥΡΙΙΕΝΟΙΣΚΥ.-[,</rdg>
+									</app>
+								</reg>
+								<orig>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">voineioQuriienoisku.-[,</rdg>
+										<rdg>FΟΙΝΕΙΟΞΥΡΙΙΕΝΟΙΣΚΥ.-[,</rdg>
+									</app>
+								</orig>
+							</choice>
+						</p>
+					</div>
+				</div>
+				<div n="146" xml:id="provenance-4-inscription-87" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-87-p-87">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]-oikavos' = '[a]d.oikavos</rdg>
+							<rdg>]-ΟΙΚΑFΟΣ ἦ [Α]Δ.ΟΙΚΑFΟΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="147" xml:id="provenance-4-inscription-88" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-88-p-88">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]mekastosk[</rdg>
+							<rdg>]ΜΕΚΑΣΤΟΣΚ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="148" xml:id="provenance-4-inscription-89" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-89-p-89">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]a.tes</rdg>
+							<rdg>]Α.ΤΕΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="150" xml:id="provenance-4-inscription-group-5" type="inscription-group" data-level="2">
+					<div n="150A" xml:id="provenance-4-inscription-group-5-inscription-90" type="inscription" data-level="3">
+						<p xml:id="provenance-4-inscription-group-5-inscription-90-p-90">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">olgiavos</rdg>
+								<rdg>ΟΛΓΙΑFΟΣ</rdg>
+							</app>
+						</p>
+					</div>
+					<div n="150C" xml:id="provenance-4-inscription-group-5-inscription-91" type="inscription" data-level="3">
+						<p xml:id="provenance-4-inscription-group-5-inscription-91-p-91">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">asakas</rdg>
+								<rdg>ΑΣΑΚΑΣ</rdg>
+							</app>
+						</p>
+					</div>
+				</div>
+				<div n="153" xml:id="provenance-4-inscription-92" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-92-p-92">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]d.oika-[</rdg>
+							<rdg>]Δ.ΟΙΚΑ-[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="155" xml:id="provenance-4-inscription-93" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-93-p-93">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]a.mai--[</rdg>
+							<rdg>]Α.ΜΑΙ--[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="158" xml:id="provenance-4-inscription-94" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-94-p-94">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">tib</rdg>
+							<rdg>ΤΙΒ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="159" xml:id="provenance-4-inscription-95" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-95-p-95">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]ser-[...]a.ios</rdg>
+							<rdg>]ΣΕΡ-[...]Α.ΙΟΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="160" xml:id="provenance-4-inscription-96" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-96-p-96">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">aka-[</rdg>
+							<rdg>ΑΚΑ-[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="161" xml:id="provenance-4-inscription-97" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-4-inscription-97-line-7" type="line" data-level="3">
+						<p xml:id="provenance-4-inscription-97-line-7-p-97">
+							<choice>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">a.s.u.i.a.d.os.</rdg>
+										<rdg>Α.Σ.Υ.Ι.Α.Δ.ΟΣ.</rdg>
+									</app>
+								</unclear>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">a.s.k.i.a.d.os.</rdg>
+										<rdg>Α.Σ.Κ.Ι.Α.Δ.ΟΣ.</rdg>
+									</app>
+								</unclear>
+							</choice>
+						</p>
+					</div>
+				</div>
+				<div n="162" xml:id="provenance-4-inscription-98" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-4-inscription-98-line-8" type="line" data-level="3">
+						<p xml:id="provenance-4-inscription-98-line-8-p-98">
+							<choice>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ap</rdg>
+										<rdg>ΑΠ</rdg>
+									</app>
+								</unclear>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">pa</rdg>
+										<rdg>ΠΑ</rdg>
+									</app>
+								</unclear>
+							</choice>
+						</p>
+					</div>
+				</div>
+				<div n="163" xml:id="provenance-4-inscription-99" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-99-p-99">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]sa.es[</rdg>
+							<rdg>]ΣΑ.ΕΣ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="164" xml:id="provenance-4-inscription-100" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-100-p-100">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]-astoy</rdg>
+							<rdg>?]-ΑΣΤΟJ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="165" xml:id="provenance-4-inscription-101" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-101-p-101">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]v.e.s.t.a.</rdg>
+							<rdg>]F.Ε.Σ.Τ.Α.</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="166" xml:id="provenance-4-inscription-102" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-102-p-102">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">abs</rdg>
+							<rdg>ΑΒΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="170" xml:id="provenance-4-inscription-103" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-103-p-103">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">a.re.?</rdg>
+							<rdg>Α.ΡΕ.?</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="173" xml:id="provenance-4-inscription-104" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-104-p-104">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">mama</rdg>
+							<rdg>ΜΑΜΑ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="174" xml:id="provenance-4-inscription-105" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-105-p-105">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]pbas.[</rdg>
+							<rdg>]ΠΒΑΣ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="176" xml:id="provenance-4-inscription-106" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-106-p-106">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]-ay.ost.es.[</rdg>
+							<rdg>]-ΑJ.ΟΣΤ.ΕΣ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="177" xml:id="provenance-4-inscription-107" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-107-p-107">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]kalai.[</rdg>
+							<rdg>?]ΚΑΛΑΙ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="178" xml:id="provenance-4-inscription-108" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-108-p-108">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">eymiv.a.k.i.[</rdg>
+							<rdg>ΕJΜΙF.Α.Κ.Ι.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="179" xml:id="provenance-4-inscription-109" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-109-p-109">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]ime[</rdg>
+							<rdg>]ΙΜΕ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="182" xml:id="provenance-4-inscription-110" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-110-p-110">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ta</rdg>
+							<rdg>ΤΑ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="183" xml:id="provenance-4-inscription-group-6" type="inscription-group" data-level="2">
+					<div n="183A" xml:id="provenance-4-inscription-group-6-inscription-111" type="inscription" data-level="3">
+						<p xml:id="provenance-4-inscription-group-6-inscription-111-p-111">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">tiveia</rdg>
+								<rdg>ΤΙFΕΙΑ</rdg>
+							</app>
+						</p>
+					</div>
+					<div n="183B" xml:id="provenance-4-inscription-group-6-inscription-112" type="inscription" data-level="3">
+						<p xml:id="provenance-4-inscription-group-6-inscription-112-p-112">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">imeneia</rdg>
+								<rdg>ΙΜΕΝΕΙΑ</rdg>
+							</app>
+						</p>
+					</div>
+				</div>
+				<div n="184" xml:id="provenance-4-inscription-113" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-113-p-113">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ba.b.a.</rdg>
+							<rdg>ΒΑ.Β.Α.</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="185" xml:id="provenance-4-inscription-114" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-114-p-114">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">sir</rdg>
+							<rdg>ΣΙΡ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="189" xml:id="provenance-4-inscription-115" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-115-p-115">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">uposo.y</rdg>
+							<rdg>ΥΠΟΣΟ.J</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="196" xml:id="provenance-4-inscription-116" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-116-p-116">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]l.i.-e---mi.</rdg>
+							<rdg>]Λ.Ι.-Ε---ΜΙ.</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="197" xml:id="provenance-4-inscription-117" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-117-p-117">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]a.res</rdg>
+							<rdg>]Α.ΡΕΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="198" xml:id="provenance-4-inscription-118" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-118-p-118">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">gard.[</rdg>
+							<rdg>ΓΑΡΔ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="199" xml:id="provenance-4-inscription-119" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-119-p-119">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]r.maniv[</rdg>
+							<rdg>]Ρ.ΜΑΝΙF[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="202" xml:id="provenance-4-inscription-120" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-120-p-120">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ma-[-]as</rdg>
+							<rdg>ΜΑ-[-]ΑΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="204" xml:id="provenance-4-inscription-121" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-121-p-121">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]d.a alu m s  [</rdg>
+							<rdg>]Δ.Α ΑΛΥ Μ Σ  [</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="210" xml:id="provenance-4-inscription-122" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-122-p-122">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">iman</rdg>
+							<rdg>ΙΜΑΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="212" xml:id="provenance-4-inscription-123" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-123-p-123">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">nina</rdg>
+							<rdg>ΝΙΝΑ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="214" xml:id="provenance-4-inscription-124" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-124-p-124">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">mor.o-[</rdg>
+							<rdg>ΜΟΡ.Ο-[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="215" xml:id="provenance-4-inscription-125" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-125-p-125">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">nm</rdg>
+							<rdg>ΝΜ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="216" xml:id="provenance-4-inscription-126" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-126-p-126">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]lasime-[</rdg>
+							<rdg>]ΛΑΣΙΜΕ-[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="219" xml:id="provenance-4-inscription-127" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-127-p-127">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]t.ivi-[</rdg>
+							<rdg>]Τ.ΙFΙ-[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="221" xml:id="provenance-4-inscription-128" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-128-p-128">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]a-iy[?</rdg>
+							<rdg>?]Α-ΙJ[?</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]keno[?</rdg>
+							<rdg>?]ΚΕΝΟ[?</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]atas</rdg>
+							<rdg>?]ΑΤΑΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]aratapa.[?</rdg>
+							<rdg>?]ΑΡΑΤΑΠΑ.[?</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]obatam--[?</rdg>
+							<rdg>?]ΟΒΑΤΑΜ--[?</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="222" xml:id="provenance-4-inscription-129" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-129-p-129">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">rigaru</rdg>
+							<rdg>ΡΙΓΑΡΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="224" xml:id="provenance-4-inscription-group-7" type="inscription-group" data-level="2">
+					<div n="224A" xml:id="provenance-4-inscription-group-7-inscription-130" type="inscription" data-level="3">
+						<p xml:id="provenance-4-inscription-group-7-inscription-130-p-130">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ata</rdg>
+								<rdg>ΑΤΑ</rdg>
+							</app>
+						</p>
+					</div>
+					<div n="224B" xml:id="provenance-4-inscription-group-7-inscription-131" type="inscription" data-level="3">
+						<div n="1" xml:id="provenance-4-inscription-group-7-inscription-131-line-9" type="line" data-level="4">
+							<p xml:id="provenance-4-inscription-group-7-inscription-131-line-9-p-131">
+								<choice>
+									<unclear>
+										<app>
+											<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">garies</rdg>
+											<rdg>ΓΑΡΙΕΣ</rdg>
+										</app>
+									</unclear>
+									<unclear>
+										<app>
+											<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">p.aries</rdg>
+											<rdg>Π.ΑΡΙΕΣ</rdg>
+										</app>
+									</unclear>
+								</choice>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div n="226" xml:id="provenance-4-inscription-132" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-132-p-132">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">murtan</rdg>
+							<rdg>ΜΥΡΤΑΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="228" xml:id="provenance-4-inscription-133" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-133-p-133">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">voine</rdg>
+							<rdg>FΟΙΝΕ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="229" xml:id="provenance-4-inscription-134" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-134-p-134">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">mamutassokposa</rdg>
+							<rdg>ΜΑΜΥΤΑΣΣΟΚΠΟΣΑ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">mamutasitoiesgloka</rdg>
+							<rdg>ΜΑΜΥΤΑΣΙΤΟΙΕΣΓΛΟΚΑ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="230" xml:id="provenance-4-inscription-135" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-135-p-135">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ey.-[</rdg>
+							<rdg>ΕJ.-[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="234" xml:id="provenance-4-inscription-136" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-136-p-136">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ata</rdg>
+							<rdg>ΑΤΑ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="236" xml:id="provenance-4-inscription-137" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-4-inscription-137-line-10" type="line" data-level="3">
+						<p xml:id="provenance-4-inscription-137-line-10-p-137">
+							<choice>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">nanavata[?</rdg>
+										<rdg>ΝΑΝΑFΑΤΑ[?</rdg>
+									</app>
+								</unclear>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">nanagata[?</rdg>
+										<rdg>ΝΑΝΑΓΑΤΑ[?</rdg>
+									</app>
+								</unclear>
+							</choice>
+						</p>
+					</div>
+				</div>
+				<div n="237" xml:id="provenance-4-inscription-138" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-138-p-138">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ako</rdg>
+							<rdg>ΑΚΟ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="239" xml:id="provenance-4-inscription-139" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-139-p-139">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">mekai.s.[?</rdg>
+							<rdg>ΜΕΚΑΙ.Σ.[?</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="245" xml:id="provenance-4-inscription-140" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-4-inscription-140-line-11" type="line" data-level="3">
+						<p xml:id="provenance-4-inscription-140-line-11-p-140">
+							<choice>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">d.umast-v-[?</rdg>
+										<rdg>Δ.ΥΜΑΣΤ-F-[?</rdg>
+									</app>
+								</unclear>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">d.umas tive.[</rdg>
+										<rdg>Δ.ΥΜΑΣ ΤΙFΕ.[</rdg>
+									</app>
+								</unclear>
+							</choice>
+						</p>
+					</div>
+				</div>
+				<div n="249" xml:id="provenance-4-inscription-141" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-141-p-141">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">se?Q?e?lt/ias</rdg>
+							<rdg>ΣΕ?Ξ?Ε?ΛΤ/ΙΑΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="250" xml:id="provenance-4-inscription-142" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-142-p-142">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]-eivanous.[?</rdg>
+							<rdg>?]-ΕΙFΑΝΟΥΣ.[?</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="251" xml:id="provenance-4-inscription-143" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-143-p-143">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ray. or bay.</rdg>
+							<rdg>ΡΑJ. ΟΡ ΒΑJ.</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="252" xml:id="provenance-4-inscription-144" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-144-p-144">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]atesito-[?</rdg>
+							<rdg>?]ΑΤΕΣΙΤΟ-[?</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="253" xml:id="provenance-4-inscription-145" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-145-p-145">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">bab[</rdg>
+							<rdg>ΒΑΒ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="255" xml:id="provenance-4-inscription-146" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-146-p-146">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]nolo.[</rdg>
+							<rdg>]ΝΟΛΟ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="258" xml:id="provenance-4-inscription-147" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-147-p-147">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">pa</rdg>
+							<rdg>ΠΑ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="259" xml:id="provenance-4-inscription-148" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-148-p-148">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">il.?a.[</rdg>
+							<rdg>ΙΛ.?Α.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="261" xml:id="provenance-4-inscription-149" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-149-p-149">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]-tuti-[</rdg>
+							<rdg>]-ΤΥΤΙ-[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="262" xml:id="provenance-4-inscription-150" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-150-p-150">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">n.a.e.[</rdg>
+							<rdg>Ν.Α.Ε.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="264" xml:id="provenance-4-inscription-151" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-151-p-151">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]unik[</rdg>
+							<rdg>?]ΥΝΙΚ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="268" xml:id="provenance-4-inscription-152" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-4-inscription-152-line-12" type="line" data-level="3">
+						<p xml:id="provenance-4-inscription-152-line-12-p-152">
+							<choice>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">i.l.a.[?</rdg>
+										<rdg>Ι.Λ.Α.[?</rdg>
+									</app>
+								</unclear>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">i.y.a.[?</rdg>
+										<rdg>Ι.J.Α.[?</rdg>
+									</app>
+								</unclear>
+							</choice>
+						</p>
+					</div>
+				</div>
+				<div n="269" xml:id="provenance-4-inscription-153" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-4-inscription-153-line-13" type="line" data-level="3">
+						<p xml:id="provenance-4-inscription-153-line-13-p-153">
+							<choice>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">aoa</rdg>
+										<rdg>ΑΟΑ</rdg>
+									</app>
+								</unclear>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">aoa</rdg>
+										<rdg>ΑΟΑ</rdg>
+									</app>
+								</unclear>
+							</choice>
+						</p>
+					</div>
+				</div>
+				<div n="272" xml:id="provenance-4-inscription-154" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-154-p-154">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]a.kios</rdg>
+							<rdg>]Α.ΚΙΟΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="274" xml:id="provenance-4-inscription-group-8" type="inscription-group" data-level="2">
+					<div n="274A" xml:id="provenance-4-inscription-group-8-inscription-155" type="inscription" data-level="3">
+						<p xml:id="provenance-4-inscription-group-8-inscription-155-p-155">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">mami</rdg>
+								<rdg>ΜΑΜΙ</rdg>
+							</app>
+						</p>
+					</div>
+				</div>
+				<div n="275" xml:id="provenance-4-inscription-156" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-156-p-156">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">Ti</rdg>
+							<rdg>ΘΙ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="276" xml:id="provenance-4-inscription-157" type="inscription" data-level="2">
+					<p xml:id="provenance-4-inscription-157-p-157">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]a.gineia</rdg>
+							<rdg>]Α.ΓΙΝΕΙΑ</rdg>
+						</app>
+					</p>
+				</div>
+			</div>
+			<div n="C" xml:id="provenance-5" type="provenance" data-level="1">
+				<div n="1" xml:id="provenance-5-inscription-158" type="inscription" data-level="2">
+					<p xml:id="provenance-5-inscription-158-p-158">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]e[...]alab.i.o.s</rdg>
+							<rdg>]Ε[...]ΑΛΑΒ.Ι.Ο.Σ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="101" xml:id="provenance-5-inscription-159" type="inscription" data-level="2">
+					<p xml:id="provenance-5-inscription-159-p-159">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">kad[</rdg>
+							<rdg>ΚΑΔ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="102" xml:id="provenance-5-inscription-160" type="inscription" data-level="2">
+					<p xml:id="provenance-5-inscription-160-p-160">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">amos</rdg>
+							<rdg>ΑΜΟΣ</rdg>
+						</app>
+					</p>
+				</div>
+			</div>
+			<div n="P" xml:id="provenance-6" type="provenance" data-level="1">
+				<div n="1" xml:id="provenance-6-inscription-161" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-6-inscription-161-line-14" type="line" data-level="3">
+						<p xml:id="provenance-6-inscription-161-line-14-p-161">
+							<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]e[--]u[---]ovoiman[?</foreign>
+							<lb n="3" />?]Ε[--]Υ[---]ΟFΟΙΜΑΝ[? <foreign xml:lang="eng-Latn">⌐= ?¬</foreign>
+							<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">eppuioitovoiman</foreign>
+							<lb n="4" />ΕΠΠΥΙΟΙΤΟFΟΙΜΑΝ <foreign xml:lang="eng-Latn">⌐?¬</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="2" xml:id="provenance-6-inscription-162" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-6-inscription-162-line-15" type="line" data-level="3">
+						<p xml:id="provenance-6-inscription-162-line-15-p-162">
+							<choice>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">sestbug.nosva/soskanutii?evanos.?</rdg>
+										<rdg>ΣΕΣΤΒΥΓ.ΝΟΣFΑ/ΣΟΣΚΑΝΥΤΙΙ?ΕFΑΝΟΣ.?</rdg>
+									</app>
+								</unclear>
+								<unclear>
+									<app>
+										<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">sestbug.nosva/soskanutie.?evanos.?</rdg>
+										<rdg>ΣΕΣΤΒΥΓ.ΝΟΣFΑ/ΣΟΣΚΑΝΥΤΙΕ.?ΕFΑΝΟΣ.?</rdg>
+									</app>
+								</unclear>
+							</choice>
+						</p>
+					</div>
+				</div>
+				<div n="3" xml:id="provenance-6-inscription-163" type="inscription" data-level="2">
+					<p xml:id="provenance-6-inscription-163-p-163">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">vasousimanmekas</rdg>
+							<rdg>FΑΣΟΥΣΙΜΑΝΜΕΚΑΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">k.anutieiva.i.s</rdg>
+							<rdg>Κ.ΑΝΥΤΙΕΙFΑ.Ι.Σ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">dev.o.skemek.a.s</rdg>
+							<rdg>ΔΕF.Ο.ΣΚΕΜΕΚ.Α.Σ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="4a" xml:id="provenance-6-inscription-164" type="inscription" data-level="2">
+					<p xml:id="provenance-6-inscription-164-p-164">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">otuvoiveteietlnaie</rdg>
+							<rdg>ΟΤΥFΟΙFΕΤΕΙΕΤΛΝΑΙΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">iosnia.k.enanegeseti</rdg>
+							<rdg>ΙΟΣΝΙΑ.Κ.ΕΝΑΝΕΓΕΣΕΤΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">o.?k.?irterk.o.[---]tekmor.</rdg>
+							<rdg>Ο.?Κ.?ΙΡΤΕΡΚ.Ο.[---]ΤΕΚΜΟΡ.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ot[----]setivebru</rdg>
+							<rdg>ΟΤ[----]ΣΕΤΙFΕΒΡΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="4b" xml:id="provenance-6-inscription-165" type="inscription" data-level="2">
+					<p xml:id="provenance-6-inscription-165-p-165">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ioser?v?ot?s?atikakuioi</rdg>
+							<rdg>ΙΟΣΕΡ?F?ΟΤ?Σ?ΑΤΙΚΑΚΥΙΟΙ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="4c" xml:id="provenance-6-inscription-166" type="inscription" data-level="2">
+					<p xml:id="provenance-6-inscription-166-p-166">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">iman--------/e.da.e.[s]mekas</rdg>
+							<rdg>ΙΜΑΝ--------/Ε.ΔΑ.Ε.[Σ]ΜΕΚΑΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="5" xml:id="provenance-6-inscription-167" type="inscription" data-level="2">
+					<p xml:id="provenance-6-inscription-167-p-167">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">vasuskanutie.[</rdg>
+							<rdg>FΑΣΥΣΚΑΝΥΤΙΕ.[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="6" xml:id="provenance-6-inscription-168" type="inscription" data-level="2">
+					<p xml:id="provenance-6-inscription-168-p-168">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">?]a?kiti?---s</rdg>
+							<rdg>?]Α?ΚΙΤΙ?---Σ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ai : i?osa?ei?ketio[?]ivi--se-[?]n?</rdg>
+							<rdg>ΑΙ : Ι?ΟΣΑ?ΕΙ?ΚΕΤΙΟ[?]ΙFΙ--ΣΕ-[?]Ν?</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="101" xml:id="provenance-6-inscription-169" type="inscription" data-level="2">
+					<p xml:id="provenance-6-inscription-169-p-169">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">a.ini/daBp?ulai?sini</rdg>
+							<rdg>Α.ΙΝΙ/ΔΑ8Π?ΥΛΑΙ?ΣΙΝΙ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="106" xml:id="provenance-6-inscription-170" type="inscription" data-level="2">
+					<p xml:id="provenance-6-inscription-170-p-170">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]-ti : makio?taTiBi : -[</rdg>
+							<rdg>]-ΤΙ : ΜΑΚΙΟ?ΤΑΘΙ8Ι : -[</rdg>
+						</app>
+					</p>
+				</div>
+			</div>
+			<div n="T" xml:id="provenance-7" type="provenance" data-level="1">
+				<div n="2b" xml:id="provenance-7-inscription-171" type="inscription" data-level="2">
+					<p xml:id="provenance-7-inscription-171-p-171">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">.............................</rdg>
+							<rdg>.............................</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]t.umida : memeuis : [</rdg>
+							<rdg>]Τ.ΥΜΙΔΑ : ΜΕΜΕΥΙΣ : [</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]a : tesan : acion : v[</rdg>
+							<rdg>]Α : ΤΕΣΑΝ : Α!ΙΟΝ : F[</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]oitumen : mi.d.a.[.......</rdg>
+							<rdg>]ΟΙΤΥΜΕΝ : ΜΙ.Δ.Α.[.......</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]n : acios : mi[.......</rdg>
+							<rdg>]Ν : Α!ΙΟΣ : ΜΙ[.......</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]n. : batan : e-[.......</rdg>
+							<rdg>]Ν. : ΒΑΤΑΝ : Ε-[.......</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="3" xml:id="provenance-7-inscription-group-9" type="inscription-group" data-level="2">
+					<div n="3a" xml:id="provenance-7-inscription-group-9-inscription-172" type="inscription" data-level="3">
+						<div n="1" xml:id="provenance-7-inscription-group-9-inscription-172-line-16" type="line" data-level="4">
+							<p xml:id="provenance-7-inscription-group-9-inscription-172-line-16-p-172">
+								<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">aciiai : polodra./tes</foreign>
+								<lb n="5" />Α!ΙΙΑΙ : ΠΟΛΟΔΡΑ./ΤΕΣ <foreign xml:lang="eng-Latn">Br:</foreign>
+								<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">polodre.tes</foreign>
+							</p>
+						</div>
+						<p xml:id="provenance-7-inscription-group-9-inscription-172-p-173">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">: poreti. : otu</rdg>
+								<rdg>: ΠΟΡΕΤΙ. : ΟΤΥ</rdg>
+							</app>
+						</p>
+					</div>
+					<div n="3b" xml:id="provenance-7-inscription-group-9-inscription-173" type="inscription" data-level="3">
+						<p xml:id="provenance-7-inscription-group-9-inscription-173-p-174">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]sn/a[</rdg>
+								<rdg>]ΣΝ/Α[</rdg>
+							</app>
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]ed/eia[</rdg>
+								<rdg>]ΕΔ/ΕΙΑ[</rdg>
+							</app>
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]rce/s</rdg>
+								<rdg>]Ρ!Ε/Σ</rdg>
+							</app>
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">: ar[</rdg>
+								<rdg>: ΑΡ[</rdg>
+							</app>
+						</p>
+					</div>
+					<div n="3c" xml:id="provenance-7-inscription-group-9-inscription-174" type="inscription" data-level="3">
+						<p xml:id="provenance-7-inscription-group-9-inscription-174-p-175">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]nimoi :</rdg>
+								<rdg>]ΝΙΜΟΙ :</rdg>
+							</app>
+						</p>
+						<div n="2" xml:id="provenance-7-inscription-group-9-inscription-174-line-17" type="line" data-level="4">
+							<p xml:id="provenance-7-inscription-group-9-inscription-174-line-17-p-176">
+								<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">ekoe.[</foreign>
+								<lb n="6" />ΕΚΟΕ.[ <foreign xml:lang="eng-Latn">Br.:</foreign>
+								<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">eko.-[</foreign>
+							</p>
+						</div>
+					</div>
+					<div n="3d" xml:id="provenance-7-inscription-group-9-inscription-175" type="inscription" data-level="3">
+						<p xml:id="provenance-7-inscription-group-9-inscription-175-p-177">
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">]oi : avtoi</rdg>
+								<rdg>]ΟΙ : ΑFΤΟΙ</rdg>
+							</app>
+							<app>
+								<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">: eptuve/[-]itan</rdg>
+								<rdg>: ΕΠΤΥFΕ/[-]ΙΤΑΝ</rdg>
+							</app>
+						</p>
+						<div n="3" xml:id="provenance-7-inscription-group-9-inscription-175-line-18" type="line" data-level="4">
+							<p xml:id="provenance-7-inscription-group-9-inscription-175-line-18-p-178">
+								<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">: mn/[-]n.?is</foreign>
+								<lb n="7" />: ΜΝ/[-]Ν.?ΙΣ <foreign xml:lang="eng-Latn">Br.:</foreign>
+								<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">me./[---]p?is:</foreign>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div n="Dask" xml:id="provenance-8" type="provenance" data-level="1">
+				<div n="1" xml:id="provenance-8-inscription-176" type="inscription" data-level="2">
+					<p xml:id="provenance-8-inscription-176-p-179">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">s.t.al.ake : cekm.[--]e?s.?ke[------]i.?yo.? [----]</rdg>
+							<rdg>Σ.Τ.ΑΛ.ΑΚΕ : !ΕΚΜ.[--]Ε?Σ.?ΚΕ[------]Ι.?JΟ.? [----]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="2" xml:id="provenance-8-inscription-177" type="inscription" data-level="2">
+					<p xml:id="provenance-8-inscription-177-p-180">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">d.?e.?s.?i.?[--]n.? : e.?ventnoktoy : em.ete.tariyois</rdg>
+							<rdg>Δ.?Ε.?Σ.?Ι.?[--]Ν.? : Ε.?FΕΝΤΝΟΚΤΟJ : ΕΜ.ΕΤΕ.ΤΑΡΙJΟΙΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="3" xml:id="provenance-8-inscription-178" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-8-inscription-178-line-19" type="line" data-level="3">
+						<p xml:id="provenance-8-inscription-178-line-19-p-181">
+							<foreign xml:lang="eng-Latn">[appr. 10 l.]</foreign>
+							<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">y. : yostumoy : cekmatin</foreign>
+							<foreign xml:lang="eng-Latn">[appr. 10 l.]</foreign>
+							<lb n="8" />J. : JΟΣΤΥΜΟJ : !ΕΚΜΑΤΙΝ</p>
+					</div>
+				</div>
+				<div n="4" xml:id="provenance-8-inscription-179" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-8-inscription-179-line-20" type="line" data-level="3">
+						<p xml:id="provenance-8-inscription-179-line-20-p-182">
+							<foreign xml:lang="eng-Latn">[appr. 11 l.]</foreign>
+							<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">atonkeyen</foreign>
+							<foreign xml:lang="eng-Latn">[appr. 11 l.]</foreign>
+							<lb n="9" />ΑΤΟΝΚΕJΕΝ</p>
+					</div>
+				</div>
+			</div>
+			<div n="Bay" xml:id="provenance-9" type="provenance" data-level="1">
+				<div n="1-7" xml:id="provenance-9-inscription-180" type="inscription" data-level="2">
+					<p xml:id="provenance-9-inscription-180-p-183">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ates</rdg>
+							<rdg>ΑΤΕΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="8" xml:id="provenance-9-inscription-181" type="inscription" data-level="2">
+					<p xml:id="provenance-9-inscription-181-p-184">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">sicidos</rdg>
+							<rdg>ΣΙ!ΙΔΟΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="9" xml:id="provenance-9-inscription-182" type="inscription" data-level="2">
+					<p xml:id="provenance-9-inscription-182-p-185">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">ata</rdg>
+							<rdg>ΑΤΑ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="10" xml:id="provenance-9-inscription-183" type="inscription" data-level="2">
+					<p xml:id="provenance-9-inscription-183-p-186">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">dide</rdg>
+							<rdg>ΔΙΔΕ</rdg>
+						</app>
+					</p>
+				</div>
+			</div>
+			<div n="Dd" xml:id="provenance-10" type="provenance" data-level="1">
+				<div n="101" xml:id="provenance-10-inscription-184" type="inscription" data-level="2">
+					<p xml:id="provenance-10-inscription-184-p-187">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">pser?keyoyatas</rdg>
+							<rdg>ΠΣΕΡ?ΚΕJΟJΑΤΑΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="102" xml:id="provenance-10-inscription-185" type="inscription" data-level="2">
+					<p xml:id="provenance-10-inscription-185-p-188">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-old-phrygian-transliterated">surgastoy inas</rdg>
+							<rdg>ΣΥΡΓΑΣΤΟJ ΙΝΑΣ</rdg>
+						</app>
+					</p>
+				</div>
+			</div>
+			<div n="BO" xml:id="provenance-11" type="provenance" data-level="1">
+				<div n="1" xml:id="provenance-11-inscription-186" type="inscription" data-level="2">
+					<p xml:id="provenance-11-inscription-186-p-189">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">]e[ ]y...</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">]Ε[ ]J...</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">]e[ ]y...</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">]Ε[ ]J...</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="2" xml:id="provenance-11-inscription-187" type="inscription" data-level="2">
+					<p xml:id="provenance-11-inscription-187-p-190">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">]ka.[...]an.e[ ]a[</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">]ΚΑ.[...]ΑΝ.Ε[ ]Α[</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">]ka.[...]an.e[ ]a[</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">]ΚΑ.[...]ΑΝ.Ε[ ]Α[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="3" xml:id="provenance-11-inscription-188" type="inscription" data-level="2">
+					<p xml:id="provenance-11-inscription-188-p-191">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">l.am.n.lavay [-]o.kses+. : as+.ioi</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">Λ.ΑΜ.Ν.ΛΑFΑJ [-]Ο.ΚΣΕC. : ΑC.ΙΟΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">lamnlavaz nokses+ : amri</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">ΛΑΜΝΛΑFΑΖ ΝΟΚΣΕC : ΑΜΡΙ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="4" xml:id="provenance-11-inscription-189" type="inscription" data-level="2">
+					<p xml:id="provenance-11-inscription-189-p-192">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">[--]adl.e.vasiy ag.lavoy i.e</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">[--]ΑΔΛ.Ε.FΑΣΙJ ΑΓ.ΛΑFΟJ Ι.Ε</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">adlevasiz arlavoz : te</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">ΑΔΛΕFΑΣΙΖ ΑΡΛΑFΟΖ : ΤΕ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="5" xml:id="provenance-11-inscription-190" type="inscription" data-level="2">
+					<p xml:id="provenance-11-inscription-190-p-193">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">[?]epaviyi[-]s+ : anevt.evey</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">[?]ΕΠΑFΙJΙ[-]C : ΑΝΕFΤ.ΕFΕJ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">epavizuis+ : anevnevez</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">ΕΠΑFΙΖΥΙC : ΑΝΕFΝΕFΕΖ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="6" xml:id="provenance-11-inscription-191" type="inscription" data-level="2">
+					<p xml:id="provenance-11-inscription-191-p-194">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">at.oiapnekroi.u.n : batant.e.</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">ΑΤ.ΟΙΑΠΝΕΚΡΟΙ.Υ.Ν : ΒΑΤΑΝΤ.Ε.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">[-]anoi apnekovsn : o.atan tv[-]</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">[-]ΑΝΟΙ ΑΠΝΕΚΟFΣΝ : Ο.ΑΤΑΝ ΤF[-]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="7" xml:id="provenance-11-inscription-192" type="inscription" data-level="2">
+					<p xml:id="provenance-11-inscription-192-p-195">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-mysian-transliterated">likes+ : braterais+patriyi.o.is+k</rdg>
+							<rdg xml:lang="yms-Grek-x-mysian">ΛΙΚΕC : ΒΡΑΤΕΡΑΙCΠΑΤΡΙJΙ.Ο.ΙCΚ</rdg>
+						</app>
+					</p>
+					<div n="1F" xml:id="provenance-11-inscription-192-line-21" type="line" data-level="3">
+						<p xml:id="provenance-11-inscription-192-line-21-p-196">
+							<foreign xml:lang="xpg-Latn-x-mysian-transliterated">likes+ : braterais+ patrizi is+k</foreign>
+							<foreign xml:lang="yms-Grek-x-mysian">ΛΙΚΕC : ΒΡΑΤΕΡΑΙC ΠΑΤΡΙΖΙ ΙCΚ</foreign>
+							<foreign xml:lang="eng-Latn">Neo-Phrygian Inscriptions</foreign>
+							<foreign xml:lang="eng-Latn">If not indicated otherwise, the text follows Haas, Die Phrygischen Sprachdenkmäler, p. 114ff. (for word divisions see also Lubotsky, Kadmos 28/1 (1989) 79ff.).
+    Br. 1,1; 1,2; 2,2: Brixhe, Verbum 1,1; 1,2 (1978), Verbum 2,2 (1979).
+    Br. 90: La reconstruction des laryngales, Liège.
+    Greek inscriptions: 1, 16, 22, 23, 24, 49, 50, 52, 66, 83(?); 17=74, 41=67, 46=107</foreign>
+							<foreign xml:lang="eng-Latn">Spelling conventions:
+    NPhr. inscriptions are normally represented in Greek alphabet.
+    O' = 'Gr. omega, E' = 'Gr. eta, otherwise the usual transcription
+    (z, kh, ph, th, ks, ps' = 'zeta, khi, phi, theta, ksi, psi).
+    &lt;&gt; - omitted by the scribe, should be added
+    ⌐¬ - should be eliminated
+    [] - restorations
+    () - emendations</foreign>
+							<foreign xml:lang="eng-Latn">For the present TITUS version, a rendering in the Greek alphabet has been supplied interlinearily. x is used as an indicator of missing characters. JG</foreign>
+						</p>
+					</div>
+				</div>
+			</div>
+			<div n="_" xml:id="provenance-12" type="provenance" data-level="1">
+				<div n="2" xml:id="provenance-12-inscription-193" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-193-p-197">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ta mankai kakoun addaket ti/e</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΤΑ ΜΑΝΚΑΙ ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ ΤΙ/Ε</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tit [t]etikmenos eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΤ [Τ]ΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">uke akala oouitetou oua</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΥΚΕ ΑΚΑΛΑ ΟΟΥΙΤΕΤΟΥ ΟΥΑ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="3" xml:id="provenance-12-inscription-194" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-194-p-198">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semon knoumanei kakon a[d]daket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑΝΕΙ ΚΑΚΟΝ Α[Δ]ΔΑΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[deOs ke zemelOs k]/e</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΔΕΩΣ ΚΕ ΖΕΜΕΛΩΣ Κ]/Ε</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tie tit tetikmenos eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΕ ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="4" xml:id="provenance-12-inscription-195" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-195-p-199">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semon [knoumani] kakoun adaket aini oi thalamei dE diOs zemelO[s tit tet]ikmenos eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΝ [ΚΝΟΥΜΑΝΙ] ΚΑΚΟΥΝ ΑΔΑΚΕΤ ΑΙΝΙ ΟΙ ΘΑΛΑΜΕΙ ΔΗ ΔΙΩΣ ΖΕΜΕΛΩ[Σ ΤΙΤ ΤΕΤ]ΙΚΜΕΝΟΣ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="4b" xml:id="provenance-12-inscription-196" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-12-inscription-196-line-22" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-196-line-22-p-200">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">io ni [s]emou kno[umanei...</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΙΟ ΝΙ [Σ]ΕΜΟΥ ΚΝΟ[ΥΜΑΝΕΙ...</foreign>
+							<foreign xml:lang="eng-Latn">Ramsay:</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">([s]emon)</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="5" xml:id="provenance-12-inscription-197" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-197-p-201">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">is ke semoum k&lt;n&gt;ouminos &lt;kakoun&gt;</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΣ ΚΕ ΣΕΜΟΥΜ Κ((Ν))ΟΥΜΙΝΟΣ ((ΚΑΚΟΥΝ))</rdg>
+						</app>
+					</p>
+					<div n="2" xml:id="provenance-12-inscription-197-line-23" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-197-line-23-p-202">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">adaken me diO[s z]omolOs ti tetikmenos Eton</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΑΚΕΝ ΜΕ ΔΙΩ[Σ Ζ]ΟΜΟΛΩΣ ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΗΤΟΝ</foreign>
+							<foreign xml:lang="eng-Latn">Br. 1,2:</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">(=eitou)</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="6" xml:id="provenance-12-inscription-198" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-198-p-203">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[io]s ni semoun knoumane [kakon]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΙΟ]Σ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ [ΚΑΚΟΝ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">abberet a[i]nou [m.]mon[ka]n</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΒΒΕΡΕΤ Α[Ι]ΝΟΥ [Μ.]ΜΟΝ[ΚΑ]Ν</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tos ni me zemelO ke deos k./e</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΟΣ ΝΙ ΜΕ ΖΕΜΕΛΩ ΚΕ ΔΕΟΣ Κ./Ε</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tiE tit tetikmenos e[it]ou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΗ ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ Ε[ΙΤ]ΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="7" xml:id="provenance-12-inscription-199" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-199-p-204">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ios ni semou]n knoumani kaka[./...a.]en deos ke zem[elos/...]ake oi eiroi a tie tit t[e/tikmenoi eitt]nou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΙΟΣ ΝΙ ΣΕΜΟΥ]Ν ΚΝΟΥΜΑΝΙ ΚΑΚΑ[./...Α.]ΕΝ ΔΕΟΣ ΚΕ ΖΕΜ[ΕΛΟΣ/...]ΑΚΕ ΟΙ ΕΙΡΟΙ Α ΤΙΕ ΤΙΤ Τ[Ε/ΤΙΚΜΕΝΟΙ ΕΙΤΤ]ΝΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="8" xml:id="provenance-12-inscription-200" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-200-p-205">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[----]menos eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[----]ΜΕΝΟΣ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="9" xml:id="provenance-12-inscription-201" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-201-p-206">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[usdoune]t[u]oupase</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΥΣΔΟΥΝΕ]Τ[Υ]ΟΥΠΑΣΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">dekmoutais k.inou./ma e.ti mnkan opestam/e.n.a.n. daditi nenueria</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΔΕΚΜΟΥΤΑΙΣ Κ.ΙΝΟΥ./ΜΑ Ε.ΤΙ ΜΝΚΑΝ ΟΠΕΣΤΑΜ/Ε.Ν.Α.Ν. ΔΑΔΙΤΙ ΝΕΝΥΕΡΙΑ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[e]partus oukra</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[Ε]ΠΑΡΤΥΣ ΟΥΚΡΑ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="10" xml:id="provenance-12-inscription-202" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-202-p-207">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun tou knou/manei kakoun addaket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΤΟΥ ΚΝΟΥ/ΜΑΝΕΙ ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[tit t]etikmenos eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΤΙΤ Τ]ΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="11" xml:id="provenance-12-inscription-203" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-203-p-208">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ios se]mon knou/[mane]i kakOn</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΙΟΣ ΣΕ]ΜΟΝ ΚΝΟΥ/[ΜΑΝΕ]Ι ΚΑΚΩΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[----]an abbe/[ret ti] tetik[m]e/[nos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[----]ΑΝ ΑΒΒΕ/[ΡΕΤ ΤΙ] ΤΕΤΙΚ[Μ]Ε/[ΝΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">a]t ti ade/[i]tou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Α]Τ ΤΙ ΑΔΕ/[Ι]ΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="12" xml:id="provenance-12-inscription-204" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-204-p-209">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eios ni semoun knoumani kakon</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΙ ΚΑΚΟΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">addaket zeira ke oi peies ke tit</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΔΑΚΕΤ ΖΕΙΡΑ ΚΕ ΟΙ ΠΕΙΕΣ ΚΕ ΤΙΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tetikmena at ti[e] adeittnou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΕΤΙΚΜΕΝΑ ΑΤ ΤΙ[Ε] ΑΔΕΙΤΤΝΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="13" xml:id="provenance-12-inscription-205" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-205-p-210">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[--------------k]akoun abberet ai[./-------------------]adeitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[--------------Κ]ΑΚΟΥΝ ΑΒΒΕΡΕΤ ΑΙ[./-------------------]ΑΔΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="14." xml:id="provenance-12-inscription-206" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-206-p-211">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[i]os ni semoun kno/[u]m.anei kakin ada./ket ainʼ ada teama.s ti tetikmenos as. tian [eit]o.u</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[Ι]ΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟ/[Υ]Μ.ΑΝΕΙ ΚΑΚΙΝ ΑΔΑ./ΚΕΤ ΑΙΝ' ΑΔΑ ΤΕΑΜΑ.Σ ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΑΣ. ΤΙΑΝ [ΕΙΤ]Ο.Υ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="15" xml:id="provenance-12-inscription-207" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-207-p-212">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kseunE tan eiksa. ups.o/dan protuss[.]stam/e.nan mankan ami./a.sianioi anar doruka[nos...]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΞΕΥΝΗ ΤΑΝ ΕΙΞΑ. ΥΨ.Ο/ΔΑΝ ΠΡΟΤΥΣΣ[.]ΣΤΑΜ/Ε.ΝΑΝ ΜΑΝΚΑΝ ΑΜΙ./Α.ΣΙΑΝΙΟΙ ΑΝΑΡ ΔΟΡΥΚΑ[ΝΟΣ...]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="17" xml:id="provenance-12-inscription-208" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-208-p-213">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[-----ttetikme]n.os eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[-----ΤΤΕΤΙΚΜΕ]Ν.ΟΣ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="18" xml:id="provenance-12-inscription-209" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-209-p-214">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">---oi knouma eti dea.d.a. manka/n.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">---ΟΙ ΚΝΟΥΜΑ ΕΤΙ ΔΕΑ.Δ.Α. ΜΑΝΚΑ/Ν.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">m.imoga dis ak[.]nikou okaugosi</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Μ.ΙΜΟΓΑ ΔΙΣ ΑΚ[.]ΝΙΚΟΥ ΟΚΑΥΓΟΣΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">m.idakas dadou leukiOi dakar</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Μ.ΙΔΑΚΑΣ ΔΑΔΟΥ ΛΕΥΚΙΩΙ ΔΑΚΑΡ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">leukis m.imogas ke [?] matar eugeksa/rnai.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΛΕΥΚΙΣ Μ.ΙΜΟΓΑΣ ΚΕ [?] ΜΑΤΑΡ ΕΥΓΕΞΑ/ΡΝΑΙ.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ko ta t.i.ama knoumen tan e/[?]tas</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΟ ΤΑ Τ.Ι.ΑΜΑ ΚΝΟΥΜΕΝ ΤΑΝ Ε/[?]ΤΑΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tai koltamanei ios ni oukra/on</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΑΙ ΚΟΛΤΑΜΑΝΕΙ ΙΟΣ ΝΙ ΟΥΚΡΑ/ΟΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">latomeio.n eg.d.aes moursa.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΛΑΤΟΜΕΙΟ.Ν ΕΓ.Δ.ΑΕΣ ΜΟΥΡΣΑ.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">aini kos semoun knoumanei k/akoun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΙΝΙ ΚΟΣ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕΙ Κ/ΑΚΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">addaket aini manka b.e&lt;k&gt;o/s</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΔΑΚΕΤ ΑΙΝΙ ΜΑΝΚΑ Β.Ε((Κ))Ο/Σ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ioi me totossʼ eugisarnan</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΙ ΜΕ ΤΟΤΟΣΣ' ΕΥΓΙΣΑΡΝΑΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="19" xml:id="provenance-12-inscription-210" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-210-p-215">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios semou knou/manei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΣΕΜΟΥ ΚΝΟΥ/ΜΑΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ka[kon] &lt;addaket&gt; e ti teteikmenos eito[u]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑ[ΚΟΝ] ((ΑΔΔΑΚΕΤ)) Ε ΤΙ ΤΕΤΕΙΚΜΕΝΟΣ ΕΙΤΟ[Υ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="20" xml:id="provenance-12-inscription-211" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-211-p-216">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni sem[on knou]manei kakoun adaket ti tetikmenos aas knou[----(--)]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜ[ΟΝ ΚΝΟΥ]ΜΑΝΕΙ ΚΑΚΟΥΝ ΑΔΑΚΕΤ ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΑΑΣ ΚΝΟΥ[----(--)]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="21" xml:id="provenance-12-inscription-212" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-212-p-217">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios sa sorou kake</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΣΑ ΣΟΡΟΥ ΚΑΚΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">adaket me zemelOs tit tetikmenos eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΑΚΕΤ ΜΕ ΖΕΜΕΛΩΣ ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="25" xml:id="provenance-12-inscription-213" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-213-p-218">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni simoun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΙΜΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">knoumani [k]akoun ab/bireto</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΝΟΥΜΑΝΙ [Κ]ΑΚΟΥΝ ΑΒ/ΒΙΡΕΤΟ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">aini mmura tos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΙΝΙ ΜΜΥΡΑ ΤΟΣ</rdg>
+						</app>
+					</p>
+					<div n="4" xml:id="provenance-12-inscription-213-line-24" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-213-line-24-p-219">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ni d.[eOs z]imelOs ti me k a/t[--]</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΝΙ Δ.[ΕΩΣ Ζ]ΙΜΕΛΩΣ ΤΙ ΜΕ Κ Α/Τ[--]</foreign>
+							<foreign xml:lang="eng-Latn">Br. 1,1: 10; 2,2: 178; ʼ90:</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">z]imelOsi</foreign>
+						</p>
+					</div>
+					<p xml:id="provenance-12-inscription-213-p-220">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tit tetikmenos eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="26" xml:id="provenance-12-inscription-214" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-214-p-221">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semon knouma/ne</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑ/ΝΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakon daket aini</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΝ ΔΑΚΕΤ ΑΙΝΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">manka tie tit teti/kmenos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΜΑΝΚΑ ΤΙΕ ΤΙΤ ΤΕΤΙ/ΚΜΕΝΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="27" xml:id="provenance-12-inscription-215" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-215-p-222">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ke semon to kakon od[---</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΚΕ ΣΕΜΟΝ ΤΟ ΚΑΚΟΝ ΟΔ[---</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="28" xml:id="provenance-12-inscription-216" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-216-p-223">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun knoumane kakoun ada/ket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ ΚΑΚΟΥΝ ΑΔΑ/ΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ti tetoukme/noun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΤΙ ΤΕΤΟΥΚΜΕ/ΝΟΥΝ</rdg>
+						</app>
+					</p>
+					<div n="3" xml:id="provenance-12-inscription-216-line-25" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-216-line-25-p-224">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eitou</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΤΟΥ</foreign>
+							<foreign xml:lang="eng-Latn">(reading</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios</foreign>
+							<foreign xml:lang="eng-Latn">Br. 1,1: 17)</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="29" xml:id="provenance-12-inscription-217" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-217-p-225">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios semoun knoumane aini manka kakoun addak[</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ ΑΙΝΙ ΜΑΝΚΑ ΚΑΚΟΥΝ ΑΔΔΑΚ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="30" xml:id="provenance-12-inscription-218" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-218-p-226">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[-------------]i epri.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[-------------]Ι ΕΠΡΙ.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[-----------]eikonoma</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[-----------]ΕΙΚΟΝΟΜΑ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[-----------]d.oudas akalas eukin argou sibE</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[-----------]Δ.ΟΥΔΑΣ ΑΚΑΛΑΣ ΕΥΚΙΝ ΑΡΓΟΥ ΣΙΒΗ</rdg>
+						</app>
+					</p>
+					<div n="4" xml:id="provenance-12-inscription-218-line-26" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-218-line-26-p-227">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[--------]oueban egeret oi autO autaE ke tan eitt.n.o.u.</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">[--------]ΟΥΕΒΑΝ ΕΓΕΡΕΤ ΟΙ ΑΥΤΩ ΑΥΤΑΗ ΚΕ ΤΑΝ ΕΙΤΤ.Ν.Ο.Υ.</foreign>
+							<foreign xml:lang="eng-Latn">Calder, Br. 1,2: 10:</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">...ekretoiakkolta...</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="31" xml:id="provenance-12-inscription-219" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-219-p-228">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">as semoun knouman adithrerak</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΣ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝ ΑΔΙΘΡΕΡΑΚ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kseuneoi ddikes eian</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΞΕΥΝΕΟΙ ΔΔΙΚΕΣ ΕΙΑΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">mankan ian estaes bratere</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΜΑΝΚΑΝ ΙΑΝ ΕΣΤΑΕΣ ΒΡΑΤΕΡΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">maimarEan poukros manisou eneparkes detoun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΜΑΙΜΑΡΗΑΝ ΠΟΥΚΡΟΣ ΜΑΝΙΣΟΥ ΕΝΕΠΑΡΚΕΣ ΔΕΤΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[---] kseunan aidmOs brokeiO</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[---] ΞΕΥΝΑΝ ΑΙΔΜΩΣ ΒΡΟΚΕΙΩ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[-------]dekmoutaEs iou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[-------]ΔΕΚΜΟΥΤΑΗΣ ΙΟΥ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[-------]protosou [?</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[-------]ΠΡΟΤΟΣΟΥ [?</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="32" xml:id="provenance-12-inscription-220" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-220-p-229">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun knoumanei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ka]koun addakek gegreim[e]na/n</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΚΑ]ΚΟΥΝ ΑΔΔΑΚΕΚ ΓΕΓΡΕΙΜ[Ε]ΝΑ/Ν</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">egedou tios outan</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΓΕΔΟΥ ΤΙΟΣ ΟΥΤΑΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="33" xml:id="provenance-12-inscription-221" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-12-inscription-221-line-27" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-221-line-27-p-230">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun knoumanei kakoun addaket geg&lt;r&gt;eimenan egedou tios outan ak ke oi bekos akkalos ti dregroun eitou</foreign>
+							<foreign xml:lang="eng-Latn">(leaf)</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">autos ke oua k eroka gegaritmenos as batan teutous</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕΙ ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ ΓΕΓ((Ρ))ΕΙΜΕΝΑΝ ΕΓΕΔΟΥ ΤΙΟΣ ΟΥΤΑΝ ΑΚ ΚΕ ΟΙ ΒΕΚΟΣ ΑΚΚΑΛΟΣ ΤΙ ΔΡΕΓΡΟΥΝ ΕΙΤΟΥ</foreign>
+							<foreign xml:lang="eng-Latn">(leaf)</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΑΥΤΟΣ ΚΕ ΟΥΑ Κ ΕΡΟΚΑ ΓΕΓΑΡΙΤΜΕΝΟΣ ΑΣ ΒΑΤΑΝ ΤΕΥΤΟΥΣ</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="34" xml:id="provenance-12-inscription-222" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-222-p-231">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ke semn knoumanei kakoun addaket gegreimenan egedou tios outan</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΚΕ ΣΕΜΝ ΚΝΟΥΜΑΝΕΙ ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ ΓΕΓΡΕΙΜΕΝΑΝ ΕΓΕΔΟΥ ΤΙΟΣ ΟΥΤΑΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="35" xml:id="provenance-12-inscription-223" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-223-p-232">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni sai kako/un addakem mankai as ananka ioi panta kena [i]nnou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΑΙ ΚΑΚΟ/ΥΝ ΑΔΔΑΚΕΜ ΜΑΝΚΑΙ ΑΣ ΑΝΑΝΚΑ ΙΟΙ ΠΑΝΤΑ ΚΕΝΑ [Ι]ΝΝΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="36" xml:id="provenance-12-inscription-224" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-224-p-233">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">io/s</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟ/Σ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ke semoun knouman/i</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΕ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝ/Ι</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun adaket era geg/reimenan</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ ΑΔΑΚΕΤ ΕΡΑ ΓΕΓ/ΡΕΙΜΕΝΑΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">egedou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΓΕΔΟΥ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tios outan autos ke ou/a</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΟΣ ΟΥΤΑΝ ΑΥΤΟΣ ΚΕ ΟΥ/Α</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">k oroka gegaritmeno/s</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Κ ΟΡΟΚΑ ΓΕΓΑΡΙΤΜΕΝΟ/Σ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">a&lt;s&gt; batan t/eutous</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Α((Σ)) ΒΑΤΑΝ Τ/ΕΥΤΟΥΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="37" xml:id="provenance-12-inscription-225" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-225-p-234">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">i⌐s¬os ke semoun knoumane [kakoun addaket tetikmeno]s eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Ι[[Σ]]ΟΣ ΚΕ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ [ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ ΤΕΤΙΚΜΕΝΟ]Σ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="38" xml:id="provenance-12-inscription-226" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-226-p-235">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[-------------]ne kako[n] addak/[et------]tetikmenos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[-------------]ΝΕ ΚΑΚΟ[Ν] ΑΔΔΑΚ/[ΕΤ------]ΤΕΤΙΚΜΕΝΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eitou titel[.]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΤΟΥ ΤΙΤΕΛ[.]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[------]is</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[------]ΙΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="39" xml:id="provenance-12-inscription-227" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-227-p-236">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni s[em]on t[ou] knou/man[e]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ Σ[ΕΜ]ΟΝ Τ[ΟΥ] ΚΝΟΥ/ΜΑΝ[Ε]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun ti [a.d]da/ket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ ΤΙ [Α.Δ]ΔΑ/ΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">d.ios [k]e s.zemelOs ke. tit [t]e[t]ikmen.[os] ei/to[u]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Δ.ΙΟΣ [Κ]Ε Σ.ΖΕΜΕΛΩΣ ΚΕ. ΤΙΤ [Τ]Ε[Τ]ΙΚΜΕΝ.[ΟΣ] ΕΙ/ΤΟ[Υ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">at tiE ke adeitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΤ ΤΙΗ ΚΕ ΑΔΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="40" xml:id="provenance-12-inscription-228" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-228-p-237">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun knoumane kaken</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ ΚΑΚΕΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">addaketor deOs zemelOs ke tit</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΔΑΚΕΤΟΡ ΔΕΩΣ ΖΕΜΕΛΩΣ ΚΕ ΤΙΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tetikmenos eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="42" xml:id="provenance-12-inscription-229" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-229-p-238">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semon [k]n[o]uman[ei kak]o[un dake]/[t]ai</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΝ [Κ]Ν[Ο]ΥΜΑΝ[ΕΙ ΚΑΚ]Ο[ΥΝ ΔΑΚΕ]/[Τ]ΑΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">satra[...]tE[..... [ze]/melOs</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΣΑΤΡΑ[...]ΤΗ[..... [ΖΕ]/ΜΕΛΩΣ</rdg>
+						</app>
+					</p>
+					<div n="3" xml:id="provenance-12-inscription-229-line-28" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-229-line-28-p-239">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ke [d]e[O]s me konnou ke isnio[u]</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΚΕ [Δ]Ε[Ω]Σ ΜΕ ΚΟΝΝΟΥ ΚΕ ΙΣΝΙΟ[Υ]</foreign>
+							<foreign xml:lang="eng-Latn">Br.1,2: 2</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ke</foreign>
+							<foreign xml:lang="eng-Latn">instead of</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">me</foreign>
+						</p>
+					</div>
+					<p xml:id="provenance-12-inscription-229-p-240">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ai partEs</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΙ ΠΑΡΤΗΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="43" xml:id="provenance-12-inscription-230" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-230-p-241">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[i]os ni semoun knou[m]anei kakoun addaket aini a/[teama?</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[Ι]ΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥ[Μ]ΑΝΕΙ ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ ΑΙΝΙ Α/[ΤΕΑΜΑ?</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="44" xml:id="provenance-12-inscription-231" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-12-inscription-231-line-29" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-231-line-29-p-242">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[i]os a.n. s.[emoun kakou]n. k.n.ou.m./manei doke[t at t]i adeitou</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">[Ι]ΟΣ Α.Ν. Σ.[ΕΜΟΥΝ ΚΑΚΟΥ]Ν. Κ.Ν.ΟΥ.Μ./ΜΑΝΕΙ ΔΟΚΕ[Τ ΑΤ Τ]Ι ΑΔΕΙΤΟΥ</foreign>
+							<foreign xml:lang="eng-Latn">Br. 1,1: 16</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">os</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="45" xml:id="provenance-12-inscription-232" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-232-p-243">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios sem.ou [k]noum./anei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΣΕΜ.ΟΥ [Κ]ΝΟΥΜ./ΑΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakeu.n addaket.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΕΥ.Ν ΑΔΔΑΚΕΤ.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tit tetikmen.os at ti/e</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΤ ΤΕΤΙΚΜΕΝ.ΟΣ ΑΤ ΤΙ/Ε</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">adeitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="47" xml:id="provenance-12-inscription-233" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-233-p-244">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni sem[un]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜ[ΥΝ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">knoum[a]/nei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΝΟΥΜ[Α]/ΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kako[u]n</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟ[Υ]Ν</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="48" xml:id="provenance-12-inscription-234" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-234-p-245">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">e[--]t.ent.oumenos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Ε[--]Τ.ΕΝΤ.ΟΥΜΕΝΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">nioisios nadrotos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΝΙΟΙΣΙΟΣ ΝΑΔΡΟΤΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eitou Mitraphata</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΤΟΥ ΜΙΤΡΑΦΑΤΑ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ke mas temroge/ios</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΕ ΜΑΣ ΤΕΜΡΟΓΕ/ΙΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ke pountas</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΕ ΠΟΥΝΤΑΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">bas ke enstarna.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΒΑΣ ΚΕ ΕΝΣΤΑΡΝΑ.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[-]doum(e) ke oi ou(e)/ban</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[-]ΔΟΥΜ(Ε) ΚΕ ΟΙ ΟΥ(Ε)/ΒΑΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">addaket orou/an</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΔΑΚΕΤ ΟΡΟΥ/ΑΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="51" xml:id="provenance-12-inscription-235" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-235-p-246">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ios sem]on re./k.teon.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΙΟΣ ΣΕΜ]ΟΝ ΡΕ./Κ.ΤΕΟΝ.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[kakou]n ad[a]/ke</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΚΑΚΟΥ]Ν ΑΔ[Α]/ΚΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ate[tikmeno]s at t[i]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΤΕ[ΤΙΚΜΕΝΟ]Σ ΑΤ Τ[Ι]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">adei[tou----]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΕΙ[ΤΟΥ----]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="53." xml:id="provenance-12-inscription-236" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-236-p-247">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun kn[ou]/mmanei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝ[ΟΥ]/ΜΜΑΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun [a]/ddakett</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ [Α]/ΔΔΑΚΕΤΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">a.ika.i</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Α.ΙΚΑ.Ι</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tit tetikmen[os]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΤ ΤΕΤΙΚΜΕΝ[ΟΣ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">as tian eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΣ ΤΙΑΝ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="54" xml:id="provenance-12-inscription-237" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-237-p-248">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">os ke</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΟΣ ΚΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">semoun kno[u]ma/nei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΣΕΜΟΥΝ ΚΝΟ[Υ]ΜΑ/ΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun do/ket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ ΔΟ/ΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">atti adei[tou----</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΤΤΙ ΑΔΕΙ[ΤΟΥ----</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="55" xml:id="provenance-12-inscription-238" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-238-p-249">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">io[s ni sem]oun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟ[Σ ΝΙ ΣΕΜ]ΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">k[nouma]nei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Κ[ΝΟΥΜΑ]ΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">k[akou]n adda/k[et</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Κ[ΑΚΟΥ]Ν ΑΔΔΑ/Κ[ΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">..]ioi pou/s[ous]i</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">..]ΙΟΙ ΠΟΥ/Σ[ΟΥΣ]Ι</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">diisin   [?]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΔΙΙΣΙΝ   [?]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="56" xml:id="provenance-12-inscription-239" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-239-p-250">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[i]os sas tou skered./rias</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[Ι]ΟΣ ΣΑΣ ΤΟΥ ΣΚΕΡΕΔ./ΡΙΑΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun daket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ ΔΑΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">t.i.t tetikmenos [..../.]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Τ.Ι.Τ ΤΕΤΙΚΜΕΝΟΣ [..../.]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">at tie eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΤ ΤΙΕ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="57" xml:id="provenance-12-inscription-240" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-240-p-251">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun knou/manei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥ/ΜΑΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun ad/daket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ ΑΔ/ΔΑΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tit tetikmenos at ti adei/tou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΑΤ ΤΙ ΑΔΕΙ/ΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="58" xml:id="provenance-12-inscription-241" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-241-p-252">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">monanm(-)ro tiEion egesi/t</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΜΟΝΑΝΜ(-)ΡΟ ΤΙΗΙΟΝ ΕΓΕΣΙ/Τ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ge/gri/me/no/n</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΓΕ/ΓΡΙ/ΜΕ/ΝΟ/Ν</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="59" xml:id="provenance-12-inscription-242" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-242-p-253">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">---------</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">---------</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kak[oun] addake/t</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚ[ΟΥΝ] ΑΔΔΑΚΕ/Τ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">gegreimenan e/ged[ou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΓΕΓΡΕΙΜΕΝΑΝ Ε/ΓΕΔ[ΟΥ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">t]ios ou&lt;t&gt;an</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Τ]ΙΟΣ ΟΥ((Τ))ΑΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="60" xml:id="provenance-12-inscription-243" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-243-p-254">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni san</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΑΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun ad[da]ke mankai geg.[re]ime/nan</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ ΑΔ[ΔΑ]ΚΕ ΜΑΝΚΑΙ ΓΕΓ.[ΡΕ]ΙΜΕ/ΝΑΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">egedou tios</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΓΕΔΟΥ ΤΙΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">outan</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΟΥΤΑΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="61" xml:id="provenance-12-inscription-244" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-244-p-255">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tou knouma/nei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΟΥ ΚΝΟΥΜΑ/ΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakon a/daket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΝ Α/ΔΑΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ti teti/kmenos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙ ΤΕΤΙ/ΚΜΕΝΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">at tie</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΤ ΤΙΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">adeitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="62" xml:id="provenance-12-inscription-245" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-245-p-256">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semun knou/manei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΥΝ ΚΝΟΥ/ΜΑΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakun adda/ket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΥΝ ΑΔΔΑ/ΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">aikan at tiE ke</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΙΚΑΝ ΑΤ ΤΙΗ ΚΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">deOs ke tit tetikme/nos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΔΕΩΣ ΚΕ ΤΙΤ ΤΕΤΙΚΜΕ/ΝΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="63" xml:id="provenance-12-inscription-246" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-246-p-257">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun knoumane kakoun adda/ketor</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ ΚΑΚΟΥΝ ΑΔΔΑ/ΚΕΤΟΡ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">deOs zemelOs te ti⌐te¬ te/ti[kmeno]s</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΔΕΩΣ ΖΕΜΕΛΩΣ ΤΕ ΤΙ[[ΤΕ]] ΤΕ/ΤΙ[ΚΜΕΝΟ]Σ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[eitou]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΕΙΤΟΥ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="64" xml:id="provenance-12-inscription-247" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-247-p-258">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ai kos [semoun tou knouman]/ei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΙ ΚΟΣ [ΣΕΜΟΥΝ ΤΟΥ ΚΝΟΥΜΑΝ]/ΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ka[koun addaket] geg[aritmenos eitou me ke oi toto]ssei [ti bas bekos]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑ[ΚΟΥΝ ΑΔΔΑΚΕΤ] ΓΕΓ[ΑΡΙΤΜΕΝΟΣ ΕΙΤΟΥ ΜΕ ΚΕ ΟΙ ΤΟΤΟ]ΣΣΕΙ [ΤΙ ΒΑΣ ΒΕΚΟΣ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="65" xml:id="provenance-12-inscription-248" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-248-p-259">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios semou knouman[ei ka]kou[n] a[ddaket] at ti/E</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΣΕΜΟΥ ΚΝΟΥΜΑΝ[ΕΙ ΚΑ]ΚΟΥ[Ν] Α[ΔΔΑΚΕΤ] ΑΤ ΤΙ/Η</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">th.it [t]e[t]ikmeno[s ad]eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Θ.ΙΤ [Τ]Ε[Τ]ΙΚΜΕΝΟ[Σ ΑΔ]ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="67" xml:id="provenance-12-inscription-249" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-249-p-260">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">sa ti skeledriai</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΣΑ ΤΙ ΣΚΕΛΕΔΡΙΑΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun daket a</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ ΔΑΚΕΤ Α</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tetikmenos at</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΕΤΙΚΜΕΝΟΣ ΑΤ</rdg>
+						</app>
+					</p>
+					<div n="5" xml:id="provenance-12-inscription-249-line-30" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-249-line-30-p-261">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ti adeitou</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΤΙ ΑΔΕΙΤΟΥ</foreign>
+							<foreign xml:lang="eng-Latn">Br. 2,2: 178</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">atetikmenos;</foreign>
+							<foreign xml:lang="eng-Latn">Calderʼs dr. (1911: 213) shows</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">as tian. eitou</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="68" xml:id="provenance-12-inscription-250" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-250-p-262">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni &lt;s&gt;em[on knoumane ka]/koun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ((Σ))ΕΜ[ΟΝ ΚΝΟΥΜΑΝΕ ΚΑ]/ΚΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">adake[...]e ti[t] tetik[menos eitou]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΑΚΕ[...]Ε ΤΙ[Τ] ΤΕΤΙΚ[ΜΕΝΟΣ ΕΙΤΟΥ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="69" xml:id="provenance-12-inscription-251" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-251-p-263">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">einea. m./dous</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΝΕΑ. Μ./ΔΟΥΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kseu/ne</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΞΕΥ/ΝΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">peir a/reopade/n</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΠΕΙΡ Α/ΡΕΟΠΑΔΕ/Ν</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">atO kn.ou./man</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΤΩ ΚΝ.ΟΥ./ΜΑΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[o]u.ekr/O</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[Ο]Υ.ΕΚΡ/Ω</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">dadOne/i</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΔΑΔΩΝΕ/Ι</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">onoueiai (?) ei/roi</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΟΝΟΥΕΙΑΙ (?) ΕΙ/ΡΟΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">te alenp/a.tEs</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΕ ΑΛΕΝΠ/Α.ΤΗΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">deous./ias</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΔΕΟΥΣ./ΙΑΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">maneis</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΜΑΝΕΙΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">dadOn ke/okk</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΔΑΔΩΝ ΚΕ/ΟΚΚ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">augoi</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΥΓΟΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ourn.kusae/n</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΟΥΡΝ.ΚΥΣΑΕ/Ν</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios sai ka/kon</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΣΑΙ ΚΑ/ΚΟΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">adda/ket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΔΑ/ΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">mank/ai</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΜΑΝΚ/ΑΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">t.[--] ni</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Τ.[--] ΝΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">z&lt;emel&gt;O.s k.e peis ke ti te/tikmenos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Ζ((ΕΜΕΛ))Ω.Σ Κ.Ε ΠΕΙΣ ΚΕ ΤΙ ΤΕ/ΤΙΚΜΕΝΟΣ</rdg>
+						</app>
+					</p>
+					<div n="19" xml:id="provenance-12-inscription-251-line-31" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-251-line-31-p-264">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eitou</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΤΟΥ</foreign>
+							<foreign xml:lang="eng-Latn">Br. 1,1: 16; 90:</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">peie,</foreign>
+							<foreign xml:lang="eng-Latn">Heubeck 1987, diff. Calder, B-O.</foreign>
+							<foreign xml:lang="eng-Latn">Laminger-Pascher 1991: the beginning is a Greek epitaph</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="70" xml:id="provenance-12-inscription-252" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-252-p-265">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios [-- semoun]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ [-- ΣΕΜΟΥΝ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kn[oumanei k]/ako[un</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΝ[ΟΥΜΑΝΕΙ Κ]/ΑΚΟ[ΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">adda]/ket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΔΑ]/ΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[tetik]/me[nos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΤΕΤΙΚ]/ΜΕ[ΝΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">at ti]/e</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΤ ΤΙ]/Ε</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">a[deitou]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Α[ΔΕΙΤΟΥ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="71" xml:id="provenance-12-inscription-253" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-253-p-266">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tis k egere[t]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΣ Κ ΕΓΕΡΕ[Τ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tit tetikm[e]noi innou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΤ ΤΕΤΙΚΜ[Ε]ΝΟΙ ΙΝΝΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="72" xml:id="provenance-12-inscription-254" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-254-p-267">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios [----s]em.oun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ [----Σ]ΕΜ.ΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">koussllon kakon</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΟΥΣΣΛΛΟΝ ΚΑΚΟΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">adaket [t]i te.tikme/n.os</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΑΚΕΤ [Τ]Ι ΤΕ.ΤΙΚΜΕ/Ν.ΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[at]ti a.d.eit.ou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΑΤ]ΤΙ Α.Δ.ΕΙΤ.ΟΥ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[..]kos i.[....]kkitor ([adda]kkitor?) ke [........]e a[u?]/tos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[..]ΚΟΣ Ι.[....]ΚΚΙΤΟΡ ([ΑΔΔΑ]ΚΚΙΤΟΡ?) ΚΕ [........]Ε Α[Υ?]/ΤΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="73" xml:id="provenance-12-inscription-255" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-255-p-268">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semon knoumani kakon abberetor ai.ni. sas mdu.ei---</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑΝΙ ΚΑΚΟΝ ΑΒΒΕΡΕΤΟΡ ΑΙ.ΝΙ. ΣΑΣ ΜΔΥ.ΕΙ---</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="75" xml:id="provenance-12-inscription-256" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-12-inscription-256-line-32" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-256-line-32-p-269">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios kakon abberetor. knoumanei aini [...] zemelOs ite tit tetikmenos eitou</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΚΑΚΟΝ ΑΒΒΕΡΕΤΟΡ. ΚΝΟΥΜΑΝΕΙ ΑΙΝΙ [...] ΖΕΜΕΛΩΣ ΙΤΕ ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ</foreign>
+							<foreign xml:lang="eng-Latn">Br. 1,1: 10-1 =</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tie</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="76" xml:id="provenance-12-inscription-257" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-257-p-270">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semin t knoumanei kakoun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΙΝ Τ ΚΝΟΥΜΑΝΕΙ ΚΑΚΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">addaket tit tetikmenos at ti adei/tou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΔΑΚΕΤ ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΑΤ ΤΙ ΑΔΕΙ/ΤΟΥ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ak ke oi bekos akkalos ti dre&lt;g&gt;roun eitou gegreimenan k e/gedou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΚ ΚΕ ΟΙ ΒΕΚΟΣ ΑΚΚΑΛΟΣ ΤΙ ΔΡΕ((Γ))ΡΟΥΝ ΕΙΤΟΥ ΓΕΓΡΕΙΜΕΝΑΝ Κ Ε/ΓΕΔΟΥ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tios ou/ta/n</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΟΣ ΟΥ/ΤΑ/Ν</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="77" xml:id="provenance-12-inscription-258" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-258-p-271">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ios ...knouma]/[n]ei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΙΟΣ ...ΚΝΟΥΜΑ]/[Ν]ΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kak[ou]n ad[d]aket tit tetikmenos at ti adeitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚ[ΟΥ]Ν ΑΔ[Δ]ΑΚΕΤ ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΑΤ ΤΙ ΑΔΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="78" xml:id="provenance-12-inscription-259" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-259-p-272">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios semoun [k]/noumane</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΣΕΜΟΥΝ [Κ]/ΝΟΥΜΑΝΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ka./koun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑ./ΚΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ad[d]aket [t]etikme[no]s</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔ[Δ]ΑΚΕΤ [Τ]ΕΤΙΚΜΕ[ΝΟ]Σ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ei[t]o[u--------]lo</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΙ[Τ]Ο[Υ--------]ΛΟ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="79" xml:id="provenance-12-inscription-260" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-260-p-273">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[i]os semoun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[Ι]ΟΣ ΣΕΜΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[kno]u.manei ka/[kou]n</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΚΝΟ]Υ.ΜΑΝΕΙ ΚΑ/[ΚΟΥ]Ν</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">addaket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΔΑΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[...]eretor [------]emerE</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[...]ΕΡΕΤΟΡ [------]ΕΜΕΡΗ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[...]u. orboun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[...]Υ. ΟΡΒΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[----]tos tu[-] [---geg]aritm/[enos]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[----]ΤΟΣ ΤΥ[-] [---ΓΕΓ]ΑΡΙΤΜ/[ΕΝΟΣ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="80" xml:id="provenance-12-inscription-261" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-261-p-274">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ios semo]un knou/[manei]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΙΟΣ ΣΕΜΟ]ΥΝ ΚΝΟΥ/[ΜΑΝΕΙ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[--a]ddaket tit [tet]ikmeno[s] at ti ad/eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[--Α]ΔΔΑΚΕΤ ΤΙΤ [ΤΕΤ]ΙΚΜΕΝΟ[Σ] ΑΤ ΤΙ ΑΔ/ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="81" xml:id="provenance-12-inscription-262" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-262-p-275">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios kn.[oumanei...</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΚΝ.[ΟΥΜΑΝΕΙ...</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="82" xml:id="provenance-12-inscription-263" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-263-p-276">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni sa tou manka kakoun ad/daket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΑ ΤΟΥ ΜΑΝΚΑ ΚΑΚΟΥΝ ΑΔ/ΔΑΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ti tetikmenos eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="84" xml:id="provenance-12-inscription-264" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-264-p-277">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios sem[oun tou]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΣΕΜ[ΟΥΝ ΤΟΥ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">knou[manei----</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΝΟΥ[ΜΑΝΕΙ----</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="85" xml:id="provenance-12-inscription-265" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-265-p-278">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[tetikmen]o.s at ti adeitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΤΕΤΙΚΜΕΝ]Ο.Σ ΑΤ ΤΙ ΑΔΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="86" xml:id="provenance-12-inscription-266" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-266-p-279">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun k[nou]/mani</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ Κ[ΝΟΥ]/ΜΑΝΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun add[a]/ket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ ΑΔΔ[Α]/ΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">aini mankEs ba[s]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΙΝΙ ΜΑΝΚΗΣ ΒΑ[Σ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ioi bekos me bere[.]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΙ ΒΕΚΟΣ ΜΕ ΒΕΡΕ[.]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">a.t tiE ke ti tetikm[e]/nos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Α.Τ ΤΙΗ ΚΕ ΤΙ ΤΕΤΙΚΜ[Ε]/ΝΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="87" xml:id="provenance-12-inscription-267" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-267-p-280">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun knoumanei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun adaket aini tiamas a ti adeitou o.ue.las ke</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ ΑΔΑΚΕΤ ΑΙΝΙ ΤΙΑΜΑΣ Α ΤΙ ΑΔΕΙΤΟΥ Ο.ΥΕ.ΛΑΣ ΚΕ</rdg>
+						</app>
+					</p>
+					<div n="3" xml:id="provenance-12-inscription-267-line-33" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-267-line-33-p-281">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tou ke isnou astoi partEs</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΤΟΥ ΚΕ ΙΣΝΟΥ ΑΣΤΟΙ ΠΑΡΤΗΣ</foreign>
+							<foreign xml:lang="eng-Latn">Br. 90: 81</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ao.toi</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="88" xml:id="provenance-12-inscription-268" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-268-p-282">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ni semoun knoumanei kake</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕΙ ΚΑΚΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">addaket aOrO ouenaouias tig</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΔΑΚΕΤ ΑΩΡΩ ΟΥΕΝΑΟΥΙΑΣ ΤΙΓ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">gegaritmeno&lt;s&gt; eitou pour ouana/ktan</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΓΕΓΑΡΙΤΜΕΝΟ((Σ)) ΕΙΤΟΥ ΠΟΥΡ ΟΥΑΝΑ/ΚΤΑΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ke ouranion isgeiket diounsin</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΕ ΟΥΡΑΝΙΟΝ ΙΣΓΕΙΚΕΤ ΔΙΟΥΝΣΙΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="89" xml:id="provenance-12-inscription-269" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-269-p-283">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni se[moun knoumanei...]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕ[ΜΟΥΝ ΚΝΟΥΜΑΝΕΙ...]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="90" xml:id="provenance-12-inscription-270" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-270-p-284">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ios semoun</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΙΟΣ ΣΕΜΟΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">knoum]ane kakoun addaket e.t.tetikmenos eito[u]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΝΟΥΜ]ΑΝΕ ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ Ε.Τ.ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟ[Υ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="91" xml:id="provenance-12-inscription-271" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-271-p-285">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ios ni se]m.on [knoumanei]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΙΟΣ ΝΙ ΣΕ]Μ.ΟΝ [ΚΝΟΥΜΑΝΕΙ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[k]a.kou.[n a]bberet oi a[i]ni</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[Κ]Α.ΚΟΥ.[Ν Α]ΒΒΕΡΕΤ ΟΙ Α[Ι]ΝΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">a.s.tat s.a. m[anka?]/e</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Α.Σ.ΤΑΤ Σ.Α. Μ[ΑΝΚΑ?]/Ε</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ti]/t</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΤΙ]/Τ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tetikmenos eito[u]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟ[Υ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="92" xml:id="provenance-12-inscription-272" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-272-p-286">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni s[emoun knou]/mane</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ Σ[ΕΜΟΥΝ ΚΝΟΥ]/ΜΑΝΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun [addaket ai]/ni</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ [ΑΔΔΑΚΕΤ ΑΙ]/ΝΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">korou ou[e.ban egeret? zem]/elOsi</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΟΡΟΥ ΟΥ[Ε.ΒΑΝ ΕΓΕΡΕΤ? ΖΕΜ]/ΕΛΩΣΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ke deOs [ke attie]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΕ ΔΕΩΣ [ΚΕ ΑΤΤΙΕ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ke ti tetikm[enos eitou]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΕ ΤΙ ΤΕΤΙΚΜ[ΕΝΟΣ ΕΙΤΟΥ]</rdg>
+						</app>
+					</p>
+					<div n="6" xml:id="provenance-12-inscription-272-line-34" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-272-line-34-p-287">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ke ot ektei[sei ?]</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΚΕ ΟΤ ΕΚΤΕΙ[ΣΕΙ ?]</foreign>
+							<foreign xml:lang="eng-Latn">Br. 1,1: 11; 1,2: 2</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="93" xml:id="provenance-12-inscription-273" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-273-p-288">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semon</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">knoumane kakon.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΝΟΥΜΑΝΕ ΚΑΚΟΝ.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">adaket deOs zemelOs ti tetik/menos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΑΚΕΤ ΔΕΩΣ ΖΕΜΕΛΩΣ ΤΙ ΤΕΤΙΚ/ΜΕΝΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="94" xml:id="provenance-12-inscription-274" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-274-p-289">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ios s]a makka kakoun adaket at tie ti tetikmenos eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΙΟΣ Σ]Α ΜΑΚΚΑ ΚΑΚΟΥΝ ΑΔΑΚΕΤ ΑΤ ΤΙΕ ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="95" xml:id="provenance-12-inscription-275" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-275-p-290">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios semoun knoumane kakoun [----]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ ΚΑΚΟΥΝ [----]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="96" xml:id="provenance-12-inscription-276" type="inscription" data-level="2">
+					<div n="1" xml:id="provenance-12-inscription-276-line-35" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-276-line-35-p-291">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">os an toutO tO mnEmeiO kakOs prospoiEsei E tois progegrammenois upenantion ti praksE</foreign>
+							<foreign xml:lang="eng-Latn">Greek</foreign>
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">me deOs ke zemelOs ke ti tetikmenos eitou</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΟΣ ΑΝ ΤΟΥΤΩ ΤΩ ΜΝΗΜΕΙΩ ΚΑΚΩΣ ΠΡΟΣΠΟΙΗΣΕΙ Η ΤΟΙΣ ΠΡΟΓΕΓΡΑΜΜΕΝΟΙΣ ΥΠΕΝΑΝΤΙΟΝ ΤΙ ΠΡΑΞΗ</foreign>
+							<foreign xml:lang="eng-Latn">Greek</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΜΕ ΔΕΩΣ ΚΕ ΖΕΜΕΛΩΣ ΚΕ ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="97" xml:id="provenance-12-inscription-277" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-277-p-292">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semon knoumane kaken adaket aini manka me ze&lt;me&gt;lOs ke deOs ke tie ti tetikm[enos eitou]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑΝΕ ΚΑΚΕΝ ΑΔΑΚΕΤ ΑΙΝΙ ΜΑΝΚΑ ΜΕ ΖΕ((ΜΕ))ΛΩΣ ΚΕ ΔΕΩΣ ΚΕ ΤΙΕ ΤΙ ΤΕΤΙΚΜ[ΕΝΟΣ ΕΙΤΟΥ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="98" xml:id="provenance-12-inscription-278" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-278-p-293">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">dakaren pa/terEs</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΔΑΚΑΡΕΝ ΠΑ/ΤΕΡΗΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eukin</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΥΚΙΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">argou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΡΓΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="99" xml:id="provenance-12-inscription-279" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-279-p-294">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni s.emon knoumanei ka./ke.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ Σ.ΕΜΟΝ ΚΝΟΥΜΑΝΕΙ ΚΑ./ΚΕ.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">adaket ti tetikmenos as tian e.itou me ke oi totossei ti bas bekos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΔΑΚΕΤ ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΑΣ ΤΙΑΝ Ε.ΙΤΟΥ ΜΕ ΚΕ ΟΙ ΤΟΤΟΣΣΕΙ ΤΙ ΒΑΣ ΒΕΚΟΣ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="100" xml:id="provenance-12-inscription-280" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-280-p-295">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios semin knoumane mourou[n da/ket</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΣΕΜΙΝ ΚΝΟΥΜΑΝΕ ΜΟΥΡΟΥ[Ν ΔΑ/ΚΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ai]ni kakoun kin ti tetikmen[os]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΙ]ΝΙ ΚΑΚΟΥΝ ΚΙΝ ΤΙ ΤΕΤΙΚΜΕΝ[ΟΣ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[at t]ie ade.[i]tou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΑΤ Τ]ΙΕ ΑΔΕ.[Ι]ΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="101" xml:id="provenance-12-inscription-281" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-281-p-296">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ios--- kno]unmanei kakoun ad/daket...</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΙΟΣ--- ΚΝΟ]ΥΝΜΑΝΕΙ ΚΑΚΟΥΝ ΑΔ/ΔΑΚΕΤ...</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[..tetikme]n.os at ti adeitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[..ΤΕΤΙΚΜΕ]Ν.ΟΣ ΑΤ ΤΙ ΑΔΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="102" xml:id="provenance-12-inscription-282" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-282-p-297">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[i]os ni semon knoumane</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[Ι]ΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑΝΕ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ka]kon adaket aini a tea.m./[as</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΚΑ]ΚΟΝ ΑΔΑΚΕΤ ΑΙΝΙ Α ΤΕΑ.Μ./[ΑΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">a] tie ti tetikmenos eit/[ou]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Α] ΤΙΕ ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤ/[ΟΥ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="103" xml:id="provenance-12-inscription-283" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-283-p-298">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ios] semon ti knoumani k[ak/on</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΙΟΣ] ΣΕΜΟΝ ΤΙ ΚΝΟΥΜΑΝΙ Κ[ΑΚ/ΟΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">a]beret⌐i.t.e.t.i.k.-¬partan to[s]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Α]ΒΕΡΕΤ[[Ι.Τ.Ε.Τ.Ι.Κ.-]]ΠΑΡΤΑΝ ΤΟ[Σ]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ni me] z.i[melO] a tia titikmenos [eit]ou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΝΙ ΜΕ] Ζ.Ι[ΜΕΛΩ] Α ΤΙΑ ΤΙΤΙΚΜΕΝΟΣ [ΕΙΤ]ΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="104" xml:id="provenance-12-inscription-284" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-284-p-299">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">]kmenos eitou[</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">]ΚΜΕΝΟΣ ΕΙΤΟΥ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="105" xml:id="provenance-12-inscription-285" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-285-p-300">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun kno/unmanei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟ/ΥΝΜΑΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun ada/[k]et</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ ΑΔΑ/[Κ]ΕΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">gegreimenan egedo/u</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΓΕΓΡΕΙΜΕΝΑΝ ΕΓΕΔΟ/Υ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tios outa.n. [.....]/[...</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΟΣ ΟΥΤΑ.Ν. [.....]/[...</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="106" xml:id="provenance-12-inscription-286" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-286-p-301">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semoun knou/manei</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥ/ΜΑΝΕΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kakoun adoket zeirai ti</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚΟΥΝ ΑΔΟΚΕΤ ΖΕΙΡΑΙ ΤΙ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tetikmenos at</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΕΤΙΚΜΕΝΟΣ ΑΤ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ti adeitou gegreimenon k egedou orouenos outon</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙ ΑΔΕΙΤΟΥ ΓΕΓΡΕΙΜΕΝΟΝ Κ ΕΓΕΔΟΥ ΟΡΟΥΕΝΟΣ ΟΥΤΟΝ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="107" xml:id="provenance-12-inscription-287" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-287-p-302">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios semin kno[</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΣΕΜΙΝ ΚΝΟ[</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="108" xml:id="provenance-12-inscription-288" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-288-p-303">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios n[i semun k]noumanei kako[un addake]et.  t.it tetikme[nos a]t.[ti] a.d.eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ Ν[Ι ΣΕΜΥΝ Κ]ΝΟΥΜΑΝΕΙ ΚΑΚΟ[ΥΝ ΑΔΔΑΚΕ]ΕΤ. Τ.ΙΤ ΤΕΤΙΚΜΕ[ΝΟΣ Α]Τ.[ΤΙ] Α.Δ.ΕΙΤΟΥ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">gegreime[nan k eged]ou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΓΕΓΡΕΙΜΕ[ΝΑΝ Κ ΕΓΕΔ]ΟΥ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tios out[an akke oi] bek/os</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΙΟΣ ΟΥΤ[ΑΝ ΑΚΚΕ ΟΙ] ΒΕΚ/ΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">akkal.o.[s ti dr]e.groun eido[u]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΚΚΑΛ.Ο.[Σ ΤΙ ΔΡ]Ε.ΓΡΟΥΝ ΕΙΔΟ[Υ]</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="109" xml:id="provenance-12-inscription-289" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-289-p-304">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni/[...</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ/[...</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="110" xml:id="provenance-12-inscription-290" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-290-p-305">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios semoun kno[u]/m.[an]e.i.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΣΕΜΟΥΝ ΚΝΟ[Υ]/Μ.[ΑΝ]Ε.Ι.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">kak[oun...</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΑΚ[ΟΥΝ...</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="111" xml:id="provenance-12-inscription-291" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-291-p-306">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">(...).os adaket bas ioi be.kos meberet (...)</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">(...).ΟΣ ΑΔΑΚΕΤ ΒΑΣ ΙΟΙ ΒΕ.ΚΟΣ ΜΕΒΕΡΕΤ (...)</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">?[ios semoun knoumin]os (e=s)</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">?[ΙΟΣ ΣΕΜΟΥΝ ΚΝΟΥΜΙΝ]ΟΣ (ΕἦΣ)</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="112" xml:id="provenance-12-inscription-292" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-292-p-307">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[i]os ni semon knoumanei kakon adak/(e)t.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[Ι]ΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑΝΕΙ ΚΑΚΟΝ ΑΔΑΚ/(Ε)Τ.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">aini a te(a)mas me deOs tie tit tetikm/enos</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΙΝΙ Α ΤΕ(Α)ΜΑΣ ΜΕ ΔΕΩΣ ΤΙΕ ΤΙΤ ΤΕΤΙΚΜ/ΕΝΟΣ</rdg>
+						</app>
+					</p>
+					<div n="3" xml:id="provenance-12-inscription-292-line-36" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-292-line-36-p-308">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eitou</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΤΟΥ</foreign>
+							<foreign xml:lang="eng-Latn">(e=s, a=l)</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="113" xml:id="provenance-12-inscription-293" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-293-p-309">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[-------------]/[kako]un</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[-------------]/[ΚΑΚΟ]ΥΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">abbereto(r) me szemelOs ke duOs ke tit.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΑΒΒΕΡΕΤΟ(Ρ) ΜΕ ΣΖΕΜΕΛΩΣ ΚΕ ΔΥΩΣ ΚΕ ΤΙΤ.</rdg>
+						</app>
+					</p>
+					<div n="3" xml:id="provenance-12-inscription-293-line-37" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-293-line-37-p-310">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[tetikmenos eitou]</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">[ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ]</foreign>
+							<foreign xml:lang="eng-Latn">(r=i)</foreign>
+						</p>
+					</div>
+				</div>
+				<div n="114" xml:id="provenance-12-inscription-294" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-294-p-311">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[ios ni semon knou]manE kakon abbe/[ret xxxxxxxxxxx]on</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[ΙΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥ]ΜΑΝΗ ΚΑΚΟΝ ΑΒΒΕ/[ΡΕΤ xxxxxxxxxxx]ΟΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">mros sas, ios</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΜΡΟΣ ΣΑΣ, ΙΟΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">[xxxxxxxxxxxxxx]edan tiE ti t[e/tikmeno]s</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">[xxxxxxxxxxxxxx]ΕΔΑΝ ΤΙΗ ΤΙ Τ[Ε/ΤΙΚΜΕΝΟ]Σ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="115" xml:id="provenance-12-inscription-295" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-295-p-312">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ios ni semon knoumanei kakon adaket aini sa t(o)u teamas tie tit tetikmenos eitou</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΙΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑΝΕΙ ΚΑΚΟΝ ΑΔΑΚΕΤ ΑΙΝΙ ΣΑ Τ(Ο)Υ ΤΕΑΜΑΣ ΤΙΕ ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ</rdg>
+						</app>
+					</p>
+				</div>
+				<div n="116" xml:id="provenance-12-inscription-296" type="inscription" data-level="2">
+					<p xml:id="provenance-12-inscription-296-p-313">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ks.e.unei osos ke deton.? [u]/psod.an</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Ξ.Ε.ΥΝΕΙ ΟΣΟΣ ΚΕ ΔΕΤΟΝ.? [Υ]/ΨΟΔ.ΑΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">ke ta.n saunaman [ke?]</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΚΕ ΤΑ.Ν ΣΑΥΝΑΜΑΝ [ΚΕ?]</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">k.no.uman k akrodman ke lo.?[i]/d.im.on</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Κ.ΝΟ.ΥΜΑΝ Κ ΑΚΡΟΔΜΑΝ ΚΕ ΛΟ.?[Ι]/Δ.ΙΜ.ΟΝ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">meiomon riditi tai to a.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΜΕΙΟΜΟΝ ΡΙΔΙΤΙ ΤΑΙ ΤΟ Α.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">m.e. o.n.om.anias enarke ermO-?/l?o.s?</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Μ.Ε. Ο.Ν.ΟΜ.ΑΝΙΑΣ ΕΝΑΡΚΕ ΕΡΜΩ-?/Λ?Ο.Σ?</rdg>
+						</app>
+					</p>
+					<div n="6" xml:id="provenance-12-inscription-296-line-38" type="line" data-level="3">
+						<p xml:id="provenance-12-inscription-296-line-38-p-314">
+							<foreign xml:lang="xpg-Latn-x-neo-phrygian-transliterated">knaiko eka.tEas</foreign>
+							<foreign xml:lang="eng-Latn">⌐vac.¬</foreign>
+							<foreign xml:lang="xpg-Grek-x-neo-phrygian">ΚΝΑΙΚΟ ΕΚΑ.ΤΗΑΣ</foreign>
+							<foreign xml:lang="eng-Latn">⌐vac.¬</foreign>
+						</p>
+					</div>
+					<p xml:id="provenance-12-inscription-296-p-315">
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">o.m.o.usas ai pos ekanes aka--?</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Ο.Μ.Ο.ΥΣΑΣ ΑΙ ΠΟΣ ΕΚΑΝΕΣ ΑΚΑ--?</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">d.eopokgonion teutOsi ie--?</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Δ.ΕΟΠΟΚΓΟΝΙΟΝ ΤΕΥΤΩΣΙ ΙΕ--?</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">n.?o.utais edaes pinketas d.-/k.erEs</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Ν.?Ο.ΥΤΑΙΣ ΕΔΑΕΣ ΠΙΝΚΕΤΑΣ Δ.-/Κ.ΕΡΗΣ</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">onomaniais m.i.rouik.</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΟΝΟΜΑΝΙΑΙΣ Μ.Ι.ΡΟΥΙΚ.</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">k.naikan edaes is argmena-?</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Κ.ΝΑΙΚΑΝ ΕΔΑΕΣ ΙΣ ΑΡΓΜΕΝΑ-?</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">o.p.ariko oan oe autai is ke en.?</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">Ο.Π.ΑΡΙΚΟ ΟΑΝ ΟΕ ΑΥΤΑΙ ΙΣ ΚΕ ΕΝ.?</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">tois?inioi knouman tian te-</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">ΤΟΙΣ?ΙΝΙΟΙ ΚΝΟΥΜΑΝ ΤΙΑΝ ΤΕ-</rdg>
+						</app>
+						<app>
+							<rdg xml:lang="xpg-Latn-x-neo-phrygian-transliterated">-mard.i idetoi oinis</rdg>
+							<rdg xml:lang="xpg-Grek-x-neo-phrygian">-ΜΑΡΔ.Ι ΙΔΕΤΟΙ ΟΙΝΙΣ</rdg>
+						</app>
+					</p>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>
