@@ -1396,7 +1396,9 @@
                 - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: 'aciiai
                     : polodra./tes'
                 - orig: 'Α!ΙΙΑΙ : ΠΟΛΟΔΡΑ./ΤΕΣ'
-            - rdg[wit=Br,lg=xpg-Latn-x-old-phrygian-transliterated]: polodre.tes
+            - rdg[lg=xpg-Latn-x-old-phrygian-transliterated]:
+              - wit[lg=eng-Latn]: Brixhe
+              - polodre.tes
           - lb[n=2]:
           - choice:
             - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ': poreti.
@@ -1433,7 +1435,9 @@
               - choice:
                 - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ekoe.[
                 - orig: ΕΚΟΕ.[
-            - rdg[wit=Br,lg=xpg-Latn-x-old-phrygian-transliterated]: eko.-[
+            - rdg[lg=xpg-Latn-x-old-phrygian-transliterated]:
+              - wit[lg=eng-Latn]: Brixhe
+              - eko.-[
       - inscription[n=3d]:
         - p:
           - lb[n=1]:
@@ -1452,7 +1456,9 @@
                 - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]: ':
                     mn/[-]n.?is'
                 - orig: ': ΜΝ/[-]Ν.?ΙΣ'
-            - rdg[wit=Br,lg=xpg-Latn-x-old-phrygian-transliterated]: 'me./[---]p?is:'
+            - rdg[lg=xpg-Latn-x-old-phrygian-transliterated]:
+              - wit[lg=eng-Latn]: Brixhe
+              - 'me./[---]p?is:'
   - provenance[n=Dask]:
     - inscription[n=1]:
       - p:
@@ -1472,10 +1478,9 @@
       - p:
         - lb[n=1]:
         - choice:
-          - reg@transliteration:
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]:
             - gap[lg=eng-Latn,quantity=10,reason=lost,unit=line,precision=low]:
-            - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: 'y. : yostumoy :
-                cekmatin'
+            - 'y. : yostumoy : cekmatin'
           - orig:
             - gap[lg=eng-Latn,quantity=10,reason=lost,unit=line,precision=low]:
             - 'J. : JΟΣΤΥΜΟJ : !ΕΚΜΑΤΙΝ'
@@ -1483,9 +1488,9 @@
       - p:
         - lb[n=1]:
         - choice:
-          - reg@transliteration:
+          - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]:
             - gap[lg=eng-Latn,quantity=11,reason=lost,unit=line,precision=low]:
-            - foreign[lg=xpg-Latn-x-old-phrygian-transliterated]: atonkeyen
+            - atonkeyen
           - orig:
             - gap[lg=eng-Latn,quantity=11,reason=lost,unit=line,precision=low]:
             - ΑΤΟΝΚΕJΕΝ

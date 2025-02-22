@@ -2002,7 +2002,8 @@
 										<orig>Α!ΙΙΑΙ : ΠΟΛΟΔΡΑ./ΤΕΣ</orig>
 									</choice>
 								</rdg>
-								<rdg wit="Br" xml:id="provenance-7-inscription-group-9-inscription-172-p-173-app-15-rdg-30" xml:lang="xpg-Latn-x-old-phrygian-transliterated">polodre.tes</rdg>
+								<rdg xml:id="provenance-7-inscription-group-9-inscription-172-p-173-app-15-rdg-30" xml:lang="xpg-Latn-x-old-phrygian-transliterated">
+									<wit xml:lang="eng-Latn">Brixhe</wit>polodre.tes</rdg>
 							</app>
 							<lb n="2" />
 							<choice>
@@ -2050,7 +2051,8 @@
 										<orig>ΕΚΟΕ.[</orig>
 									</choice>
 								</rdg>
-								<rdg wit="Br" xml:id="provenance-7-inscription-group-9-inscription-174-p-175-app-16-rdg-32" xml:lang="xpg-Latn-x-old-phrygian-transliterated">eko.-[</rdg>
+								<rdg xml:id="provenance-7-inscription-group-9-inscription-174-p-175-app-16-rdg-32" xml:lang="xpg-Latn-x-old-phrygian-transliterated">
+									<wit xml:lang="eng-Latn">Brixhe</wit>eko.-[</rdg>
 							</app>
 						</p>
 					</div>
@@ -2074,7 +2076,8 @@
 										<orig>: ΜΝ/[-]Ν.?ΙΣ</orig>
 									</choice>
 								</rdg>
-								<rdg wit="Br" xml:id="provenance-7-inscription-group-9-inscription-175-p-176-app-17-rdg-34" xml:lang="xpg-Latn-x-old-phrygian-transliterated">me./[---]p?is:</rdg>
+								<rdg xml:id="provenance-7-inscription-group-9-inscription-175-p-176-app-17-rdg-34" xml:lang="xpg-Latn-x-old-phrygian-transliterated">
+									<wit xml:lang="eng-Latn">Brixhe</wit>me./[---]p?is:</rdg>
 							</app>
 						</p>
 					</div>
@@ -2103,10 +2106,8 @@
 					<p xml:id="provenance-8-inscription-178-p-179">
 						<lb n="1" />
 						<choice>
-							<reg type="transliteration">
-								<gap quantity="10" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-178-p-179-gap-1" xml:lang="eng-Latn" />
-								<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">y. : yostumoy : cekmatin</foreign>
-							</reg>
+							<reg type="transliteration" xml:lang="xpg-Latn-x-old-phrygian-transliterated">
+								<gap quantity="10" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-178-p-179-gap-1" xml:lang="eng-Latn" />y. : yostumoy : cekmatin</reg>
 							<orig>
 								<gap quantity="10" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-178-p-179-gap-2" xml:lang="eng-Latn" />J. : JΟΣΤΥΜΟJ : !ΕΚΜΑΤΙΝ</orig>
 						</choice>
@@ -2116,10 +2117,8 @@
 					<p xml:id="provenance-8-inscription-179-p-180">
 						<lb n="1" />
 						<choice>
-							<reg type="transliteration">
-								<gap quantity="11" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-179-p-180-gap-3" xml:lang="eng-Latn" />
-								<foreign xml:lang="xpg-Latn-x-old-phrygian-transliterated">atonkeyen</foreign>
-							</reg>
+							<reg type="transliteration" xml:lang="xpg-Latn-x-old-phrygian-transliterated">
+								<gap quantity="11" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-179-p-180-gap-3" xml:lang="eng-Latn" />atonkeyen</reg>
 							<orig>
 								<gap quantity="11" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-179-p-180-gap-4" xml:lang="eng-Latn" />ΑΤΟΝΚΕJΕΝ</orig>
 						</choice>
