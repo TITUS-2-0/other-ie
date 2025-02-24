@@ -2,8 +2,17 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Old Phrygian Corpus</title>
-				<author>Unknown</author>
+				<title>Old Phrygian Inscriptions</title>
+				<respStmt>
+					<resp>digitization</resp>
+					<name>A. Lubotsky</name>
+					<note>Leiden 1994</note>
+				</respStmt>
+				<respStmt>
+					<resp>TITUS version</resp>
+					<name>Jost Gippert</name>
+					<note>Frankfurt a/M, 28.2.1998 / 21.6.1998 / 15.3.2000 / 1.6.2000</note>
+				</respStmt>
 			</titleStmt>
 			<editionStmt>
 				<edition n="1" />
@@ -14,7 +23,10 @@
 				<date>2024</date>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Missing metadata</p>
+				<bibl xml:id="phryg-paleo">
+					<author>
+						<name>Cl.Brixhe, and M.Lejeune</name>
+					</author>. <date>1984</date>. <title level="m">Corpus Des Inscriptions Paléo-phrygiennes</title>. <publisher>Institut français d'études anatoliennes</publisher>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
