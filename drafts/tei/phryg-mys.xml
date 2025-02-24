@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0/">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title>Mysian Corpus</title>
+				<author>Unknown</author>
+			</titleStmt>
+			<editionStmt>
+				<edition n="1" />
+			</editionStmt>
+			<publicationStmt>
+				<publisher>Goethe-Universität</publisher>
+				<pubPlace>Frankfurt</pubPlace>
+				<date>2024</date>
+			</publicationStmt>
+			<sourceDesc>
+				<p>Missing metadata</p>
+			</sourceDesc>
+		</fileDesc>
+		<profileDesc>
+			<langUsage>
+				<language ident="yms-Grek-x-mysian">Mysian</language>
+				<language ident="xpg-Latn-x-mysian-transliterated">Phrygian</language>
+			</langUsage>
+		</profileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div n="BO" xml:id="provenance-1" type="provenance" data-level="1">
+				<div n="1" xml:id="provenance-1-inscription-1" type="inscription" data-level="2">
+					<lb n="1" />
+					<app xml:id="provenance-1-inscription-1-app-1">
+						<rdg xml:id="provenance-1-inscription-1-app-1-rdg-1">
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">]e[ ]y...</reg>
+								<orig>]Ε[ ]J...</orig>
+							</choice>
+						</rdg>
+						<rdg xml:id="provenance-1-inscription-1-app-1-rdg-2">
+							<wit>Friedrich</wit>
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">]e[ ]y...</reg>
+								<orig>]Ε[ ]J...</orig>
+							</choice>
+						</rdg>
+					</app>
+				</div>
+				<div n="2" xml:id="provenance-1-inscription-2" type="inscription" data-level="2">
+					<lb n="1" />
+					<app xml:id="provenance-1-inscription-2-app-2">
+						<rdg xml:id="provenance-1-inscription-2-app-2-rdg-3">
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">]ka.[...]an.e[ ]a[</reg>
+								<orig>]ΚΑ.[...]ΑΝ.Ε[ ]Α[</orig>
+							</choice>
+						</rdg>
+						<rdg xml:id="provenance-1-inscription-2-app-2-rdg-4">
+							<wit>Friedrich</wit>
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">]ka.[...]an.e[ ]a[</reg>
+								<orig>]ΚΑ.[...]ΑΝ.Ε[ ]Α[</orig>
+							</choice>
+						</rdg>
+					</app>
+				</div>
+				<div n="3" xml:id="provenance-1-inscription-3" type="inscription" data-level="2">
+					<lb n="1" />
+					<app xml:id="provenance-1-inscription-3-app-3">
+						<rdg xml:id="provenance-1-inscription-3-app-3-rdg-5">
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">l.am.n.lavay [-]o.kses+. : as+.ioi</reg>
+								<orig>Λ.ΑΜ.Ν.ΛΑFΑJ [-]Ο.ΚΣΕC. : ΑC.ΙΟΙ</orig>
+							</choice>
+						</rdg>
+						<rdg xml:id="provenance-1-inscription-3-app-3-rdg-6">
+							<wit>Friedrich</wit>
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">lamnlavaz nokses+ : amri</reg>
+								<orig>ΛΑΜΝΛΑFΑΖ ΝΟΚΣΕC : ΑΜΡΙ</orig>
+							</choice>
+						</rdg>
+					</app>
+				</div>
+				<div n="4" xml:id="provenance-1-inscription-4" type="inscription" data-level="2">
+					<lb n="1" />
+					<app xml:id="provenance-1-inscription-4-app-4">
+						<rdg xml:id="provenance-1-inscription-4-app-4-rdg-7">
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">[--]adl.e.vasiy ag.lavoy i.e</reg>
+								<orig>[--]ΑΔΛ.Ε.FΑΣΙJ ΑΓ.ΛΑFΟJ Ι.Ε</orig>
+							</choice>
+						</rdg>
+						<rdg xml:id="provenance-1-inscription-4-app-4-rdg-8">
+							<wit>Friedrich</wit>
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">adlevasiz arlavoz : te</reg>
+								<orig>ΑΔΛΕFΑΣΙΖ ΑΡΛΑFΟΖ : ΤΕ</orig>
+							</choice>
+						</rdg>
+					</app>
+				</div>
+				<div n="5" xml:id="provenance-1-inscription-5" type="inscription" data-level="2">
+					<lb n="1" />
+					<app xml:id="provenance-1-inscription-5-app-5">
+						<rdg xml:id="provenance-1-inscription-5-app-5-rdg-9">
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">[?]epaviyi[-]s+ : anevt.evey</reg>
+								<orig>[?]ΕΠΑFΙJΙ[-]C : ΑΝΕFΤ.ΕFΕJ</orig>
+							</choice>
+						</rdg>
+						<rdg xml:id="provenance-1-inscription-5-app-5-rdg-10">
+							<wit>Friedrich</wit>
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">epavizuis+ : anevnevez</reg>
+								<orig>ΕΠΑFΙΖΥΙC : ΑΝΕFΝΕFΕΖ</orig>
+							</choice>
+						</rdg>
+					</app>
+				</div>
+				<div n="6" xml:id="provenance-1-inscription-6" type="inscription" data-level="2">
+					<lb n="1" />
+					<app xml:id="provenance-1-inscription-6-app-6">
+						<rdg xml:id="provenance-1-inscription-6-app-6-rdg-11">
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">at.oiapnekroi.u.n : batant.e.</reg>
+								<orig>ΑΤ.ΟΙΑΠΝΕΚΡΟΙ.Υ.Ν : ΒΑΤΑΝΤ.Ε.</orig>
+							</choice>
+						</rdg>
+						<rdg xml:id="provenance-1-inscription-6-app-6-rdg-12">
+							<wit>Friedrich</wit>
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">[-]anoi apnekovsn : o.atan tv[-]</reg>
+								<orig>[-]ΑΝΟΙ ΑΠΝΕΚΟFΣΝ : Ο.ΑΤΑΝ ΤF[-]</orig>
+							</choice>
+						</rdg>
+					</app>
+				</div>
+				<div n="7" xml:id="provenance-1-inscription-7" type="inscription" data-level="2">
+					<lb n="1" />
+					<app xml:id="provenance-1-inscription-7-app-7">
+						<rdg xml:id="provenance-1-inscription-7-app-7-rdg-13">
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">likes+ : braterais+patriyi.o.is+k</reg>
+								<orig>ΛΙΚΕC : ΒΡΑΤΕΡΑΙCΠΑΤΡΙJΙ.Ο.ΙCΚ</orig>
+							</choice>
+						</rdg>
+						<rdg xml:id="provenance-1-inscription-7-app-7-rdg-14">
+							<wit>Friedrich</wit>
+							<choice>
+								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">likes+ : braterais+ patrizi is+k</reg>
+								<orig>ΛΙΚΕC : ΒΡΑΤΕΡΑΙC ΠΑΤΡΙΖΙ ΙCΚ</orig>
+							</choice>
+						</rdg>
+					</app>
+				</div>
+			</div>
+		</body>
+	</text>
+</TEI>
