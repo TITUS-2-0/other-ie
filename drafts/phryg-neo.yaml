@@ -1,0 +1,1936 @@
+- body:
+  - provenance[n=_]:
+    - inscription[n=2]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ta
+              mankai kakoun addaket ti/e
+          - orig: ΙΟΣ ΤΑ ΜΑΝΚΑΙ ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ ΤΙ/Ε
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tit [t]etikmenos
+              eitou
+          - orig: ΤΙΤ [Τ]ΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: uke akala
+              oouitetou oua
+          - orig: ΥΚΕ ΑΚΑΛΑ ΟΟΥΙΤΕΤΟΥ ΟΥΑ
+    - inscription[n=3]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semon knoumanei kakon a[d]daket
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑΝΕΙ ΚΑΚΟΝ Α[Δ]ΔΑΚΕΤ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[deOs
+              ke zemelOs k]/e'
+          - orig: '[ΔΕΩΣ ΚΕ ΖΕΜΕΛΩΣ Κ]/Ε'
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tie tit
+              tetikmenos eitou
+          - orig: ΤΙΕ ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ
+    - inscription[n=4]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semon [knoumani] kakoun adaket aini oi thalamei dE diOs zemelO[s tit
+              tet]ikmenos eitou
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΝ [ΚΝΟΥΜΑΝΙ] ΚΑΚΟΥΝ ΑΔΑΚΕΤ ΑΙΝΙ ΟΙ ΘΑΛΑΜΕΙ ΔΗ ΔΙΩΣ ΖΕΜΕΛΩ[Σ
+              ΤΙΤ ΤΕΤ]ΙΚΜΕΝΟΣ ΕΙΤΟΥ
+    - inscription[n=4b]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: io ni
+          - orig: ΙΟ ΝΙ
+        - app:
+          - rdg:
+            - choice:
+              - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[s]emou'
+              - orig: '[Σ]ΕΜΟΥ'
+          - rdg:
+            - wit: Ramsay
+            - foreign[lg=xpg-Latn-x-neo-phrygian-transliterated]: ([s]emon)
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kno[umanei...
+          - orig: ΚΝΟ[ΥΜΑΝΕΙ...
+    - inscription[n=5]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: is ke
+              semoum k<n>ouminos <kakoun>
+          - orig: ΙΣ ΚΕ ΣΕΜΟΥΜ Κ((Ν))ΟΥΜΙΝΟΣ ((ΚΑΚΟΥΝ))
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: adaken
+              me diO[s z]omolOs ti tetikmenos
+          - orig: ΑΔΑΚΕΝ ΜΕ ΔΙΩ[Σ Ζ]ΟΜΟΛΩΣ ΤΙ ΤΕΤΙΚΜΕΝΟΣ
+        - app:
+          - rdg:
+            - choice:
+              - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: Eton
+              - orig: ΗΤΟΝ
+          - rdg:
+            - wit: Br. 1,2
+            - foreign[lg=xpg-Latn-x-neo-phrygian-transliterated]: (=eitou)
+    - inscription[n=6]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[io]s
+              ni semoun knoumane [kakon]'
+          - orig: '[ΙΟ]Σ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ [ΚΑΚΟΝ]'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: abberet
+              a[i]nou [m.]mon[ka]n
+          - orig: ΑΒΒΕΡΕΤ Α[Ι]ΝΟΥ [Μ.]ΜΟΝ[ΚΑ]Ν
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tos ni
+              me zemelO ke deos k./e
+          - orig: ΤΟΣ ΝΙ ΜΕ ΖΕΜΕΛΩ ΚΕ ΔΕΟΣ Κ./Ε
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tiE tit
+              tetikmenos e[it]ou
+          - orig: ΤΙΗ ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ Ε[ΙΤ]ΟΥ
+    - inscription[n=7]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ios
+              ni semou]n knoumani kaka[./...a.]en deos ke zem[elos/...]ake oi eiroi
+              a tie tit t[e/tikmenoi eitt]nou'
+          - orig: '[ΙΟΣ ΝΙ ΣΕΜΟΥ]Ν ΚΝΟΥΜΑΝΙ ΚΑΚΑ[./...Α.]ΕΝ ΔΕΟΣ ΚΕ ΖΕΜ[ΕΛΟΣ/...]ΑΚΕ
+              ΟΙ ΕΙΡΟΙ Α ΤΙΕ ΤΙΤ Τ[Ε/ΤΙΚΜΕΝΟΙ ΕΙΤΤ]ΝΟΥ'
+    - inscription[n=8]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[----]menos
+              eitou'
+          - orig: '[----]ΜΕΝΟΣ ΕΙΤΟΥ'
+    - inscription[n=9]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[usdoune]t[u]oupase'
+          - orig: '[ΥΣΔΟΥΝΕ]Τ[Υ]ΟΥΠΑΣΕ'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: dekmoutais
+              k.inou./ma e.ti mnkan opestam/e.n.a.n. daditi nenueria
+          - orig: ΔΕΚΜΟΥΤΑΙΣ Κ.ΙΝΟΥ./ΜΑ Ε.ΤΙ ΜΝΚΑΝ ΟΠΕΣΤΑΜ/Ε.Ν.Α.Ν. ΔΑΔΙΤΙ ΝΕΝΥΕΡΙΑ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[e]partus
+              oukra'
+          - orig: '[Ε]ΠΑΡΤΥΣ ΟΥΚΡΑ'
+    - inscription[n=10]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semoun tou knou/manei kakoun addaket
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΤΟΥ ΚΝΟΥ/ΜΑΝΕΙ ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[tit
+              t]etikmenos eitou'
+          - orig: '[ΤΙΤ Τ]ΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ'
+    - inscription[n=11]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ios
+              se]mon knou/[mane]i kakOn'
+          - orig: '[ΙΟΣ ΣΕ]ΜΟΝ ΚΝΟΥ/[ΜΑΝΕ]Ι ΚΑΚΩΝ'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[----]an
+              abbe/[ret ti] tetik[m]e/[nos'
+          - orig: '[----]ΑΝ ΑΒΒΕ/[ΡΕΤ ΤΙ] ΤΕΤΙΚ[Μ]Ε/[ΝΟΣ'
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: a]t ti
+              ade/[i]tou
+          - orig: Α]Τ ΤΙ ΑΔΕ/[Ι]ΤΟΥ
+    - inscription[n=12]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eios ni
+              semoun knoumani kakon
+          - orig: ΕΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΙ ΚΑΚΟΝ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: addaket
+              zeira ke oi peies ke tit
+          - orig: ΑΔΔΑΚΕΤ ΖΕΙΡΑ ΚΕ ΟΙ ΠΕΙΕΣ ΚΕ ΤΙΤ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tetikmena
+              at ti[e] adeittnou
+          - orig: ΤΕΤΙΚΜΕΝΑ ΑΤ ΤΙ[Ε] ΑΔΕΙΤΤΝΟΥ
+    - inscription[n=13]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[--------------k]akoun
+              abberet ai[./-------------------]adeitou'
+          - orig: '[--------------Κ]ΑΚΟΥΝ ΑΒΒΕΡΕΤ ΑΙ[./-------------------]ΑΔΕΙΤΟΥ'
+    - inscription[n=14.]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[i]os
+              ni semoun kno/[u]m.anei kakin ada./ket ainʼ ada teama.s ti tetikmenos
+              as. tian [eit]o.u'
+          - orig: "[Ι]ΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟ/[Υ]Μ.ΑΝΕΙ ΚΑΚΙΝ ΑΔΑ./ΚΕΤ ΑΙΝ' ΑΔΑ ΤΕΑΜΑ.Σ ΤΙ\
+              \ ΤΕΤΙΚΜΕΝΟΣ ΑΣ. ΤΙΑΝ [ΕΙΤ]Ο.Υ"
+    - inscription[n=15]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kseunE
+              tan eiksa. ups.o/dan protuss[.]stam/e.nan mankan ami./a.sianioi anar
+              doruka[nos...]
+          - orig: ΞΕΥΝΗ ΤΑΝ ΕΙΞΑ. ΥΨ.Ο/ΔΑΝ ΠΡΟΤΥΣΣ[.]ΣΤΑΜ/Ε.ΝΑΝ ΜΑΝΚΑΝ ΑΜΙ./Α.ΣΙΑΝΙΟΙ
+              ΑΝΑΡ ΔΟΡΥΚΑ[ΝΟΣ...]
+    - inscription[n=17]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[-----ttetikme]n.os
+              eitou'
+          - orig: '[-----ΤΤΕΤΙΚΜΕ]Ν.ΟΣ ΕΙΤΟΥ'
+    - inscription[n=18]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '---oi
+              knouma eti dea.d.a. manka/n.'
+          - orig: '---ΟΙ ΚΝΟΥΜΑ ΕΤΙ ΔΕΑ.Δ.Α. ΜΑΝΚΑ/Ν.'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: m.imoga
+              dis ak[.]nikou okaugosi
+          - orig: Μ.ΙΜΟΓΑ ΔΙΣ ΑΚ[.]ΝΙΚΟΥ ΟΚΑΥΓΟΣΙ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: m.idakas
+              dadou leukiOi dakar
+          - orig: Μ.ΙΔΑΚΑΣ ΔΑΔΟΥ ΛΕΥΚΙΩΙ ΔΑΚΑΡ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: leukis
+              m.imogas ke [?] matar eugeksa/rnai.
+          - orig: ΛΕΥΚΙΣ Μ.ΙΜΟΓΑΣ ΚΕ [?] ΜΑΤΑΡ ΕΥΓΕΞΑ/ΡΝΑΙ.
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ko ta
+              t.i.ama knoumen tan e/[?]tas
+          - orig: ΚΟ ΤΑ Τ.Ι.ΑΜΑ ΚΝΟΥΜΕΝ ΤΑΝ Ε/[?]ΤΑΣ
+        - lb[n=6]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tai koltamanei
+              ios ni oukra/on
+          - orig: ΤΑΙ ΚΟΛΤΑΜΑΝΕΙ ΙΟΣ ΝΙ ΟΥΚΡΑ/ΟΝ
+        - lb[n=7]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: latomeio.n
+              eg.d.aes moursa.
+          - orig: ΛΑΤΟΜΕΙΟ.Ν ΕΓ.Δ.ΑΕΣ ΜΟΥΡΣΑ.
+        - lb[n=8]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: aini kos
+              semoun knoumanei k/akoun
+          - orig: ΑΙΝΙ ΚΟΣ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕΙ Κ/ΑΚΟΥΝ
+        - lb[n=9]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: addaket
+              aini manka b.e<k>o/s
+          - orig: ΑΔΔΑΚΕΤ ΑΙΝΙ ΜΑΝΚΑ Β.Ε((Κ))Ο/Σ
+        - lb[n=10]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ioi me
+              totossʼ eugisarnan
+          - orig: ΙΟΙ ΜΕ ΤΟΤΟΣΣ' ΕΥΓΙΣΑΡΝΑΝ
+    - inscription[n=19]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios semou
+              knou/manei
+          - orig: ΙΟΣ ΣΕΜΟΥ ΚΝΟΥ/ΜΑΝΕΙ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ka[kon]
+              <addaket> e ti teteikmenos eito[u]
+          - orig: ΚΑ[ΚΟΝ] ((ΑΔΔΑΚΕΤ)) Ε ΤΙ ΤΕΤΕΙΚΜΕΝΟΣ ΕΙΤΟ[Υ]
+    - inscription[n=20]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              sem[on knou]manei kakoun adaket ti tetikmenos aas knou[----(--)]
+          - orig: ΙΟΣ ΝΙ ΣΕΜ[ΟΝ ΚΝΟΥ]ΜΑΝΕΙ ΚΑΚΟΥΝ ΑΔΑΚΕΤ ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΑΑΣ ΚΝΟΥ[----(--)]
+    - inscription[n=21]:
+      - p:
+        - lb[n=7]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios sa
+              sorou kake
+          - orig: ΙΟΣ ΣΑ ΣΟΡΟΥ ΚΑΚΕ
+        - lb[n=8]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: adaket
+              me zemelOs tit tetikmenos eitou
+          - orig: ΑΔΑΚΕΤ ΜΕ ΖΕΜΕΛΩΣ ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ
+    - inscription[n=25]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              simoun
+          - orig: ΙΟΣ ΝΙ ΣΙΜΟΥΝ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: knoumani
+              [k]akoun ab/bireto
+          - orig: ΚΝΟΥΜΑΝΙ [Κ]ΑΚΟΥΝ ΑΒ/ΒΙΡΕΤΟ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: aini mmura
+              tos
+          - orig: ΑΙΝΙ ΜΜΥΡΑ ΤΟΣ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ni d.[eOs
+          - orig: ΝΙ Δ.[ΕΩΣ
+        - app:
+          - rdg:
+            - choice:
+              - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: z]imelOs
+              - orig: Ζ]ΙΜΕΛΩΣ
+          - rdg:
+            - wit: 'Br. 1,1: 10; 2,2: 178; ʼ90'
+            - foreign[lg=xpg-Latn-x-neo-phrygian-transliterated]: z]imelOsi
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ti me
+              k a/t[--]
+          - orig: ΤΙ ΜΕ Κ Α/Τ[--]
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tit tetikmenos
+              eitou
+          - orig: ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ
+    - inscription[n=26]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semon knouma/ne
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑ/ΝΕ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakon
+              daket aini
+          - orig: ΚΑΚΟΝ ΔΑΚΕΤ ΑΙΝΙ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: manka
+              tie tit teti/kmenos
+          - orig: ΜΑΝΚΑ ΤΙΕ ΤΙΤ ΤΕΤΙ/ΚΜΕΝΟΣ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eitou
+          - orig: ΕΙΤΟΥ
+    - inscription[n=27]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ke
+              semon to kakon od[---
+          - orig: ΙΟΣ ΚΕ ΣΕΜΟΝ ΤΟ ΚΑΚΟΝ ΟΔ[---
+    - inscription[n=28]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semoun knoumane kakoun ada/ket
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ ΚΑΚΟΥΝ ΑΔΑ/ΚΕΤ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ti
+              tetoukme/noun
+          - orig: ΙΟΣ ΤΙ ΤΕΤΟΥΚΜΕ/ΝΟΥΝ
+        - lb[n=3]:
+        - app:
+          - rdg:
+            - choice:
+              - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eitou
+              - orig: ΕΙΤΟΥ
+          - rdg[lg=xpg-Latn-x-neo-phrygian-transliterated]:
+            - wit[lg=eng-Latn]: 'Br. 1,1: 17'
+            - ios
+    - inscription[n=29]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios semoun
+              knoumane aini manka kakoun addak[
+          - orig: ΙΟΣ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ ΑΙΝΙ ΜΑΝΚΑ ΚΑΚΟΥΝ ΑΔΔΑΚ[
+    - inscription[n=30]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[-------------]i
+              epri.'
+          - orig: '[-------------]Ι ΕΠΡΙ.'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[-----------]eikonoma'
+          - orig: '[-----------]ΕΙΚΟΝΟΜΑ'
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[-----------]d.oudas
+              akalas eukin argou sibE'
+          - orig: '[-----------]Δ.ΟΥΔΑΣ ΑΚΑΛΑΣ ΕΥΚΙΝ ΑΡΓΟΥ ΣΙΒΗ'
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[--------]oueban'
+          - orig: '[--------]ΟΥΕΒΑΝ'
+        - app:
+          - rdg:
+            - choice:
+              - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: egeret
+                  oi
+              - orig: ΕΓΕΡΕΤ ΟΙ
+          - rdg:
+            - wit: 'Calder, Br. 1,2: 10'
+            - foreign[lg=xpg-Latn-x-neo-phrygian-transliterated]: '...ekretoiakkolta...'
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: autO autaE
+              ke tan eitt.n.o.u.
+          - orig: ΑΥΤΩ ΑΥΤΑΗ ΚΕ ΤΑΝ ΕΙΤΤ.Ν.Ο.Υ.
+    - inscription[n=31]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: as semoun
+              knouman adithrerak
+          - orig: ΑΣ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝ ΑΔΙΘΡΕΡΑΚ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kseuneoi
+              ddikes eian
+          - orig: ΞΕΥΝΕΟΙ ΔΔΙΚΕΣ ΕΙΑΝ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: mankan
+              ian estaes bratere
+          - orig: ΜΑΝΚΑΝ ΙΑΝ ΕΣΤΑΕΣ ΒΡΑΤΕΡΕ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: maimarEan
+              poukros manisou eneparkes detoun
+          - orig: ΜΑΙΜΑΡΗΑΝ ΠΟΥΚΡΟΣ ΜΑΝΙΣΟΥ ΕΝΕΠΑΡΚΕΣ ΔΕΤΟΥΝ
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[---]
+              kseunan aidmOs brokeiO'
+          - orig: '[---] ΞΕΥΝΑΝ ΑΙΔΜΩΣ ΒΡΟΚΕΙΩ'
+        - lb[n=6]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[-------]dekmoutaEs
+              iou'
+          - orig: '[-------]ΔΕΚΜΟΥΤΑΗΣ ΙΟΥ'
+        - lb[n=7]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[-------]protosou
+              [?'
+          - orig: '[-------]ΠΡΟΤΟΣΟΥ [?'
+    - inscription[n=32]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semoun knoumanei
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕΙ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ka]koun
+              addakek gegreim[e]na/n'
+          - orig: '[ΚΑ]ΚΟΥΝ ΑΔΔΑΚΕΚ ΓΕΓΡΕΙΜ[Ε]ΝΑ/Ν'
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: egedou
+              tios outan
+          - orig: ΕΓΕΔΟΥ ΤΙΟΣ ΟΥΤΑΝ
+    - inscription[n=33]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]:
+            - ios ni semoun knoumanei kakoun addaket geg<r>eimenan egedou tios outan
+              ak ke oi bekos akkalos ti dregroun eitou
+            - g@decorative[lg=eng-Latn]: ❧
+            - autos ke oua k eroka gegaritmenos as batan teutous
+          - orig:
+            - ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕΙ ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ ΓΕΓ((Ρ))ΕΙΜΕΝΑΝ ΕΓΕΔΟΥ ΤΙΟΣ ΟΥΤΑΝ
+              ΑΚ ΚΕ ΟΙ ΒΕΚΟΣ ΑΚΚΑΛΟΣ ΤΙ ΔΡΕΓΡΟΥΝ ΕΙΤΟΥ
+            - g@decorative[lg=eng-Latn]: ❧
+            - ΑΥΤΟΣ ΚΕ ΟΥΑ Κ ΕΡΟΚΑ ΓΕΓΑΡΙΤΜΕΝΟΣ ΑΣ ΒΑΤΑΝ ΤΕΥΤΟΥΣ
+    - inscription[n=34]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ke
+              semn knoumanei kakoun addaket gegreimenan egedou tios outan
+          - orig: ΙΟΣ ΚΕ ΣΕΜΝ ΚΝΟΥΜΑΝΕΙ ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ ΓΕΓΡΕΙΜΕΝΑΝ ΕΓΕΔΟΥ ΤΙΟΣ ΟΥΤΑΝ
+    - inscription[n=35]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              sai kako/un addakem mankai as ananka ioi panta kena [i]nnou
+          - orig: ΙΟΣ ΝΙ ΣΑΙ ΚΑΚΟ/ΥΝ ΑΔΔΑΚΕΜ ΜΑΝΚΑΙ ΑΣ ΑΝΑΝΚΑ ΙΟΙ ΠΑΝΤΑ ΚΕΝΑ [Ι]ΝΝΟΥ
+    - inscription[n=36]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: io/s
+          - orig: ΙΟ/Σ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ke semoun
+              knouman/i
+          - orig: ΚΕ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝ/Ι
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              adaket era geg/reimenan
+          - orig: ΚΑΚΟΥΝ ΑΔΑΚΕΤ ΕΡΑ ΓΕΓ/ΡΕΙΜΕΝΑΝ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: egedou
+          - orig: ΕΓΕΔΟΥ
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tios outan
+              autos ke ou/a
+          - orig: ΤΙΟΣ ΟΥΤΑΝ ΑΥΤΟΣ ΚΕ ΟΥ/Α
+        - lb[n=6]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: k oroka
+              gegaritmeno/s
+          - orig: Κ ΟΡΟΚΑ ΓΕΓΑΡΙΤΜΕΝΟ/Σ
+        - lb[n=7]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: a<s> batan
+              t/eutous
+          - orig: Α((Σ)) ΒΑΤΑΝ Τ/ΕΥΤΟΥΣ
+    - inscription[n=37]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: i⌐s¬os
+              ke semoun knoumane [kakoun addaket tetikmeno]s eitou
+          - orig: Ι[[Σ]]ΟΣ ΚΕ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ [ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ ΤΕΤΙΚΜΕΝΟ]Σ ΕΙΤΟΥ
+    - inscription[n=38]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[-------------]ne
+              kako[n] addak/[et------]tetikmenos'
+          - orig: '[-------------]ΝΕ ΚΑΚΟ[Ν] ΑΔΔΑΚ/[ΕΤ------]ΤΕΤΙΚΜΕΝΟΣ'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eitou
+              titel[.]
+          - orig: ΕΙΤΟΥ ΤΙΤΕΛ[.]
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[------]is'
+          - orig: '[------]ΙΣ'
+    - inscription[n=39]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              s[em]on t[ou] knou/man[e]
+          - orig: ΙΟΣ ΝΙ Σ[ΕΜ]ΟΝ Τ[ΟΥ] ΚΝΟΥ/ΜΑΝ[Ε]
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              ti [a.d]da/ket
+          - orig: ΚΑΚΟΥΝ ΤΙ [Α.Δ]ΔΑ/ΚΕΤ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: d.ios
+              [k]e s.zemelOs ke. tit [t]e[t]ikmen.[os] ei/to[u]
+          - orig: Δ.ΙΟΣ [Κ]Ε Σ.ΖΕΜΕΛΩΣ ΚΕ. ΤΙΤ [Τ]Ε[Τ]ΙΚΜΕΝ.[ΟΣ] ΕΙ/ΤΟ[Υ]
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: at tiE
+              ke adeitou
+          - orig: ΑΤ ΤΙΗ ΚΕ ΑΔΕΙΤΟΥ
+    - inscription[n=40]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semoun knoumane kaken
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ ΚΑΚΕΝ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: addaketor
+              deOs zemelOs ke tit
+          - orig: ΑΔΔΑΚΕΤΟΡ ΔΕΩΣ ΖΕΜΕΛΩΣ ΚΕ ΤΙΤ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tetikmenos
+              eitou
+          - orig: ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ
+    - inscription[n=42]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semon [k]n[o]uman[ei kak]o[un dake]/[t]ai
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΝ [Κ]Ν[Ο]ΥΜΑΝ[ΕΙ ΚΑΚ]Ο[ΥΝ ΔΑΚΕ]/[Τ]ΑΙ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: satra[...]tE[.....
+              [ze]/melOs
+          - orig: ΣΑΤΡΑ[...]ΤΗ[..... [ΖΕ]/ΜΕΛΩΣ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ke [d]e[O]s
+          - orig: ΚΕ [Δ]Ε[Ω]Σ
+        - app:
+          - rdg:
+            - choice:
+              - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: me
+              - orig: ΜΕ
+          - rdg:
+            - wit: 'Br.1,2: 2'
+            - foreign[lg=xpg-Latn-x-neo-phrygian-transliterated]: ke
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: konnou
+              ke isnio[u]
+          - orig: ΚΟΝΝΟΥ ΚΕ ΙΣΝΙΟ[Υ]
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ai partEs
+          - orig: ΑΙ ΠΑΡΤΗΣ
+    - inscription[n=43]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[i]os
+              ni semoun knou[m]anei kakoun addaket aini a/[teama?'
+          - orig: '[Ι]ΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥ[Μ]ΑΝΕΙ ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ ΑΙΝΙ Α/[ΤΕΑΜΑ?'
+    - inscription[n=44]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - orig:
+        - app:
+          - rdg:
+            - choice:
+              - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[i]os'
+              - orig: '[Ι]ΟΣ'
+          - rdg:
+            - wit: 'Br. 1,1: 16'
+            - foreign[lg=xpg-Latn-x-neo-phrygian-transliterated]: os
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: a.n. s.[emoun
+              kakou]n. k.n.ou.m./manei doke[t at t]i adeitou
+          - orig: Α.Ν. Σ.[ΕΜΟΥΝ ΚΑΚΟΥ]Ν. Κ.Ν.ΟΥ.Μ./ΜΑΝΕΙ ΔΟΚΕ[Τ ΑΤ Τ]Ι ΑΔΕΙΤΟΥ
+    - inscription[n=45]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios sem.ou
+              [k]noum./anei
+          - orig: ΙΟΣ ΣΕΜ.ΟΥ [Κ]ΝΟΥΜ./ΑΝΕΙ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakeu.n
+              addaket.
+          - orig: ΚΑΚΕΥ.Ν ΑΔΔΑΚΕΤ.
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tit tetikmen.os
+              at ti/e
+          - orig: ΤΙΤ ΤΕΤΙΚΜΕΝ.ΟΣ ΑΤ ΤΙ/Ε
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: adeitou
+          - orig: ΑΔΕΙΤΟΥ
+    - inscription[n=47]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              sem[un]
+          - orig: ΙΟΣ ΝΙ ΣΕΜ[ΥΝ]
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: knoum[a]/nei
+          - orig: ΚΝΟΥΜ[Α]/ΝΕΙ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kako[u]n
+          - orig: ΚΑΚΟ[Υ]Ν
+    - inscription[n=48]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: e[--]t.ent.oumenos
+          - orig: Ε[--]Τ.ΕΝΤ.ΟΥΜΕΝΟΣ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: nioisios
+              nadrotos
+          - orig: ΝΙΟΙΣΙΟΣ ΝΑΔΡΟΤΟΣ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eitou
+              Mitraphata
+          - orig: ΕΙΤΟΥ ΜΙΤΡΑΦΑΤΑ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ke mas
+              temroge/ios
+          - orig: ΚΕ ΜΑΣ ΤΕΜΡΟΓΕ/ΙΟΣ
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ke pountas
+          - orig: ΚΕ ΠΟΥΝΤΑΣ
+        - lb[n=6]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: bas ke
+              enstarna.
+          - orig: ΒΑΣ ΚΕ ΕΝΣΤΑΡΝΑ.
+        - lb[n=7]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[-]doum(e)
+              ke oi ou(e)/ban'
+          - orig: '[-]ΔΟΥΜ(Ε) ΚΕ ΟΙ ΟΥ(Ε)/ΒΑΝ'
+        - lb[n=8]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: addaket
+              orou/an
+          - orig: ΑΔΔΑΚΕΤ ΟΡΟΥ/ΑΝ
+    - inscription[n=51]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ios
+              sem]on re./k.teon.'
+          - orig: '[ΙΟΣ ΣΕΜ]ΟΝ ΡΕ./Κ.ΤΕΟΝ.'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[kakou]n
+              ad[a]/ke'
+          - orig: '[ΚΑΚΟΥ]Ν ΑΔ[Α]/ΚΕ'
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ate[tikmeno]s
+              at t[i]
+          - orig: ΑΤΕ[ΤΙΚΜΕΝΟ]Σ ΑΤ Τ[Ι]
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: adei[tou----]
+          - orig: ΑΔΕΙ[ΤΟΥ----]
+    - inscription[n=53.]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semoun kn[ou]/mmanei
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝ[ΟΥ]/ΜΜΑΝΕΙ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              [a]/ddakett
+          - orig: ΚΑΚΟΥΝ [Α]/ΔΔΑΚΕΤΤ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: a.ika.i
+          - orig: Α.ΙΚΑ.Ι
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tit tetikmen[os]
+          - orig: ΤΙΤ ΤΕΤΙΚΜΕΝ[ΟΣ]
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: as tian
+              eitou
+          - orig: ΑΣ ΤΙΑΝ ΕΙΤΟΥ
+    - inscription[n=54]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: os ke
+          - orig: ΟΣ ΚΕ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: semoun
+              kno[u]ma/nei
+          - orig: ΣΕΜΟΥΝ ΚΝΟ[Υ]ΜΑ/ΝΕΙ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              do/ket
+          - orig: ΚΑΚΟΥΝ ΔΟ/ΚΕΤ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: atti adei[tou----
+          - orig: ΑΤΤΙ ΑΔΕΙ[ΤΟΥ----
+    - inscription[n=55]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: io[s ni
+              sem]oun
+          - orig: ΙΟ[Σ ΝΙ ΣΕΜ]ΟΥΝ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: k[nouma]nei
+          - orig: Κ[ΝΟΥΜΑ]ΝΕΙ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: k[akou]n
+              adda/k[et
+          - orig: Κ[ΑΚΟΥ]Ν ΑΔΔΑ/Κ[ΕΤ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ..]ioi
+              pou/s[ous]i
+          - orig: ..]ΙΟΙ ΠΟΥ/Σ[ΟΥΣ]Ι
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: diisin   [?]
+          - orig: ΔΙΙΣΙΝ   [?]
+    - inscription[n=56]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[i]os
+              sas tou skered./rias'
+          - orig: '[Ι]ΟΣ ΣΑΣ ΤΟΥ ΣΚΕΡΕΔ./ΡΙΑΣ'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              daket
+          - orig: ΚΑΚΟΥΝ ΔΑΚΕΤ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: t.i.t
+              tetikmenos [..../.]
+          - orig: Τ.Ι.Τ ΤΕΤΙΚΜΕΝΟΣ [..../.]
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: at tie
+              eitou
+          - orig: ΑΤ ΤΙΕ ΕΙΤΟΥ
+    - inscription[n=57]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semoun knou/manei
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥ/ΜΑΝΕΙ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              ad/daket
+          - orig: ΚΑΚΟΥΝ ΑΔ/ΔΑΚΕΤ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tit tetikmenos
+              at ti adei/tou
+          - orig: ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΑΤ ΤΙ ΑΔΕΙ/ΤΟΥ
+    - inscription[n=58]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: monanm(-)ro
+              tiEion egesi/t
+          - orig: ΜΟΝΑΝΜ(-)ΡΟ ΤΙΗΙΟΝ ΕΓΕΣΙ/Τ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ge/gri/me/no/n
+          - orig: ΓΕ/ΓΡΙ/ΜΕ/ΝΟ/Ν
+    - inscription[n=59]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '---------'
+          - orig: '---------'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kak[oun]
+              addake/t
+          - orig: ΚΑΚ[ΟΥΝ] ΑΔΔΑΚΕ/Τ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: gegreimenan
+              e/ged[ou
+          - orig: ΓΕΓΡΕΙΜΕΝΑΝ Ε/ΓΕΔ[ΟΥ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: t]ios
+              ou<t>an
+          - orig: Τ]ΙΟΣ ΟΥ((Τ))ΑΝ
+    - inscription[n=60]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              san
+          - orig: ΙΟΣ ΝΙ ΣΑΝ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              ad[da]ke mankai geg.[re]ime/nan
+          - orig: ΚΑΚΟΥΝ ΑΔ[ΔΑ]ΚΕ ΜΑΝΚΑΙ ΓΕΓ.[ΡΕ]ΙΜΕ/ΝΑΝ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: egedou
+              tios
+          - orig: ΕΓΕΔΟΥ ΤΙΟΣ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: outan
+          - orig: ΟΥΤΑΝ
+    - inscription[n=61]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semoun
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΥΝ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tou knouma/nei
+          - orig: ΤΟΥ ΚΝΟΥΜΑ/ΝΕΙ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakon
+              a/daket
+          - orig: ΚΑΚΟΝ Α/ΔΑΚΕΤ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ti teti/kmenos
+          - orig: ΤΙ ΤΕΤΙ/ΚΜΕΝΟΣ
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: at tie
+          - orig: ΑΤ ΤΙΕ
+        - lb[n=6]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: adeitou
+          - orig: ΑΔΕΙΤΟΥ
+    - inscription[n=62]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semun knou/manei
+          - orig: ΙΟΣ ΝΙ ΣΕΜΥΝ ΚΝΟΥ/ΜΑΝΕΙ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakun
+              adda/ket
+          - orig: ΚΑΚΥΝ ΑΔΔΑ/ΚΕΤ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: aikan
+              at tiE ke
+          - orig: ΑΙΚΑΝ ΑΤ ΤΙΗ ΚΕ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: deOs ke
+              tit tetikme/nos
+          - orig: ΔΕΩΣ ΚΕ ΤΙΤ ΤΕΤΙΚΜΕ/ΝΟΣ
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eitou
+          - orig: ΕΙΤΟΥ
+    - inscription[n=63]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semoun knoumane kakoun adda/ketor
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ ΚΑΚΟΥΝ ΑΔΔΑ/ΚΕΤΟΡ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: deOs zemelOs
+              te ti⌐te¬ te/ti[kmeno]s
+          - orig: ΔΕΩΣ ΖΕΜΕΛΩΣ ΤΕ ΤΙ[[ΤΕ]] ΤΕ/ΤΙ[ΚΜΕΝΟ]Σ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[eitou]'
+          - orig: '[ΕΙΤΟΥ]'
+    - inscription[n=64]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ai kos
+              [semoun tou knouman]/ei
+          - orig: ΑΙ ΚΟΣ [ΣΕΜΟΥΝ ΤΟΥ ΚΝΟΥΜΑΝ]/ΕΙ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ka[koun
+              addaket] geg[aritmenos eitou me ke oi toto]ssei [ti bas bekos]
+          - orig: ΚΑ[ΚΟΥΝ ΑΔΔΑΚΕΤ] ΓΕΓ[ΑΡΙΤΜΕΝΟΣ ΕΙΤΟΥ ΜΕ ΚΕ ΟΙ ΤΟΤΟ]ΣΣΕΙ [ΤΙ ΒΑΣ
+              ΒΕΚΟΣ]
+    - inscription[n=65]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios semou
+              knouman[ei ka]kou[n] a[ddaket] at ti/E
+          - orig: ΙΟΣ ΣΕΜΟΥ ΚΝΟΥΜΑΝ[ΕΙ ΚΑ]ΚΟΥ[Ν] Α[ΔΔΑΚΕΤ] ΑΤ ΤΙ/Η
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: th.it
+              [t]e[t]ikmeno[s ad]eitou
+          - orig: Θ.ΙΤ [Τ]Ε[Τ]ΙΚΜΕΝΟ[Σ ΑΔ]ΕΙΤΟΥ
+    - inscription[n=67]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios
+          - orig: ΙΟΣ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: sa ti
+              skeledriai
+          - orig: ΣΑ ΤΙ ΣΚΕΛΕΔΡΙΑΙ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              daket a
+          - orig: ΚΑΚΟΥΝ ΔΑΚΕΤ Α
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tetikmenos
+              at
+          - orig: ΤΕΤΙΚΜΕΝΟΣ ΑΤ
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ti adeitou
+          - orig: ΤΙ ΑΔΕΙΤΟΥ
+        - note[lg=eng-Latn]:
+          - 'Br. 2,2: 178'
+          - foreign[lg=xpg-Latn-x-neo-phrygian-transliterated]: atetikmenos;
+        - note[lg=eng-Latn]:
+          - 'Calderʼs dr. (1911: 213) shows'
+          - foreign[lg=xpg-Latn-x-neo-phrygian-transliterated]: as tian. eitou
+    - inscription[n=68]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              <s>em[on knoumane ka]/koun
+          - orig: ΙΟΣ ΝΙ ((Σ))ΕΜ[ΟΝ ΚΝΟΥΜΑΝΕ ΚΑ]/ΚΟΥΝ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: adake[...]e
+              ti[t] tetik[menos eitou]
+          - orig: ΑΔΑΚΕ[...]Ε ΤΙ[Τ] ΤΕΤΙΚ[ΜΕΝΟΣ ΕΙΤΟΥ]
+    - inscription[n=69]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: einea.
+              m./dous
+          - orig: ΕΙΝΕΑ. Μ./ΔΟΥΣ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kseu/ne
+          - orig: ΞΕΥ/ΝΕ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: peir a/reopade/n
+          - orig: ΠΕΙΡ Α/ΡΕΟΠΑΔΕ/Ν
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: atO kn.ou./man
+          - orig: ΑΤΩ ΚΝ.ΟΥ./ΜΑΝ
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[o]u.ekr/O'
+          - orig: '[Ο]Υ.ΕΚΡ/Ω'
+        - lb[n=6]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: dadOne/i
+          - orig: ΔΑΔΩΝΕ/Ι
+        - lb[n=7]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: onoueiai
+              (?) ei/roi
+          - orig: ΟΝΟΥΕΙΑΙ (?) ΕΙ/ΡΟΙ
+        - lb[n=8]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: te alenp/a.tEs
+          - orig: ΤΕ ΑΛΕΝΠ/Α.ΤΗΣ
+        - lb[n=9]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: deous./ias
+          - orig: ΔΕΟΥΣ./ΙΑΣ
+        - lb[n=10]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: maneis
+          - orig: ΜΑΝΕΙΣ
+        - lb[n=11]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: dadOn
+              ke/okk
+          - orig: ΔΑΔΩΝ ΚΕ/ΟΚΚ
+        - lb[n=12]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: augoi
+          - orig: ΑΥΓΟΙ
+        - lb[n=13]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ourn.kusae/n
+          - orig: ΟΥΡΝ.ΚΥΣΑΕ/Ν
+        - lb[n=14]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios sai
+              ka/kon
+          - orig: ΙΟΣ ΣΑΙ ΚΑ/ΚΟΝ
+        - lb[n=15]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: adda/ket
+          - orig: ΑΔΔΑ/ΚΕΤ
+        - lb[n=16]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: mank/ai
+          - orig: ΜΑΝΚ/ΑΙ
+        - lb[n=17]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: t.[--]
+              ni
+          - orig: Τ.[--] ΝΙ
+        - lb[n=18]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: z<emel>O.s
+              k.e peis ke ti te/tikmenos
+          - orig: Ζ((ΕΜΕΛ))Ω.Σ Κ.Ε ΠΕΙΣ ΚΕ ΤΙ ΤΕ/ΤΙΚΜΕΝΟΣ
+        - lb[n=19]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eitou
+          - orig: ΕΙΤΟΥ
+        - note[lg=eng-Latn]:
+          - 'Br. 1,1: 16; 90:'
+          - foreign[lg=xpg-Latn-x-neo-phrygian-transliterated]: peie,
+        - note[lg=eng-Latn]: Heubeck 1987, diff. Calder, B-O.
+        - note[lg=eng-Latn]: 'Laminger-Pascher 1991: the beginning is a Greek epitaph'
+    - inscription[n=70]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios [--
+              semoun]
+          - orig: ΙΟΣ [-- ΣΕΜΟΥΝ]
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kn[oumanei
+              k]/ako[un
+          - orig: ΚΝ[ΟΥΜΑΝΕΙ Κ]/ΑΚΟ[ΥΝ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: adda]/ket
+          - orig: ΑΔΔΑ]/ΚΕΤ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[tetik]/me[nos'
+          - orig: '[ΤΕΤΙΚ]/ΜΕ[ΝΟΣ'
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: at ti]/e
+          - orig: ΑΤ ΤΙ]/Ε
+        - lb[n=6]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: a[deitou]
+          - orig: Α[ΔΕΙΤΟΥ]
+    - inscription[n=71]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tis k
+              egere[t]
+          - orig: ΤΙΣ Κ ΕΓΕΡΕ[Τ]
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tit tetikm[e]noi
+              innou
+          - orig: ΤΙΤ ΤΕΤΙΚΜ[Ε]ΝΟΙ ΙΝΝΟΥ
+    - inscription[n=72]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios [----s]em.oun
+          - orig: ΙΟΣ [----Σ]ΕΜ.ΟΥΝ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: koussllon
+              kakon
+          - orig: ΚΟΥΣΣΛΛΟΝ ΚΑΚΟΝ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: adaket
+              [t]i te.tikme/n.os
+          - orig: ΑΔΑΚΕΤ [Τ]Ι ΤΕ.ΤΙΚΜΕ/Ν.ΟΣ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[at]ti
+              a.d.eit.ou'
+          - orig: '[ΑΤ]ΤΙ Α.Δ.ΕΙΤ.ΟΥ'
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[..]kos
+              i.[....]kkitor ([adda]kkitor?) ke [........]e a[u?]/tos'
+          - orig: '[..]ΚΟΣ Ι.[....]ΚΚΙΤΟΡ ([ΑΔΔΑ]ΚΚΙΤΟΡ?) ΚΕ [........]Ε Α[Υ?]/ΤΟΣ'
+        - lb[n=6]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eitou
+          - orig: ΕΙΤΟΥ
+    - inscription[n=73]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semon knoumani kakon abberetor ai.ni. sas mdu.ei---
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑΝΙ ΚΑΚΟΝ ΑΒΒΕΡΕΤΟΡ ΑΙ.ΝΙ. ΣΑΣ ΜΔΥ.ΕΙ---
+    - inscription[n=75]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios kakon
+              abberetor. knoumanei aini [...] zemelOs ite
+          - orig: ΙΟΣ ΚΑΚΟΝ ΑΒΒΕΡΕΤΟΡ. ΚΝΟΥΜΑΝΕΙ ΑΙΝΙ [...] ΖΕΜΕΛΩΣ ΙΤΕ
+        - app:
+          - rdg:
+            - choice:
+              - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tit
+              - orig: ΤΙΤ
+          - rdg:
+            - wit: 'Br. 1,1: 10-1 ='
+            - foreign[lg=xpg-Latn-x-neo-phrygian-transliterated]: tie
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tetikmenos
+              eitou
+          - orig: ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ
+    - inscription[n=76]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semin t knoumanei kakoun
+          - orig: ΙΟΣ ΝΙ ΣΕΜΙΝ Τ ΚΝΟΥΜΑΝΕΙ ΚΑΚΟΥΝ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: addaket
+              tit tetikmenos at ti adei/tou
+          - orig: ΑΔΔΑΚΕΤ ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΑΤ ΤΙ ΑΔΕΙ/ΤΟΥ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ak ke
+              oi bekos akkalos ti dre<g>roun eitou gegreimenan k e/gedou
+          - orig: ΑΚ ΚΕ ΟΙ ΒΕΚΟΣ ΑΚΚΑΛΟΣ ΤΙ ΔΡΕ((Γ))ΡΟΥΝ ΕΙΤΟΥ ΓΕΓΡΕΙΜΕΝΑΝ Κ Ε/ΓΕΔΟΥ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tios ou/ta/n
+          - orig: ΤΙΟΣ ΟΥ/ΤΑ/Ν
+    - inscription[n=77]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ios
+              ...knouma]/[n]ei'
+          - orig: '[ΙΟΣ ...ΚΝΟΥΜΑ]/[Ν]ΕΙ'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kak[ou]n
+              ad[d]aket tit tetikmenos at ti adeitou
+          - orig: ΚΑΚ[ΟΥ]Ν ΑΔ[Δ]ΑΚΕΤ ΤΙΤ ΤΕΤΙΚΜΕΝΟΣ ΑΤ ΤΙ ΑΔΕΙΤΟΥ
+    - inscription[n=78]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios semoun
+              [k]/noumane
+          - orig: ΙΟΣ ΣΕΜΟΥΝ [Κ]/ΝΟΥΜΑΝΕ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ka./koun
+          - orig: ΚΑ./ΚΟΥΝ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ad[d]aket
+              [t]etikme[no]s
+          - orig: ΑΔ[Δ]ΑΚΕΤ [Τ]ΕΤΙΚΜΕ[ΝΟ]Σ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ei[t]o[u--------]lo
+          - orig: ΕΙ[Τ]Ο[Υ--------]ΛΟ
+    - inscription[n=79]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[i]os
+              semoun'
+          - orig: '[Ι]ΟΣ ΣΕΜΟΥΝ'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[kno]u.manei
+              ka/[kou]n'
+          - orig: '[ΚΝΟ]Υ.ΜΑΝΕΙ ΚΑ/[ΚΟΥ]Ν'
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: addaket
+          - orig: ΑΔΔΑΚΕΤ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[...]eretor
+              [------]emerE'
+          - orig: '[...]ΕΡΕΤΟΡ [------]ΕΜΕΡΗ'
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[...]u.
+              orboun'
+          - orig: '[...]Υ. ΟΡΒΟΥΝ'
+        - lb[n=6]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[----]tos
+              tu[-] [---geg]aritm/[enos]'
+          - orig: '[----]ΤΟΣ ΤΥ[-] [---ΓΕΓ]ΑΡΙΤΜ/[ΕΝΟΣ]'
+    - inscription[n=80]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ios
+              semo]un knou/[manei]'
+          - orig: '[ΙΟΣ ΣΕΜΟ]ΥΝ ΚΝΟΥ/[ΜΑΝΕΙ]'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+          - orig: ΚΑΚΟΥΝ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[--a]ddaket
+              tit [tet]ikmeno[s] at ti ad/eitou'
+          - orig: '[--Α]ΔΔΑΚΕΤ ΤΙΤ [ΤΕΤ]ΙΚΜΕΝΟ[Σ] ΑΤ ΤΙ ΑΔ/ΕΙΤΟΥ'
+    - inscription[n=81]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios kn.[oumanei...
+          - orig: ΙΟΣ ΚΝ.[ΟΥΜΑΝΕΙ...
+    - inscription[n=82]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              sa tou manka kakoun ad/daket
+          - orig: ΙΟΣ ΝΙ ΣΑ ΤΟΥ ΜΑΝΚΑ ΚΑΚΟΥΝ ΑΔ/ΔΑΚΕΤ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ti tetikmenos
+              eitou
+          - orig: ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ
+    - inscription[n=84]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios sem[oun
+              tou]
+          - orig: ΙΟΣ ΣΕΜ[ΟΥΝ ΤΟΥ]
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: knou[manei----
+          - orig: ΚΝΟΥ[ΜΑΝΕΙ----
+    - inscription[n=85]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[tetikmen]o.s
+              at ti adeitou'
+          - orig: '[ΤΕΤΙΚΜΕΝ]Ο.Σ ΑΤ ΤΙ ΑΔΕΙΤΟΥ'
+    - inscription[n=86]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semoun k[nou]/mani
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΥΝ Κ[ΝΟΥ]/ΜΑΝΙ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              add[a]/ket
+          - orig: ΚΑΚΟΥΝ ΑΔΔ[Α]/ΚΕΤ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: aini mankEs
+              ba[s]
+          - orig: ΑΙΝΙ ΜΑΝΚΗΣ ΒΑ[Σ]
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ioi bekos
+              me bere[.]
+          - orig: ΙΟΙ ΒΕΚΟΣ ΜΕ ΒΕΡΕ[.]
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: a.t tiE
+              ke ti tetikm[e]/nos
+          - orig: Α.Τ ΤΙΗ ΚΕ ΤΙ ΤΕΤΙΚΜ[Ε]/ΝΟΣ
+        - lb[n=6]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eitou
+          - orig: ΕΙΤΟΥ
+    - inscription[n=87]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semoun knoumanei
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕΙ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              adaket aini tiamas a ti adeitou o.ue.las ke
+          - orig: ΚΑΚΟΥΝ ΑΔΑΚΕΤ ΑΙΝΙ ΤΙΑΜΑΣ Α ΤΙ ΑΔΕΙΤΟΥ Ο.ΥΕ.ΛΑΣ ΚΕ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tou ke
+              isnou
+          - orig: ΤΟΥ ΚΕ ΙΣΝΟΥ
+        - app:
+          - rdg:
+            - choice:
+              - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: astoi
+              - orig: ΑΣΤΟΙ
+          - rdg:
+            - wit: 'Br. 90: 81'
+            - foreign[lg=xpg-Latn-x-neo-phrygian-transliterated]: ao.toi
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: partEs
+          - orig: ΠΑΡΤΗΣ
+    - inscription[n=88]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios
+          - orig: ΙΟΣ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ni semoun
+              knoumanei kake
+          - orig: ΝΙ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕΙ ΚΑΚΕ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: addaket
+              aOrO ouenaouias tig
+          - orig: ΑΔΔΑΚΕΤ ΑΩΡΩ ΟΥΕΝΑΟΥΙΑΣ ΤΙΓ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: gegaritmeno<s>
+              eitou pour ouana/ktan
+          - orig: ΓΕΓΑΡΙΤΜΕΝΟ((Σ)) ΕΙΤΟΥ ΠΟΥΡ ΟΥΑΝΑ/ΚΤΑΝ
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ke ouranion
+              isgeiket diounsin
+          - orig: ΚΕ ΟΥΡΑΝΙΟΝ ΙΣΓΕΙΚΕΤ ΔΙΟΥΝΣΙΝ
+    - inscription[n=89]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              se[moun knoumanei...]
+          - orig: ΙΟΣ ΝΙ ΣΕ[ΜΟΥΝ ΚΝΟΥΜΑΝΕΙ...]
+    - inscription[n=90]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ios
+              semoun'
+          - orig: '[ΙΟΣ ΣΕΜΟΥΝ'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: knoum]ane
+              kakoun addaket e.t.tetikmenos eito[u]
+          - orig: ΚΝΟΥΜ]ΑΝΕ ΚΑΚΟΥΝ ΑΔΔΑΚΕΤ Ε.Τ.ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟ[Υ]
+    - inscription[n=91]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ios
+              ni se]m.on [knoumanei]'
+          - orig: '[ΙΟΣ ΝΙ ΣΕ]Μ.ΟΝ [ΚΝΟΥΜΑΝΕΙ]'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[k]a.kou.[n
+              a]bberet oi a[i]ni'
+          - orig: '[Κ]Α.ΚΟΥ.[Ν Α]ΒΒΕΡΕΤ ΟΙ Α[Ι]ΝΙ'
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: a.s.tat
+              s.a. m[anka?]/e
+          - orig: Α.Σ.ΤΑΤ Σ.Α. Μ[ΑΝΚΑ?]/Ε
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ti]/t'
+          - orig: '[ΤΙ]/Τ'
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tetikmenos
+              eito[u]
+          - orig: ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟ[Υ]
+    - inscription[n=92]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              s[emoun knou]/mane
+          - orig: ΙΟΣ ΝΙ Σ[ΕΜΟΥΝ ΚΝΟΥ]/ΜΑΝΕ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              [addaket ai]/ni
+          - orig: ΚΑΚΟΥΝ [ΑΔΔΑΚΕΤ ΑΙ]/ΝΙ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: korou
+              ou[e.ban egeret? zem]/elOsi
+          - orig: ΚΟΡΟΥ ΟΥ[Ε.ΒΑΝ ΕΓΕΡΕΤ? ΖΕΜ]/ΕΛΩΣΙ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ke deOs
+              [ke attie]
+          - orig: ΚΕ ΔΕΩΣ [ΚΕ ΑΤΤΙΕ]
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ke ti
+              tetikm[enos eitou]
+          - orig: ΚΕ ΤΙ ΤΕΤΙΚΜ[ΕΝΟΣ ΕΙΤΟΥ]
+        - lb[n=6]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ke ot
+              ektei[sei ?]
+          - orig: ΚΕ ΟΤ ΕΚΤΕΙ[ΣΕΙ ?]
+        - note[lg=eng-Latn]: 'Br. 1,1: 11; 1,2: 2'
+    - inscription[n=93]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semon
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΝ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: knoumane
+              kakon.
+          - orig: ΚΝΟΥΜΑΝΕ ΚΑΚΟΝ.
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: adaket
+              deOs zemelOs ti tetik/menos
+          - orig: ΑΔΑΚΕΤ ΔΕΩΣ ΖΕΜΕΛΩΣ ΤΙ ΤΕΤΙΚ/ΜΕΝΟΣ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eitou
+          - orig: ΕΙΤΟΥ
+    - inscription[n=94]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ios
+              s]a makka kakoun adaket at tie ti tetikmenos eitou'
+          - orig: '[ΙΟΣ Σ]Α ΜΑΚΚΑ ΚΑΚΟΥΝ ΑΔΑΚΕΤ ΑΤ ΤΙΕ ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ'
+    - inscription[n=95]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios semoun
+              knoumane kakoun [----]
+          - orig: ΙΟΣ ΣΕΜΟΥΝ ΚΝΟΥΜΑΝΕ ΚΑΚΟΥΝ [----]
+    - inscription[n=96]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration:
+            - foreign[lg=xpg-Latn-x-neo-phrygian-transliterated]: os an toutO tO mnEmeiO
+                kakOs prospoiEsei E tois progegrammenois upenantion ti praksE
+            - foreign[lg=grc-Grek-x-ancient]: me deOs ke zemelOs ke ti tetikmenos
+                eitou
+          - orig:
+            - foreign[lg=grc-Grek-x-ancient]: ΟΣ ΑΝ ΤΟΥΤΩ ΤΩ ΜΝΗΜΕΙΩ ΚΑΚΩΣ ΠΡΟΣΠΟΙΗΣΕΙ
+                Η ΤΟΙΣ ΠΡΟΓΕΓΡΑΜΜΕΝΟΙΣ ΥΠΕΝΑΝΤΙΟΝ ΤΙ ΠΡΑΞΗ
+            - ΜΕ ΔΕΩΣ ΚΕ ΖΕΜΕΛΩΣ ΚΕ ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ
+    - inscription[n=97]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semon knoumane kaken adaket aini manka me ze<me>lOs ke deOs ke tie ti
+              tetikm[enos eitou]
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑΝΕ ΚΑΚΕΝ ΑΔΑΚΕΤ ΑΙΝΙ ΜΑΝΚΑ ΜΕ ΖΕ((ΜΕ))ΛΩΣ ΚΕ
+              ΔΕΩΣ ΚΕ ΤΙΕ ΤΙ ΤΕΤΙΚΜ[ΕΝΟΣ ΕΙΤΟΥ]
+    - inscription[n=98]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: dakaren
+              pa/terEs
+          - orig: ΔΑΚΑΡΕΝ ΠΑ/ΤΕΡΗΣ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eukin
+          - orig: ΕΥΚΙΝ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: argou
+          - orig: ΑΡΓΟΥ
+    - inscription[n=99]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              s.emon knoumanei ka./ke.
+          - orig: ΙΟΣ ΝΙ Σ.ΕΜΟΝ ΚΝΟΥΜΑΝΕΙ ΚΑ./ΚΕ.
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: adaket
+              ti tetikmenos as tian e.itou me ke oi totossei ti bas bekos
+          - orig: ΑΔΑΚΕΤ ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΑΣ ΤΙΑΝ Ε.ΙΤΟΥ ΜΕ ΚΕ ΟΙ ΤΟΤΟΣΣΕΙ ΤΙ ΒΑΣ ΒΕΚΟΣ
+    - inscription[n=100]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios semin
+              knoumane mourou[n da/ket
+          - orig: ΙΟΣ ΣΕΜΙΝ ΚΝΟΥΜΑΝΕ ΜΟΥΡΟΥ[Ν ΔΑ/ΚΕΤ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ai]ni
+              kakoun kin ti tetikmen[os]
+          - orig: ΑΙ]ΝΙ ΚΑΚΟΥΝ ΚΙΝ ΤΙ ΤΕΤΙΚΜΕΝ[ΟΣ]
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[at t]ie
+              ade.[i]tou'
+          - orig: '[ΑΤ Τ]ΙΕ ΑΔΕ.[Ι]ΤΟΥ'
+    - inscription[n=101]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ios---
+              kno]unmanei kakoun ad/daket...'
+          - orig: '[ΙΟΣ--- ΚΝΟ]ΥΝΜΑΝΕΙ ΚΑΚΟΥΝ ΑΔ/ΔΑΚΕΤ...'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[..tetikme]n.os
+              at ti adeitou'
+          - orig: '[..ΤΕΤΙΚΜΕ]Ν.ΟΣ ΑΤ ΤΙ ΑΔΕΙΤΟΥ'
+    - inscription[n=102]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[i]os
+              ni semon knoumane'
+          - orig: '[Ι]ΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑΝΕ'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ka]kon
+              adaket aini a tea.m./[as'
+          - orig: '[ΚΑ]ΚΟΝ ΑΔΑΚΕΤ ΑΙΝΙ Α ΤΕΑ.Μ./[ΑΣ'
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: a] tie
+              ti tetikmenos eit/[ou]
+          - orig: Α] ΤΙΕ ΤΙ ΤΕΤΙΚΜΕΝΟΣ ΕΙΤ/[ΟΥ]
+    - inscription[n=103]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ios]
+              semon ti knoumani k[ak/on'
+          - orig: '[ΙΟΣ] ΣΕΜΟΝ ΤΙ ΚΝΟΥΜΑΝΙ Κ[ΑΚ/ΟΝ'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: a]beret⌐i.t.e.t.i.k.-¬partan
+              to[s]
+          - orig: Α]ΒΕΡΕΤ[[Ι.Τ.Ε.Τ.Ι.Κ.-]]ΠΑΡΤΑΝ ΤΟ[Σ]
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ni me]
+              z.i[melO] a tia titikmenos [eit]ou'
+          - orig: '[ΝΙ ΜΕ] Ζ.Ι[ΜΕΛΩ] Α ΤΙΑ ΤΙΤΙΚΜΕΝΟΣ [ΕΙΤ]ΟΥ'
+    - inscription[n=104]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ']kmenos
+              eitou['
+          - orig: ']ΚΜΕΝΟΣ ΕΙΤΟΥ['
+    - inscription[n=105]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semoun kno/unmanei
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟ/ΥΝΜΑΝΕΙ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              ada/[k]et
+          - orig: ΚΑΚΟΥΝ ΑΔΑ/[Κ]ΕΤ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: gegreimenan
+              egedo/u
+          - orig: ΓΕΓΡΕΙΜΕΝΑΝ ΕΓΕΔΟ/Υ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tios outa.n.
+              [.....]/[...
+          - orig: ΤΙΟΣ ΟΥΤΑ.Ν. [.....]/[...
+    - inscription[n=106]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semoun knou/manei
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΥΝ ΚΝΟΥ/ΜΑΝΕΙ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kakoun
+              adoket zeirai ti
+          - orig: ΚΑΚΟΥΝ ΑΔΟΚΕΤ ΖΕΙΡΑΙ ΤΙ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tetikmenos
+              at
+          - orig: ΤΕΤΙΚΜΕΝΟΣ ΑΤ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ti adeitou
+              gegreimenon k egedou orouenos outon
+          - orig: ΤΙ ΑΔΕΙΤΟΥ ΓΕΓΡΕΙΜΕΝΟΝ Κ ΕΓΕΔΟΥ ΟΡΟΥΕΝΟΣ ΟΥΤΟΝ
+    - inscription[n=107]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios semin
+              kno[
+          - orig: ΙΟΣ ΣΕΜΙΝ ΚΝΟ[
+    - inscription[n=108]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios n[i
+              semun k]noumanei kako[un addake]et.  t.it tetikme[nos a]t.[ti] a.d.eitou
+          - orig: ΙΟΣ Ν[Ι ΣΕΜΥΝ Κ]ΝΟΥΜΑΝΕΙ ΚΑΚΟ[ΥΝ ΑΔΔΑΚΕ]ΕΤ. Τ.ΙΤ ΤΕΤΙΚΜΕ[ΝΟΣ Α]Τ.[ΤΙ]
+              Α.Δ.ΕΙΤΟΥ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: gegreime[nan
+              k eged]ou
+          - orig: ΓΕΓΡΕΙΜΕ[ΝΑΝ Κ ΕΓΕΔ]ΟΥ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tios out[an
+              akke oi] bek/os
+          - orig: ΤΙΟΣ ΟΥΤ[ΑΝ ΑΚΚΕ ΟΙ] ΒΕΚ/ΟΣ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: akkal.o.[s
+              ti dr]e.groun eido[u]
+          - orig: ΑΚΚΑΛ.Ο.[Σ ΤΙ ΔΡ]Ε.ΓΡΟΥΝ ΕΙΔΟ[Υ]
+    - inscription[n=109]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni/[...
+          - orig: ΙΟΣ ΝΙ/[...
+    - inscription[n=110]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios semoun
+              kno[u]/m.[an]e.i.
+          - orig: ΙΟΣ ΣΕΜΟΥΝ ΚΝΟ[Υ]/Μ.[ΑΝ]Ε.Ι.
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: kak[oun...
+          - orig: ΚΑΚ[ΟΥΝ...
+    - inscription[n=111]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: (...).os
+              adaket bas ioi be.kos meberet (...)
+          - orig: (...).ΟΣ ΑΔΑΚΕΤ ΒΑΣ ΙΟΙ ΒΕ.ΚΟΣ ΜΕΒΕΡΕΤ (...)
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ?[ios
+              semoun knoumin]os (e=s)
+          - orig: ?[ΙΟΣ ΣΕΜΟΥΝ ΚΝΟΥΜΙΝ]ΟΣ (ΕἦΣ)
+    - inscription[n=112]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[i]os
+              ni semon knoumanei kakon adak/(e)t.'
+          - orig: '[Ι]ΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑΝΕΙ ΚΑΚΟΝ ΑΔΑΚ/(Ε)Τ.'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: aini a
+              te(a)mas me deOs tie tit tetikm/enos
+          - orig: ΑΙΝΙ Α ΤΕ(Α)ΜΑΣ ΜΕ ΔΕΩΣ ΤΙΕ ΤΙΤ ΤΕΤΙΚΜ/ΕΝΟΣ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eitou
+          - orig: ΕΙΤΟΥ
+        - note[lg=eng-Latn]: (e=s, a=l)
+    - inscription[n=113]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[-------------]/[kako]un'
+          - orig: '[-------------]/[ΚΑΚΟ]ΥΝ'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: abbereto(r)
+              me szemelOs ke duOs ke tit.
+          - orig: ΑΒΒΕΡΕΤΟ(Ρ) ΜΕ ΣΖΕΜΕΛΩΣ ΚΕ ΔΥΩΣ ΚΕ ΤΙΤ.
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[tetikmenos
+              eitou]'
+          - orig: '[ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ]'
+        - note[lg=eng-Latn]: (r=i)
+    - inscription[n=114]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[ios
+              ni semon knou]manE kakon abbe/[ret xxxxxxxxxxx]on'
+          - orig: '[ΙΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥ]ΜΑΝΗ ΚΑΚΟΝ ΑΒΒΕ/[ΡΕΤ xxxxxxxxxxx]ΟΝ'
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: mros sas,
+              ios
+          - orig: ΜΡΟΣ ΣΑΣ, ΙΟΣ
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: '[xxxxxxxxxxxxxx]edan
+              tiE ti t[e/tikmeno]s'
+          - orig: '[xxxxxxxxxxxxxx]ΕΔΑΝ ΤΙΗ ΤΙ Τ[Ε/ΤΙΚΜΕΝΟ]Σ'
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: eitou
+          - orig: ΕΙΤΟΥ
+    - inscription[n=115]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ios ni
+              semon knoumanei kakon adaket aini sa t(o)u teamas tie tit tetikmenos
+              eitou
+          - orig: ΙΟΣ ΝΙ ΣΕΜΟΝ ΚΝΟΥΜΑΝΕΙ ΚΑΚΟΝ ΑΔΑΚΕΤ ΑΙΝΙ ΣΑ Τ(Ο)Υ ΤΕΑΜΑΣ ΤΙΕ ΤΙΤ
+              ΤΕΤΙΚΜΕΝΟΣ ΕΙΤΟΥ
+    - inscription[n=116]:
+      - p:
+        - lb[n=1]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ks.e.unei
+              osos ke deton.? [u]/psod.an
+          - orig: Ξ.Ε.ΥΝΕΙ ΟΣΟΣ ΚΕ ΔΕΤΟΝ.? [Υ]/ΨΟΔ.ΑΝ
+        - lb[n=2]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: ke ta.n
+              saunaman [ke?]
+          - orig: ΚΕ ΤΑ.Ν ΣΑΥΝΑΜΑΝ [ΚΕ?]
+        - lb[n=3]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: k.no.uman
+              k akrodman ke lo.?[i]/d.im.on
+          - orig: Κ.ΝΟ.ΥΜΑΝ Κ ΑΚΡΟΔΜΑΝ ΚΕ ΛΟ.?[Ι]/Δ.ΙΜ.ΟΝ
+        - lb[n=4]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: meiomon
+              riditi tai to a.
+          - orig: ΜΕΙΟΜΟΝ ΡΙΔΙΤΙ ΤΑΙ ΤΟ Α.
+        - lb[n=5]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: m.e. o.n.om.anias
+              enarke ermO-?/l?o.s?
+          - orig: Μ.Ε. Ο.Ν.ΟΜ.ΑΝΙΑΣ ΕΝΑΡΚΕ ΕΡΜΩ-?/Λ?Ο.Σ?
+        - lb[n=6]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]:
+            - knaiko eka.tEas
+            - space@vacat:
+          - orig:
+            - ΚΝΑΙΚΟ ΕΚΑ.ΤΗΑΣ
+            - space@vacat:
+        - lb[n=7]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: o.m.o.usas
+              ai pos ekanes aka--?
+          - orig: Ο.Μ.Ο.ΥΣΑΣ ΑΙ ΠΟΣ ΕΚΑΝΕΣ ΑΚΑ--?
+        - lb[n=8]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: d.eopokgonion
+              teutOsi ie--?
+          - orig: Δ.ΕΟΠΟΚΓΟΝΙΟΝ ΤΕΥΤΩΣΙ ΙΕ--?
+        - lb[n=9]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: n.?o.utais
+              edaes pinketas d.-/k.erEs
+          - orig: Ν.?Ο.ΥΤΑΙΣ ΕΔΑΕΣ ΠΙΝΚΕΤΑΣ Δ.-/Κ.ΕΡΗΣ
+        - lb[n=10]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: onomaniais
+              m.i.rouik.
+          - orig: ΟΝΟΜΑΝΙΑΙΣ Μ.Ι.ΡΟΥΙΚ.
+        - lb[n=11]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: k.naikan
+              edaes is argmena-?
+          - orig: Κ.ΝΑΙΚΑΝ ΕΔΑΕΣ ΙΣ ΑΡΓΜΕΝΑ-?
+        - lb[n=12]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: o.p.ariko
+              oan oe autai is ke en.?
+          - orig: Ο.Π.ΑΡΙΚΟ ΟΑΝ ΟΕ ΑΥΤΑΙ ΙΣ ΚΕ ΕΝ.?
+        - lb[n=13]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: tois?inioi
+              knouman tian te-
+          - orig: ΤΟΙΣ?ΙΝΙΟΙ ΚΝΟΥΜΑΝ ΤΙΑΝ ΤΕ-
+        - lb[n=14]:
+        - choice:
+          - reg@transliteration[lg=xpg-Latn-x-neo-phrygian-transliterated]: -mard.i
+              idetoi oinis
+          - orig: -ΜΑΡΔ.Ι ΙΔΕΤΟΙ ΟΙΝΙΣ
