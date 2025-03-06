@@ -1,13 +1,13 @@
 # Other Indo-European languages
 [![TEI validation](https://github.com/TITUS-2-0/other-ie/actions/workflows/validate.yaml/badge.svg?branch=main)](https://github.com/TITUS-2-0/other-ie/actions/workflows/validate.yaml)
 ## Datasets
-| id        | language   |   lng_id | titus                                                                                                         | issue                                                     | status         |
-|:----------|:-----------|---------:|:--------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|:---------------|
-| phryg-old |            |     1004 | [Old Phrygian Corpus](http://titus.uni-frankfurt.de/texte/etcs/phrygian/phryg.htm)                            | [discuss](https://github.com/TITUS-2-0/other-ie/issues/2) | 🟨 in progress |
-| phryg-neo |            |     1004 | [Neo-Phrygian Corpus](http://titus.uni-frankfurt.de/texte/etcs/phrygian/phryg.htm)                            | [discuss](https://github.com/TITUS-2-0/other-ie/issues/3) | 🟨 in progress |
-| phryg-mys |            |     1004 | [Mysian Corpus](http://titus.uni-frankfurt.de/texte/etcs/phrygian/phryg.htm)                                  | [discuss](https://github.com/TITUS-2-0/other-ie/issues/4) | 🟨 in progress |
-| matra     |            |       28 | [Matranga, Dottrina](http://titus.uni-frankfurt.de/texte/etcs/alban/matranga/matra.htm)                       | -                                                         | 🟥 pending     |
-| casas     |            |       28 | [Casasi, Dottrina](http://titus.uni-frankfurt.de/texte/etcs/alban/casasi/casas.htm)                           | -                                                         | 🟥 pending     |
-| bogda     |            |       28 | [Bogdani, Cuneus](http://titus.uni-frankfurt.de/texte/etcs/alban/bogdani/bogda.htm)                           | -                                                         | 🟥 pending     |
-| blanc     |            |       28 | [Blanchus, Dictionarium Latino-Epiroticum](http://titus.uni-frankfurt.de/texte/etcs/alban/blanchus/blanc.htm) | -                                                         | 🟥 pending     |
-| buzuk     |            |       28 | [Buzuku, Missale](http://titus.uni-frankfurt.de/texte/etcs/alban/buzuku/buzuk.htm)                            | -                                                         | 🟥 pending     |
+| id        | language      | titus                                                                                                         | issue                                                     | status         |
+|:----------|:--------------|:--------------------------------------------------------------------------------------------------------------|:----------------------------------------------------------|:---------------|
+| phryg-old | Phrygian      | [Old Phrygian Corpus](http://titus.uni-frankfurt.de/texte/etcs/phrygian/phryg.htm)                            | [discuss](https://github.com/TITUS-2-0/other-ie/issues/2) | 🟨 in progress |
+| phryg-neo | Phrygian      | [Neo-Phrygian Corpus](http://titus.uni-frankfurt.de/texte/etcs/phrygian/phryg.htm)                            | [discuss](https://github.com/TITUS-2-0/other-ie/issues/3) | 🟨 in progress |
+| phryg-mys | Phrygian      | [Mysian Corpus](http://titus.uni-frankfurt.de/texte/etcs/phrygian/phryg.htm)                                  | [discuss](https://github.com/TITUS-2-0/other-ie/issues/4) | 🟨 in progress |
+| matra     | Gheg Albanian | [Matranga, Dottrina](http://titus.uni-frankfurt.de/texte/etcs/alban/matranga/matra.htm)                       | -                                                         | 🟥 pending     |
+| casas     | Gheg Albanian | [Casasi, Dottrina](http://titus.uni-frankfurt.de/texte/etcs/alban/casasi/casas.htm)                           | -                                                         | 🟥 pending     |
+| bogda     | Gheg Albanian | [Bogdani, Cuneus](http://titus.uni-frankfurt.de/texte/etcs/alban/bogdani/bogda.htm)                           | -                                                         | 🟥 pending     |
+| blanc     | Gheg Albanian | [Blanchus, Dictionarium Latino-Epiroticum](http://titus.uni-frankfurt.de/texte/etcs/alban/blanchus/blanc.htm) | -                                                         | 🟥 pending     |
+| buzuk     | Gheg Albanian | [Buzuku, Missale](http://titus.uni-frankfurt.de/texte/etcs/alban/buzuku/buzuk.htm)                            | -                                                         | 🟥 pending     |
