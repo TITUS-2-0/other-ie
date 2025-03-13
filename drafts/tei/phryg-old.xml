@@ -2119,9 +2119,9 @@
 						<lb n="1" />
 						<choice>
 							<reg type="transliteration" xml:lang="xpg-Latn-x-old-phrygian-transliterated">
-								<gap quantity="10" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-178-p-179-gap-1" xml:lang="eng-Latn" />y. : yostumoy : cekmatin</reg>
+								<gap quantity="10" reason="lost" unit="line" precision="low" xml:lang="eng-Latn" />y. : yostumoy : cekmatin</reg>
 							<orig>
-								<gap quantity="10" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-178-p-179-gap-2" xml:lang="eng-Latn" />J. : JΟΣΤΥΜΟJ : !ΕΚΜΑΤΙΝ</orig>
+								<gap quantity="10" reason="lost" unit="line" precision="low" xml:lang="eng-Latn" />J. : JΟΣΤΥΜΟJ : !ΕΚΜΑΤΙΝ</orig>
 						</choice>
 					</p>
 				</div>
@@ -2130,9 +2130,9 @@
 						<lb n="1" />
 						<choice>
 							<reg type="transliteration" xml:lang="xpg-Latn-x-old-phrygian-transliterated">
-								<gap quantity="11" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-179-p-180-gap-3" xml:lang="eng-Latn" />atonkeyen</reg>
+								<gap quantity="11" reason="lost" unit="line" precision="low" xml:lang="eng-Latn" />atonkeyen</reg>
 							<orig>
-								<gap quantity="11" reason="lost" unit="line" precision="low" xml:id="provenance-8-inscription-179-p-180-gap-4" xml:lang="eng-Latn" />ΑΤΟΝΚΕJΕΝ</orig>
+								<gap quantity="11" reason="lost" unit="line" precision="low" xml:lang="eng-Latn" />ΑΤΟΝΚΕJΕΝ</orig>
 						</choice>
 					</p>
 				</div>
