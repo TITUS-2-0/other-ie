@@ -108,11 +108,11 @@
           - choice:
             - reg@transliteration[lg=xpg-Latn-x-old-phrygian-transliterated]:
               - apelan
-              - space[type=hole]:
+              - space[type=hole]
               - mekastevano.[
             - orig:
               - ΑΠΕΛΑΝ
-              - space[type=hole]:
+              - space[type=hole]
               - ΜΕΚΑΣΤΕFΑΝΟ.[
     - inscription[n=6]:
       - p:

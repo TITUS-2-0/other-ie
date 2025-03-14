@@ -1,7 +1,7 @@
 - body:
   - provenance[n=BO]:
     - inscription[n=1]:
-      - lb[n=1]:
+      - lb[n=1]
       - app:
         - rdg:
           - choice:
@@ -13,7 +13,7 @@
             - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: ']e[ ]y...'
             - orig: ']Ε[ ]J...'
     - inscription[n=2]:
-      - lb[n=1]:
+      - lb[n=1]
       - app:
         - rdg:
           - choice:
@@ -27,7 +27,7 @@
                 ]a['
             - orig: ']ΚΑ.[...]ΑΝ.Ε[ ]Α['
     - inscription[n=3]:
-      - lb[n=1]:
+      - lb[n=1]
       - app:
         - rdg:
           - choice:
@@ -41,7 +41,7 @@
                 nokses+ : amri'
             - orig: 'ΛΑΜΝΛΑFΑΖ ΝΟΚΣΕC : ΑΜΡΙ'
     - inscription[n=4]:
-      - lb[n=1]:
+      - lb[n=1]
       - app:
         - rdg:
           - choice:
@@ -55,7 +55,7 @@
                 arlavoz : te'
             - orig: 'ΑΔΛΕFΑΣΙΖ ΑΡΛΑFΟΖ : ΤΕ'
     - inscription[n=5]:
-      - lb[n=1]:
+      - lb[n=1]
       - app:
         - rdg:
           - choice:
@@ -69,7 +69,7 @@
                 : anevnevez'
             - orig: 'ΕΠΑFΙΖΥΙC : ΑΝΕFΝΕFΕΖ'
     - inscription[n=6]:
-      - lb[n=1]:
+      - lb[n=1]
       - app:
         - rdg:
           - choice:
@@ -83,7 +83,7 @@
                 : o.atan tv[-]'
             - orig: '[-]ΑΝΟΙ ΑΠΝΕΚΟFΣΝ : Ο.ΑΤΑΝ ΤF[-]'
     - inscription[n=7]:
-      - lb[n=1]:
+      - lb[n=1]
       - app:
         - rdg:
           - choice:
