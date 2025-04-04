@@ -5,94 +5,85 @@
       - app:
         - rdg:
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: ']e[ ]y...'
+            - reg@transliteration[lg=yms-Latn-x-tld]: ']e[ ]y...'
             - orig: ']Ε[ ]J...'
         - rdg:
           - wit: Friedrich
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: ']e[ ]y...'
+            - reg@transliteration[lg=yms-Latn-x-tld]: ']e[ ]y...'
             - orig: ']Ε[ ]J...'
     - inscription[n=2]:
       - lb[n=1]
       - app:
         - rdg:
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: ']ka.[...]an.e[
-                ]a['
+            - reg@transliteration[lg=yms-Latn-x-tld]: ']ka.[...]an.e[ ]a['
             - orig: ']ΚΑ.[...]ΑΝ.Ε[ ]Α['
         - rdg:
           - wit: Friedrich
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: ']ka.[...]an.e[
-                ]a['
+            - reg@transliteration[lg=yms-Latn-x-tld]: ']ka.[...]an.e[ ]a['
             - orig: ']ΚΑ.[...]ΑΝ.Ε[ ]Α['
     - inscription[n=3]:
       - lb[n=1]
       - app:
         - rdg:
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: 'l.am.n.lavay
-                [-]o.kses+. : as+.ioi'
+            - reg@transliteration[lg=yms-Latn-x-tld]: 'l.am.n.lavay [-]o.kses+. :
+                as+.ioi'
             - orig: 'Λ.ΑΜ.Ν.ΛΑFΑJ [-]Ο.ΚΣΕC. : ΑC.ΙΟΙ'
         - rdg:
           - wit: Friedrich
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: 'lamnlavaz
-                nokses+ : amri'
+            - reg@transliteration[lg=yms-Latn-x-tld]: 'lamnlavaz nokses+ : amri'
             - orig: 'ΛΑΜΝΛΑFΑΖ ΝΟΚΣΕC : ΑΜΡΙ'
     - inscription[n=4]:
       - lb[n=1]
       - app:
         - rdg:
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: '[--]adl.e.vasiy
-                ag.lavoy i.e'
+            - reg@transliteration[lg=yms-Latn-x-tld]: '[--]adl.e.vasiy ag.lavoy i.e'
             - orig: '[--]ΑΔΛ.Ε.FΑΣΙJ ΑΓ.ΛΑFΟJ Ι.Ε'
         - rdg:
           - wit: Friedrich
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: 'adlevasiz
-                arlavoz : te'
+            - reg@transliteration[lg=yms-Latn-x-tld]: 'adlevasiz arlavoz : te'
             - orig: 'ΑΔΛΕFΑΣΙΖ ΑΡΛΑFΟΖ : ΤΕ'
     - inscription[n=5]:
       - lb[n=1]
       - app:
         - rdg:
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: '[?]epaviyi[-]s+
-                : anevt.evey'
+            - reg@transliteration[lg=yms-Latn-x-tld]: '[?]epaviyi[-]s+ : anevt.evey'
             - orig: '[?]ΕΠΑFΙJΙ[-]C : ΑΝΕFΤ.ΕFΕJ'
         - rdg:
           - wit: Friedrich
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: 'epavizuis+
-                : anevnevez'
+            - reg@transliteration[lg=yms-Latn-x-tld]: 'epavizuis+ : anevnevez'
             - orig: 'ΕΠΑFΙΖΥΙC : ΑΝΕFΝΕFΕΖ'
     - inscription[n=6]:
       - lb[n=1]
       - app:
         - rdg:
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: 'at.oiapnekroi.u.n
-                : batant.e.'
+            - reg@transliteration[lg=yms-Latn-x-tld]: 'at.oiapnekroi.u.n : batant.e.'
             - orig: 'ΑΤ.ΟΙΑΠΝΕΚΡΟΙ.Υ.Ν : ΒΑΤΑΝΤ.Ε.'
         - rdg:
           - wit: Friedrich
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: '[-]anoi apnekovsn
-                : o.atan tv[-]'
+            - reg@transliteration[lg=yms-Latn-x-tld]: '[-]anoi apnekovsn : o.atan
+                tv[-]'
             - orig: '[-]ΑΝΟΙ ΑΠΝΕΚΟFΣΝ : Ο.ΑΤΑΝ ΤF[-]'
     - inscription[n=7]:
       - lb[n=1]
       - app:
         - rdg:
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: 'likes+ :
-                braterais+patriyi.o.is+k'
+            - reg@transliteration[lg=yms-Latn-x-tld]: 'likes+ : braterais+patriyi.o.is+k'
             - orig: 'ΛΙΚΕC : ΒΡΑΤΕΡΑΙCΠΑΤΡΙJΙ.Ο.ΙCΚ'
         - rdg:
           - wit: Friedrich
           - choice:
-            - reg@transliteration[lg=xpg-Latn-x-mysian-transliterated]: 'likes+ :
-                braterais+ patrizi is+k'
+            - reg@transliteration[lg=yms-Latn-x-tld]: 'likes+ : braterais+ patrizi
+                is+k'
             - orig: 'ΛΙΚΕC : ΒΡΑΤΕΡΑΙC ΠΑΤΡΙΖΙ ΙCΚ'

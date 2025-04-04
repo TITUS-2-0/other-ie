@@ -31,12 +31,12 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="yms-Grek-x-mysian">Mysian</language>
-				<language ident="xpg-Latn-x-mysian-transliterated">Phrygian</language>
+				<language ident="yms-Grek">Mysian</language>
+				<language ident="yms-Latn-x-tld">Mysian</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
-	<text xml:lang="yms-Grek-x-mysian">
+	<text xml:lang="yms-Grek">
 		<body>
 			<div n="BO" xml:id="provenance-1" type="provenance" data-level="1">
 				<div n="1" xml:id="provenance-1-inscription-1" type="inscription" data-level="2">
@@ -44,14 +44,14 @@
 					<app xml:id="provenance-1-inscription-1-app-1">
 						<rdg xml:id="provenance-1-inscription-1-app-1-rdg-1">
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">]e[ ]y...</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">]e[ ]y...</reg>
 								<orig>]Ε[ ]J...</orig>
 							</choice>
 						</rdg>
 						<rdg xml:id="provenance-1-inscription-1-app-1-rdg-2">
 							<wit>Friedrich</wit>
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">]e[ ]y...</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">]e[ ]y...</reg>
 								<orig>]Ε[ ]J...</orig>
 							</choice>
 						</rdg>
@@ -62,14 +62,14 @@
 					<app xml:id="provenance-1-inscription-2-app-2">
 						<rdg xml:id="provenance-1-inscription-2-app-2-rdg-3">
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">]ka.[...]an.e[ ]a[</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">]ka.[...]an.e[ ]a[</reg>
 								<orig>]ΚΑ.[...]ΑΝ.Ε[ ]Α[</orig>
 							</choice>
 						</rdg>
 						<rdg xml:id="provenance-1-inscription-2-app-2-rdg-4">
 							<wit>Friedrich</wit>
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">]ka.[...]an.e[ ]a[</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">]ka.[...]an.e[ ]a[</reg>
 								<orig>]ΚΑ.[...]ΑΝ.Ε[ ]Α[</orig>
 							</choice>
 						</rdg>
@@ -80,14 +80,14 @@
 					<app xml:id="provenance-1-inscription-3-app-3">
 						<rdg xml:id="provenance-1-inscription-3-app-3-rdg-5">
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">l.am.n.lavay [-]o.kses+. : as+.ioi</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">l.am.n.lavay [-]o.kses+. : as+.ioi</reg>
 								<orig>Λ.ΑΜ.Ν.ΛΑFΑJ [-]Ο.ΚΣΕC. : ΑC.ΙΟΙ</orig>
 							</choice>
 						</rdg>
 						<rdg xml:id="provenance-1-inscription-3-app-3-rdg-6">
 							<wit>Friedrich</wit>
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">lamnlavaz nokses+ : amri</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">lamnlavaz nokses+ : amri</reg>
 								<orig>ΛΑΜΝΛΑFΑΖ ΝΟΚΣΕC : ΑΜΡΙ</orig>
 							</choice>
 						</rdg>
@@ -98,14 +98,14 @@
 					<app xml:id="provenance-1-inscription-4-app-4">
 						<rdg xml:id="provenance-1-inscription-4-app-4-rdg-7">
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">[--]adl.e.vasiy ag.lavoy i.e</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">[--]adl.e.vasiy ag.lavoy i.e</reg>
 								<orig>[--]ΑΔΛ.Ε.FΑΣΙJ ΑΓ.ΛΑFΟJ Ι.Ε</orig>
 							</choice>
 						</rdg>
 						<rdg xml:id="provenance-1-inscription-4-app-4-rdg-8">
 							<wit>Friedrich</wit>
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">adlevasiz arlavoz : te</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">adlevasiz arlavoz : te</reg>
 								<orig>ΑΔΛΕFΑΣΙΖ ΑΡΛΑFΟΖ : ΤΕ</orig>
 							</choice>
 						</rdg>
@@ -116,14 +116,14 @@
 					<app xml:id="provenance-1-inscription-5-app-5">
 						<rdg xml:id="provenance-1-inscription-5-app-5-rdg-9">
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">[?]epaviyi[-]s+ : anevt.evey</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">[?]epaviyi[-]s+ : anevt.evey</reg>
 								<orig>[?]ΕΠΑFΙJΙ[-]C : ΑΝΕFΤ.ΕFΕJ</orig>
 							</choice>
 						</rdg>
 						<rdg xml:id="provenance-1-inscription-5-app-5-rdg-10">
 							<wit>Friedrich</wit>
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">epavizuis+ : anevnevez</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">epavizuis+ : anevnevez</reg>
 								<orig>ΕΠΑFΙΖΥΙC : ΑΝΕFΝΕFΕΖ</orig>
 							</choice>
 						</rdg>
@@ -134,14 +134,14 @@
 					<app xml:id="provenance-1-inscription-6-app-6">
 						<rdg xml:id="provenance-1-inscription-6-app-6-rdg-11">
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">at.oiapnekroi.u.n : batant.e.</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">at.oiapnekroi.u.n : batant.e.</reg>
 								<orig>ΑΤ.ΟΙΑΠΝΕΚΡΟΙ.Υ.Ν : ΒΑΤΑΝΤ.Ε.</orig>
 							</choice>
 						</rdg>
 						<rdg xml:id="provenance-1-inscription-6-app-6-rdg-12">
 							<wit>Friedrich</wit>
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">[-]anoi apnekovsn : o.atan tv[-]</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">[-]anoi apnekovsn : o.atan tv[-]</reg>
 								<orig>[-]ΑΝΟΙ ΑΠΝΕΚΟFΣΝ : Ο.ΑΤΑΝ ΤF[-]</orig>
 							</choice>
 						</rdg>
@@ -152,14 +152,14 @@
 					<app xml:id="provenance-1-inscription-7-app-7">
 						<rdg xml:id="provenance-1-inscription-7-app-7-rdg-13">
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">likes+ : braterais+patriyi.o.is+k</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">likes+ : braterais+patriyi.o.is+k</reg>
 								<orig>ΛΙΚΕC : ΒΡΑΤΕΡΑΙCΠΑΤΡΙJΙ.Ο.ΙCΚ</orig>
 							</choice>
 						</rdg>
 						<rdg xml:id="provenance-1-inscription-7-app-7-rdg-14">
 							<wit>Friedrich</wit>
 							<choice>
-								<reg type="transliteration" xml:lang="xpg-Latn-x-mysian-transliterated">likes+ : braterais+ patrizi is+k</reg>
+								<reg type="transliteration" xml:lang="yms-Latn-x-tld">likes+ : braterais+ patrizi is+k</reg>
 								<orig>ΛΙΚΕC : ΒΡΑΤΕΡΑΙC ΠΑΤΡΙΖΙ ΙCΚ</orig>
 							</choice>
 						</rdg>
