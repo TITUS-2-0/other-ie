@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: Neo-Phrygian Inscriptions
+version: unreleased
+contributors:
+- name: A. Lubotsky
+  roles:
+  - digitization
+- name: Jost Gippert
+  roles:
+  - TITUS version
+- name: Florian Matter
+  roles:
+  - TEI version
+date-released: 2025-02-24
+message: 'Derived from: Haas, O.. 1966. Die Phrygischen Sprachdenkmäler. Linguistique
+  Balkanique. Sofia.'
+preferred-citation: 'Digital version of Neo-Phrygian Inscriptions (unreleased). 2025-02-24.
+  By: Jost Gippert, A. Lubotsky, Florian Matter. In: Carling, Gerd & Jost Gippert
+  (2025). TITUS 2.0. Frankfurt: Goethe University.'
