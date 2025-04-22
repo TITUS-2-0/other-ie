@@ -2,8 +2,18 @@
 	<teiHeader>
 		<fileDesc>
 			<titleStmt>
-				<title>Buzuku, Missale</title>
-				<author>Unknown</author>
+				<title>Missale</title>
+				<author>Gjon Buzuku</author>
+				<respStmt>
+					<resp>digitization</resp>
+					<name>Wolfgang Hock</name>
+					<note>Berlin 2000-2002</note>
+				</respStmt>
+				<respStmt>
+					<resp>TITUS version</resp>
+					<name>Jost Gippert</name>
+					<note>Frankfurt a/M, 9.3.2003</note>
+				</respStmt>
 				<respStmt>
 					<resp>TEI version</resp>
 					<name>Florian Matter</name>
@@ -15,13 +25,24 @@
 				<date when="2025-04-21">2025-04-21</date>
 				<availability>
 					<licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-					<p>Preferred citation: <note type="citation">Digital version of Buzuku, Missale by Unknown (unreleased). 2025-04-21. By: Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+					<p>Preferred citation: <note type="citation">Digital version of Missale by Gjon Buzuku (unreleased). 2025-04-21. By: Jost Gippert, Wolfgang Hock, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
 					</p>
 				</availability>
 				<idno type="version">unreleased</idno>
 			</publicationStmt>
 			<sourceDesc>
-				<p>Missing metadata</p>
+				<bibl xml:id="buzuk-1">
+					<author>
+						<name>Buzuku, Gjon</name>
+					</author>. <date>1958</date>. <title level="m">Il "Messale" Di Giovanni Buzuku</title>. Edited by <editor>
+						<name>Namik Ressuli</name>
+					</editor>. <pubPlace>Vatican City</pubPlace>: <publisher>Biblioteca Apostolica Vaticana</publisher>.</bibl>
+				<bibl xml:id="buzuk-2">
+					<author>
+						<name>Buzuku, Gjon</name>
+					</author>. <date>1987</date>. <title level="m">Meshari I Gjon Buzukut (1555)</title>. Edited by <editor>
+						<name>Eqrem Çabej</name>
+					</editor>. Vol. <biblScope unit="volume">I–II</biblScope>. <pubPlace>Prishtina</pubPlace>: <publisher>Rilindja</publisher>.</bibl>
 			</sourceDesc>
 		</fileDesc>
 		<profileDesc>
