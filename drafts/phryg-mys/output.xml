@@ -38,8 +38,8 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="yms-Grek">Mysian</language>
-				<language ident="yms-Latn-x-tld">Mysian</language>
+				<language ident="yms-Latn-x-tld" ana="secondary">Mysian</language>
+				<language ident="yms-Grek" ana="primary">Mysian</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>

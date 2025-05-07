@@ -47,7 +47,7 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="aln-Latn-x-buzuku">Gheg Albanian</language>
+				<language ident="aln-Latn-x-buzuku" ana="primary">Gheg Albanian</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>

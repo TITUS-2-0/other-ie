@@ -38,9 +38,9 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="xpg-Grek-x-ophryg">Phrygian</language>
-				<language ident="xpg-Latn-x-ophryg-tld">Phrygian</language>
-				<language ident="eng-Latn">English</language>
+				<language ident="xpg-Grek-x-ophryg" ana="primary">Phrygian</language>
+				<language ident="xpg-Latn-x-ophryg-tld" ana="secondary">Phrygian</language>
+				<language ident="eng-Latn" ana="meta">English</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>

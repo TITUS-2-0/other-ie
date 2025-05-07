@@ -38,10 +38,10 @@
 		</fileDesc>
 		<profileDesc>
 			<langUsage>
-				<language ident="xpg-Grek-x-nphryg">Phrygian</language>
-				<language ident="xpg-Latn-x-nphryg-tld">Phrygian</language>
-				<language ident="eng-Latn">English</language>
-				<language ident="grc-Grek">Ionic-Attic Ancient Greek</language>
+				<language ident="xpg-Grek-x-nphryg" ana="primary">Phrygian</language>
+				<language ident="xpg-Latn-x-nphryg-tld" ana="secondary">Phrygian</language>
+				<language ident="grc-Grek" ana="secondary">Ionic-Attic Ancient Greek</language>
+				<language ident="eng-Latn" ana="meta">English</language>
 			</langUsage>
 		</profileDesc>
 	</teiHeader>
