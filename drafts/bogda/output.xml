@@ -283,7 +283,6 @@
         </div>
         <div n="I" xml:id="part-1-scala-2" type="scala" data-level="2">
           <pb n="1" />
-          <head>Scala I</head>
           <head>Si criioi ɛotüne nierine; Mcatit, e mengijet sè tijnaj.</head>
           <div n="I" xml:id="part-1-scala-2-chapter-1" type="chapter" data-level="3">
             <head>Si ansctè Hüji ndè vetèhe.</head>
@@ -716,7 +715,6 @@
           </div>
         </div>
         <div n="II" xml:id="part-1-scala-3" type="scala" data-level="2">
-          <head>Scala II</head>
           <head>Profetiite, e metaforat' e tüne per mbij t' arξunite Messisse CHRICTIT Scelbuessit scecuλit.</head>
           <div n="I" xml:id="part-1-scala-3-chapter-8" type="chapter" data-level="3">
             <head>Chis do me ξξane Profetia.</head>
@@ -896,7 +894,6 @@
           </div>
         </div>
         <div n="III" xml:id="part-1-scala-4" type="scala" data-level="2">
-          <head>Scala III</head>
           <head>Ieta e Profetevet me Profetiite tüne.</head>
           <div n="I" xml:id="part-1-scala-4-chapter-12" type="chapter" data-level="3">
             <head>Ieta e Profetiite e Moise profetesse.</head>
@@ -1414,7 +1411,6 @@
         </div>
         <div n="IV" xml:id="part-1-scala-5" type="scala" data-level="2">
           <pb n="157" />
-          <head>Scala IV</head>
           <div n="I" xml:id="part-1-scala-5-chapter-33" type="chapter" data-level="3">
             <head>Ieta e ξiete Sibilavet, e kankete tüne.</head>
             <p n="1" xml:id="part-1-scala-5-chapter-33-p-477">
@@ -1667,7 +1663,6 @@
         </div>
         <div n="Lig.I" xml:id="part-1-scala-6" type="scala" data-level="2">
           <pb n="177" />
-          <head>Ligierata I</head>
           <head>Per mbi te giascte Ietete Sceculit.</head>
           <ab n="a" type="verse" xml:id="part-1-scala-6-ab-317">I pari Vjet   Adami kjè Crijuem te parene Vjette se crijumise Scecuλit e tè giasctene ditte. Adami gniofti Euene gruene vet essiλa leu Cajnè, e Abelne: Cainè, e bani Buuk, e Abelne e [.]uu me Dele per Barij.</ab>
           <ab n="b" type="verse" xml:id="part-1-scala-6-ab-318">
@@ -1705,7 +1700,6 @@
             <lb n="22" />Lameku 181. vjetti leu Noè issiλi kje 600. vjetsc cur ù godit Diλuuja me ujena.</ab>
         </div>
         <div n="Lig.II" xml:id="part-1-scala-7" type="scala" data-level="2">
-          <head>Ligierata II</head>
           <head>E düita Jetè e Scecuλit.</head>
           <head>Sem, Camo e Jafetti te bijtè Noeut lem perpara Diluuijssè.</head>
           <ab n="a" type="verse" xml:id="part-1-scala-7-ab-329">
@@ -1758,7 +1752,6 @@
             <lb n="28" />Sodoma, e Gomorra kjene Djegune me ɛiarm n'Chieλscit, bam lechie, nde te siλt ξξone se cafscete randa chiendrojne nalt; e te leate humbojne.</ab>
         </div>
         <div n="Lig.III" xml:id="part-1-scala-8" type="scala" data-level="2">
-          <head>Ligierata III</head>
           <head>E treta Jetè e Scecuλit.</head>
           <ab n="a" type="verse" xml:id="part-1-scala-8-ab-345">
             <lb n="29" />2077
@@ -1794,7 +1787,6 @@
             <lb n="5" />Issiλi kje 80. vjetsc cur duel Missirit me Jevrejt, e pat ligne mbe Malte Sinai.</ab>
         </div>
         <div n="Lig.IV" xml:id="part-1-scala-9" type="scala" data-level="2">
-          <head>Ligierata IV</head>
           <head>E caterta Jette e scecuλit.</head>
           <head>Mojsè Profeta mbassi muer Ligne mbe Malte Sinait, ndjere mbe Mort roξne 40. viet.</head>
           <ab n="a" type="verse" xml:id="part-1-scala-9-ab-355">
@@ -1882,7 +1874,6 @@
             <lb n="14" />Prej Davidit leu Salomoni, e regenoj 4. Vjet, e ɛufijλ meu trajtuem Kisca nde Ierusalemt. Kejò anscte ajo kisce perte siλet flet Danieli cap. 9.</ab>
         </div>
         <div n="Lig.V" xml:id="part-1-scala-10" type="scala" data-level="2">
-          <head>Ligierata V</head>
           <head>E pensta jetè e scecuλit.</head>
           <head>Salomoni e kur se ɛu fiλ' Kiscene ndjere mbe moort mbet giaλ ende 36. vjet.</head>
           <ab n="a" type="verse" xml:id="part-1-scala-10-ab-382">
@@ -1952,7 +1943,6 @@
             <lb n="12" />Mbas Ioachimit regenoj Sedechia 11. vjet:</ab>
         </div>
         <div n="Lig.VI" xml:id="part-1-scala-11" type="scala" data-level="2">
-          <head>Ligierata VI</head>
           <head>E giascta Jetè e scecuλit.</head>
           <head>Ievrejte hine nde robijte Farraonit nde Bagdat, e giξξe s† kjene nde robij bajene sctatte ξjette viet.</head>
           <ab n="a" type="verse" xml:id="part-1-scala-11-ab-403">
@@ -2402,7 +2392,6 @@
         </div>
         <div n="II" xml:id="part-2-scala-13" type="scala" data-level="2">
           <pb n="46" />
-          <head>Scala II</head>
           <head>E mreculiit e Iesu Chrisctit ɛotit tine</head>
           <div n="I" xml:id="part-2-scala-13-chapter-53" type="chapter" data-level="3">
             <head>Si è kξei Iesu Chriscti Ujetè ndè vene Ndè Cana Gallillet. Si è kîei Iesu Chriscti Ujetè ndè vene Ndè Cana Gallillet.</head>
@@ -2925,7 +2914,6 @@
         </div>
         <div n="IV" xml:id="part-2-scala-15" type="scala" data-level="2">
           <pb n="130" />
-          <head>Scala IV</head>
           <head>Se ngiallunit e se arξunit se düiti, te Chrisctit scelbues. Se ngiallunit e se arîunit se düiti, te Chrisctit scelbues.</head>
           <div n="I" xml:id="part-2-scala-15-chapter-64" type="chapter" data-level="3">
             <head>Si u ngiaal Iesu Chriscti te tretene ditte. Si u ngiaal Iesu Chriscti te tretene ditte.</head>
