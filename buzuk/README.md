@@ -31,25 +31,27 @@ The TITUS 1 structural units are mapped onto TEI as follows:
 ```text
 text (@xml:lang=aln-Latn-x-buzuku)
   body
-    div (@data-level=1, @n, @type=chapter, @xml:id) (multiple)
+    div (@data-level=1, @n, @type=chapter, @xml:id)
       p (@xml:id) (multiple)
         [lb (@n) (multiple)]
         [lb (@break=no, @n) (multiple)]
-        [pb (@main=yes, @n) (multiple)]
-        [pb (@n, @type=manuscript-a | manuscript-b) (multiple)]
       [pb (@main=yes, @n)]
       [pb (@n, @type=manuscript-a)]
     div (@data-level=1, @n, @type=chapter, @xml:id) (multiple)
-      head (@n) (multiple)
+      head (multiple)
+        [lb (@n) (multiple)]
       p (@xml:id) (multiple)
         [lb (@n) (multiple)]
         [lb (@break=no, @n) (multiple)]
         [pb (@main=yes, @n) (multiple)]
         [pb (@n, @type=manuscript-a | manuscript-b) (multiple)]
         [pb (@type=manuscript-a | manuscript-b) (multiple)]
-      head (multiple)
+      [pb (@n)]
+      [pb (@n, @type=manuscript-a | manuscript-b) (multiple)]
     div (@data-level=1, @n, @type=chapter, @xml:id)
-      head (@n)
+      head
+        [lb (@n)]
+      [pb (@n, @type=manuscript-a)]
 ```
 
 ### Structure Example
@@ -65,7 +67,7 @@ text (@xml:lang=aln-Latn-x-buzuku)
           <lb n="4"/>perɛeh. Laudi tuu clofte ћi ieh leem
           <lb n="5"/>en virћenet mena ћitune iaſte ferene / e
           <lb n="6"/>iet p̱ herre me atet becuom / e meh ſpir-
-          <lb n="7" break="no"/>tine ſegñte per iete teh ieteſſe. Amen.
-          <lb n="8"/>V̷ Tih ieh e becuome ender ћiξe graat.
+          <lb n="7" break="no"/>tine ſegñte per iete teh ieteſſe. Amen.</p>
+        <p xml:id="chapter-1-p-2">
   ...
 ```
