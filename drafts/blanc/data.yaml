@@ -1,25 +1,32 @@
 text:
-- body:
-  - chapter[n=(Intr.)]:
-    - p[n=Tit.]:
-      - milestone[facs=#facs-236,unit=ref]
-      - foreign[lg=lat-Latn]: DICTIONARIVM
-      - foreign[lg=lat-Latn]: LATINO EPIROTICVM
-      - foreign[lg=lat-Latn]: Una
-      - foreign[lg=lat-Latn]: Cum nonnullis usitatioribus loquendi formulis
+- front:
+  - titlePage:
+    - milestone[facs=#facs-236,unit=ref]
+    - docTitle:
+      - titlePart: DICTIONARIVM
+      - titlePart: LATINO EPIROTICVM
+      - titlePart: Una
+      - titlePart: Cum nonnullis usitatioribus loquendi formulis
+    - byline:
       - foreign[lg=lat-Latn]: Per
-      - foreign[lg=lat-Latn]: R. D. FRANCISCVM BLANCHVM
-      - foreign[lg=lat-Latn]: Epirotam Coll. de Propag. Fide Alumnum
-      - foreign[lg=lat-Latn]: Romae,
-      - foreign[lg=lat-Latn]: Typis Sac.Congr.de Propag. Fide. 1635
-      - foreign[lg=lat-Latn]: SVPERIORVM PERMISSV.
-      - milestone[facs=#facs-235,unit=ref]
-      - foreign[lg=lat-Latn]: MIS
-      - foreign[lg=lat-Latn]: EMIN. PRINCIPIBVS
-      - foreign[lg=lat-Latn]: CARDINALIBVS
-      - foreign[lg=lat-Latn]: SACRAE
-      - foreign[lg=lat-Latn]: Congreg. de Propag. Fide.
-      - foreign[lg=lat-Latn]: FRANCISCVS BLANCVS FEL.
+      - docAuthor:
+        - R. D. FRANCISCVM BLANCHVM
+        - Epirotam Coll. de Propag. Fide Alumnum
+    - docImprint:
+      - pubPlace: Romae,
+      - publisher: Typis Sac.Congr.de Propag. Fide
+      - docDate: 1635
+    - note[type=license]: SVPERIORVM PERMISSV.
+  - div[type=dedication]:
+    - milestone[facs=#facs-235,unit=ref]
+    - head:
+      - MIS
+      - EMIN. PRINCIPIBVS
+      - CARDINALIBVS
+      - SACRAE
+      - Congreg. de Propag. Fide.
+    - signed: FRANCISCVS BLANCVS FEL.
+    - p:
       - foreign[lg=lat-Latn]: Vestro debetur nomini, quod Vestris sub auspiciius prodit
           in lucem qualecunque hoc opus; qualecunque opus dixi? Erraui. Eximium debueram
           appellare. Neque uno tantum nomine splendidam hanc promeretur appellationem.
@@ -27,7 +34,8 @@ text:
           authoritas persuasit, Catholicae deinde religionis amor perfecit. Quotquot
           sunt in Epirotica regione Ecclesiae ministri, mirùm quot in errores sint
           delapsi, linguae
-      - milestone[facs=#facs-234,unit=ref]
+    - milestone[facs=#facs-234,unit=ref]
+    - p:
       - foreign[lg=lat-Latn]: quàm sint latinae omninò imperiti. Iam in dies, quod
           omnium pessimarum institutionem ingenium est, serpunt in Sacramentis administrandis
           improbandae consuetudines, sacerdotumq. vitio Christianae religionis optimi
@@ -38,6 +46,8 @@ text:
           qui totum terrarum orbem eximiae charitatis fouvetis amplexu, Vestra beneficentia,
           et Epirum subleuate, ut caetri omnes intelligant Vobis non minus regionem
           illam, quam Prouincias alias, et Regna integra Cordi esse. Valete.
+- body:
+  - chapter[n=(Intr.)]:
     - p[n=Praef.]:
       - milestone[facs=#facs-233,unit=ref]
       - GIξξE ATÜNE TARBENESCEVE GHI

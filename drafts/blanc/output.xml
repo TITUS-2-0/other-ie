@@ -1211,40 +1211,50 @@
     </surface>
   </facsimile>
   <text xml:lang="aln-Latn-x-buzuku">
-    <body>
-      <div n="(Intr.)" xml:id="chapter-1" type="chapter" data-level="1">
-        <p n="Tit." xml:id="chapter-1-p-1">
-          <milestone facs="#facs-236" unit="ref" xml:id="chapter-1-p-1-milestone-1" />
-          <foreign xml:lang="lat-Latn">DICTIONARIVM</foreign>
-          <foreign xml:lang="lat-Latn">LATINO EPIROTICVM</foreign>
-          <foreign xml:lang="lat-Latn">Una</foreign>
-          <foreign xml:lang="lat-Latn">Cum nonnullis usitatioribus loquendi formulis</foreign>
+    <front xml:id="front-1">
+      <titlePage xml:id="front-1-titlePage-1">
+        <milestone facs="#facs-236" unit="ref" xml:id="front-1-titlePage-1-milestone-1" />
+        <docTitle xml:id="front-1-titlePage-1-docTitle-1">
+          <titlePart xml:id="front-1-titlePage-1-docTitle-1-titlePart-1">DICTIONARIVM</titlePart>
+          <titlePart xml:id="front-1-titlePage-1-docTitle-1-titlePart-2">LATINO EPIROTICVM</titlePart>
+          <titlePart xml:id="front-1-titlePage-1-docTitle-1-titlePart-3">Una</titlePart>
+          <titlePart xml:id="front-1-titlePage-1-docTitle-1-titlePart-4">Cum nonnullis usitatioribus loquendi formulis</titlePart>
+        </docTitle>
+        <byline>
           <foreign xml:lang="lat-Latn">Per</foreign>
-          <foreign xml:lang="lat-Latn">R. D. FRANCISCVM BLANCHVM</foreign>
-          <foreign xml:lang="lat-Latn">Epirotam Coll. de Propag. Fide Alumnum</foreign>
-          <foreign xml:lang="lat-Latn">Romae,</foreign>
-          <foreign xml:lang="lat-Latn">Typis Sac.Congr.de Propag. Fide. 1635</foreign>
-          <foreign xml:lang="lat-Latn">SVPERIORVM PERMISSV.</foreign>
-          <milestone facs="#facs-235" unit="ref" xml:id="chapter-1-p-1-milestone-2" />
-          <foreign xml:lang="lat-Latn">MIS</foreign>
-          <foreign xml:lang="lat-Latn">EMIN. PRINCIPIBVS</foreign>
-          <foreign xml:lang="lat-Latn">CARDINALIBVS</foreign>
-          <foreign xml:lang="lat-Latn">SACRAE</foreign>
-          <foreign xml:lang="lat-Latn">Congreg. de Propag. Fide.</foreign>
-          <foreign xml:lang="lat-Latn">FRANCISCVS BLANCVS FEL.</foreign>
+          <docAuthor>R. D. FRANCISCVM BLANCHVM Epirotam Coll. de Propag. Fide Alumnum</docAuthor>
+        </byline>
+        <docImprint>
+          <pubPlace xml:id="front-1-titlePage-1-pubPlace-1">Romae,</pubPlace>
+          <publisher xml:id="front-1-titlePage-1-publisher-1">Typis Sac.Congr.de Propag. Fide</publisher>
+          <docDate>1635</docDate>
+        </docImprint>
+        <note type="license" xml:id="front-1-titlePage-1-note-1">SVPERIORVM PERMISSV.</note>
+      </titlePage>
+      <div type="dedication" xml:id="front-1-dedication-1" data-level="1">
+        <milestone facs="#facs-235" unit="ref" xml:id="front-1-dedication-1-milestone-2" />
+        <head>MIS EMIN. PRINCIPIBVS CARDINALIBVS SACRAE Congreg. de Propag. Fide.</head>
+        <signed>FRANCISCVS BLANCVS FEL.</signed>
+        <p xml:id="front-1-dedication-1-p-1">
           <foreign xml:lang="lat-Latn">Vestro debetur nomini, quod Vestris sub auspiciius prodit in lucem qualecunque hoc opus; qualecunque opus dixi? Erraui. Eximium debueram appellare. Neque uno tantum nomine splendidam hanc promeretur appellationem. Eius namq; primum, qui Vobis à Secretis est, Viri Integerrimi pietas, et authoritas persuasit, Catholicae deinde religionis amor perfecit. Quotquot sunt in Epirotica regione Ecclesiae ministri, mirùm quot in errores sint delapsi, linguae</foreign>
-          <milestone facs="#facs-234" unit="ref" xml:id="chapter-1-p-1-milestone-3" />
+        </p>
+        <milestone facs="#facs-234" unit="ref" xml:id="front-1-dedication-1-milestone-3" />
+        <p xml:id="front-1-dedication-1-p-2">
           <foreign xml:lang="lat-Latn">quàm sint latinae omninò imperiti. Iam in dies, quod omnium pessimarum institutionem ingenium est, serpunt in Sacramentis administrandis improbandae consuetudines, sacerdotumq. vitio Christianae religionis optimi ritus, atque Sanctissimi exolescunt. Integrae nationi consultum satis existimaui, si cum latino sermone formulas Epiroticae linguae componerem, si nominum, atque verborum seriem complurium exponerem ratus, faciliorem in regiones illas aditum Sacri Euangelii propagatoribus redditurum. Vos Principes Eminentissimi qui totum terrarum orbem eximiae charitatis fouvetis amplexu, Vestra beneficentia, et Epirum subleuate, ut caetri omnes intelligant Vobis non minus regionem illam, quam Prouincias alias, et Regna integra Cordi esse. Valete.</foreign>
         </p>
-        <p n="Praef." xml:id="chapter-1-p-2">
-          <milestone facs="#facs-233" unit="ref" xml:id="chapter-1-p-2-milestone-4" />GIξξE ATÜNE TARBENESCEVE GHI Ta marrene mee zghieξune, e mee zane. <foreign xml:lang="lat-Latn">Hoc est ad Epirotas, seù Albaneses Lectores.</foreign> Tue passune dite, e perdite (te dascunitee mij mbassi hina nde College) cuituem me ghisc zoppe Libre chesce me ndimuem mbe gnaane ghiuhene tane, ghi po bdarete, e po bastastarξohete saa maa parete vè; e maa fort me ndimuem giξξe atɣne ghi iane ndurξenite tine ɛot, e te Scintesse Kisce Cattoliche, es dijne ghiuhene Latine, paa tessijet as cusc smune scerbegne si duhete, paa te maξ error, e sai, hesaapete, ɛakonete, e Ceremoniatee Scintesse Kiscesse Romesse. Me ndɣ io pach mire me marre, e me ncheξɣem nghiuhet ze Letine mbe ghiuhet Tarbenesce gna Ditionaar, ghi tietre sascte vecesse gna Libre, ghi kaa ndeuetehe saa fiale, e saa emena iane, e gindene nde chete piesse Seculi: possi cuur me ξane, te Nieneɛet, ete Stasseuet, &amp; Vienauet, ete Maleuet, ete Fuscauet, ete saa tiera cafsceue, ghi gindene ndene kielt, ende mbe kielt, possi cuur te tine ɛot, te Engiet, ete Scintenet &amp;c. Isilli Libre me pelghiei, e mu duch se
-          <milestone facs="#facs-232" unit="ref" xml:id="chapter-1-p-2-milestone-5" />chiste meu chiene per ndoogna ndime, ndoonesse te pache, ete moritune prastu mbassi vdaasse Collegiet ze ɛognesse nde Lurijt, e ersce mb Rome prurξenit te Cuuendit Scint, ete Ndricimit Nduerscimit ɛot Upeschepit Sadrimesse tim Vunghie, pre emene Gieci i Barξξe, fissit sine, e ndoret sone scume iurte eiueiɣescim; izilli prei se dascunit se tine ɛot, e se Scintit A te Pape Urbanit VIII, ascte tasc crijuem e baam Argiupeschepi i Tiuarit, e hina nde Collegie te iane Scholarete, oò ata ghi zaane me vote mbasandai nder te paa feet me ctuem scintene ete vertetene feene tane, ɛuna fiil tue cheξɣem chete Ditionaar mbe ghiuhet tane, e cheξeua nssi giξξe ghisc muita, e mbassi essossa mu duch ipache, ei voghele; prasctu hina tue cuituem, e scroua mbe ghiuhet tane maa pare do te fallunaɛe, ghi kane ɛacon e bagnene Tarbenescete cuur se largu, oò stechetie mbuξ e mpichiene, tue vuum per nghiat tɣne ende mbe ghiuhet te Latignet: asctu ende do Prouerbia, oò te ξana, nze sijascit dissa kane ɛacon ei ξone Latignte, e dissa Tagliante: Do Aduerbia ende, e giξξe saa caffsceɛe iane nde chete zoppeɛe Libre iuuna fialle per fialle, e maa pare mbe dissa visse vuna Latinist, ani pernghiat, oò perfundit vuna Arbenist, e mbe te tiera vuuna maa par fiallene, e riestne Arbenist, ani perfundit Latinist, astu ghi, ata ghi te fedighene, ete duene
-          <milestone facs="#facs-231" unit="ref" xml:id="chapter-1-p-2-milestone-6" />me zane ghiuhene Latine maa mire e maa udob tu vigne. Persse vece dɣɣ caffsce (te dascunitee mij) me stɣne, eme nzitne meu fedigune eme ncheξɣem chete Libreɛe: epara chie me stijm bellegh giξξe atɣne ghi mundgnene me ncheξɣem ndoogna zoppe Libre per ndimete feesse, e te doresse sane: e dɣɣta, e mae ɛeelscime chie te paa dijtunitee giξξe atɣne (possi preca nde te ɛanet fijl te chesaai lettere) ghi scerbegnene kiscesse Scinte, Populit, e Famublijsse, e ξone scintene Mesce, e chendognene scintete Officia, mbe ghiuhet, embe hesaapit te Latignet, ete scintesse Ame Kiscesse Romesse, es nuche ndeghiognene, as nuche marrene vesct ghisc ξone, e ghisc zghieξene, ezia ascte te paa ditune, possi ξote Catoni, <foreign xml:lang="lat-Latn">legere, et non intelligere negligere est,</foreign> si cuur meξane zghiξ, e mos ndegò, oò mos meruesct ghisc zghieξ te paa ditune ascte. Prastu vlùs te dascunite ete vertɣtscimitee mij, per te miret taai, ghi ti vini crɣɣete, e mentte me giξξe ɛemere, e fighij chetij Ditionari, e te mos elessoni ndoret e mendiet che tue ta merni vesct, ete zini ghisc ξote, e ghisc mbson; e une upermetoign ghi per te vertete nde dasci pacheɛe meu fedigune chini me zane chessi Libri, nde mos tiet[r]e, me ndeghiuem ghisc urξenon Kalandari, [.]ò Ordinari, e giξξe Rubrichene. Rubriche [..]o meξane tietre vecesse ato fialletee cuchighie,
-          <milestone facs="#facs-230" unit="ref" xml:id="chapter-1-p-2-milestone-7" />ghi iane scruem, e stampuem nde Missaalt, Breuiaalt, e Ritualt tezijate defftognene e mbsognene ghisc duhete meξane, e ghisc duhete me lane, e mbe caresɣe meξane Offitiate, e Mescete, chete dite, chete iaue, e chete muei &amp;c. e iane possi cuur Kallauɛi ghi deffton uξene Lufftetareuet, oò Stechetareuet, e me goditune giuchata echegie etɣne ghi tu diste, oò tu vurit cusc Kallauɛine, paa rene terretit sdijne cuξe me marre, e direscine: mbe chete scemeltɣre iane giξξe ata ghi chendognene Offitiate, e Mescete, e minstrognene, oò scerbegnene Scintete Sacramente, es ndegognene, ndemosse Rubrichene, persse tue mos dijtune me marre uξenee dereite, e si duhete meu ξane sod, e si nessere, ξone gne caffsce, e gne fialle pergna tietere, e ngarcognene faie, emcate ebdarene ndet caffscete tine ɛot ete spijrtit tɣne, possi uξetarete paa Kallauɛ. Ndierim tas ini scuɛuem nder cheto caffscemete paa ditune te trasce, sespatme ndime, e spatme Libre cuezignimi; ma tasc echine perpara sɣɣuet, ndesse mundeni me zane, e me marre uesct nghiuhet ze Letine ghisc u ascte neuoie; prastu nde mos dasci meu ngiuem, e meu loξune pacheɛe, uξom te dini se chendɣɣ tutie, as nditet se gɣɣghit perpare fachiesse tine ɛot skane meu veiɣem mboffijte escuɛete: Possi ξote vete cperbleessi ɣne Chirsti imesceriescim nde Ungijl te Scen
-          <milestone facs="#facs-229" unit="ref" xml:id="chapter-1-p-2-milestone-8" />Gionit 15. <foreign xml:lang="lat-Latn">Nunc autem excusationem non habent de peccato suo.</foreign> Sdesca melane paa ubaam me dijtune, sicundresse mbassi essossa, e pruξe euuna chete Ditionaarξ: e spuna Chescijltarit Cuuendit scint eiu lutsce ghite flite ɛoteniuet Cuuendit scint (te zitte iane Garξinai) me maa stampuem, izilli si epaa indɣ fort mire se echesce ncheξɣm nghiuhet ze Letine mbe Tarbenescet, e me permetoi me folle, e me ma raccomanduem ghite stampohete: asctu nder pach dit foli ɛoteniuet Garξinaiet, tezite mbassi endeghine tebaamene ederguene Miestrit Pellassit mee paam, e mee prouuem, e urξenuene mee stampuem: prastu une ubana eu Scroua chete lettere ghi ascte per para chesaai mbe ghiuhet Latine, me tezijet vdedicaua, eu falla chete Libreɛe possi ascte ɛaconi i Latignet, e mete peruute vporessita te neuoiscimine ξeene Arbenit, possi murden me paam cusc ndegon Latin. Ma tietre ciu ξom scam, vecesse vlùs giξξeve me te prugnete te me ndeieni ete me scuɛoni persse smuita maa mire mee ncheξɣem, mee mbuscune, e mee nderechiune; dissa tue chiene giξξe here nzane nde lettere, ende studie; e dissa tue mos passune scume mot me chà me raɛenuem, e me folle mbe ghiuhet tane, possi cuur harruem smerξne ndemend scume emena, e scume fialle mei vuum Arbenist: e ɛinima besse, se hina mee lane, e me mos vote
-          <milestone facs="#facs-228" unit="ref" xml:id="chapter-1-p-2-milestone-9" />parete me tà; maa mbe tieteret ane cuitoua, e medɣ maa mire me ncheξɣem giaa caffsce, se as giaa, persse, ndemos nghegnehem, mendiete se nder terretit epache drite veien, e cuscton scume. Vuledetne, e cuidesne vece Krijuessi i Kielet madì Vellaɛenitee dascune si ekam passune, e si ekam nde me rante fugia me ξane dorene, e me ndimuem se paa fatesse doresse Arbenesce, prastu per ɛinima me chete fedigheɛe saa ascte, e si dò ascte possi cuur tisc caffsce emaξe euueiɣeitescime, e mos, u vigne festijr me vruem per mue. I teni Stendosc. Prei Romæ, Dit nde Maai 30. nde vietete Chirstit 1635. Scerbetori iɛotenijsse saai Une D. Frangu Ibarξξe Scholaar nde College te Scintesse Fee.</p>
-        <p n="Impr." xml:id="chapter-1-p-3">
-          <milestone facs="#facs-227" unit="ref" xml:id="chapter-1-p-3-milestone-10" />
+      </div>
+    </front>
+    <body>
+      <div n="(Intr.)" xml:id="front-1-dedication-1-chapter-1" type="chapter" data-level="1">
+        <p n="Praef." xml:id="front-1-dedication-1-chapter-1-p-3">
+          <milestone facs="#facs-233" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-3-milestone-4" />GIξξE ATÜNE TARBENESCEVE GHI Ta marrene mee zghieξune, e mee zane. <foreign xml:lang="lat-Latn">Hoc est ad Epirotas, seù Albaneses Lectores.</foreign> Tue passune dite, e perdite (te dascunitee mij mbassi hina nde College) cuituem me ghisc zoppe Libre chesce me ndimuem mbe gnaane ghiuhene tane, ghi po bdarete, e po bastastarξohete saa maa parete vè; e maa fort me ndimuem giξξe atɣne ghi iane ndurξenite tine ɛot, e te Scintesse Kisce Cattoliche, es dijne ghiuhene Latine, paa tessijet as cusc smune scerbegne si duhete, paa te maξ error, e sai, hesaapete, ɛakonete, e Ceremoniatee Scintesse Kiscesse Romesse. Me ndɣ io pach mire me marre, e me ncheξɣem nghiuhet ze Letine mbe ghiuhet Tarbenesce gna Ditionaar, ghi tietre sascte vecesse gna Libre, ghi kaa ndeuetehe saa fiale, e saa emena iane, e gindene nde chete piesse Seculi: possi cuur me ξane, te Nieneɛet, ete Stasseuet, &amp; Vienauet, ete Maleuet, ete Fuscauet, ete saa tiera cafsceue, ghi gindene ndene kielt, ende mbe kielt, possi cuur te tine ɛot, te Engiet, ete Scintenet &amp;c. Isilli Libre me pelghiei, e mu duch se
+          <milestone facs="#facs-232" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-3-milestone-5" />chiste meu chiene per ndoogna ndime, ndoonesse te pache, ete moritune prastu mbassi vdaasse Collegiet ze ɛognesse nde Lurijt, e ersce mb Rome prurξenit te Cuuendit Scint, ete Ndricimit Nduerscimit ɛot Upeschepit Sadrimesse tim Vunghie, pre emene Gieci i Barξξe, fissit sine, e ndoret sone scume iurte eiueiɣescim; izilli prei se dascunit se tine ɛot, e se Scintit A te Pape Urbanit VIII, ascte tasc crijuem e baam Argiupeschepi i Tiuarit, e hina nde Collegie te iane Scholarete, oò ata ghi zaane me vote mbasandai nder te paa feet me ctuem scintene ete vertetene feene tane, ɛuna fiil tue cheξɣem chete Ditionaar mbe ghiuhet tane, e cheξeua nssi giξξe ghisc muita, e mbassi essossa mu duch ipache, ei voghele; prasctu hina tue cuituem, e scroua mbe ghiuhet tane maa pare do te fallunaɛe, ghi kane ɛacon e bagnene Tarbenescete cuur se largu, oò stechetie mbuξ e mpichiene, tue vuum per nghiat tɣne ende mbe ghiuhet te Latignet: asctu ende do Prouerbia, oò te ξana, nze sijascit dissa kane ɛacon ei ξone Latignte, e dissa Tagliante: Do Aduerbia ende, e giξξe saa caffsceɛe iane nde chete zoppeɛe Libre iuuna fialle per fialle, e maa pare mbe dissa visse vuna Latinist, ani pernghiat, oò perfundit vuna Arbenist, e mbe te tiera vuuna maa par fiallene, e riestne Arbenist, ani perfundit Latinist, astu ghi, ata ghi te fedighene, ete duene
+          <milestone facs="#facs-231" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-3-milestone-6" />me zane ghiuhene Latine maa mire e maa udob tu vigne. Persse vece dɣɣ caffsce (te dascunitee mij) me stɣne, eme nzitne meu fedigune eme ncheξɣem chete Libreɛe: epara chie me stijm bellegh giξξe atɣne ghi mundgnene me ncheξɣem ndoogna zoppe Libre per ndimete feesse, e te doresse sane: e dɣɣta, e mae ɛeelscime chie te paa dijtunitee giξξe atɣne (possi preca nde te ɛanet fijl te chesaai lettere) ghi scerbegnene kiscesse Scinte, Populit, e Famublijsse, e ξone scintene Mesce, e chendognene scintete Officia, mbe ghiuhet, embe hesaapit te Latignet, ete scintesse Ame Kiscesse Romesse, es nuche ndeghiognene, as nuche marrene vesct ghisc ξone, e ghisc zghieξene, ezia ascte te paa ditune, possi ξote Catoni, <foreign xml:lang="lat-Latn">legere, et non intelligere negligere est,</foreign> si cuur meξane zghiξ, e mos ndegò, oò mos meruesct ghisc zghieξ te paa ditune ascte. Prastu vlùs te dascunite ete vertɣtscimitee mij, per te miret taai, ghi ti vini crɣɣete, e mentte me giξξe ɛemere, e fighij chetij Ditionari, e te mos elessoni ndoret e mendiet che tue ta merni vesct, ete zini ghisc ξote, e ghisc mbson; e une upermetoign ghi per te vertete nde dasci pacheɛe meu fedigune chini me zane chessi Libri, nde mos tiet[r]e, me ndeghiuem ghisc urξenon Kalandari, [.]ò Ordinari, e giξξe Rubrichene. Rubriche [..]o meξane tietre vecesse ato fialletee cuchighie,
+          <milestone facs="#facs-230" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-3-milestone-7" />ghi iane scruem, e stampuem nde Missaalt, Breuiaalt, e Ritualt tezijate defftognene e mbsognene ghisc duhete meξane, e ghisc duhete me lane, e mbe caresɣe meξane Offitiate, e Mescete, chete dite, chete iaue, e chete muei &amp;c. e iane possi cuur Kallauɛi ghi deffton uξene Lufftetareuet, oò Stechetareuet, e me goditune giuchata echegie etɣne ghi tu diste, oò tu vurit cusc Kallauɛine, paa rene terretit sdijne cuξe me marre, e direscine: mbe chete scemeltɣre iane giξξe ata ghi chendognene Offitiate, e Mescete, e minstrognene, oò scerbegnene Scintete Sacramente, es ndegognene, ndemosse Rubrichene, persse tue mos dijtune me marre uξenee dereite, e si duhete meu ξane sod, e si nessere, ξone gne caffsce, e gne fialle pergna tietere, e ngarcognene faie, emcate ebdarene ndet caffscete tine ɛot ete spijrtit tɣne, possi uξetarete paa Kallauɛ. Ndierim tas ini scuɛuem nder cheto caffscemete paa ditune te trasce, sespatme ndime, e spatme Libre cuezignimi; ma tasc echine perpara sɣɣuet, ndesse mundeni me zane, e me marre uesct nghiuhet ze Letine ghisc u ascte neuoie; prastu nde mos dasci meu ngiuem, e meu loξune pacheɛe, uξom te dini se chendɣɣ tutie, as nditet se gɣɣghit perpare fachiesse tine ɛot skane meu veiɣem mboffijte escuɛete: Possi ξote vete cperbleessi ɣne Chirsti imesceriescim nde Ungijl te Scen
+          <milestone facs="#facs-229" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-3-milestone-8" />Gionit 15. <foreign xml:lang="lat-Latn">Nunc autem excusationem non habent de peccato suo.</foreign> Sdesca melane paa ubaam me dijtune, sicundresse mbassi essossa, e pruξe euuna chete Ditionaarξ: e spuna Chescijltarit Cuuendit scint eiu lutsce ghite flite ɛoteniuet Cuuendit scint (te zitte iane Garξinai) me maa stampuem, izilli si epaa indɣ fort mire se echesce ncheξɣm nghiuhet ze Letine mbe Tarbenescet, e me permetoi me folle, e me ma raccomanduem ghite stampohete: asctu nder pach dit foli ɛoteniuet Garξinaiet, tezite mbassi endeghine tebaamene ederguene Miestrit Pellassit mee paam, e mee prouuem, e urξenuene mee stampuem: prastu une ubana eu Scroua chete lettere ghi ascte per para chesaai mbe ghiuhet Latine, me tezijet vdedicaua, eu falla chete Libreɛe possi ascte ɛaconi i Latignet, e mete peruute vporessita te neuoiscimine ξeene Arbenit, possi murden me paam cusc ndegon Latin. Ma tietre ciu ξom scam, vecesse vlùs giξξeve me te prugnete te me ndeieni ete me scuɛoni persse smuita maa mire mee ncheξɣem, mee mbuscune, e mee nderechiune; dissa tue chiene giξξe here nzane nde lettere, ende studie; e dissa tue mos passune scume mot me chà me raɛenuem, e me folle mbe ghiuhet tane, possi cuur harruem smerξne ndemend scume emena, e scume fialle mei vuum Arbenist: e ɛinima besse, se hina mee lane, e me mos vote
+          <milestone facs="#facs-228" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-3-milestone-9" />parete me tà; maa mbe tieteret ane cuitoua, e medɣ maa mire me ncheξɣem giaa caffsce, se as giaa, persse, ndemos nghegnehem, mendiete se nder terretit epache drite veien, e cuscton scume. Vuledetne, e cuidesne vece Krijuessi i Kielet madì Vellaɛenitee dascune si ekam passune, e si ekam nde me rante fugia me ξane dorene, e me ndimuem se paa fatesse doresse Arbenesce, prastu per ɛinima me chete fedigheɛe saa ascte, e si dò ascte possi cuur tisc caffsce emaξe euueiɣeitescime, e mos, u vigne festijr me vruem per mue. I teni Stendosc. Prei Romæ, Dit nde Maai 30. nde vietete Chirstit 1635. Scerbetori iɛotenijsse saai Une D. Frangu Ibarξξe Scholaar nde College te Scintesse Fee.</p>
+        <p n="Impr." xml:id="front-1-dedication-1-chapter-1-p-4">
+          <milestone facs="#facs-227" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-4-milestone-10" />
           <foreign xml:lang="lat-Latn">Imprimatur si videbitur Reuerendiss. P. Mag. Sac. Pal. Apost.</foreign>
           <foreign xml:lang="lat-Latn">A. Torniellus Vicesg.</foreign>
           <foreign xml:lang="lat-Latn">Nos Fr. Marcus Scura Episcopus Stephanensis, iussu Reuerendissimi P. F. Nicolai Riccardij Sac. Pal. Apost. Mag. legimus ac perpendimus librum hunc, qui inscribitur Dictionarium Latino Epiroticum, à Perillustri D. Francisco de Blancis Epirota, Collegij de Propaganda Fide Alumno professori Theologica, elaboratum, illudq. non solum Epirotis, sed etiam alijs externarum linguarum studiosis, iucundum æquè, atq; utile visum est. Romæ 30. Maii 1635.</foreign>
@@ -1252,8 +1262,8 @@
           <foreign xml:lang="lat-Latn">Imprimatur.</foreign>
           <foreign xml:lang="lat-Latn">Fr. Nicolaus Riccardius Sacri Palatij Apostolici Mag.</foreign>
         </p>
-        <p n="Ann." xml:id="chapter-1-p-4">
-          <milestone facs="#facs-226" unit="ref" xml:id="chapter-1-p-4-milestone-11" />
+        <p n="Ann." xml:id="front-1-dedication-1-chapter-1-p-5">
+          <milestone facs="#facs-226" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-5-milestone-11" />
           <foreign xml:lang="lat-Latn">Annotationes de lingua, &amp; litteris Epirotarum, seù Albanesiorum.</foreign>
           <foreign xml:lang="lat-Latn">Proprium Epiroticæ gentis idioma, seù Albanesia lingua à Græca, &amp; Illyrica, seù Slauonica loquendi ratione planè diuersa est, licet inter utriusq; gentis confinia veluti media constituta conspicitur. In scribendo tamen ijsdem omnino litterarum caracteribus utuntur Epirotae, siuè Albanesij, quibus Latini; Imo ferè in omnibus conueniunt, nisi praeter Latinorum litteras, tres praecipuas ac singulares haberent Epirotae: quorum figurae, exempla modique pronunciandi in praesenti subiiciuntur:</foreign>
           <foreign xml:lang="lat-Latn">Figura</foreign> ɛ   ɣ <foreign xml:lang="lat-Latn">&amp;</foreign> ξ. <foreign xml:lang="lat-Latn">Exempla</foreign> ɛot, <foreign xml:lang="lat-Latn">hoc est Dominus.</foreign> ɣɣl, <foreign xml:lang="lat-Latn">hoc est Stella.</foreign> ξee, <foreign xml:lang="lat-Latn">hoc est Terra.</foreign>
@@ -1265,11 +1275,11 @@
           <foreign xml:lang="lat-Latn">more Gallorum. Tertia, ut</foreign>
           <foreign xml:lang="lat-Latn">Th.</foreign>
           <foreign xml:lang="lat-Latn">Ex qua peculiari litterarum forma, ac pronunciatione verborum, quia dubitare quis posset an Epirotae cum Turcico sermone aliquam</foreign>
-          <milestone facs="#facs-225" unit="ref" xml:id="chapter-1-p-4-milestone-12" />
+          <milestone facs="#facs-225" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-5-milestone-12" />
           <foreign xml:lang="lat-Latn">habeant affinitatem, quandoquidem Turcarum Imperio moderantur, ac legibus ideò sub finem operis habes praeter numerandi rationem nonnulla etiam vocabula Turcicè, atque Epiroticè expressa, ex quibus facilè erit inter utrumque sermonem diuersitatem colligere &amp;c.</foreign>
         </p>
-        <p n="St.Gasp." xml:id="chapter-1-p-5">
-          <milestone facs="#facs-224" unit="ref" xml:id="chapter-1-p-5-milestone-13" />
+        <p n="St.Gasp." xml:id="front-1-dedication-1-chapter-1-p-6">
+          <milestone facs="#facs-224" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-6-milestone-13" />
           <foreign xml:lang="lat-Latn">STEPHANUS GASPARUS</foreign>
           <foreign xml:lang="lat-Latn">Epirota Dyrrachiensis Collegij</foreign>
           <foreign xml:lang="lat-Latn">de Propag. Fide Alumnus</foreign>
@@ -1285,8 +1295,8 @@
           <foreign xml:lang="lat-Latn">Augustum Naso, celebrauit Homerus Achyllem:</foreign>
           <foreign xml:lang="lat-Latn">At te qui possit scribere nullus erit.</foreign>
         </p>
-        <p n="Fr.Azz." xml:id="chapter-1-p-6">
-          <milestone facs="#facs-223" unit="ref" xml:id="chapter-1-p-6-milestone-14" />
+        <p n="Fr.Azz." xml:id="front-1-dedication-1-chapter-1-p-7">
+          <milestone facs="#facs-223" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-7-milestone-14" />
           <foreign xml:lang="lat-Latn">FRANCISCVS AZZOPARDVS</foreign>
           <foreign xml:lang="lat-Latn">Melitensis eiusdem Collegii</foreign>
           <foreign xml:lang="lat-Latn">Alumnus</foreign>
@@ -1298,7 +1308,7 @@
           <foreign xml:lang="lat-Latn">Gaudeat Epirus, lætetur stemmate Blanco,</foreign>
           <foreign xml:lang="lat-Latn">Quod peperit Patriæ pignora digna suæ.</foreign>
         </p>
-        <p n="Mt.Dud." xml:id="chapter-1-p-7">
+        <p n="Mt.Dud." xml:id="front-1-dedication-1-chapter-1-p-8">
           <foreign xml:lang="lat-Latn">MATTHAEVS DVDESIVS</foreign>
           <foreign xml:lang="lat-Latn">Dalmata Absorensis</foreign>
           <foreign xml:lang="lat-Latn">AD LECTOREM</foreign>
@@ -1309,8 +1319,8 @@
           <foreign xml:lang="lat-Latn">Hunc lege, hunc recole, ingenioq. reconde libellum</foreign>
           <foreign xml:lang="lat-Latn">Linguæ qui Patriæ dat documenta suæ.</foreign>
         </p>
-        <p n="Ind.Cap." xml:id="chapter-1-p-8">
-          <milestone facs="#facs-222" unit="ref" xml:id="chapter-1-p-8-milestone-15" />
+        <p n="Ind.Cap." xml:id="front-1-dedication-1-chapter-1-p-9">
+          <milestone facs="#facs-222" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-9-milestone-15" />
           <foreign xml:lang="lat-Latn">INDEX CAPITVM</foreign>
           <foreign xml:lang="lat-Latn">Quæ continentur in fine huius Opusculi</foreign>
           <foreign xml:lang="lat-Latn">Cap. I   De Nominibus Numeralibus   pag. 189 &amp; 192</foreign>
@@ -1321,15 +1331,15 @@
           <foreign xml:lang="lat-Latn">Cap. VI   De Interiectionibus   206</foreign>
           <foreign xml:lang="lat-Latn">Cap. VII   De Nonnullis Prouerbiis, Sententiis, &amp; Salutationibus   207, 217</foreign>
           <pb n="1" />
-          <milestone facs="#facs-221" unit="ref" xml:id="chapter-1-p-8-milestone-16" />
+          <milestone facs="#facs-221" unit="ref" xml:id="front-1-dedication-1-chapter-1-p-9-milestone-16" />
         </p>
       </div>
-      <div n="Alph." xml:id="chapter-2" type="chapter" data-level="1">
+      <div n="Alph." xml:id="front-1-dedication-1-chapter-2" type="chapter" data-level="1">
         <head>
           <foreign xml:lang="lat-Latn">DICTIONARIUM</foreign>
           <foreign xml:lang="lat-Latn">LATINO-EPIROTICVM</foreign>
         </head>
-        <p n="A" xml:id="chapter-2-p-9">
+        <p n="A" xml:id="front-1-dedication-1-chapter-2-p-10">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Ab altera parte</foreign> Mbe tieteret ane
 <lb n="2" />
@@ -1375,7 +1385,7 @@
 <lb n="22" />
           <foreign xml:lang="lat-Latn">Adeps</foreign> Temaimite
 <pb n="2" />
-          <milestone facs="#facs-220" unit="ref" xml:id="chapter-2-p-9-milestone-17" />
+          <milestone facs="#facs-220" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-10-milestone-17" />
           <lb n="23" />
           <foreign xml:lang="lat-Latn">A dextra</foreign> Mbete diaftet
 <lb n="24" />
@@ -1435,7 +1445,7 @@
 <lb n="51" />
           <foreign xml:lang="lat-Latn">A fronte</foreign> Mbale
 <pb n="3" />
-          <milestone facs="#facs-219" unit="ref" xml:id="chapter-2-p-9-milestone-18" />
+          <milestone facs="#facs-219" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-10-milestone-18" />
           <lb n="52" />
           <foreign xml:lang="lat-Latn">Africa</foreign> Africa, e treta Piesse e seculit
 <lb n="53" />
@@ -1495,7 +1505,7 @@
 <lb n="80" />
           <foreign xml:lang="lat-Latn">Amatus</foreign> Dasciune
 <pb n="4" />
-          <milestone facs="#facs-218" unit="ref" xml:id="chapter-2-p-9-milestone-19" />
+          <milestone facs="#facs-218" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-10-milestone-19" />
           <lb n="81" />
           <foreign xml:lang="lat-Latn">Ambidexter</foreign> I stemanchte
 <lb n="82" />
@@ -1557,7 +1567,7 @@
 <lb n="110" />
           <foreign xml:lang="lat-Latn">Amicus</foreign> Mich
 <pb n="5" />
-          <milestone facs="#facs-217" unit="ref" xml:id="chapter-2-p-9-milestone-20" />
+          <milestone facs="#facs-217" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-10-milestone-20" />
           <lb n="111" />
           <foreign xml:lang="lat-Latn">Amiculus</foreign> Micheξ
 <lb n="112" />
@@ -1619,7 +1629,7 @@
 <lb n="140" />
           <foreign xml:lang="lat-Latn">Apostata</foreign> Hain
 <pb n="6" />
-          <milestone facs="#facs-216" unit="ref" xml:id="chapter-2-p-9-milestone-21" />
+          <milestone facs="#facs-216" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-10-milestone-21" />
           <lb n="141" />
           <foreign xml:lang="lat-Latn">Apparitor</foreign> Turciè chiauss
 <lb n="142" />
@@ -1679,7 +1689,7 @@
 <lb n="169" />
           <foreign xml:lang="lat-Latn">Armamentarium</foreign> Vendi cu vihene armete
 <pb n="7" />
-          <milestone facs="#facs-215" unit="ref" xml:id="chapter-2-p-9-milestone-22" />
+          <milestone facs="#facs-215" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-10-milestone-22" />
           <lb n="170" />
           <foreign xml:lang="lat-Latn">Armatus</foreign> Armuem
 <lb n="171" />
@@ -1737,9 +1747,9 @@
 <lb n="197" />
           <foreign xml:lang="lat-Latn">Audax vir</foreign> Nierij i forte
 <pb n="8" />
-          <milestone facs="#facs-214" unit="ref" xml:id="chapter-2-p-9-milestone-23" />
+          <milestone facs="#facs-214" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-10-milestone-23" />
         </p>
-        <p n="B" xml:id="chapter-2-p-10">
+        <p n="B" xml:id="front-1-dedication-1-chapter-2-p-11">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Babylonia</foreign> Bagdat
 <lb n="2" />
@@ -1793,14 +1803,14 @@
 <lb n="26" />
           <foreign xml:lang="lat-Latn">Brachium</foreign> Craha
 <pb n="9" />
-          <milestone facs="#facs-213" unit="ref" xml:id="chapter-2-p-10-milestone-24" />
+          <milestone facs="#facs-213" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-11-milestone-24" />
           <lb n="27" />
           <foreign xml:lang="lat-Latn">Brassica</foreign> Lachene
 <lb n="28" />
           <foreign xml:lang="lat-Latn">Buccea boccone</foreign> Cafsciata
 <lb n="29" />
           <foreign xml:lang="lat-Latn">Byzantium</foreign> Stamboli</p>
-        <p n="C" xml:id="chapter-2-p-11">
+        <p n="C" xml:id="front-1-dedication-1-chapter-2-p-12">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Caballus cauallo</foreign> Caale
 <lb n="2" />
@@ -1850,7 +1860,7 @@
 <lb n="24" />
           <foreign xml:lang="lat-Latn">Calor</foreign> Tenzeete
 <pb n="10" />
-          <milestone facs="#facs-212" unit="ref" xml:id="chapter-2-p-11-milestone-25" />
+          <milestone facs="#facs-212" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-12-milestone-25" />
           <lb n="25" />
           <foreign xml:lang="lat-Latn">Calidus</foreign> Nzeete
 <lb n="26" />
@@ -1910,7 +1920,7 @@
 <lb n="53" />
           <foreign xml:lang="lat-Latn">Castanea</foreign> Chestegne
 <pb n="11" />
-          <milestone facs="#facs-211" unit="ref" xml:id="chapter-2-p-11-milestone-26" />
+          <milestone facs="#facs-211" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-12-milestone-26" />
           <lb n="54" />
           <foreign xml:lang="lat-Latn">Castellum</foreign> Chestiel
 <lb n="55" />
@@ -1970,7 +1980,7 @@
 <lb n="82" />
           <foreign xml:lang="lat-Latn">Cichorium, cicoria</foreign> Rcoreia
 <pb n="12" />
-          <milestone facs="#facs-210" unit="ref" xml:id="chapter-2-p-11-milestone-27" />
+          <milestone facs="#facs-210" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-12-milestone-27" />
           <lb n="83" />
           <foreign xml:lang="lat-Latn">Cimex</foreign> Cimech
 <lb n="84" />
@@ -2030,7 +2040,7 @@
 <lb n="111" />
           <foreign xml:lang="lat-Latn">Coalescere</foreign> Me asciumuem
 <pb n="13" />
-          <milestone facs="#facs-209" unit="ref" xml:id="chapter-2-p-11-milestone-28" />
+          <milestone facs="#facs-209" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-12-milestone-28" />
           <lb n="112" />
           <foreign xml:lang="lat-Latn">Cochlearium</foreign> Lughe Turcicè Kassik
 <lb n="113" />
@@ -2088,7 +2098,7 @@
 <lb n="139" />
           <foreign xml:lang="lat-Latn">Columba</foreign> Pelumb
 <pb n="14" />
-          <milestone facs="#facs-208" unit="ref" xml:id="chapter-2-p-11-milestone-29" />
+          <milestone facs="#facs-208" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-12-milestone-29" />
           <lb n="140" />
           <foreign xml:lang="lat-Latn">Columna</foreign> Stɣla
 <lb n="141" />
@@ -2146,7 +2156,7 @@
 <lb n="167" />
           <foreign xml:lang="lat-Latn">Confessio</foreign> Te refɣemite
 <pb n="15" />
-          <milestone facs="#facs-207" unit="ref" xml:id="chapter-2-p-11-milestone-30" />
+          <milestone facs="#facs-207" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-12-milestone-30" />
           <lb n="168" />
           <foreign xml:lang="lat-Latn">Confessor</foreign> Refɣes
 <lb n="169" />
@@ -2208,7 +2218,7 @@
 <lb n="197" />
           <foreign xml:lang="lat-Latn">Cornus, Corniolo</foreign> ξana
 <pb n="16" />
-          <milestone facs="#facs-206" unit="ref" xml:id="chapter-2-p-11-milestone-31" />
+          <milestone facs="#facs-206" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-12-milestone-31" />
           <lb n="198" />
           <foreign xml:lang="lat-Latn">Corona</foreign> Cunora
 <lb n="199" />
@@ -2270,7 +2280,7 @@
 <lb n="227" />
           <foreign xml:lang="lat-Latn">Cumulus</foreign> Grubule
 <pb n="17" />
-          <milestone facs="#facs-205" unit="ref" xml:id="chapter-2-p-11-milestone-32" />
+          <milestone facs="#facs-205" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-12-milestone-32" />
           <lb n="228" />
           <foreign xml:lang="lat-Latn">Curæ</foreign> Diepia
 <lb n="229" />
@@ -2297,7 +2307,7 @@
           <foreign xml:lang="lat-Latn">Cuspis</foreign> Maieia
 <lb n="240" />
           <foreign xml:lang="lat-Latn">Cyathus, Bichiere</foreign> Putijr</p>
-        <p n="D" xml:id="chapter-2-p-12">
+        <p n="D" xml:id="front-1-dedication-1-chapter-2-p-13">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Damnosus</foreign> Dametuer
 <lb n="2" />
@@ -2323,7 +2333,7 @@
 <lb n="12" />
           <foreign xml:lang="lat-Latn">Decipere</foreign> Me ghegnɣem
 <pb n="18" />
-          <milestone facs="#facs-204" unit="ref" xml:id="chapter-2-p-12-milestone-33" />
+          <milestone facs="#facs-204" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-13-milestone-33" />
           <lb n="13" />
           <foreign xml:lang="lat-Latn">Decor</foreign> Te bucurite
 <lb n="14" />
@@ -2379,7 +2389,7 @@
 <lb n="39" />
           <foreign xml:lang="lat-Latn">Desiderium</foreign> Descijr
 <pb n="19" />
-          <milestone facs="#facs-203" unit="ref" xml:id="chapter-2-p-12-milestone-34" />
+          <milestone facs="#facs-203" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-13-milestone-34" />
           <lb n="40" />
           <foreign xml:lang="lat-Latn">Desiderare</foreign> Me desceruem
 <lb n="41" />
@@ -2433,7 +2443,7 @@
 <lb n="65" />
           <foreign xml:lang="lat-Latn">Dies Veneris</foreign> Dita eprende
 <pb n="20" />
-          <milestone facs="#facs-202" unit="ref" xml:id="chapter-2-p-12-milestone-35" />
+          <milestone facs="#facs-202" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-13-milestone-35" />
           <lb n="66" />
           <foreign xml:lang="lat-Latn">Dies sabbathi</foreign> Dita escetund
 <lb n="67" />
@@ -2487,7 +2497,7 @@
 <lb n="91" />
           <foreign xml:lang="lat-Latn">Docilis</foreign> Cusze gnocias, imbsuescim
 <pb n="21" />
-          <milestone facs="#facs-201" unit="ref" xml:id="chapter-2-p-12-milestone-36" />
+          <milestone facs="#facs-201" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-13-milestone-36" />
           <lb n="92" />
           <foreign xml:lang="lat-Latn">Doctus</foreign> Doctuer
 <lb n="93" />
@@ -2539,9 +2549,9 @@
 <lb n="116" />
           <foreign xml:lang="lat-Latn">Dyrrachium</foreign> Durrez
 <pb n="22" />
-          <milestone facs="#facs-200" unit="ref" xml:id="chapter-2-p-12-milestone-37" />
+          <milestone facs="#facs-200" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-13-milestone-37" />
         </p>
-        <p n="E" xml:id="chapter-2-p-13">
+        <p n="E" xml:id="front-1-dedication-1-chapter-2-p-14">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Ebrius, ebrio</foreign> Deeim
 <lb n="2" />
@@ -2591,7 +2601,7 @@
 <lb n="24" />
           <foreign xml:lang="lat-Latn">Equa, caualla</foreign> Pella
 <pb n="23" />
-          <milestone facs="#facs-199" unit="ref" xml:id="chapter-2-p-13-milestone-38" />
+          <milestone facs="#facs-199" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-14-milestone-38" />
           <lb n="25" />
           <foreign xml:lang="lat-Latn">Equaria</foreign> Fara equallet
 <lb n="26" />
@@ -2645,7 +2655,7 @@
 <lb n="50" />
           <foreign xml:lang="lat-Latn">Expeditè habebimus</foreign> Udob chemi me epassune
 <pb n="24" />
-          <milestone facs="#facs-198" unit="ref" xml:id="chapter-2-p-13-milestone-39" />
+          <milestone facs="#facs-198" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-14-milestone-39" />
           <lb n="51" />
           <foreign xml:lang="lat-Latn">Expers</foreign> Paa piesse
 <lb n="52" />
@@ -2676,7 +2686,7 @@
           <foreign xml:lang="lat-Latn">Exugo sanguinem illi</foreign> Iξiξign giachne atij
 <lb n="65" />
           <foreign xml:lang="lat-Latn">Exulceratio</foreign> Varra, oò Plaga</p>
-        <p n="F" xml:id="chapter-2-p-14">
+        <p n="F" xml:id="front-1-dedication-1-chapter-2-p-15">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Faba</foreign> Baξξa
 <lb n="2" />
@@ -2698,7 +2708,7 @@
 <lb n="10" />
           <foreign xml:lang="lat-Latn">Factura</foreign> Ebameia
 <pb n="25" />
-          <milestone facs="#facs-197" unit="ref" xml:id="chapter-2-p-14-milestone-40" />
+          <milestone facs="#facs-197" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-15-milestone-40" />
           <lb n="11" />
           <foreign xml:lang="lat-Latn">Facultas</foreign> Pustetia
 <lb n="12" />
@@ -2752,7 +2762,7 @@
 <lb n="36" />
           <foreign xml:lang="lat-Latn">Fiat, sia</foreign> Chiofte
 <pb n="26" />
-          <milestone facs="#facs-196" unit="ref" xml:id="chapter-2-p-14-milestone-41" />
+          <milestone facs="#facs-196" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-15-milestone-41" />
           <lb n="37" />
           <foreign xml:lang="lat-Latn">Ficatum, fegato</foreign> Muschenij
 <lb n="38" />
@@ -2808,7 +2818,7 @@
 <lb n="63" />
           <foreign xml:lang="lat-Latn">Foramen, buco</foreign> Bire
 <pb n="27" />
-          <milestone facs="#facs-195" unit="ref" xml:id="chapter-2-p-14-milestone-42" />
+          <milestone facs="#facs-195" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-15-milestone-42" />
           <lb n="64" />
           <foreign xml:lang="lat-Latn">Forceps, tanaglie</foreign> Daena
 <lb n="65" />
@@ -2862,7 +2872,7 @@
 <lb n="89" />
           <foreign xml:lang="lat-Latn">Frequenter</foreign> Scpess
 <pb n="28" />
-          <milestone facs="#facs-194" unit="ref" xml:id="chapter-2-p-14-milestone-43" />
+          <milestone facs="#facs-194" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-15-milestone-43" />
           <lb n="90" />
           <foreign xml:lang="lat-Latn">Frigidus, freddo</foreign> Fftoffete
 <lb n="91" />
@@ -2920,9 +2930,9 @@
 <lb n="117" />
           <foreign xml:lang="lat-Latn">Fuscina, tridente</foreign> Fussgnana
 <pb n="29" />
-          <milestone facs="#facs-193" unit="ref" xml:id="chapter-2-p-14-milestone-44" />
+          <milestone facs="#facs-193" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-15-milestone-44" />
         </p>
-        <p n="G" xml:id="chapter-2-p-15">
+        <p n="G" xml:id="front-1-dedication-1-chapter-2-p-16">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Galea</foreign> Chalata
 <lb n="2" />
@@ -2970,7 +2980,7 @@
 <lb n="23" />
           <foreign xml:lang="lat-Latn">Granarium, granaio</foreign> Magazzij, oò hambaar
 <pb n="30" />
-          <milestone facs="#facs-192" unit="ref" xml:id="chapter-2-p-15-milestone-45" />
+          <milestone facs="#facs-192" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-16-milestone-45" />
           <lb n="24" />
           <foreign xml:lang="lat-Latn">Grandæuitas</foreign> Plechenia, Turcicè doli
 <lb n="25" />
@@ -3005,7 +3015,7 @@
           <foreign xml:lang="lat-Latn">Guttur</foreign> Fɣti, Turcicè bogas
 <lb n="40" />
           <foreign xml:lang="lat-Latn">Gutturnum</foreign> ijbrih</p>
-        <p n="H" xml:id="chapter-2-p-16">
+        <p n="H" xml:id="front-1-dedication-1-chapter-2-p-17">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Habena, briglia</foreign> Free
 <lb n="2" />
@@ -3023,7 +3033,7 @@
 <lb n="8" />
           <foreign xml:lang="lat-Latn">Hedera, hellera</foreign> Urξ
 <pb n="31" />
-          <milestone facs="#facs-191" unit="ref" xml:id="chapter-2-p-16-milestone-46" />
+          <milestone facs="#facs-191" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-17-milestone-46" />
           <lb n="9" />
           <foreign xml:lang="lat-Latn">Hei, oime</foreign> Ooo
 <lb n="10" />
@@ -3083,7 +3093,7 @@
 <lb n="37" />
           <foreign xml:lang="lat-Latn">Horrenda mors est</foreign> Echechie moortia aste
 <pb n="32" />
-          <milestone facs="#facs-190" unit="ref" xml:id="chapter-2-p-16-milestone-47" />
+          <milestone facs="#facs-190" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-17-milestone-47" />
           <lb n="38" />
           <foreign xml:lang="lat-Latn">Hortus</foreign> Copeste
 <lb n="39" />
@@ -3120,7 +3130,7 @@
           <foreign xml:lang="lat-Latn">Hypocrisis, hipocrisia</foreign> Scergia
 <lb n="55" />
           <foreign xml:lang="lat-Latn">Hyssopus</foreign> Hysoppo</p>
-        <p n="I" xml:id="chapter-2-p-17">
+        <p n="I" xml:id="front-1-dedication-1-chapter-2-p-18">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Iacet in lecto</foreign> Aste ndestrat
 <lb n="2" />
@@ -3134,7 +3144,7 @@
 <lb n="6" />
           <foreign xml:lang="lat-Latn">Iam tum</foreign> Athere
 <pb n="33" />
-          <milestone facs="#facs-189" unit="ref" xml:id="chapter-2-p-17-milestone-48" />
+          <milestone facs="#facs-189" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-18-milestone-48" />
           <lb n="7" />
           <foreign xml:lang="lat-Latn">Ianitor</foreign> Deretaai ghi ruon derene, Turcicè Capegi
 <lb n="8" />
@@ -3188,7 +3198,7 @@
 <lb n="32" />
           <foreign xml:lang="lat-Latn">Imbecillis</foreign> Te Keξolete
 <pb n="34" />
-          <milestone facs="#facs-188" unit="ref" xml:id="chapter-2-p-17-milestone-49" />
+          <milestone facs="#facs-188" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-18-milestone-49" />
           <lb n="33" />
           <foreign xml:lang="lat-Latn">Imbecillitas</foreign> Te Keξoletite
 <lb n="34" />
@@ -3240,7 +3250,7 @@
 <lb n="57" />
           <foreign xml:lang="lat-Latn">Imperare</foreign> Me urξenuem
 <pb n="35" />
-          <milestone facs="#facs-187" unit="ref" xml:id="chapter-2-p-17-milestone-50" />
+          <milestone facs="#facs-187" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-18-milestone-50" />
           <lb n="58" />
           <foreign xml:lang="lat-Latn">Imperatum</foreign> Urξenim
 <lb n="59" />
@@ -3298,7 +3308,7 @@
 <lb n="85" />
           <foreign xml:lang="lat-Latn">Incontaminatus</foreign> Idelire, eipaamcat
 <pb n="36" />
-          <milestone facs="#facs-186" unit="ref" xml:id="chapter-2-p-17-milestone-51" />
+          <milestone facs="#facs-186" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-18-milestone-51" />
           <lb n="86" />
           <foreign xml:lang="lat-Latn">Inconueniens</foreign> Paahie
 <lb n="87" />
@@ -3350,7 +3360,7 @@
 <lb n="110" />
           <foreign xml:lang="lat-Latn">Infirmus</foreign> Issemune
 <pb n="37" />
-          <milestone facs="#facs-185" unit="ref" xml:id="chapter-2-p-17-milestone-52" />
+          <milestone facs="#facs-185" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-18-milestone-52" />
           <lb n="111" />
           <foreign xml:lang="lat-Latn">Inflare</foreign> Memfrɣɣm
 <lb n="112" />
@@ -3410,7 +3420,7 @@
 <lb n="139" />
           <foreign xml:lang="lat-Latn">Inquinare</foreign> Meu pegaam
 <pb n="38" />
-          <milestone facs="#facs-184" unit="ref" xml:id="chapter-2-p-17-milestone-53" />
+          <milestone facs="#facs-184" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-18-milestone-53" />
           <lb n="140" />
           <foreign xml:lang="lat-Latn">Insania</foreign> Chembegnenia
 <lb n="141" />
@@ -3464,7 +3474,7 @@
 <lb n="165" />
           <foreign xml:lang="lat-Latn">Intercinere, cantar in mezzo</foreign> Me cheduem ndemiedist
 <pb n="39" />
-          <milestone facs="#facs-183" unit="ref" xml:id="chapter-2-p-17-milestone-54" />
+          <milestone facs="#facs-183" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-18-milestone-54" />
           <lb n="166" />
           <foreign xml:lang="lat-Latn">Intercludere</foreign> Me mberscele tescuemite
 <lb n="167" />
@@ -3508,7 +3518,7 @@
 <lb n="186" />
           <foreign xml:lang="lat-Latn">Interritus vir</foreign> Ipaa mneerscim Nierij
 <pb n="40" />
-          <milestone facs="#facs-182" unit="ref" xml:id="chapter-2-p-17-milestone-55" />
+          <milestone facs="#facs-182" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-18-milestone-55" />
           <lb n="187" />
           <foreign xml:lang="lat-Latn">Interrogare</foreign> Me pɣetune
 <lb n="188" />
@@ -3558,7 +3568,7 @@
 <lb n="210" />
           <foreign xml:lang="lat-Latn">Inturbatus</foreign> Ipaa turbulluem
 <pb n="41" />
-          <milestone facs="#facs-181" unit="ref" xml:id="chapter-2-p-17-milestone-56" />
+          <milestone facs="#facs-181" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-18-milestone-56" />
           <lb n="211" />
           <foreign xml:lang="lat-Latn">Intus</foreign> Mmbrende
 <lb n="212" />
@@ -3612,7 +3622,7 @@
 <lb n="236" />
           <foreign xml:lang="lat-Latn">Iocari, scherzare</foreign> Meu gumezune
 <pb n="42" />
-          <milestone facs="#facs-180" unit="ref" xml:id="chapter-2-p-17-milestone-57" />
+          <milestone facs="#facs-180" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-18-milestone-57" />
           <lb n="237" />
           <foreign xml:lang="lat-Latn">Ioculariter</foreign> Pergumecij
 <lb n="238" />
@@ -3668,7 +3678,7 @@
 <lb n="263" />
           <foreign xml:lang="lat-Latn">Iubar</foreign> Te shelchɣemtee Dielit
 <pb n="43" />
-          <milestone facs="#facs-179" unit="ref" xml:id="chapter-2-p-17-milestone-58" />
+          <milestone facs="#facs-179" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-18-milestone-58" />
           <lb n="264" />
           <foreign xml:lang="lat-Latn">Iubere</foreign> Me urξenuem
 <lb n="265" />
@@ -3722,7 +3732,7 @@
 <lb n="289" />
           <foreign xml:lang="lat-Latn">Iuuenis</foreign> Irij
 <pb n="44" />
-          <milestone facs="#facs-178" unit="ref" xml:id="chapter-2-p-17-milestone-59" />
+          <milestone facs="#facs-178" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-18-milestone-59" />
           <lb n="290" />
           <foreign xml:lang="lat-Latn">Iuuentus</foreign> Terijte
 <lb n="291" />
@@ -3733,7 +3743,7 @@
           <foreign xml:lang="lat-Latn">Iuxta, appresso</foreign> Ndai
 <lb n="294" />
           <foreign xml:lang="lat-Latn">Iuxta ancillas</foreign> Ndai scerbetoret</p>
-        <p n="L" xml:id="chapter-2-p-18">
+        <p n="L" xml:id="front-1-dedication-1-chapter-2-p-19">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Labium, labro</foreign> Buɛe
 <lb n="2" />
@@ -3771,7 +3781,7 @@
 <lb n="18" />
           <foreign xml:lang="lat-Latn">Lacrymula, lacrimetta</foreign> Lotɛe
 <pb n="45" />
-          <milestone facs="#facs-177" unit="ref" xml:id="chapter-2-p-18-milestone-60" />
+          <milestone facs="#facs-177" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-19-milestone-60" />
           <lb n="19" />
           <foreign xml:lang="lat-Latn">Laciniosus, amplo</foreign> Giane
 <lb n="20" />
@@ -3829,7 +3839,7 @@
 <lb n="46" />
           <foreign xml:lang="lat-Latn">Lardum, lardo</foreign> Larξ
 <pb n="46" />
-          <milestone facs="#facs-176" unit="ref" xml:id="chapter-2-p-18-milestone-61" />
+          <milestone facs="#facs-176" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-19-milestone-61" />
           <lb n="47" />
           <foreign xml:lang="lat-Latn">Laciuia, lussuria</foreign> Curuenia
 <lb n="48" />
@@ -3887,7 +3897,7 @@
 <lb n="74" />
           <foreign xml:lang="lat-Latn">Leæna, leona</foreign> Luana
 <pb n="47" />
-          <milestone facs="#facs-175" unit="ref" xml:id="chapter-2-p-18-milestone-62" />
+          <milestone facs="#facs-175" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-19-milestone-62" />
           <lb n="75" />
           <foreign xml:lang="lat-Latn">Lectitare</foreign> Me zghieξune spess
 <lb n="76" />
@@ -3943,7 +3953,7 @@
 <lb n="101" />
           <foreign xml:lang="lat-Latn">Lex nostra</foreign> Liggia ione
 <pb n="48" />
-          <milestone facs="#facs-174" unit="ref" xml:id="chapter-2-p-18-milestone-63" />
+          <milestone facs="#facs-174" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-19-milestone-63" />
           <lb n="102" />
           <foreign xml:lang="lat-Latn">Libanotis, Rosmarino</foreign> Resmarine
 <lb n="103" />
@@ -3999,7 +4009,7 @@
 <lb n="128" />
           <foreign xml:lang="lat-Latn">Lilium</foreign> Lilia
 <pb n="49" />
-          <milestone facs="#facs-173" unit="ref" xml:id="chapter-2-p-18-milestone-64" />
+          <milestone facs="#facs-173" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-19-milestone-64" />
           <lb n="129" />
           <foreign xml:lang="lat-Latn">Lima, lima</foreign> Lɣma
 <lb n="130" />
@@ -4055,7 +4065,7 @@
 <lb n="155" />
           <foreign xml:lang="lat-Latn">Lix, cenere</foreign> Hij
 <pb n="50" />
-          <milestone facs="#facs-172" unit="ref" xml:id="chapter-2-p-18-milestone-65" />
+          <milestone facs="#facs-172" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-19-milestone-65" />
           <lb n="156" />
           <foreign xml:lang="lat-Latn">Lixiuia</foreign> Figna
 <lb n="157" />
@@ -4113,7 +4123,7 @@
 <lb n="183" />
           <foreign xml:lang="lat-Latn">Lucidè</foreign> Ndricim
 <pb n="51" />
-          <milestone facs="#facs-171" unit="ref" xml:id="chapter-2-p-18-milestone-66" />
+          <milestone facs="#facs-171" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-19-milestone-66" />
           <lb n="184" />
           <foreign xml:lang="lat-Latn">Lucifer, lucifero</foreign> ɣli idritesse
 <lb n="185" />
@@ -4173,14 +4183,14 @@
 <lb n="212" />
           <foreign xml:lang="lat-Latn">Luxuriosè</foreign> Curuenist
 <pb n="52" />
-          <milestone facs="#facs-170" unit="ref" xml:id="chapter-2-p-18-milestone-67" />
+          <milestone facs="#facs-170" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-19-milestone-67" />
           <lb n="213" />
           <foreign xml:lang="lat-Latn">Luxuriosus</foreign> Curuaar
 <lb n="214" />
           <foreign xml:lang="lat-Latn">Lympfa</foreign> Uie
 <lb n="215" />
           <foreign xml:lang="lat-Latn">Limphatici</foreign> Techembɣemite</p>
-        <p n="M" xml:id="chapter-2-p-19">
+        <p n="M" xml:id="front-1-dedication-1-chapter-2-p-20">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Macer</foreign> Iξξaatim
 <lb n="2" />
@@ -4228,7 +4238,7 @@
 <lb n="23" />
           <foreign xml:lang="lat-Latn">Magnanimitas</foreign> Trimenia
 <pb n="53" />
-          <milestone facs="#facs-169" unit="ref" xml:id="chapter-2-p-19-milestone-68" />
+          <milestone facs="#facs-169" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-20-milestone-68" />
           <lb n="24" />
           <foreign xml:lang="lat-Latn">Magnes</foreign> Aste gna baar ghi hiec hecurine vetehei
 <lb n="25" />
@@ -4280,7 +4290,7 @@
 <lb n="48" />
           <foreign xml:lang="lat-Latn">Malus, pomo</foreign> Molle
 <pb n="54" />
-          <milestone facs="#facs-168" unit="ref" xml:id="chapter-2-p-19-milestone-69" />
+          <milestone facs="#facs-168" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-20-milestone-69" />
           <lb n="49" />
           <foreign xml:lang="lat-Latn">Malumpunicum</foreign> Sceghe
 <lb n="50" />
@@ -4338,7 +4348,7 @@
 <lb n="76" />
           <foreign xml:lang="lat-Latn">Manat sanguis</foreign> Cullongiacu
 <pb n="55" />
-          <milestone facs="#facs-167" unit="ref" xml:id="chapter-2-p-19-milestone-70" />
+          <milestone facs="#facs-167" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-20-milestone-70" />
           <lb n="77" />
           <foreign xml:lang="lat-Latn">Mansio</foreign> Te ndegniune mbegna uend
 <lb n="78" />
@@ -4396,7 +4406,7 @@
 <lb n="104" />
           <foreign xml:lang="lat-Latn">Mater</foreign> Mame
 <pb n="56" />
-          <milestone facs="#facs-166" unit="ref" xml:id="chapter-2-p-19-milestone-71" />
+          <milestone facs="#facs-166" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-20-milestone-71" />
           <lb n="105" />
           <foreign xml:lang="lat-Latn">Materfamilias</foreign> Ama estepijsse, oò e ɛogna estepijsse
 <lb n="106" />
@@ -4452,7 +4462,7 @@
 <lb n="131" />
           <foreign xml:lang="lat-Latn">medicina</foreign> mieghia
 <pb n="57" />
-          <milestone facs="#facs-165" unit="ref" xml:id="chapter-2-p-19-milestone-72" />
+          <milestone facs="#facs-165" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-20-milestone-72" />
           <lb n="132" />
           <foreign xml:lang="lat-Latn">medicare</foreign> me miecuem
 <lb n="133" />
@@ -4510,7 +4520,7 @@
 <lb n="159" />
           <foreign xml:lang="lat-Latn">mensam parare</foreign> Trɣessene me parechiuem
 <pb n="58" />
-          <milestone facs="#facs-164" unit="ref" xml:id="chapter-2-p-19-milestone-73" />
+          <milestone facs="#facs-164" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-20-milestone-73" />
           <lb n="160" />
           <foreign xml:lang="lat-Latn">mentitur ille</foreign> ξoterena ai
 <lb n="161" />
@@ -4566,7 +4576,7 @@
 <lb n="186" />
           <foreign xml:lang="lat-Latn">militia</foreign> Lufta
 <pb n="59" />
-          <milestone facs="#facs-163" unit="ref" xml:id="chapter-2-p-19-milestone-74" />
+          <milestone facs="#facs-163" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-20-milestone-74" />
           <lb n="187" />
           <foreign xml:lang="lat-Latn">militare</foreign> Melftuem
 <lb n="188" />
@@ -4626,7 +4636,7 @@
 <lb n="215" />
           <foreign xml:lang="lat-Latn">mitissime</foreign> Pelchɣescim
 <pb n="60" />
-          <milestone facs="#facs-162" unit="ref" xml:id="chapter-2-p-19-milestone-75" />
+          <milestone facs="#facs-162" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-20-milestone-75" />
           <lb n="216" />
           <foreign xml:lang="lat-Latn">mitra</foreign> mitra
 <lb n="217" />
@@ -4686,7 +4696,7 @@
 <lb n="244" />
           <foreign xml:lang="lat-Latn">monticulus</foreign> Sucche
 <pb n="61" />
-          <milestone facs="#facs-161" unit="ref" xml:id="chapter-2-p-19-milestone-76" />
+          <milestone facs="#facs-161" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-20-milestone-76" />
           <lb n="245" />
           <foreign xml:lang="lat-Latn">mora</foreign> Teuonuem
 <lb n="246" />
@@ -4744,7 +4754,7 @@
 <lb n="272" />
           <foreign xml:lang="lat-Latn">mucro</foreign> maieia
 <pb n="62" />
-          <milestone facs="#facs-160" unit="ref" xml:id="chapter-2-p-19-milestone-77" />
+          <milestone facs="#facs-160" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-20-milestone-77" />
           <lb n="273" />
           <foreign xml:lang="lat-Latn">mucro gladij</foreign> maieia espatesse
 <lb n="274" />
@@ -4800,7 +4810,7 @@
 <lb n="299" />
           <foreign xml:lang="lat-Latn">mundus</foreign> Laam, delijr
 <pb n="63" />
-          <milestone facs="#facs-159" unit="ref" xml:id="chapter-2-p-19-milestone-78" />
+          <milestone facs="#facs-159" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-20-milestone-78" />
           <lb n="300" />
           <foreign xml:lang="lat-Latn">munerare</foreign> me fale
 <lb n="301" />
@@ -4835,7 +4845,7 @@
           <foreign xml:lang="lat-Latn">mutuare</foreign> me ɛane mbesse
 <lb n="316" />
           <foreign xml:lang="lat-Latn">mutuari</foreign> me mare mbesse</p>
-        <p n="N" xml:id="chapter-2-p-20">
+        <p n="N" xml:id="front-1-dedication-1-chapter-2-p-21">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Nam</foreign> Prastu
 <lb n="2" />
@@ -4849,7 +4859,7 @@
 <lb n="6" />
           <foreign xml:lang="lat-Latn">Natalis</foreign> Nata
 <pb n="64" />
-          <milestone facs="#facs-158" unit="ref" xml:id="chapter-2-p-20-milestone-79" />
+          <milestone facs="#facs-158" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-21-milestone-79" />
           <lb n="7" />
           <foreign xml:lang="lat-Latn">Nascere</foreign> Me leem
 <lb n="8" />
@@ -4907,7 +4917,7 @@
 <lb n="34" />
           <foreign xml:lang="lat-Latn">Negotiosus</foreign> Te baame
 <pb n="65" />
-          <milestone facs="#facs-157" unit="ref" xml:id="chapter-2-p-20-milestone-80" />
+          <milestone facs="#facs-157" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-21-milestone-80" />
           <lb n="35" />
           <foreign xml:lang="lat-Latn">Negotium</foreign> Tebaam
 <lb n="36" />
@@ -4963,7 +4973,7 @@
 <lb n="61" />
           <foreign xml:lang="lat-Latn">Nictare</foreign> Me baam mbsɣɣs
 <pb n="66" />
-          <milestone facs="#facs-156" unit="ref" xml:id="chapter-2-p-20-milestone-81" />
+          <milestone facs="#facs-156" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-21-milestone-81" />
           <lb n="62" />
           <foreign xml:lang="lat-Latn">Nihilpendere</foreign> Me mosbaam stime
 <lb n="63" />
@@ -5015,7 +5025,7 @@
 <lb n="86" />
           <foreign xml:lang="lat-Latn">Nodosum lignum</foreign> Negnesse druu
 <pb n="67" />
-          <milestone facs="#facs-155" unit="ref" xml:id="chapter-2-p-20-milestone-82" />
+          <milestone facs="#facs-155" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-21-milestone-82" />
           <lb n="87" />
           <foreign xml:lang="lat-Latn">Nodus</foreign> Nɣe
 <lb n="88" />
@@ -5073,7 +5083,7 @@
 <lb n="114" />
           <foreign xml:lang="lat-Latn">Notus</foreign> Gnofune
 <pb n="68" />
-          <milestone facs="#facs-154" unit="ref" xml:id="chapter-2-p-20-milestone-83" />
+          <milestone facs="#facs-154" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-21-milestone-83" />
           <lb n="115" />
           <foreign xml:lang="lat-Latn">Notus</foreign> Murrani
 <lb n="116" />
@@ -5131,7 +5141,7 @@
 <lb n="142" />
           <foreign xml:lang="lat-Latn">Nullus</foreign> Asgna
 <pb n="69" />
-          <milestone facs="#facs-153" unit="ref" xml:id="chapter-2-p-20-milestone-84" />
+          <milestone facs="#facs-153" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-21-milestone-84" />
           <lb n="143" />
           <foreign xml:lang="lat-Latn">Nullusdum</foreign> Asgna ndierim tass
 <lb n="144" />
@@ -5181,7 +5191,7 @@
 <lb n="166" />
           <foreign xml:lang="lat-Latn">Nundinæ</foreign> Paɛaar oò Treghetij, oò Tregh
 <pb n="70" />
-          <milestone facs="#facs-152" unit="ref" xml:id="chapter-2-p-20-milestone-85" />
+          <milestone facs="#facs-152" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-21-milestone-85" />
           <lb n="167" />
           <foreign xml:lang="lat-Latn">Nundinari</foreign> Me scitune nde cuuend
 <lb n="168" />
@@ -5220,7 +5230,7 @@
           <foreign xml:lang="lat-Latn">Nutrix, baila</foreign> Ato ghi usghien
 <lb n="185" />
           <foreign xml:lang="lat-Latn">Nux</foreign> Cacheruch</p>
-        <p n="O" xml:id="chapter-2-p-21">
+        <p n="O" xml:id="front-1-dedication-1-chapter-2-p-22">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Ob</foreign> Prastu
 <lb n="2" />
@@ -5236,7 +5246,7 @@
 <lb n="7" />
           <foreign xml:lang="lat-Latn">Obdormire</foreign> Me fietune
 <pb n="71" />
-          <milestone facs="#facs-151" unit="ref" xml:id="chapter-2-p-21-milestone-86" />
+          <milestone facs="#facs-151" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-22-milestone-86" />
           <lb n="8" />
           <foreign xml:lang="lat-Latn">Obdurescere</foreign> Mie dierre aresɣne
 <lb n="9" />
@@ -5284,7 +5294,7 @@
 <lb n="30" />
           <foreign xml:lang="lat-Latn">Oblectamentum, diletto</foreign> Pelchim
 <pb n="72" />
-          <milestone facs="#facs-150" unit="ref" xml:id="chapter-2-p-21-milestone-87" />
+          <milestone facs="#facs-150" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-22-milestone-87" />
           <lb n="31" />
           <foreign xml:lang="lat-Latn">Oblectatio</foreign> Tepelchɣem
 <lb n="32" />
@@ -5332,7 +5342,7 @@
 <lb n="53" />
           <foreign xml:lang="lat-Latn">Obnoxiè, timidamente</foreign> Mneruescim
 <pb n="73" />
-          <milestone facs="#facs-149" unit="ref" xml:id="chapter-2-p-21-milestone-88" />
+          <milestone facs="#facs-149" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-22-milestone-88" />
           <lb n="54" />
           <foreign xml:lang="lat-Latn">Obnoxius</foreign> Detoress
 <lb n="55" />
@@ -5380,7 +5390,7 @@
 <lb n="76" />
           <foreign xml:lang="lat-Latn">Obserere</foreign> Me mbielle
 <pb n="74" />
-          <milestone facs="#facs-148" unit="ref" xml:id="chapter-2-p-21-milestone-89" />
+          <milestone facs="#facs-148" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-22-milestone-89" />
           <lb n="77" />
           <foreign xml:lang="lat-Latn">Obseruare</foreign> Me echechɣrune mei vum sɣɣt
 <lb n="78" />
@@ -5428,7 +5438,7 @@
 <lb n="99" />
           <foreign xml:lang="lat-Latn">Obuertere</foreign> Meu ngheξuem cundre
 <pb n="75" />
-          <milestone facs="#facs-147" unit="ref" xml:id="chapter-2-p-21-milestone-90" />
+          <milestone facs="#facs-147" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-22-milestone-90" />
           <lb n="100" />
           <foreign xml:lang="lat-Latn">Obuiam all'incontro</foreign> Cundre
 <lb n="101" />
@@ -5482,7 +5492,7 @@
 <lb n="125" />
           <foreign xml:lang="lat-Latn">Odi</foreign> Me passune menij
 <pb n="76" />
-          <milestone facs="#facs-146" unit="ref" xml:id="chapter-2-p-21-milestone-91" />
+          <milestone facs="#facs-146" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-22-milestone-91" />
           <lb n="126" />
           <foreign xml:lang="lat-Latn">Odiosè</foreign> Me Menij, Menijsim
 <lb n="127" />
@@ -5532,7 +5542,7 @@
 <lb n="149" />
           <foreign xml:lang="lat-Latn">Oliuetum</foreign> Ullijste
 <pb n="77" />
-          <milestone facs="#facs-145" unit="ref" xml:id="chapter-2-p-21-milestone-92" />
+          <milestone facs="#facs-145" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-22-milestone-92" />
           <lb n="150" />
           <foreign xml:lang="lat-Latn">Omen, augurio</foreign> Scign icheich
 <lb n="151" />
@@ -5588,7 +5598,7 @@
 <lb n="176" />
           <foreign xml:lang="lat-Latn">Opicus, lordo</foreign> Ipaa laam
 <pb n="78" />
-          <milestone facs="#facs-144" unit="ref" xml:id="chapter-2-p-21-milestone-93" />
+          <milestone facs="#facs-144" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-22-milestone-93" />
           <lb n="177" />
           <foreign xml:lang="lat-Latn">Opifex</foreign> Miestre
 <lb n="178" />
@@ -5648,7 +5658,7 @@
 <lb n="205" />
           <foreign xml:lang="lat-Latn">Optimates nostri</foreign> Teparete tane
 <pb n="79" />
-          <milestone facs="#facs-143" unit="ref" xml:id="chapter-2-p-21-milestone-94" />
+          <milestone facs="#facs-143" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-22-milestone-94" />
           <lb n="206" />
           <foreign xml:lang="lat-Latn">optimus</foreign> Ma imire
 <lb n="207" />
@@ -5704,7 +5714,7 @@
 <lb n="232" />
           <foreign xml:lang="lat-Latn">oriri</foreign> Me leem
 <pb n="80" />
-          <milestone facs="#facs-142" unit="ref" xml:id="chapter-2-p-21-milestone-95" />
+          <milestone facs="#facs-142" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-22-milestone-95" />
           <lb n="233" />
           <foreign xml:lang="lat-Latn">ornamentum</foreign> Te Stollissune
 <lb n="234" />
@@ -5762,7 +5772,7 @@
 <lb n="260" />
           <foreign xml:lang="lat-Latn">ouiaria</foreign> Grigia
 <pb n="81" />
-          <milestone facs="#facs-141" unit="ref" xml:id="chapter-2-p-21-milestone-96" />
+          <milestone facs="#facs-141" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-22-milestone-96" />
           <lb n="261" />
           <foreign xml:lang="lat-Latn">ouinus</foreign> Ndeleite
 <lb n="262" />
@@ -5771,7 +5781,7 @@
           <foreign xml:lang="lat-Latn">ouare</foreign> Meu gaɛemuem
 <lb n="264" />
           <foreign xml:lang="lat-Latn">ouum, ouo</foreign> Voe</p>
-        <p n="P" xml:id="chapter-2-p-22">
+        <p n="P" xml:id="front-1-dedication-1-chapter-2-p-23">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Pabulator</foreign> Culotess
 <lb n="2" />
@@ -5815,7 +5825,7 @@
 <lb n="21" />
           <foreign xml:lang="lat-Latn">Palatum</foreign> Kielɛa
 <pb n="82" />
-          <milestone facs="#facs-140" unit="ref" xml:id="chapter-2-p-22-milestone-97" />
+          <milestone facs="#facs-140" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-97" />
           <lb n="22" />
           <foreign xml:lang="lat-Latn">palea, paglia</foreign> Bɣch
 <lb n="23" />
@@ -5869,7 +5879,7 @@
 <lb n="47" />
           <foreign xml:lang="lat-Latn">panurgia</foreign> Diechechia
 <pb n="83" />
-          <milestone facs="#facs-139" unit="ref" xml:id="chapter-2-p-22-milestone-98" />
+          <milestone facs="#facs-139" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-98" />
           <lb n="48" />
           <foreign xml:lang="lat-Latn">papilla</foreign> Sissa
 <lb n="49" />
@@ -5927,7 +5937,7 @@
 <lb n="75" />
           <foreign xml:lang="lat-Latn">parum</foreign> Pach
 <pb n="84" />
-          <milestone facs="#facs-138" unit="ref" xml:id="chapter-2-p-22-milestone-99" />
+          <milestone facs="#facs-138" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-99" />
           <lb n="76" />
           <foreign xml:lang="lat-Latn">parumper</foreign> Pacheɛe
 <lb n="77" />
@@ -5985,7 +5995,7 @@
 <lb n="103" />
           <foreign xml:lang="lat-Latn">patina, piadena</foreign> Pallaree, e maɛe, oò Tepssij
 <pb n="85" />
-          <milestone facs="#facs-137" unit="ref" xml:id="chapter-2-p-22-milestone-100" />
+          <milestone facs="#facs-137" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-100" />
           <lb n="104" />
           <foreign xml:lang="lat-Latn">pati</foreign> Me pessuem
 <lb n="105" />
@@ -6035,7 +6045,7 @@
 <lb n="127" />
           <foreign xml:lang="lat-Latn">paulatim</foreign> Caa pac, caa paai
 <pb n="86" />
-          <milestone facs="#facs-136" unit="ref" xml:id="chapter-2-p-22-milestone-101" />
+          <milestone facs="#facs-136" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-101" />
           <lb n="128" />
           <foreign xml:lang="lat-Latn">paulisper</foreign> Pacmot
 <lb n="129" />
@@ -6095,7 +6105,7 @@
 <lb n="156" />
           <foreign xml:lang="lat-Latn">pedester</foreign> Cambesuer
 <pb n="87" />
-          <milestone facs="#facs-135" unit="ref" xml:id="chapter-2-p-22-milestone-102" />
+          <milestone facs="#facs-135" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-102" />
           <lb n="157" />
           <foreign xml:lang="lat-Latn">pedica, laccio</foreign> Peenghe
 <lb n="158" />
@@ -6151,7 +6161,7 @@
 <lb n="183" />
           <foreign xml:lang="lat-Latn">penitus</foreign> Fort mbrende
 <pb n="88" />
-          <milestone facs="#facs-134" unit="ref" xml:id="chapter-2-p-22-milestone-103" />
+          <milestone facs="#facs-134" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-103" />
           <lb n="184" />
           <foreign xml:lang="lat-Latn">penna</foreign> Pende
 <lb n="185" />
@@ -6205,7 +6215,7 @@
 <lb n="209" />
           <foreign xml:lang="lat-Latn">per Deum, qui est super Cœlos</foreign> Pertene ɛone ghi ascte mbi Kielt
 <pb n="89" />
-          <milestone facs="#facs-133" unit="ref" xml:id="chapter-2-p-22-milestone-104" />
+          <milestone facs="#facs-133" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-104" />
           <lb n="210" />
           <foreign xml:lang="lat-Latn">Percingere</foreign> me ngiescne
 <lb n="211" />
@@ -6261,7 +6271,7 @@
 <lb n="236" />
           <foreign xml:lang="lat-Latn">perdolere</foreign> meu ɛimtune fort
 <pb n="90" />
-          <milestone facs="#facs-132" unit="ref" xml:id="chapter-2-p-22-milestone-105" />
+          <milestone facs="#facs-132" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-105" />
           <lb n="237" />
           <foreign xml:lang="lat-Latn">perdomare</foreign> me zbutune
 <lb n="238" />
@@ -6319,7 +6329,7 @@
 <lb n="264" />
           <foreign xml:lang="lat-Latn">perfluere</foreign> me rieξune
 <pb n="91" />
-          <milestone facs="#facs-131" unit="ref" xml:id="chapter-2-p-22-milestone-106" />
+          <milestone facs="#facs-131" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-106" />
           <lb n="265" />
           <foreign xml:lang="lat-Latn">perfodere</foreign> me cpuem
 <lb n="266" />
@@ -6375,7 +6385,7 @@
 <lb n="291" />
           <foreign xml:lang="lat-Latn">peritus</foreign> mbsuem
 <pb n="92" />
-          <milestone facs="#facs-130" unit="ref" xml:id="chapter-2-p-22-milestone-107" />
+          <milestone facs="#facs-130" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-107" />
           <lb n="292" />
           <foreign xml:lang="lat-Latn">periucundus</foreign> Fort ipelchɣescim
 <lb n="293" />
@@ -6427,7 +6437,7 @@
 <lb n="316" />
           <foreign xml:lang="lat-Latn">perna</foreign> Bersuteia e ξiut
 <pb n="93" />
-          <milestone facs="#facs-129" unit="ref" xml:id="chapter-2-p-22-milestone-108" />
+          <milestone facs="#facs-129" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-108" />
           <lb n="317" />
           <foreign xml:lang="lat-Latn">pernegare</foreign> Me raam mboff
 <lb n="318" />
@@ -6479,7 +6489,7 @@
 <lb n="341" />
           <foreign xml:lang="lat-Latn">perquirere</foreign> Me cherchuem me te ditune
 <pb n="94" />
-          <milestone facs="#facs-128" unit="ref" xml:id="chapter-2-p-22-milestone-109" />
+          <milestone facs="#facs-128" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-109" />
           <lb n="342" />
           <foreign xml:lang="lat-Latn">perquisitè</foreign> Me te ditune
 <lb n="343" />
@@ -6527,7 +6537,7 @@
 <lb n="364" />
           <foreign xml:lang="lat-Latn">perspicientia</foreign> Tegnoffune
 <pb n="95" />
-          <milestone facs="#facs-127" unit="ref" xml:id="chapter-2-p-22-milestone-110" />
+          <milestone facs="#facs-127" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-110" />
           <lb n="365" />
           <foreign xml:lang="lat-Latn">perspicere</foreign> Me gnoffune
 <lb n="366" />
@@ -6579,7 +6589,7 @@
 <lb n="389" />
           <foreign xml:lang="lat-Latn">pertolerare</foreign> Me pessuem ndieri nde tesossunit
 <pb n="96" />
-          <milestone facs="#facs-126" unit="ref" xml:id="chapter-2-p-22-milestone-111" />
+          <milestone facs="#facs-126" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-111" />
           <lb n="390" />
           <foreign xml:lang="lat-Latn">pertrahere</foreign> Me echiecune per mbrapa
 <lb n="391" />
@@ -6631,7 +6641,7 @@
 <lb n="414" />
           <foreign xml:lang="lat-Latn">pes</foreign> Cambe
 <pb n="97" />
-          <milestone facs="#facs-125" unit="ref" xml:id="chapter-2-p-22-milestone-112" />
+          <milestone facs="#facs-125" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-112" />
           <lb n="415" />
           <foreign xml:lang="lat-Latn">pessulus</foreign> Vargh
 <lb n="416" />
@@ -6681,7 +6691,7 @@
 <lb n="438" />
           <foreign xml:lang="lat-Latn">philosophari</foreign> Me cuituem cafscetee nautɣresse
 <pb n="98" />
-          <milestone facs="#facs-124" unit="ref" xml:id="chapter-2-p-22-milestone-113" />
+          <milestone facs="#facs-124" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-113" />
           <lb n="439" />
           <foreign xml:lang="lat-Latn">philosophus</foreign> Idasuni igiξe tditunauet
 <lb n="440" />
@@ -6737,7 +6747,7 @@
 <lb n="465" />
           <foreign xml:lang="lat-Latn">pinsare</foreign> Me stɣpune
 <pb n="99" />
-          <milestone facs="#facs-123" unit="ref" xml:id="chapter-2-p-22-milestone-114" />
+          <milestone facs="#facs-123" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-114" />
           <lb n="466" />
           <foreign xml:lang="lat-Latn">piper</foreign> Bibeer
 <lb n="467" />
@@ -6793,7 +6803,7 @@
 <lb n="492" />
           <foreign xml:lang="lat-Latn">platea, piazza</foreign> Uξξa egiane, e giate
 <pb n="100" />
-          <milestone facs="#facs-122" unit="ref" xml:id="chapter-2-p-22-milestone-115" />
+          <milestone facs="#facs-122" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-115" />
           <lb n="493" />
           <foreign xml:lang="lat-Latn">plato</foreign> Platon Cihie gna Grec idijttescim
 <lb n="494" />
@@ -6849,7 +6859,7 @@
 <lb n="519" />
           <foreign xml:lang="lat-Latn">pœna</foreign> Mundim
 <pb n="101" />
-          <milestone facs="#facs-121" unit="ref" xml:id="chapter-2-p-22-milestone-116" />
+          <milestone facs="#facs-121" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-116" />
           <lb n="520" />
           <foreign xml:lang="lat-Latn">pœnitentia</foreign> Peendessa
 <lb n="521" />
@@ -6905,7 +6915,7 @@
 <lb n="546" />
           <foreign xml:lang="lat-Latn">pontifex Romanus</foreign> Papa I Romesse
 <pb n="102" />
-          <milestone facs="#facs-120" unit="ref" xml:id="chapter-2-p-22-milestone-117" />
+          <milestone facs="#facs-120" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-117" />
           <lb n="547" />
           <foreign xml:lang="lat-Latn">popinatio</foreign> Teschedeimite
 <lb n="548" />
@@ -6961,7 +6971,7 @@
 <lb n="573" />
           <foreign xml:lang="lat-Latn">possidere</foreign> me epustuem
 <pb n="103" />
-          <milestone facs="#facs-119" unit="ref" xml:id="chapter-2-p-22-milestone-118" />
+          <milestone facs="#facs-119" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-118" />
           <lb n="574" />
           <foreign xml:lang="lat-Latn">possessor</foreign> Pustuess
 <lb n="575" />
@@ -7021,7 +7031,7 @@
 <lb n="602" />
           <foreign xml:lang="lat-Latn">præcantatio</foreign> Striginia
 <pb n="104" />
-          <milestone facs="#facs-118" unit="ref" xml:id="chapter-2-p-22-milestone-119" />
+          <milestone facs="#facs-118" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-119" />
           <lb n="603" />
           <foreign xml:lang="lat-Latn">præcauere</foreign> me ruetune
 <lb n="604" />
@@ -7073,7 +7083,7 @@
 <lb n="627" />
           <foreign xml:lang="lat-Latn">prædictus</foreign> ξane perpara
 <pb n="105" />
-          <milestone facs="#facs-117" unit="ref" xml:id="chapter-2-p-22-milestone-120" />
+          <milestone facs="#facs-117" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-120" />
           <lb n="628" />
           <foreign xml:lang="lat-Latn">prædiues</foreign> Fort ibegate
 <lb n="629" />
@@ -7131,7 +7141,7 @@
 <lb n="655" />
           <foreign xml:lang="lat-Latn">prælucere</foreign> Me ndritune perpara
 <pb n="106" />
-          <milestone facs="#facs-116" unit="ref" xml:id="chapter-2-p-22-milestone-121" />
+          <milestone facs="#facs-116" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-121" />
           <lb n="656" />
           <foreign xml:lang="lat-Latn">prælum</foreign> Torch
 <lb n="657" />
@@ -7185,7 +7195,7 @@
 <lb n="681" />
           <foreign xml:lang="lat-Latn">præpollet Dominus</foreign> Munden scume ɛoti
 <pb n="107" />
-          <milestone facs="#facs-115" unit="ref" xml:id="chapter-2-p-22-milestone-122" />
+          <milestone facs="#facs-115" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-122" />
           <lb n="682" />
           <foreign xml:lang="lat-Latn">præponere</foreign> Me euum perpara
 <lb n="683" />
@@ -7235,7 +7245,7 @@
 <lb n="705" />
           <foreign xml:lang="lat-Latn">præstolari</foreign> Me pritune
 <pb n="108" />
-          <milestone facs="#facs-114" unit="ref" xml:id="chapter-2-p-22-milestone-123" />
+          <milestone facs="#facs-114" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-123" />
           <lb n="706" />
           <foreign xml:lang="lat-Latn">præstringere</foreign> Meu ngiescune
 <lb n="707" />
@@ -7285,7 +7295,7 @@
 <lb n="729" />
           <foreign xml:lang="lat-Latn">preces vespertinæ</foreign> Telutunate kiendijsse
 <pb n="109" />
-          <milestone facs="#facs-113" unit="ref" xml:id="chapter-2-p-22-milestone-124" />
+          <milestone facs="#facs-113" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-124" />
           <lb n="730" />
           <foreign xml:lang="lat-Latn">preces nocturnæ</foreign> Telutunatee Natesse
 <lb n="731" />
@@ -7345,7 +7355,7 @@
 <lb n="758" />
           <foreign xml:lang="lat-Latn">probabilis</foreign> Mund me chiene
 <pb n="110" />
-          <milestone facs="#facs-112" unit="ref" xml:id="chapter-2-p-22-milestone-125" />
+          <milestone facs="#facs-112" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-125" />
           <lb n="759" />
           <foreign xml:lang="lat-Latn">probi homines</foreign> Te mire Niereɛ
 <lb n="760" />
@@ -7397,7 +7407,7 @@
 <lb n="783" />
           <foreign xml:lang="lat-Latn">procurrere</foreign> Me vote perpara gnacas
 <pb n="111" />
-          <milestone facs="#facs-111" unit="ref" xml:id="chapter-2-p-22-milestone-126" />
+          <milestone facs="#facs-111" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-126" />
           <lb n="784" />
           <foreign xml:lang="lat-Latn">procuruus</foreign> Fort stremene
 <lb n="785" />
@@ -7455,7 +7465,7 @@
 <lb n="811" />
           <foreign xml:lang="lat-Latn">progenies</foreign> Fissi
 <pb n="112" />
-          <milestone facs="#facs-110" unit="ref" xml:id="chapter-2-p-22-milestone-127" />
+          <milestone facs="#facs-110" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-127" />
           <lb n="812" />
           <foreign xml:lang="lat-Latn">progerminare</foreign> Me stijm triscete
 <lb n="813" />
@@ -7511,7 +7521,7 @@
 <lb n="838" />
           <foreign xml:lang="lat-Latn">propalam, apertamente</foreign> Struem
 <pb n="113" />
-          <milestone facs="#facs-109" unit="ref" xml:id="chapter-2-p-22-milestone-128" />
+          <milestone facs="#facs-109" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-128" />
           <lb n="839" />
           <foreign xml:lang="lat-Latn">propè</foreign> Ngiat
 <lb n="840" />
@@ -7567,7 +7577,7 @@
 <lb n="865" />
           <foreign xml:lang="lat-Latn">prorsus</foreign> Hicc
 <pb n="114" />
-          <milestone facs="#facs-108" unit="ref" xml:id="chapter-2-p-22-milestone-129" />
+          <milestone facs="#facs-108" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-129" />
           <lb n="866" />
           <foreign xml:lang="lat-Latn">prorumpere</foreign> Me eξξɣem me furij
 <lb n="867" />
@@ -7623,7 +7633,7 @@
 <lb n="892" />
           <foreign xml:lang="lat-Latn">prouincialis</foreign> Nregeniet
 <pb n="115" />
-          <milestone facs="#facs-107" unit="ref" xml:id="chapter-2-p-22-milestone-130" />
+          <milestone facs="#facs-107" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-130" />
           <lb n="893" />
           <foreign xml:lang="lat-Latn">prouocare</foreign> Me stijm belegh
 <lb n="894" />
@@ -7681,7 +7691,7 @@
 <lb n="920" />
           <foreign xml:lang="lat-Latn">puerperium</foreign> Te ɛimtunijtee gruesse cuur lenfosgna
 <pb n="116" />
-          <milestone facs="#facs-106" unit="ref" xml:id="chapter-2-p-22-milestone-131" />
+          <milestone facs="#facs-106" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-131" />
           <lb n="921" />
           <foreign xml:lang="lat-Latn">Pugio, nis</foreign> Schiɣɣlet
 <lb n="922" />
@@ -7741,7 +7751,7 @@
 <lb n="949" />
           <foreign xml:lang="lat-Latn">pupula</foreign> Drita esɣut
 <pb n="117" />
-          <milestone facs="#facs-105" unit="ref" xml:id="chapter-2-p-22-milestone-132" />
+          <milestone facs="#facs-105" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-23-milestone-132" />
           <lb n="950" />
           <foreign xml:lang="lat-Latn">purgabilis</foreign> Lahete
 <lb n="951" />
@@ -7766,7 +7776,7 @@
           <foreign xml:lang="lat-Latn">putridus</foreign> Calbete
 <lb n="961" />
           <foreign xml:lang="lat-Latn">pyrus, pero</foreign> Darξe</p>
-        <p n="Q" xml:id="chapter-2-p-23">
+        <p n="Q" xml:id="front-1-dedication-1-chapter-2-p-24">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Qua</foreign> Me chisc
 <lb n="2" />
@@ -7796,7 +7806,7 @@
 <lb n="14" />
           <foreign xml:lang="lat-Latn">Quadrilibris</foreign> Ncater ochess
 <pb n="118" />
-          <milestone facs="#facs-104" unit="ref" xml:id="chapter-2-p-23-milestone-133" />
+          <milestone facs="#facs-104" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-24-milestone-133" />
           <lb n="15" />
           <foreign xml:lang="lat-Latn">Quadrimus</foreign> Ncater vietc
 <lb n="16" />
@@ -7848,7 +7858,7 @@
 <lb n="39" />
           <foreign xml:lang="lat-Latn">quamdudum?</foreign> Saamot aste, se erξe?
 <pb n="119" />
-          <milestone facs="#facs-103" unit="ref" xml:id="chapter-2-p-23-milestone-134" />
+          <milestone facs="#facs-103" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-24-milestone-134" />
           <lb n="40" />
           <foreign xml:lang="lat-Latn">Quantum</foreign> Saa
 <lb n="41" />
@@ -7904,7 +7914,7 @@
 <lb n="66" />
           <foreign xml:lang="lat-Latn">Quicumque</foreign> Cuscdo
 <pb n="120" />
-          <milestone facs="#facs-102" unit="ref" xml:id="chapter-2-p-23-milestone-135" />
+          <milestone facs="#facs-102" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-24-milestone-135" />
           <lb n="67" />
           <foreign xml:lang="lat-Latn">Quid</foreign> Chisc cafsce
 <lb n="68" />
@@ -7960,7 +7970,7 @@
 <lb n="93" />
           <foreign xml:lang="lat-Latn">Quoad</foreign> Ndiere cuur
 <pb n="121" />
-          <milestone facs="#facs-101" unit="ref" xml:id="chapter-2-p-23-milestone-136" />
+          <milestone facs="#facs-101" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-24-milestone-136" />
           <lb n="94" />
           <foreign xml:lang="lat-Latn">Quoad usque peragas</foreign> Ndiere te sosgness
 <lb n="95" />
@@ -8011,13 +8021,13 @@
           <foreign xml:lang="lat-Latn">Quum</foreign> Cuur
 <lb n="118" />
           <foreign xml:lang="lat-Latn">Quum primum</foreign> Gnecias</p>
-        <p n="R" xml:id="chapter-2-p-24">
+        <p n="R" xml:id="front-1-dedication-1-chapter-2-p-25">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Rabia</foreign> Mnia
 <lb n="2" />
           <foreign xml:lang="lat-Latn">Rabidus</foreign> Mnijs
 <pb n="122" />
-          <milestone facs="#facs-100" unit="ref" xml:id="chapter-2-p-24-milestone-137" />
+          <milestone facs="#facs-100" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-137" />
           <lb n="3" />
           <foreign xml:lang="lat-Latn">Rabere</foreign> Meu mnijm
 <lb n="4" />
@@ -8073,7 +8083,7 @@
 <lb n="29" />
           <foreign xml:lang="lat-Latn">Rastrum</foreign> Rastiel
 <pb n="123" />
-          <milestone facs="#facs-99" unit="ref" xml:id="chapter-2-p-24-milestone-138" />
+          <milestone facs="#facs-99" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-138" />
           <lb n="30" />
           <foreign xml:lang="lat-Latn">Ratio</foreign> Aresɣe
 <lb n="31" />
@@ -8123,7 +8133,7 @@
 <lb n="53" />
           <foreign xml:lang="lat-Latn">Reclamare</foreign> Me britune, e meξane cundre
 <pb n="124" />
-          <milestone facs="#facs-98" unit="ref" xml:id="chapter-2-p-24-milestone-139" />
+          <milestone facs="#facs-98" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-139" />
           <lb n="54" />
           <foreign xml:lang="lat-Latn">Reclinare</foreign> Meu prugnune
 <lb n="55" />
@@ -8177,7 +8187,7 @@
 <lb n="79" />
           <foreign xml:lang="lat-Latn">recuruare</foreign> Me stermenuem
 <pb n="125" />
-          <milestone facs="#facs-97" unit="ref" xml:id="chapter-2-p-24-milestone-140" />
+          <milestone facs="#facs-97" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-140" />
           <lb n="80" />
           <foreign xml:lang="lat-Latn">Recusare</foreign> Me mos e perɛane per ndeer
 <lb n="81" />
@@ -8213,7 +8223,7 @@
 <lb n="96" />
           <foreign xml:lang="lat-Latn">referire</foreign> Me erafune per sedɣti
 <pb n="126" />
-          <milestone facs="#facs-96" unit="ref" xml:id="chapter-2-p-24-milestone-141" />
+          <milestone facs="#facs-96" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-141" />
           <lb n="97" />
           <foreign xml:lang="lat-Latn">Referre</foreign> Me Kaleɛuem, eme deftuem cafstee scocheuet
 <lb n="98" />
@@ -8259,7 +8269,7 @@
 <lb n="118" />
           <foreign xml:lang="lat-Latn">regalis</foreign> ɛunetije edegne per ɛot, oò per Règ
 <pb n="127" />
-          <milestone facs="#facs-95" unit="ref" xml:id="chapter-2-p-24-milestone-142" />
+          <milestone facs="#facs-95" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-142" />
           <lb n="119" />
           <foreign xml:lang="lat-Latn">Regaliter</foreign> Possi Reg
 <lb n="120" />
@@ -8305,7 +8315,7 @@
 <lb n="140" />
           <foreign xml:lang="lat-Latn">relucere</foreign> me schelchɣem
 <pb n="128" />
-          <milestone facs="#facs-94" unit="ref" xml:id="chapter-2-p-24-milestone-143" />
+          <milestone facs="#facs-94" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-143" />
           <lb n="141" />
           <foreign xml:lang="lat-Latn">Remanere</foreign> Me mbetune cund mbe ndogna vend
 <lb n="142" />
@@ -8351,7 +8361,7 @@
 <lb n="162" />
           <foreign xml:lang="lat-Latn">remus</foreign> Remb
 <pb n="129" />
-          <milestone facs="#facs-93" unit="ref" xml:id="chapter-2-p-24-milestone-144" />
+          <milestone facs="#facs-93" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-144" />
           <lb n="163" />
           <foreign xml:lang="lat-Latn">Renarrare</foreign> Me gnefune
 <lb n="164" />
@@ -8391,7 +8401,7 @@
 <lb n="181" />
           <foreign xml:lang="lat-Latn">reponere</foreign> Me embluem
 <pb n="130" />
-          <milestone facs="#facs-92" unit="ref" xml:id="chapter-2-p-24-milestone-145" />
+          <milestone facs="#facs-92" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-145" />
           <lb n="182" />
           <foreign xml:lang="lat-Latn">Reportare</foreign> Me encheξɣem per mbrapa
 <lb n="183" />
@@ -8433,7 +8443,7 @@
 <lb n="201" />
           <foreign xml:lang="lat-Latn">requirere</foreign> Me cherchuem, e me pɣetune
 <pb n="131" />
-          <milestone facs="#facs-91" unit="ref" xml:id="chapter-2-p-24-milestone-146" />
+          <milestone facs="#facs-91" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-146" />
           <lb n="202" />
           <foreign xml:lang="lat-Latn">Res</foreign> Cafsce
 <lb n="203" />
@@ -8481,7 +8491,7 @@
 <lb n="224" />
           <foreign xml:lang="lat-Latn">respergere</foreign> Me perderξune
 <pb n="132" />
-          <milestone facs="#facs-90" unit="ref" xml:id="chapter-2-p-24-milestone-147" />
+          <milestone facs="#facs-90" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-147" />
           <lb n="225" />
           <foreign xml:lang="lat-Latn">Respicere</foreign> Me scucuem mbaspine
 <lb n="226" />
@@ -8525,7 +8535,7 @@
 <lb n="245" />
           <foreign xml:lang="lat-Latn">resultare</foreign> Me chezɣem tepermal
 <pb n="133" />
-          <milestone facs="#facs-89" unit="ref" xml:id="chapter-2-p-24-milestone-148" />
+          <milestone facs="#facs-89" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-148" />
           <lb n="246" />
           <foreign xml:lang="lat-Latn">Resupinare</foreign> Me raam nde strat me mulle permal
 <lb n="247" />
@@ -8573,7 +8583,7 @@
 <lb n="268" />
           <foreign xml:lang="lat-Latn">retrimentum, ti</foreign> Bersij
 <pb n="134" />
-          <milestone facs="#facs-88" unit="ref" xml:id="chapter-2-p-24-milestone-149" />
+          <milestone facs="#facs-88" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-149" />
           <lb n="269" />
           <foreign xml:lang="lat-Latn">Retro</foreign> Mbrapa
 <lb n="270" />
@@ -8615,7 +8625,7 @@
 <lb n="288" />
           <foreign xml:lang="lat-Latn">rheda</foreign> Carroza
 <pb n="135" />
-          <milestone facs="#facs-87" unit="ref" xml:id="chapter-2-p-24-milestone-150" />
+          <milestone facs="#facs-87" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-150" />
           <lb n="289" />
           <foreign xml:lang="lat-Latn">Rhetor</foreign> Ai ghi mbson me fole bucure
 <lb n="290" />
@@ -8667,7 +8677,7 @@
 <lb n="313" />
           <foreign xml:lang="lat-Latn">rogator</foreign> Lɣpss, oò Lutess
 <pb n="136" />
-          <milestone facs="#facs-86" unit="ref" xml:id="chapter-2-p-24-milestone-151" />
+          <milestone facs="#facs-86" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-151" />
           <lb n="314" />
           <foreign xml:lang="lat-Latn">Rogatum</foreign> Te lɣpunite
 <lb n="315" />
@@ -8719,7 +8729,7 @@
 <lb n="338" />
           <foreign xml:lang="lat-Latn">rudimentum</foreign> Te ɛanete fiill te leteresse
 <pb n="137" />
-          <milestone facs="#facs-85" unit="ref" xml:id="chapter-2-p-24-milestone-152" />
+          <milestone facs="#facs-85" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-152" />
           <lb n="339" />
           <foreign xml:lang="lat-Latn">Rudis</foreign> I paa ditune
 <lb n="340" />
@@ -8769,7 +8779,7 @@
 <lb n="362" />
           <foreign xml:lang="lat-Latn">rusticari</foreign> Me gielune nder nierɛ te paaditune
 <pb n="138" />
-          <milestone facs="#facs-84" unit="ref" xml:id="chapter-2-p-24-milestone-153" />
+          <milestone facs="#facs-84" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-25-milestone-153" />
           <lb n="363" />
           <foreign xml:lang="lat-Latn">Ruta</foreign> Rude
 <lb n="364" />
@@ -8780,7 +8790,7 @@
           <foreign xml:lang="lat-Latn">rutulus</foreign> I schelchɣescim
 <lb n="367" />
           <foreign xml:lang="lat-Latn">rutuli</foreign> Te mocimitte Pletee Taliesse</p>
-        <p n="S" xml:id="chapter-2-p-25">
+        <p n="S" xml:id="front-1-dedication-1-chapter-2-p-26">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Sabbatum</foreign> E Scetund
 <lb n="2" />
@@ -8816,7 +8826,7 @@
 <lb n="17" />
           <foreign xml:lang="lat-Latn">Sacrilegus</foreign> Ai ghi vieξ nde chisce
 <pb n="139" />
-          <milestone facs="#facs-83" unit="ref" xml:id="chapter-2-p-25-milestone-154" />
+          <milestone facs="#facs-83" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-154" />
           <lb n="18" />
           <foreign xml:lang="lat-Latn">Sacrare</foreign> Me scecruem
 <lb n="19" />
@@ -8866,7 +8876,7 @@
 <lb n="41" />
           <foreign xml:lang="lat-Latn">Salamon Iu: Rex fili: Dauid</foreign> Sallamoni, I biri i Regit Dauid
 <pb n="140" />
-          <milestone facs="#facs-82" unit="ref" xml:id="chapter-2-p-25-milestone-155" />
+          <milestone facs="#facs-82" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-155" />
           <lb n="42" />
           <foreign xml:lang="lat-Latn">Salsamentum</foreign> Casce ecrɣpune
 <lb n="43" />
@@ -8924,7 +8934,7 @@
 <lb n="69" />
           <foreign xml:lang="lat-Latn">sanctitas</foreign> Scintenia
 <pb n="141" />
-          <milestone facs="#facs-81" unit="ref" xml:id="chapter-2-p-25-milestone-156" />
+          <milestone facs="#facs-81" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-156" />
           <lb n="70" />
           <foreign xml:lang="lat-Latn">Sanctuarium</foreign> Vendi iurateuet
 <lb n="71" />
@@ -8982,7 +8992,7 @@
 <lb n="97" />
           <foreign xml:lang="lat-Latn">sardare</foreign> Me ndeguem
 <pb n="142" />
-          <milestone facs="#facs-80" unit="ref" xml:id="chapter-2-p-25-milestone-157" />
+          <milestone facs="#facs-80" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-157" />
           <lb n="98" />
           <foreign xml:lang="lat-Latn">Sarissa</foreign> Paterɛana, Stija
 <lb n="99" />
@@ -9032,7 +9042,7 @@
 <lb n="121" />
           <foreign xml:lang="lat-Latn">saxosus</foreign> Plot me gure
 <pb n="143" />
-          <milestone facs="#facs-79" unit="ref" xml:id="chapter-2-p-25-milestone-158" />
+          <milestone facs="#facs-79" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-158" />
           <lb n="122" />
           <foreign xml:lang="lat-Latn">Saxulum</foreign> Guurξ
 <lb n="123" />
@@ -9078,7 +9088,7 @@
 <lb n="143" />
           <foreign xml:lang="lat-Latn">sceptrum</foreign> Scopi i Regit, oò I Perandorit
 <pb n="144" />
-          <milestone facs="#facs-78" unit="ref" xml:id="chapter-2-p-25-milestone-159" />
+          <milestone facs="#facs-78" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-159" />
           <lb n="144" />
           <foreign xml:lang="lat-Latn">Scheda</foreign> Carte escrueme
 <lb n="145" />
@@ -9126,7 +9136,7 @@
 <lb n="166" />
           <foreign xml:lang="lat-Latn">scopus</foreign> Scign cu nderechiene scegettete
 <pb n="145" />
-          <milestone facs="#facs-77" unit="ref" xml:id="chapter-2-p-25-milestone-160" />
+          <milestone facs="#facs-77" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-160" />
           <lb n="167" />
           <foreign xml:lang="lat-Latn">Scopulosus</foreign> Plot me scoi, e me suka
 <lb n="168" />
@@ -9182,7 +9192,7 @@
 <lb n="193" />
           <foreign xml:lang="lat-Latn">scutum</foreign> Sciut
 <pb n="146" />
-          <milestone facs="#facs-76" unit="ref" xml:id="chapter-2-p-25-milestone-161" />
+          <milestone facs="#facs-76" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-161" />
           <lb n="194" />
           <foreign xml:lang="lat-Latn">Scijphus</foreign> Cupe, Pehaar
 <lb n="195" />
@@ -9240,7 +9250,7 @@
 <lb n="221" />
           <foreign xml:lang="lat-Latn">securus</foreign> Paa droe
 <pb n="147" />
-          <milestone facs="#facs-75" unit="ref" xml:id="chapter-2-p-25-milestone-162" />
+          <milestone facs="#facs-75" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-162" />
           <lb n="222" />
           <foreign xml:lang="lat-Latn">Secus</foreign> Ndrɣscei
 <lb n="223" />
@@ -9290,7 +9300,7 @@
 <lb n="245" />
           <foreign xml:lang="lat-Latn">semestris</foreign> Ngiaste mueiss
 <pb n="148" />
-          <milestone facs="#facs-74" unit="ref" xml:id="chapter-2-p-25-milestone-163" />
+          <milestone facs="#facs-74" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-163" />
           <lb n="246" />
           <foreign xml:lang="lat-Latn">Semesus</foreign> Giɣmssa ngrane
 <lb n="247" />
@@ -9346,7 +9356,7 @@
 <lb n="272" />
           <foreign xml:lang="lat-Latn">sententia</foreign> Hesaap, aresɣɣe
 <pb n="149" />
-          <milestone facs="#facs-73" unit="ref" xml:id="chapter-2-p-25-milestone-164" />
+          <milestone facs="#facs-73" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-164" />
           <lb n="273" />
           <foreign xml:lang="lat-Latn">Sententiosus</foreign> Plot me hesaape, aresɣe
 <lb n="274" />
@@ -9402,7 +9412,7 @@
 <lb n="299" />
           <foreign xml:lang="lat-Latn">sequor te</foreign> Ndiech tɣɣ
 <pb n="150" />
-          <milestone facs="#facs-72" unit="ref" xml:id="chapter-2-p-25-milestone-165" />
+          <milestone facs="#facs-72" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-165" />
           <lb n="300" />
           <foreign xml:lang="lat-Latn">Sequutor</foreign> Ndiechetaar
 <lb n="301" />
@@ -9452,7 +9462,7 @@
 <lb n="323" />
           <foreign xml:lang="lat-Latn">seruare</foreign> Me eruetune, me embluem
 <pb n="151" />
-          <milestone facs="#facs-71" unit="ref" xml:id="chapter-2-p-25-milestone-166" />
+          <milestone facs="#facs-71" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-166" />
           <lb n="324" />
           <foreign xml:lang="lat-Latn">Serum</foreign> Te ɛanete fiil tenatesse
 <lb n="325" />
@@ -9508,7 +9518,7 @@
 <lb n="350" />
           <foreign xml:lang="lat-Latn">silibare</foreign> Me vescelɣem
 <pb n="152" />
-          <milestone facs="#facs-70" unit="ref" xml:id="chapter-2-p-25-milestone-167" />
+          <milestone facs="#facs-70" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-167" />
           <lb n="351" />
           <foreign xml:lang="lat-Latn">Sibilus</foreign> Vescelim
 <lb n="352" />
@@ -9564,7 +9574,7 @@
 <lb n="377" />
           <foreign xml:lang="lat-Latn">signum</foreign> Sceign
 <pb n="153" />
-          <milestone facs="#facs-69" unit="ref" xml:id="chapter-2-p-25-milestone-168" />
+          <milestone facs="#facs-69" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-168" />
           <lb n="378" />
           <foreign xml:lang="lat-Latn">Silentium</foreign> Tehestune
 <lb n="379" />
@@ -9616,7 +9626,7 @@
 <lb n="402" />
           <foreign xml:lang="lat-Latn">sinistra</foreign> Dora estemangte
 <pb n="154" />
-          <milestone facs="#facs-68" unit="ref" xml:id="chapter-2-p-25-milestone-169" />
+          <milestone facs="#facs-68" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-169" />
           <lb n="403" />
           <foreign xml:lang="lat-Latn">Sinister</foreign> Istemangte
 <lb n="404" />
@@ -9662,7 +9672,7 @@
 <lb n="424" />
           <foreign xml:lang="lat-Latn">sociare</foreign> Me scioghenuem
 <pb n="155" />
-          <milestone facs="#facs-67" unit="ref" xml:id="chapter-2-p-25-milestone-170" />
+          <milestone facs="#facs-67" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-170" />
           <lb n="425" />
           <foreign xml:lang="lat-Latn">Socius</foreign> Scioch
 <lb n="426" />
@@ -9718,7 +9728,7 @@
 <lb n="451" />
           <foreign xml:lang="lat-Latn">solum</foreign> Vece
 <pb n="156" />
-          <milestone facs="#facs-66" unit="ref" xml:id="chapter-2-p-25-milestone-171" />
+          <milestone facs="#facs-66" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-171" />
           <lb n="452" />
           <foreign xml:lang="lat-Latn">Solutus</foreign> Zghiξune
 <lb n="453" />
@@ -9770,7 +9780,7 @@
 <lb n="476" />
           <foreign xml:lang="lat-Latn">sospitare</foreign> Me mbetune scendos
 <pb n="157" />
-          <milestone facs="#facs-65" unit="ref" xml:id="chapter-2-p-25-milestone-172" />
+          <milestone facs="#facs-65" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-172" />
           <lb n="477" />
           <foreign xml:lang="lat-Latn">Spado</foreign> I treξune
 <lb n="478" />
@@ -9826,7 +9836,7 @@
 <lb n="503" />
           <foreign xml:lang="lat-Latn">spirare</foreign> Me mare frɣme
 <pb n="158" />
-          <milestone facs="#facs-64" unit="ref" xml:id="chapter-2-p-25-milestone-173" />
+          <milestone facs="#facs-64" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-173" />
           <lb n="504" />
           <foreign xml:lang="lat-Latn">Spissus</foreign> Spesc
 <lb n="505" />
@@ -9880,7 +9890,7 @@
 <lb n="529" />
           <foreign xml:lang="lat-Latn">stabilire</foreign> me mbetune mbegna vend fermo
 <pb n="159" />
-          <milestone facs="#facs-63" unit="ref" xml:id="chapter-2-p-25-milestone-174" />
+          <milestone facs="#facs-63" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-174" />
           <lb n="530" />
           <foreign xml:lang="lat-Latn">Statera</foreign> Pessca
 <lb n="531" />
@@ -9934,7 +9944,7 @@
 <lb n="555" />
           <foreign xml:lang="lat-Latn">stipare</foreign> Me sciochenuem, oò me perciele
 <pb n="160" />
-          <milestone facs="#facs-62" unit="ref" xml:id="chapter-2-p-25-milestone-175" />
+          <milestone facs="#facs-62" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-175" />
           <lb n="556" />
           <foreign xml:lang="lat-Latn">Stirps</foreign> Fara, oò fissi
 <lb n="557" />
@@ -9976,7 +9986,7 @@
 <lb n="575" />
           <foreign xml:lang="lat-Latn">studiosus</foreign> I ditescim
 <pb n="161" />
-          <milestone facs="#facs-61" unit="ref" xml:id="chapter-2-p-25-milestone-176" />
+          <milestone facs="#facs-61" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-176" />
           <lb n="576" />
           <foreign xml:lang="lat-Latn">Studium</foreign> Studie
 <lb n="577" />
@@ -10026,7 +10036,7 @@
 <lb n="599" />
           <foreign xml:lang="lat-Latn">subarrogans</foreign> Ndene maξestij
 <pb n="162" />
-          <milestone facs="#facs-60" unit="ref" xml:id="chapter-2-p-25-milestone-177" />
+          <milestone facs="#facs-60" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-177" />
           <lb n="600" />
           <foreign xml:lang="lat-Latn">Subcrudus</foreign> Paa piecune
 <lb n="601" />
@@ -10078,7 +10088,7 @@
 <lb n="624" />
           <foreign xml:lang="lat-Latn">sublegere</foreign> Me zghieξune pertecpeite
 <pb n="163" />
-          <milestone facs="#facs-59" unit="ref" xml:id="chapter-2-p-25-milestone-178" />
+          <milestone facs="#facs-59" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-178" />
           <lb n="625" />
           <foreign xml:lang="lat-Latn">Subleuare</foreign> Me ndimuem tuobeget
 <lb n="626" />
@@ -10126,7 +10136,7 @@
 <lb n="647" />
           <foreign xml:lang="lat-Latn">subrubere</foreign> Meu ncuchiune pacheɛe
 <pb n="164" />
-          <milestone facs="#facs-58" unit="ref" xml:id="chapter-2-p-25-milestone-179" />
+          <milestone facs="#facs-58" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-179" />
           <lb n="648" />
           <foreign xml:lang="lat-Latn">Subrubicundus</foreign> I cuiξ
 <lb n="649" />
@@ -10178,7 +10188,7 @@
 <lb n="672" />
           <foreign xml:lang="lat-Latn">subuolare</foreign> Me fluuruem te permal
 <pb n="165" />
-          <milestone facs="#facs-57" unit="ref" xml:id="chapter-2-p-25-milestone-180" />
+          <milestone facs="#facs-57" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-180" />
           <lb n="673" />
           <foreign xml:lang="lat-Latn">Suburbanus</foreign> Ngiat gɣtetsse
 <lb n="674" />
@@ -10226,7 +10236,7 @@
 <lb n="695" />
           <foreign xml:lang="lat-Latn">suescere</foreign> Meu mbsuem cheich, oò mire
 <pb n="166" />
-          <milestone facs="#facs-56" unit="ref" xml:id="chapter-2-p-25-milestone-181" />
+          <milestone facs="#facs-56" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-181" />
           <lb n="696" />
           <foreign xml:lang="lat-Latn">Suffere</foreign> Me pessume
 <lb n="697" />
@@ -10282,7 +10292,7 @@
 <lb n="722" />
           <foreign xml:lang="lat-Latn">superbibare</foreign> me pijm paa cuer scume
 <pb n="167" />
-          <milestone facs="#facs-55" unit="ref" xml:id="chapter-2-p-25-milestone-182" />
+          <milestone facs="#facs-55" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-182" />
           <lb n="723" />
           <foreign xml:lang="lat-Latn">Superbia</foreign> Maξestia
 <lb n="724" />
@@ -10330,7 +10340,7 @@
 <lb n="745" />
           <foreign xml:lang="lat-Latn">supplicare</foreign> Me lutune me te prugnete
 <pb n="168" />
-          <milestone facs="#facs-54" unit="ref" xml:id="chapter-2-p-25-milestone-183" />
+          <milestone facs="#facs-54" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-183" />
           <lb n="746" />
           <foreign xml:lang="lat-Latn">Supprimere</foreign> Me mbuluem, me mbsefune
 <lb n="747" />
@@ -10382,7 +10392,7 @@
 <lb n="770" />
           <foreign xml:lang="lat-Latn">sutor, calzolaio</foreign> Capuzaar
 <pb n="169" />
-          <milestone facs="#facs-53" unit="ref" xml:id="chapter-2-p-25-milestone-184" />
+          <milestone facs="#facs-53" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-26-milestone-184" />
           <lb n="771" />
           <foreign xml:lang="lat-Latn">Sutura</foreign> Te chiepunite
 <lb n="772" />
@@ -10421,13 +10431,13 @@
           <foreign xml:lang="lat-Latn">systes, scogli</foreign> Scoitee deetit
 <lb n="789" />
           <foreign xml:lang="lat-Latn">syrus</foreign> Gropate ndene ξeet</p>
-        <p n="T" xml:id="chapter-2-p-26">
+        <p n="T" xml:id="front-1-dedication-1-chapter-2-p-27">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Tabella</foreign> Trɣeseɛa
 <lb n="2" />
           <foreign xml:lang="lat-Latn">tabellarius</foreign> Ai ghi bie, e spie lettere
 <pb n="170" />
-          <milestone facs="#facs-52" unit="ref" xml:id="chapter-2-p-26-milestone-185" />
+          <milestone facs="#facs-52" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-27-milestone-185" />
           <lb n="3" />
           <foreign xml:lang="lat-Latn">Taberna</foreign> Chieruasareia
 <lb n="4" />
@@ -10479,7 +10489,7 @@
 <lb n="27" />
           <foreign xml:lang="lat-Latn">tamquam</foreign> Possi
 <pb n="171" />
-          <milestone facs="#facs-51" unit="ref" xml:id="chapter-2-p-26-milestone-186" />
+          <milestone facs="#facs-51" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-27-milestone-186" />
           <lb n="28" />
           <foreign xml:lang="lat-Latn">Tamquam vos</foreign> Possi iu
 <lb n="29" />
@@ -10531,7 +10541,7 @@
 <lb n="52" />
           <foreign xml:lang="lat-Latn">telum</foreign> Arme, oò te ieete Paterɛane, scpate, oò cdo
 <pb n="172" />
-          <milestone facs="#facs-50" unit="ref" xml:id="chapter-2-p-26-milestone-187" />
+          <milestone facs="#facs-50" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-27-milestone-187" />
           <lb n="53" />
           <foreign xml:lang="lat-Latn">Temerarius</foreign> Ipaa arresɣe
 <lb n="54" />
@@ -10589,7 +10599,7 @@
 <lb n="80" />
           <foreign xml:lang="lat-Latn">trecentum</foreign> Tre ghind
 <pb n="173" />
-          <milestone facs="#facs-49" unit="ref" xml:id="chapter-2-p-26-milestone-188" />
+          <milestone facs="#facs-49" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-27-milestone-188" />
           <lb n="81" />
           <foreign xml:lang="lat-Latn">Terdeni</foreign> Trijξiete
 <lb n="82" />
@@ -10643,7 +10653,7 @@
 <lb n="106" />
           <foreign xml:lang="lat-Latn">theologia</foreign> Teologia
 <pb n="174" />
-          <milestone facs="#facs-48" unit="ref" xml:id="chapter-2-p-26-milestone-189" />
+          <milestone facs="#facs-48" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-27-milestone-189" />
           <lb n="107" />
           <foreign xml:lang="lat-Latn">Theologus</foreign> Theologh
 <lb n="108" />
@@ -10701,7 +10711,7 @@
 <lb n="134" />
           <foreign xml:lang="lat-Latn">torrens</foreign> Lɣme, Perrue
 <pb n="175" />
-          <milestone facs="#facs-47" unit="ref" xml:id="chapter-2-p-26-milestone-190" />
+          <milestone facs="#facs-47" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-27-milestone-190" />
           <lb n="135" />
           <foreign xml:lang="lat-Latn">Torridus</foreign> ξaate, ligune
 <lb n="136" />
@@ -10863,7 +10873,7 @@
 <lb n="213" />
           <foreign xml:lang="lat-Latn">turpiter</foreign> ξuunist
 <pb n="178" />
-          <milestone facs="#facs-46" unit="ref" xml:id="chapter-2-p-26-milestone-191" />
+          <milestone facs="#facs-46" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-27-milestone-191" />
           <lb n="214" />
           <foreign xml:lang="lat-Latn">Tus, Incenso</foreign> Gnem
 <lb n="215" />
@@ -10890,7 +10900,7 @@
           <foreign xml:lang="lat-Latn">tyrhenium mare</foreign> Deeti Itoscanesse
 <lb n="226" />
           <foreign xml:lang="lat-Latn">tyrannus</foreign> Nierij paa gɣɣg</p>
-        <p n="V" xml:id="chapter-2-p-27">
+        <p n="V" xml:id="front-1-dedication-1-chapter-2-p-28">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Vacca</foreign> Lopa
 <lb n="2" />
@@ -10916,7 +10926,7 @@
 <lb n="12" />
           <foreign xml:lang="lat-Latn">valentia</foreign> Pustetia
 <pb n="179" />
-          <milestone facs="#facs-45" unit="ref" xml:id="chapter-2-p-27-milestone-192" />
+          <milestone facs="#facs-45" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-28-milestone-192" />
           <lb n="13" />
           <foreign xml:lang="lat-Latn">Valere</foreign> Me muitune
 <lb n="14" />
@@ -10970,7 +10980,7 @@
 <lb n="38" />
           <foreign xml:lang="lat-Latn">vecors</foreign> Iharruem
 <pb n="180" />
-          <milestone facs="#facs-44" unit="ref" xml:id="chapter-2-p-27-milestone-193" />
+          <milestone facs="#facs-44" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-28-milestone-193" />
           <lb n="39" />
           <foreign xml:lang="lat-Latn">Vectigal</foreign> Zarine
 <lb n="40" />
@@ -11028,7 +11038,7 @@
 <lb n="66" />
           <foreign xml:lang="lat-Latn">ventosus</foreign> Plot me ere
 <pb n="181" />
-          <milestone facs="#facs-43" unit="ref" xml:id="chapter-2-p-27-milestone-194" />
+          <milestone facs="#facs-43" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-28-milestone-194" />
           <lb n="67" />
           <foreign xml:lang="lat-Latn">Ventus</foreign> Here
 <lb n="68" />
@@ -11076,7 +11086,7 @@
 <lb n="89" />
           <foreign xml:lang="lat-Latn">vertagus</foreign> ɛagaar
 <pb n="182" />
-          <milestone facs="#facs-42" unit="ref" xml:id="chapter-2-p-27-milestone-195" />
+          <milestone facs="#facs-42" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-28-milestone-195" />
           <lb n="90" />
           <foreign xml:lang="lat-Latn">Vertigo</foreign> Te semute, fedighe
 <lb n="91" />
@@ -11130,7 +11140,7 @@
 <lb n="115" />
           <foreign xml:lang="lat-Latn">vetus</foreign> Plach
 <pb n="183" />
-          <milestone facs="#facs-41" unit="ref" xml:id="chapter-2-p-27-milestone-196" />
+          <milestone facs="#facs-41" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-28-milestone-196" />
           <lb n="116" />
           <foreign xml:lang="lat-Latn">Vetustas</foreign> Plechenia
 <lb n="117" />
@@ -11188,7 +11198,7 @@
 <lb n="143" />
           <foreign xml:lang="lat-Latn">vincire</foreign> Me liξune
 <pb n="184" />
-          <milestone facs="#facs-40" unit="ref" xml:id="chapter-2-p-27-milestone-197" />
+          <milestone facs="#facs-40" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-28-milestone-197" />
           <lb n="144" />
           <foreign xml:lang="lat-Latn">Vinctus</foreign> Liξune
 <lb n="145" />
@@ -11246,7 +11256,7 @@
 <lb n="171" />
           <foreign xml:lang="lat-Latn">vitulus</foreign> Vic
 <pb n="185" />
-          <milestone facs="#facs-39" unit="ref" xml:id="chapter-2-p-27-milestone-198" />
+          <milestone facs="#facs-39" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-28-milestone-198" />
           <lb n="172" />
           <foreign xml:lang="lat-Latn">Vituperatio</foreign> Tescaam
 <lb n="173" />
@@ -11304,7 +11314,7 @@
 <lb n="199" />
           <foreign xml:lang="lat-Latn">unctio</foreign> Telɣem
 <pb n="186" />
-          <milestone facs="#facs-38" unit="ref" xml:id="chapter-2-p-27-milestone-199" />
+          <milestone facs="#facs-38" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-28-milestone-199" />
           <lb n="200" />
           <foreign xml:lang="lat-Latn">Unctor</foreign> Ai ghi lɣen, Lɣes
 <lb n="201" />
@@ -11362,7 +11372,7 @@
 <lb n="227" />
           <foreign xml:lang="lat-Latn">vomer</foreign> Humb, Pluer ξika e plorit
 <pb n="187" />
-          <milestone facs="#facs-37" unit="ref" xml:id="chapter-2-p-27-milestone-200" />
+          <milestone facs="#facs-37" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-28-milestone-200" />
           <lb n="228" />
           <foreign xml:lang="lat-Latn">vomere</foreign> Me iuielle
 <lb n="229" />
@@ -11418,7 +11428,7 @@
 <lb n="254" />
           <foreign xml:lang="lat-Latn">ut</foreign> Chinesse
 <pb n="188" />
-          <milestone facs="#facs-36" unit="ref" xml:id="chapter-2-p-27-milestone-201" />
+          <milestone facs="#facs-36" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-28-milestone-201" />
           <lb n="255" />
           <foreign xml:lang="lat-Latn">Ut eatis</foreign> Chinesse teueni
 <lb n="256" />
@@ -11457,7 +11467,7 @@
           <foreign xml:lang="lat-Latn">vultus</foreign> Fachieia
 <lb n="273" />
           <foreign xml:lang="lat-Latn">uxor</foreign> Grue</p>
-        <p n="Z" xml:id="chapter-2-p-28">
+        <p n="Z" xml:id="front-1-dedication-1-chapter-2-p-29">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Zephyrus</foreign> Frasghia
 <lb n="2" />
@@ -11467,14 +11477,14 @@
 <lb n="4" />
           <foreign xml:lang="lat-Latn">Zygantes</foreign> Gigante
 <pb n="189" />
-          <milestone facs="#facs-35" unit="ref" xml:id="chapter-2-p-28-milestone-202" />
+          <milestone facs="#facs-35" unit="ref" xml:id="front-1-dedication-1-chapter-2-p-29-milestone-202" />
         </p>
       </div>
-      <div n="1" xml:id="chapter-3" type="chapter" data-level="1">
+      <div n="1" xml:id="front-1-dedication-1-chapter-3" type="chapter" data-level="1">
         <head>
           <foreign xml:lang="lat-Latn">CAP. I</foreign>
         </head>
-        <p n="Num.card." xml:id="chapter-3-p-29">Tegnefunate Latinisct, Talianisct, Arbenisct, e Turgisct. <foreign xml:lang="lat-Latn">Hoc est Nomina numeralia, Latinè, Italicè, Epiroticè, &amp; Turcicè</foreign>
+        <p n="Num.card." xml:id="front-1-dedication-1-chapter-3-p-30">Tegnefunate Latinisct, Talianisct, Arbenisct, e Turgisct. <foreign xml:lang="lat-Latn">Hoc est Nomina numeralia, Latinè, Italicè, Epiroticè, &amp; Turcicè</foreign>
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Unus,</foreign>
           <foreign xml:lang="ita-Latn">Uno</foreign> Gna, Turghisct, <foreign xml:lang="tur-Latn">Bir</foreign>
@@ -11515,7 +11525,7 @@
           <foreign xml:lang="lat-Latn">Tredecim,</foreign>
           <foreign xml:lang="ita-Latn">tredeci</foreign> Tre mbeξiete, <foreign xml:lang="tur-Latn">On üch</foreign>
           <pb n="190" />
-          <milestone facs="#facs-34" unit="ref" xml:id="chapter-3-p-29-milestone-203" />
+          <milestone facs="#facs-34" unit="ref" xml:id="front-1-dedication-1-chapter-3-p-30-milestone-203" />
           <lb n="14" />
           <foreign xml:lang="lat-Latn">Quatuorcedim,</foreign>
           <foreign xml:lang="ita-Latn">quatordeci</foreign> Catere mbeξiete, <foreign xml:lang="tur-Latn">On dort</foreign>
@@ -11562,7 +11572,7 @@
           <foreign xml:lang="lat-Latn">Viginti octo,</foreign>
           <foreign xml:lang="ita-Latn">venti otto</foreign> Gnaɛet etete, <foreign xml:lang="tur-Latn">Ighermi sekus</foreign>
           <pb n="191" />
-          <milestone facs="#facs-33" unit="ref" xml:id="chapter-3-p-29-milestone-204" />
+          <milestone facs="#facs-33" unit="ref" xml:id="front-1-dedication-1-chapter-3-p-30-milestone-204" />
           <lb n="29" />
           <foreign xml:lang="lat-Latn">Viginti nouem,</foreign>
           <foreign xml:lang="ita-Latn">venti noue</foreign> Gnaɛet enande, <foreign xml:lang="tur-Latn">Ighermi dokus</foreign>
@@ -11615,7 +11625,7 @@
           <foreign xml:lang="lat-Latn">Noningenti,</foreign>
           <foreign xml:lang="ita-Latn">noue cento</foreign> Nande ghind, <foreign xml:lang="tur-Latn">Dcchus ius</foreign>
           <pb n="192" />
-          <milestone facs="#facs-32" unit="ref" xml:id="chapter-3-p-29-milestone-205" />
+          <milestone facs="#facs-32" unit="ref" xml:id="front-1-dedication-1-chapter-3-p-30-milestone-205" />
           <lb n="46" />
           <foreign xml:lang="lat-Latn">Mille,</foreign>
           <foreign xml:lang="ita-Latn">mille</foreign> Gne mije, <foreign xml:lang="tur-Latn">Bin</foreign>
@@ -11634,7 +11644,7 @@
           <lb n="51" />
           <foreign xml:lang="lat-Latn">Quadrigenta millia</foreign> Cater ghind mije, <foreign xml:lang="tur-Latn">Dort ius bin</foreign>
         </p>
-        <p n="Num.ord." xml:id="chapter-3-p-30">
+        <p n="Num.ord." xml:id="front-1-dedication-1-chapter-3-p-31">
           <foreign xml:lang="lat-Latn">Numeri secundum ordinem Latinè, &amp; Epiroticè</foreign>
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Primus</foreign> I Pari
@@ -11657,7 +11667,7 @@
 <lb n="10" />
           <foreign xml:lang="lat-Latn">Decimus</foreign> I ξieti
 <pb n="193" />
-          <milestone facs="#facs-31" unit="ref" xml:id="chapter-3-p-30-milestone-206" />
+          <milestone facs="#facs-31" unit="ref" xml:id="front-1-dedication-1-chapter-3-p-31-milestone-206" />
           <lb n="11" />
           <foreign xml:lang="lat-Latn">Undecimus</foreign> Igna mbeξieti
 <lb n="12" />
@@ -11701,14 +11711,14 @@
 <lb n="31" />
           <foreign xml:lang="lat-Latn">Et sic ininfinitum</foreign> E chestu paa tesossune
 <pb n="194" />
-          <milestone facs="#facs-30" unit="ref" xml:id="chapter-3-p-30-milestone-207" />
+          <milestone facs="#facs-30" unit="ref" xml:id="front-1-dedication-1-chapter-3-p-31-milestone-207" />
         </p>
       </div>
-      <div n="2" xml:id="chapter-4" type="chapter" data-level="1">
+      <div n="2" xml:id="front-1-dedication-1-chapter-4" type="chapter" data-level="1">
         <head>
           <foreign xml:lang="lat-Latn">CAP. II</foreign>
         </head>
-        <p n="Nom.par.m." xml:id="chapter-4-p-31">Emenatee Prindet Maschie, e Femene, Latinisct, Talianisct, Arbenisct, e Turgisct. <foreign xml:lang="lat-Latn">Hoc est Nomina masculorum, &amp; fœminarum Parentum, Latinè, Italicè, Epiroticè, &amp; Turcicè.</foreign>
+        <p n="Nom.par.m." xml:id="front-1-dedication-1-chapter-4-p-32">Emenatee Prindet Maschie, e Femene, Latinisct, Talianisct, Arbenisct, e Turgisct. <foreign xml:lang="lat-Latn">Hoc est Nomina masculorum, &amp; fœminarum Parentum, Latinè, Italicè, Epiroticè, &amp; Turcicè.</foreign>
           <foreign xml:lang="lat-Latn">Nomina Masculorum Parentum</foreign>
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Filius,</foreign>
@@ -11729,7 +11739,7 @@
           <foreign xml:lang="lat-Latn">Consobrinus,</foreign>
           <foreign xml:lang="ita-Latn">Cugino</foreign> Cuscerij, <foreign xml:lang="tur-Latn">Amuga</foreign>
           <pb n="195" />
-          <milestone facs="#facs-29" unit="ref" xml:id="chapter-4-p-31-milestone-208" />
+          <milestone facs="#facs-29" unit="ref" xml:id="front-1-dedication-1-chapter-4-p-32-milestone-208" />
           <lb n="7" />
           <foreign xml:lang="lat-Latn">Nepos,</foreign>
           <foreign xml:lang="ita-Latn">fratris filius, siuè sororis</foreign> Inipij tuelaat, <foreign xml:lang="tur-Latn">oò semotresse</foreign>
@@ -11746,7 +11756,7 @@
           <foreign xml:lang="lat-Latn">Sponsus,</foreign>
           <foreign xml:lang="ita-Latn">sposo</foreign> ξanderri, <foreign xml:lang="tur-Latn">Giuuei</foreign>
         </p>
-        <p n="Nom.par.f." xml:id="chapter-4-p-32">
+        <p n="Nom.par.f." xml:id="front-1-dedication-1-chapter-4-p-33">
           <foreign xml:lang="lat-Latn">Nomina Fœminarum Parentum</foreign>
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Filia,</foreign>
@@ -11779,14 +11789,14 @@
           <foreign xml:lang="lat-Latn">Sponsa,</foreign>
           <foreign xml:lang="ita-Latn">sposa</foreign> Nusseia, <foreign xml:lang="tur-Latn">Gelin</foreign>
           <pb n="196" />
-          <milestone facs="#facs-28" unit="ref" xml:id="chapter-4-p-32-milestone-209" />
+          <milestone facs="#facs-28" unit="ref" xml:id="front-1-dedication-1-chapter-4-p-33-milestone-209" />
         </p>
       </div>
-      <div n="3" xml:id="chapter-5" type="chapter" data-level="1">
+      <div n="3" xml:id="front-1-dedication-1-chapter-5" type="chapter" data-level="1">
         <head>
           <foreign xml:lang="lat-Latn">CAP. III</foreign>
         </head>
-        <p n="Nom.pr.urb." xml:id="chapter-5-p-33">Emenatee Gɣteteuet, ete Chesctielet Arbenit, Latinisct, Talianisct, e Arbenisct. <foreign xml:lang="lat-Latn">Hoc est propria nomina Urbium nonnullarum, atque Castellorum, ad eam partem Macedoniæ spectantium, quæ Epirus, siuè Albania dicitur; proponuntur secundum ordinem alphabeti, Latinè, Italicè, &amp; Epiroticè digesta, ubi primum occurrit.</foreign>
+        <p n="Nom.pr.urb." xml:id="front-1-dedication-1-chapter-5-p-34">Emenatee Gɣteteuet, ete Chesctielet Arbenit, Latinisct, Talianisct, e Arbenisct. <foreign xml:lang="lat-Latn">Hoc est propria nomina Urbium nonnullarum, atque Castellorum, ad eam partem Macedoniæ spectantium, quæ Epirus, siuè Albania dicitur; proponuntur secundum ordinem alphabeti, Latinè, Italicè, &amp; Epiroticè digesta, ubi primum occurrit.</foreign>
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Antibarum (inferioris Albaniæ Metropolis)</foreign> Antiuari, Tiuari
 <lb n="2" />
@@ -11794,7 +11804,7 @@
 <lb n="3" />
           <foreign xml:lang="lat-Latn">Ciuitas noua, siuè</foreign> Ducagina <foreign xml:lang="lat-Latn">ædificata his nostris temporibus in arduis, asperisque Albaniæ montibus à Turca quodam Epirota nomine</foreign>
           <pb n="197" />
-          <milestone facs="#facs-27" unit="ref" xml:id="chapter-5-p-33-milestone-210" />
+          <milestone facs="#facs-27" unit="ref" xml:id="front-1-dedication-1-chapter-5-p-34-milestone-210" />
           <lb n="4" />
           <foreign xml:lang="lat-Latn">Buloli, Ducaginorum</foreign>
           <foreign xml:lang="lat-Latn">Præfecto, vel ut Turcico more dicamus,</foreign> Sanzacho, <foreign xml:lang="lat-Latn">Città nuoua, ò</foreign> Ducagini, Gɣtetia eree, oò Ducagin.
@@ -11810,7 +11820,7 @@
           <lb n="8" />
           <foreign xml:lang="lat-Latn">Euorea, Patria S. Donati Episcopi, vide Baronium in Martyrologio Romano ultimo die Aprilis, Euoria.</foreign>
           <pb n="198" />
-          <milestone facs="#facs-26" unit="ref" xml:id="chapter-5-p-33-milestone-211" />
+          <milestone facs="#facs-26" unit="ref" xml:id="front-1-dedication-1-chapter-5-p-34-milestone-211" />
           <lb n="9" />
           <foreign xml:lang="lat-Latn">Lissus, siuè Alessium Urbs iuxta mare Ionium ad ripam amænissimi fluminis Drini constituta, in qua obijt Georgius Scanderbegus, iam nominatus, consule Marinum Barletium &amp; Georgium Bartholdum de eiusdem vita, &amp; nobilissimis voctoriis portatis. Alessio,</foreign> Lescia.
 <lb n="10" />
@@ -11837,14 +11847,14 @@
 <lb n="20" />
           <foreign xml:lang="lat-Latn">Ulcinium,</foreign> Dolcigno, Ulgnigni, <foreign xml:lang="lat-Latn">&amp;c.</foreign>
           <pb n="199" />
-          <milestone facs="#facs-25" unit="ref" xml:id="chapter-5-p-33-milestone-212" />
+          <milestone facs="#facs-25" unit="ref" xml:id="front-1-dedication-1-chapter-5-p-34-milestone-212" />
         </p>
       </div>
-      <div n="4" xml:id="chapter-6" type="chapter" data-level="1">
+      <div n="4" xml:id="front-1-dedication-1-chapter-6" type="chapter" data-level="1">
         <head>
           <foreign xml:lang="lat-Latn">CAP. IV</foreign>
         </head>
-        <p n="Adv.loc." xml:id="chapter-6-p-34">
+        <p n="Adv.loc." xml:id="front-1-dedication-1-chapter-6-p-35">
           <foreign xml:lang="lat-Latn">De Aduerbiis, quæ traduntur apud Epiroticos, sicut etiam apud Latinos.</foreign>
           <foreign xml:lang="lat-Latn">Aduerbia Loci</foreign>
           <foreign xml:lang="lat-Latn">In loco</foreign>
@@ -11877,7 +11887,7 @@
           <lb n="24" />Mbeccane vende <foreign xml:lang="lat-Latn">Quorsum, ad quod latus</foreign>
           <lb n="25" />Mbanete diaξξte <foreign xml:lang="lat-Latn">Dextrorsum</foreign>
           <pb n="200" />
-          <milestone facs="#facs-24" unit="ref" xml:id="chapter-6-p-34-milestone-213" />
+          <milestone facs="#facs-24" unit="ref" xml:id="front-1-dedication-1-chapter-6-p-35-milestone-213" />
           <foreign xml:lang="lat-Latn">De Aduerbiis</foreign>
           <lb n="26" />Mbanete stemangte <foreign xml:lang="lat-Latn">Sinistrorsum</foreign>
           <lb n="27" />Perpara <foreign xml:lang="lat-Latn">Antè</foreign>
@@ -11888,7 +11898,7 @@
           <foreign xml:lang="lat-Latn">De loco</foreign>
           <lb n="32" />Kahauien <foreign xml:lang="lat-Latn">Unde venis,</foreign> Turghist <foreign xml:lang="tur-Latn">Nereden</foreign>
         </p>
-        <p n="Adv.temp." xml:id="chapter-6-p-35">
+        <p n="Adv.temp." xml:id="front-1-dedication-1-chapter-6-p-36">
           <foreign xml:lang="lat-Latn">Aduerbia temporis</foreign>
           <lb n="1" />Sod <foreign xml:lang="lat-Latn">Hodie</foreign>
           <lb n="2" />Die <foreign xml:lang="lat-Latn">Heri</foreign>
@@ -11911,7 +11921,7 @@
           <lb n="19" />Ndatecias <foreign xml:lang="lat-Latn">Illo momento</foreign>
           <lb n="20" />Spesc <foreign xml:lang="lat-Latn">sæpe</foreign>
         </p>
-        <p n="Adv.num." xml:id="chapter-6-p-36">
+        <p n="Adv.num." xml:id="front-1-dedication-1-chapter-6-p-37">
           <foreign xml:lang="lat-Latn">Auerbia numeri</foreign>
           <lb n="1" />Gna here <foreign xml:lang="lat-Latn">Semel</foreign>
           <lb n="2" />Dɣɣ here <foreign xml:lang="lat-Latn">Bis</foreign>
@@ -11920,13 +11930,13 @@
           <lb n="5" />Aghie <foreign xml:lang="lat-Latn">quoties</foreign>
           <lb n="6" />Perseriù <foreign xml:lang="lat-Latn">Rursus</foreign>
         </p>
-        <p n="Adv.mod." xml:id="chapter-6-p-37">
+        <p n="Adv.mod." xml:id="front-1-dedication-1-chapter-6-p-38">
           <foreign xml:lang="lat-Latn">Negandi</foreign>
           <lb n="1" />Iò <foreign xml:lang="lat-Latn">Non</foreign>
           <lb n="2" />Sascte <foreign xml:lang="lat-Latn">Non est</foreign>
           <lb n="3" />Sascte emi <foreign xml:lang="lat-Latn">non est Meum</foreign>
           <pb n="201" />
-          <milestone facs="#facs-23" unit="ref" xml:id="chapter-6-p-37-milestone-214" />
+          <milestone facs="#facs-23" unit="ref" xml:id="front-1-dedication-1-chapter-6-p-38-milestone-214" />
           <foreign xml:lang="lat-Latn">Affirmandi</foreign>
           <lb n="4" />Asctu ascte <foreign xml:lang="lat-Latn">Ita est</foreign>
           <lb n="5" />Vertet ascte <foreign xml:lang="lat-Latn">Verum est. quod melius</foreign>
@@ -11957,7 +11967,7 @@
           <lb n="23" />Perssechestu <foreign xml:lang="lat-Latn">quid ita?</foreign>
           <lb n="24" />Chiscdò <foreign xml:lang="lat-Latn">quid vis</foreign>
           <pb n="202" />
-          <milestone facs="#facs-22" unit="ref" xml:id="chapter-6-p-37-milestone-215" />
+          <milestone facs="#facs-22" unit="ref" xml:id="front-1-dedication-1-chapter-6-p-38-milestone-215" />
           <foreign xml:lang="lat-Latn">Similitudinis</foreign>
           <lb n="25" />Possi <foreign xml:lang="lat-Latn">tanquam</foreign>
           <lb n="26" />Possi Cau <foreign xml:lang="lat-Latn">tanquam Bos</foreign>
@@ -11980,7 +11990,7 @@
           <lb n="41" />Sume <foreign xml:lang="lat-Latn">Plurimum</foreign>
           <lb n="42" />Meiaft <foreign xml:lang="lat-Latn">Satis,</foreign> Turghist <foreign xml:lang="tur-Latn">ieter</foreign>
         </p>
-        <p n="Adv.rhet." xml:id="chapter-6-p-38">
+        <p n="Adv.rhet." xml:id="front-1-dedication-1-chapter-6-p-39">
           <foreign xml:lang="lat-Latn">Dubitandi</foreign>
           <lb n="1" />Cus dì <foreign xml:lang="lat-Latn">quis scit?</foreign>
           <lb n="2" />Drue <foreign xml:lang="lat-Latn">timeo</foreign>
@@ -11995,7 +12005,7 @@
           <lb n="9" />Ghiscdo <foreign xml:lang="lat-Latn">quid vis?</foreign>
           <lb n="10" />Iam chetu <foreign xml:lang="lat-Latn">adsum,</foreign> Turghist <foreign xml:lang="tur-Latn">Bundaim</foreign>
           <pb n="203" />
-          <milestone facs="#facs-21" unit="ref" xml:id="chapter-6-p-38-milestone-216" />
+          <milestone facs="#facs-21" unit="ref" xml:id="front-1-dedication-1-chapter-6-p-39-milestone-216" />
           <foreign xml:lang="lat-Latn">Iurandi</foreign>
           <lb n="11" />Pertene ɛone <foreign xml:lang="lat-Latn">Per nostrum Deum</foreign>
           <lb n="12" />Pertene ɛone ghi haste mbi chielt <foreign xml:lang="lat-Latn">Per Deum nostrum quæ est super cœlos</foreign>
@@ -12019,14 +12029,14 @@
           <lb n="27" />Chiofte <foreign xml:lang="lat-Latn">fiat</foreign>
           <lb n="28" />Letescogne <foreign xml:lang="lat-Latn">Transeat</foreign>
           <pb n="204" />
-          <milestone facs="#facs-20" unit="ref" xml:id="chapter-6-p-38-milestone-217" />
+          <milestone facs="#facs-20" unit="ref" xml:id="front-1-dedication-1-chapter-6-p-39-milestone-217" />
         </p>
       </div>
-      <div n="5" xml:id="chapter-7" type="chapter" data-level="1">
+      <div n="5" xml:id="front-1-dedication-1-chapter-7" type="chapter" data-level="1">
         <head>
           <foreign xml:lang="lat-Latn">CAP. V</foreign>
         </head>
-        <p n="Praep.loc." xml:id="chapter-7-p-39">
+        <p n="Praep.loc." xml:id="front-1-dedication-1-chapter-7-p-40">
           <foreign xml:lang="lat-Latn">De Præpositionibus Epiroticis, ferè omnes præpositiones antè ponuntur nominibus, sunt vero eiusmodi</foreign>
           <foreign xml:lang="lat-Latn">Ad, propositionem, ad repræsentat particula</foreign> mb, <foreign xml:lang="lat-Latn">quæ anteponitur nomini: ut</foreign>
           <lb n="1" />mb Ghiel <foreign xml:lang="lat-Latn">ad cælum</foreign>
@@ -12044,9 +12054,9 @@
           <foreign xml:lang="lat-Latn">Et isti etiam.</foreign> Nde <foreign xml:lang="lat-Latn">si addatur R fit</foreign> Nder, <foreign xml:lang="lat-Latn">&amp; seruiet loco præpositionis Inter. Ut:</foreign>
           <lb n="11" />Nder mue e Nder tɣɣ ɛotɣne Kaa megɣcuem <foreign xml:lang="lat-Latn">Inter me &amp; Inter te Deus noster iudicabit.</foreign>
           <pb n="205" />
-          <milestone facs="#facs-19" unit="ref" xml:id="chapter-7-p-39-milestone-218" />
+          <milestone facs="#facs-19" unit="ref" xml:id="front-1-dedication-1-chapter-7-p-40-milestone-218" />
         </p>
-        <p n="Praep.temp." xml:id="chapter-7-p-40">
+        <p n="Praep.temp." xml:id="front-1-dedication-1-chapter-7-p-41">
           <lb n="1" />
           <foreign xml:lang="lat-Latn">Antè</foreign> Perpara. <foreign xml:lang="lat-Latn">Significationem temporis &amp; loci habet. Ut:</foreign>
           <lb n="2" />Perpara iauesse <foreign xml:lang="lat-Latn">Antè hebdomadam</foreign>
@@ -12056,7 +12066,7 @@
           <lb n="5" />Cundre iuu <foreign xml:lang="lat-Latn">Contra vos</foreign>
           <lb n="6" />Cundre anemichiet <foreign xml:lang="lat-Latn">Aduersus inimicos.</foreign>
         </p>
-        <p n="Praep.cet." xml:id="chapter-7-p-41">
+        <p n="Praep.cet." xml:id="front-1-dedication-1-chapter-7-p-42">
           <foreign xml:lang="lat-Latn">Per. Ista præpositione utuntur, etiam Epirotici, ut:</foreign>
           <lb n="1" />Per tene ɛone ghi aste gna imaξ <foreign xml:lang="lat-Latn">Per nostrum Deum, qui est unus magnus</foreign>
           <lb n="2" />Per crɣet tem <foreign xml:lang="lat-Latn">Per caput meum</foreign>
@@ -12084,7 +12094,7 @@
           <lb n="20" />
           <foreign xml:lang="lat-Latn">Absque sine</foreign> Paa, <foreign xml:lang="lat-Latn">quæ priuationem significant, ut</foreign>
           <pb n="206" />
-          <milestone facs="#facs-18" unit="ref" xml:id="chapter-7-p-41-milestone-219" />
+          <milestone facs="#facs-18" unit="ref" xml:id="front-1-dedication-1-chapter-7-p-42-milestone-219" />
           <lb n="21" />Paa duer <foreign xml:lang="lat-Latn">absque manibus</foreign>
           <lb n="22" />Paa Denare <foreign xml:lang="lat-Latn">sine pecunijs</foreign>
           <lb n="23" />Paa miecre <foreign xml:lang="lat-Latn">sine barba</foreign>
@@ -12100,11 +12110,11 @@
           <lb n="30" />Per tɣɣ <foreign xml:lang="lat-Latn">Propter te, &amp;c.</foreign>
         </p>
       </div>
-      <div n="6" xml:id="chapter-8" type="chapter" data-level="1">
+      <div n="6" xml:id="front-1-dedication-1-chapter-8" type="chapter" data-level="1">
         <head>
           <foreign xml:lang="lat-Latn">CAP. VI</foreign>
         </head>
-        <p n="Interj." xml:id="chapter-8-p-42">
+        <p n="Interj." xml:id="front-1-dedication-1-chapter-8-p-43">
           <foreign xml:lang="lat-Latn">De Interiectionibus</foreign>
           <foreign xml:lang="lat-Latn">Dolentis:</foreign>
           <lb n="1" />Hai hai, hei Vaeme: heu <foreign xml:lang="lat-Latn">Ridentis:</foreign>
@@ -12114,15 +12124,15 @@
           <lb n="5" />Bucure: afferim: Euge. <foreign xml:lang="lat-Latn">Admirantis:</foreign>
           <lb n="6" />Allaha, allaha, Pachechɣre, Pachechɣre.
           <pb n="207" />
-          <milestone facs="#facs-17" unit="ref" xml:id="chapter-8-p-42-milestone-220" />
+          <milestone facs="#facs-17" unit="ref" xml:id="front-1-dedication-1-chapter-8-p-43-milestone-220" />
         </p>
       </div>
-      <div n="8_(7)" xml:id="chapter-9" type="chapter" data-level="1">
+      <div n="8_(7)" xml:id="front-1-dedication-1-chapter-9" type="chapter" data-level="1">
         <head>
           <foreign xml:lang="lat-Latn">CAP. VIII</foreign>
           <foreign xml:lang="und-Latn-x-general">[sic]</foreign>
         </head>
-        <p n="Prov." xml:id="chapter-9-p-43">
+        <p n="Prov." xml:id="front-1-dedication-1-chapter-9-p-44">
           <foreign xml:lang="lat-Latn">Prouerbia, &amp; sententiæ Epirotarum</foreign>
           <lb n="1" />Vece tene ɛone aξeroign <foreign xml:lang="lat-Latn">Præter Deum neminem colo.</foreign>
           <lb n="2" />Cus gnef vethehene gnef tene ɛone <foreign xml:lang="lat-Latn">Qui noscit se ipsum, agnoscit nostrum Deum</foreign>
@@ -12134,7 +12144,7 @@
           <lb n="8" />Kis te baiss bane urtscim, e sucò si Kaa mete dale. <foreign xml:lang="lat-Latn">Quidquid agis, prudenter agis, &amp; respice finem.</foreign>
           <lb n="9" />Giξξe cafscene mete percuerm <foreign xml:lang="lat-Latn">Omnia cum mediocritate.</foreign>
           <pb n="208" />
-          <milestone facs="#facs-16" unit="ref" xml:id="chapter-9-p-43-milestone-221" />
+          <milestone facs="#facs-16" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-44-milestone-221" />
           <lb n="10" />Nieriu iurte giξξe cafscene tndom <foreign xml:lang="lat-Latn">Prudens homo omnia tentat</foreign>
           <lb n="11" />Gindene scume duer Niereɛis <foreign xml:lang="ita-Latn">Egli è differenza tra gli huomini.</foreign>
           <lb n="12" />Sucome stane, ani te baamete <foreign xml:lang="lat-Latn">Qualis vir talis oratio.</foreign>
@@ -12149,7 +12159,7 @@
           <lb n="20" />Memijte hà, e pi, e tregh mos ban. <foreign xml:lang="ita-Latn">Con gli amici mangiar', e bere, e non intrar in partida.</foreign>
           <lb n="21" />Gnana doræ laan tieterene, ete dɣɣia laagnene fachiene <foreign xml:lang="ita-Latn">Una mano laua l'altra, &amp; le due lauano la faccia.</foreign>
           <pb n="209" />
-          <milestone facs="#facs-15" unit="ref" xml:id="chapter-9-p-43-milestone-222" />
+          <milestone facs="#facs-15" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-44-milestone-222" />
           <lb n="22" />Anemicu plach, stebahete cuurre mich, ende tu mbafte sbahete idereite <foreign xml:lang="ita-Latn">Un vecchio nemico non può diuentar amico, &amp; se sarà non sarà perfetto.</foreign>
           <lb n="23" />Schiferi sgittete mbas miɛascit <foreign xml:lang="lat-Latn">Accipiter non captat Muscas.</foreign>
           <lb n="24" />Ma mire me hestune, se scume me fole <foreign xml:lang="lat-Latn">Melius est tacere, quam multa loqui</foreign>
@@ -12164,7 +12174,7 @@
           <lb n="31" />Atto cafsce ghi ste kaane bie, este per kassene Sduhete me i desceruem <foreign xml:lang="lat-Latn">Quæ non decent, ea nè appetas.</foreign>
           <lb n="32" />Atto cafsce ghi biene teξimtune sduhete mei cuituem
           <pb n="210" />
-          <milestone facs="#facs-14" unit="ref" xml:id="chapter-9-p-43-milestone-223" />
+          <milestone facs="#facs-14" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-44-milestone-223" />
           <foreign xml:lang="ita-Latn">Meglio è passare con silentio, che ricordarsi di quelle, che portano dolore.</foreign>
           <lb n="33" />Ma mire me decune gna here, se me ureɛicuem giξξehere. <foreign xml:lang="lat-Latn">Satius est semel subire quam cauere semper.</foreign>
           <lb n="34" />Kisdo ɛoghela oò bilbili ia biè prendeueera. <foreign xml:lang="lat-Latn">Qui amat perculum, peribit in eo.</foreign>
@@ -12183,7 +12193,7 @@
           <lb n="42" />Molla nuche rezohete largh mmollet. Turghist: <foreign xml:lang="tur-Latn">Alma agatsdan irak duschamas.</foreign>
           <lb n="43" />Giξξe cafscene me mot Turghist: <foreign xml:lang="tur-Latn">hernes/fte samanile.</foreign>
           <pb n="211" />
-          <milestone facs="#facs-13" unit="ref" xml:id="chapter-9-p-43-milestone-224" />
+          <milestone facs="#facs-13" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-44-milestone-224" />
           <foreign xml:lang="ita-Latn">Ogni cosa col tempo.</foreign>
           <lb n="44" />Duhete me pritune rend. <foreign xml:lang="lat-Latn">Temporibus decet optari.</foreign>
           <foreign xml:lang="lat-Latn">Seneca.</foreign>
@@ -12202,7 +12212,7 @@
           <foreign xml:lang="lat-Latn">Unusquisque poculum mortis bibit.</foreign>
           <lb n="55" />Morne sduhete mee haruem, persse sod mue neseere tɣɣ
           <pb n="212" />
-          <milestone facs="#facs-12" unit="ref" xml:id="chapter-9-p-43-milestone-225" />
+          <milestone facs="#facs-12" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-44-milestone-225" />
           <foreign xml:lang="lat-Latn">Mortem haud obliuiscere: nam semper hodie mihi cras tibi. Hodie mihi cras tibi.</foreign> Sod mue nessere tɣɣ
 <lb n="56" />Site ndeergnes asctu chee mechiene ndeerune <foreign xml:lang="lat-Latn">Ut salutabis ita resalutaberis,</foreign>
           <foreign xml:lang="lat-Latn">vel:</foreign>
@@ -12216,7 +12226,7 @@
           <lb n="63" />Cu giaa saste, giaa sgindete <foreign xml:lang="ita-Latn">Doue non è non sene può torre.</foreign>
           <lb n="64" />Possi leu astu des Nierij. Iob. c. 21 <foreign xml:lang="lat-Latn">Nudus egressus sum, &amp; nudud reuertar illuc.</foreign>
           <pb n="213" />
-          <milestone facs="#facs-11" unit="ref" xml:id="chapter-9-p-43-milestone-226" />
+          <milestone facs="#facs-11" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-44-milestone-226" />
           <lb n="65" />Kaali aste iatij ghi egalcon <foreign xml:lang="ita-Latn">I Cauallo è di quel, che lo caualca.</foreign>
           <lb n="66" />Gna guur sban muur <foreign xml:lang="ita-Latn">Una pietra non fa il muro.</foreign>
           <lb n="67" />ξeu iɛij ban buchenee barξξe <foreign xml:lang="ita-Latn">Terra negra fa buona biada.</foreign>
@@ -12232,7 +12242,7 @@
           <lb n="77" />Si me sce, astu me scruei <foreign xml:lang="lat-Latn">Come me vedette, così mi scriuete.</foreign>
           <lb n="78" />Chiet scegiettene, embscefen archne <foreign xml:lang="lat-Latn">Sagittam emittit, arcumque abscondit.</foreign>
           <pb n="214" />
-          <milestone facs="#facs-10" unit="ref" xml:id="chapter-9-p-43-milestone-227" />
+          <milestone facs="#facs-10" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-44-milestone-227" />
           <lb n="79" />Nde gnanet vesc me hijn, e per tieterit me del <foreign xml:lang="lat-Latn">In auribus verbum istud peregrinatur.</foreign>
           <lb n="80" />Nderte verbenit ti ende mberscil sɣɣte <foreign xml:lang="ita-Latn">Fra gli orbi tu anchora serra gli occhi</foreign>
           <lb n="81" />Iuerbeni hiec te verbenine, ete dɣ nde fosset rezohene Iscen Maξξei c. 15 <foreign xml:lang="lat-Latn">Cæcus si cæco ductum det ambo in foueam cadunt,</foreign>
@@ -12250,7 +12260,7 @@
           <lb n="90" />Mos me mer cmos me chieξane <foreign xml:lang="lat-Latn">Ne tollas quod mihi non dedisti.</foreign>
           <lb n="91" />Lufta emaξe ban painee amble
           <pb n="215" />
-          <milestone facs="#facs-9" unit="ref" xml:id="chapter-9-p-43-milestone-228" />
+          <milestone facs="#facs-9" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-44-milestone-228" />
           <foreign xml:lang="ita-Latn">Una gran guerra fa una dolce pace</foreign>
           <lb n="92" />Euerteta spelchien giξξe cuui <foreign xml:lang="lat-Latn">Non omnibus veritas placet</foreign>
           <lb n="93" />Ucucu ghimene nderron, ma vessne se harron <foreign xml:lang="lat-Latn">Lupus pilum mutat, non mentem, vel mores.</foreign>
@@ -12267,7 +12277,7 @@
           <foreign xml:lang="lat-Latn">Turcicè,</foreign> Turghist. <foreign xml:lang="tur-Latn">Ben gelebi, se gelebi Att khim kaschar?</foreign>
           <lb n="101" />Hu fisnich, eti finich, e caste caalit cusistie? <foreign xml:lang="ita-Latn">Io sono nobile, &amp; tu sei nobile: ma chi darà il fieno al Cauallo?</foreign>
           <pb n="216" />
-          <milestone facs="#facs-8" unit="ref" xml:id="chapter-9-p-43-milestone-229" />
+          <milestone facs="#facs-8" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-44-milestone-229" />
           <lb n="102" />Scegeta estijme scheξξen <foreign xml:lang="ita-Latn">La frezza tirata non torna.</foreign>
           <lb n="103" />Mos te mundofte imunduemi <foreign xml:lang="ita-Latn">Dio ti guardi da quello que estato battuto.</foreign>
           <lb n="104" />Si te bais, astu chie megietune <foreign xml:lang="ita-Latn">Secondo che un fà, cosi trouarà.</foreign>
@@ -12280,13 +12290,13 @@
           <lb n="109" />Maa mire meξɣem crɣete se me vum ɛacon terij oò te ligteree <foreign xml:lang="ita-Latn">E meglio sparger sangue che far nuoua legge.</foreign>
           <lb n="110" />Nde tepaassa gna tieter here, kaa mechiene edɣta here.
           <pb n="217" />
-          <milestone facs="#facs-7" unit="ref" xml:id="chapter-9-p-43-milestone-230" />
+          <milestone facs="#facs-7" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-44-milestone-230" />
           <foreign xml:lang="ita-Latn">Se te vederò un'altra volta, sarà la seconda volta.</foreign>
           <lb n="111" />Sduhete me lueitune megure perplete <foreign xml:lang="ita-Latn">Non bisogna scherzare con i sassi in sù.</foreign>
           <lb n="112" />Ma veien gna ξelpene igiale, se gna Luaa izoffete <foreign xml:lang="ita-Latn">Val più una colpe che camina, che un Leone che giace.</foreign>
           <lb n="113" />Tuch idiegh Plachesse atɣ perchet. <foreign xml:lang="ita-Latn">Doue duole alla vecchia la tocca.</foreign>
         </p>
-        <p n="Sal." xml:id="chapter-9-p-44">
+        <p n="Sal." xml:id="front-1-dedication-1-chapter-9-p-45">
           <foreign xml:lang="lat-Latn">Salutatio Epiroticæ linguæ, hæc est.</foreign>
           <lb n="1" />Miresete giaagn ɛot <foreign xml:lang="lat-Latn">Salue domine</foreign> Mirese ugiaagn Buaire, oò fisniche <foreign xml:lang="lat-Latn">Saluete Nobiles</foreign> Mirese ugiaagn Trimatee mire <foreign xml:lang="lat-Latn">Saluete Milites boni,</foreign>
           <foreign xml:lang="lat-Latn">&amp;c.</foreign>
@@ -12294,7 +12304,7 @@
           <lb n="2" />
           <foreign xml:lang="lat-Latn">Responsio eorum</foreign> Mirese tesijellechaa ediaξata etine ɛot, Ndo ende tɣɣ teξascte paich illumi ɛot;
 <pb n="218" />
-          <milestone facs="#facs-6" unit="ref" xml:id="chapter-9-p-44-milestone-231" />
+          <milestone facs="#facs-6" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-45-milestone-231" />
           <foreign xml:lang="lat-Latn">Benè te conduxit dextera nostri Dei,</foreign> vel. <foreign xml:lang="lat-Latn">Et tibi donet pacem misericors Deus,</foreign>
           <foreign xml:lang="lat-Latn">&amp;c.</foreign>
           <lb n="3" />
@@ -12314,7 +12324,7 @@
           <lb n="7" />
           <foreign xml:lang="lat-Latn">Interrogatio:</foreign> Ghisterij aste ndato ane tuei andei? <foreign xml:lang="lat-Latn">Quid noui est in vestris partibus?</foreign>
           <pb n="219" />
-          <milestone facs="#facs-5" unit="ref" xml:id="chapter-9-p-44-milestone-232" />
+          <milestone facs="#facs-5" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-45-milestone-232" />
           <lb n="8" />
           <foreign xml:lang="lat-Latn">Responsio:</foreign> Sdij chisc terij desceron me ditune, ghi teteξom. <foreign xml:lang="lat-Latn">Nescio quid novis cupis scire, ut tibi dicam.</foreign>
           <lb n="9" />
@@ -12334,7 +12344,7 @@
           <lb n="16" />
           <foreign xml:lang="lat-Latn">Demonstratio:</foreign> Scucò mbanete diasξte preisedalet se Dielit. <foreign xml:lang="lat-Latn">Respice ad dexteram ad ortum Solis.</foreign>
           <pb n="220" />
-          <milestone facs="#facs-4" unit="ref" xml:id="chapter-9-p-44-milestone-233" />
+          <milestone facs="#facs-4" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-45-milestone-233" />
           <lb n="17" />
           <foreign xml:lang="lat-Latn">Descriptio</foreign> Aste gna stepij enalte possi Chestiel <foreign xml:lang="lat-Latn">Est una Domus alta tamquam Castellum.</foreign>
           <lb n="18" />
@@ -12344,7 +12354,7 @@
           <lb n="20" />
           <foreign xml:lang="lat-Latn">Interrogatio:</foreign> Chisc dro hoi perse suien? <foreign xml:lang="lat-Latn">He quem times quare non venis?</foreign> Nata emire te chiofte <foreign xml:lang="lat-Latn">Nox fausta tibi sit.</foreign> Ende tɣɣ mae mire <foreign xml:lang="lat-Latn">Et tibi fælicior.</foreign> Chiofte, Lbeduem ɛotɣne ghi me dau nsi <foreign xml:lang="lat-Latn">Sit laudatus Deus noster qui me separauit ab illo.</foreign>
           <pb n="221" />
-          <milestone facs="#facs-3" unit="ref" xml:id="chapter-9-p-44-milestone-234" />
+          <milestone facs="#facs-3" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-45-milestone-234" />
           <lb n="21" />
           <foreign xml:lang="lat-Latn">Aliæ salutationes eiusdem pulchriores præcedentibus</foreign> Tefalunite <foreign xml:lang="lat-Latn">Salutatio</foreign> Falemi genioo <foreign xml:lang="lat-Latn">Aue mi parens.</foreign>
           <lb n="22" />
@@ -12362,7 +12372,7 @@
           <lb n="28" />
           <foreign xml:lang="lat-Latn">Responsio:</foreign> Heia me mue emos drue giaa hijc <foreign xml:lang="lat-Latn">veni mecum ne timeas quicquem.</foreign>
           <pb n="222" />
-          <milestone facs="#facs-2" unit="ref" xml:id="chapter-9-p-44-milestone-235" />
+          <milestone facs="#facs-2" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-45-milestone-235" />
           <lb n="29" />
           <foreign xml:lang="lat-Latn">Interrogatio:</foreign> Aiane tas chetɣne uξeue Cussare, oò hain? <foreign xml:lang="lat-Latn">Sunt nè in istis itineribus Latrones?</foreign>
           <lb n="30" />
@@ -12376,9 +12386,9 @@
           <lb n="34" />
           <foreign xml:lang="lat-Latn">Hæc pauca linguæ Epirotarum, siuè Albenesiorum vocabula tibi non tam necessitatis, quam delectationis gratia, candide lector adduxi. Vale.</foreign>
           <pb n="223" />
-          <milestone facs="#facs-1" unit="ref" xml:id="chapter-9-p-44-milestone-236" />
+          <milestone facs="#facs-1" unit="ref" xml:id="front-1-dedication-1-chapter-9-p-45-milestone-236" />
         </p>
-        <p n="Adm." xml:id="chapter-9-p-45">
+        <p n="Adm." xml:id="front-1-dedication-1-chapter-9-p-46">
           <foreign xml:lang="lat-Latn">Admonitio de erroribus</foreign> Tue mos dijtune Stampatorete ghiuhenee Arbenesce, ndoonesse une iemendogne, ei nderegne fiallete, persseriu ncheξeine e feieine mbe dissa visse: prastù dissa error ghi muita indereghia, ei vuna giξξe basche, e mundeni me igetune chetu perfundi me te gnefunat; ete tierete ilae urtijsse saai, ghi ti emendogne paa nɣterime, e paa ɛaa; flass chesctù, persse udob chiscte cusc me stremenuem buɛete, e me scundune crɣete mbe vepera te tiereue, maa me vum dorene mbe Pendet, e me fietune pach, <foreign xml:lang="lat-Latn">hoc opus hic labor,</foreign> sicuur me ξane cheto festijr iane, e scume vete chisne me sterguem crahete e me ξane se smundign, e siam iɛoti: <foreign xml:lang="lat-Latn">itaque mitè corriges.</foreign>
         </p>
       </div>
