@@ -1,6 +1,6 @@
 text:
 - front:
-  - titlePage:
+  - titlePage[lg=lat-Latn]:
     - milestone[facs=#facs-236,unit=ref]
     - docTitle:
       - titlePart: DICTIONARIVM
@@ -8,7 +8,7 @@ text:
       - titlePart: Una
       - titlePart: Cum nonnullis usitatioribus loquendi formulis
     - byline:
-      - foreign[lg=lat-Latn]: Per
+      - Per
       - docAuthor:
         - R. D. FRANCISCVM BLANCHVM
         - Epirotam Coll. de Propag. Fide Alumnum
@@ -170,7 +170,7 @@ text:
         æquè, atq; utile visum est. Romæ 30. Maii 1635.
     - signed: Fr. Marcus Scura Episc. Stephanen.
     - signed:
-      - note: Imprimatur.
+      - Imprimatur.
       - Fr. Nicolaus Riccardius Sacri Palatij Apostolici Mag.
   - div[type=notes]:
     - milestone[facs=#facs-226,unit=ref]
@@ -405,6 +405,8 @@ text:
           - gloss[lg=lat-Latn]: Adeps
         - form:
           - Temaimite
+    - pb[n=2]
+    - milestone[facs=#facs-220,unit=ref]
     - lb[n=23]:
       - entry:
         - sense:
@@ -579,6 +581,8 @@ text:
           - gloss[lg=lat-Latn]: A fronte
         - form:
           - Mbale
+    - pb[n=3]
+    - milestone[facs=#facs-219,unit=ref]
     - lb[n=52]:
       - entry:
         - sense:
@@ -753,6 +757,8 @@ text:
           - gloss[lg=lat-Latn]: Amatus
         - form:
           - Dasciune
+    - pb[n=4]
+    - milestone[facs=#facs-218,unit=ref]
     - lb[n=81]:
       - entry:
         - sense:
@@ -933,6 +939,8 @@ text:
           - gloss[lg=lat-Latn]: Amicus
         - form:
           - Mich
+    - pb[n=5]
+    - milestone[facs=#facs-217,unit=ref]
     - lb[n=111]:
       - entry:
         - sense:
@@ -1113,6 +1121,8 @@ text:
           - gloss[lg=lat-Latn]: Apostata
         - form:
           - Hain
+    - pb[n=6]
+    - milestone[facs=#facs-216,unit=ref]
     - lb[n=141]:
       - entry:
         - sense:
@@ -1287,6 +1297,8 @@ text:
           - gloss[lg=lat-Latn]: Armamentarium
         - form:
           - Vendi cu vihene armete
+    - pb[n=7]
+    - milestone[facs=#facs-215,unit=ref]
     - lb[n=170]:
       - entry:
         - sense:
@@ -1455,6 +1467,8 @@ text:
           - gloss[lg=lat-Latn]: Audax vir
         - form:
           - Nierij i forte
+    - pb[n=8]
+    - milestone[facs=#facs-214,unit=ref]
     - lb[n=1]:
       - entry:
         - sense:
@@ -1611,6 +1625,8 @@ text:
           - gloss[lg=lat-Latn]: Brachium
         - form:
           - Craha
+    - pb[n=9]
+    - milestone[facs=#facs-213,unit=ref]
     - lb[n=27]:
       - entry:
         - sense:
@@ -1767,12 +1783,16 @@ text:
           - gloss[lg=lat-Latn]: Calefacere
         - form:
           - Me enzzem
+    - foreign[lg=und-Latn-x-general]: '(recte:'
+    - me enzeem)
     - lb[n=24]:
       - entry:
         - sense:
           - gloss[lg=lat-Latn]: Calor
         - form:
           - Tenzeete
+    - pb[n=10]
+    - milestone[facs=#facs-212,unit=ref]
     - lb[n=25]:
       - entry:
         - sense:
@@ -1947,6 +1967,8 @@ text:
           - gloss[lg=lat-Latn]: Castanea
         - form:
           - Chestegne
+    - pb[n=11]
+    - milestone[facs=#facs-211,unit=ref]
     - lb[n=54]:
       - entry:
         - sense:
@@ -2121,6 +2143,8 @@ text:
           - gloss[lg=lat-Latn]: Cichorium, cicoria
         - form:
           - Rcoreia
+    - pb[n=12]
+    - milestone[facs=#facs-210,unit=ref]
     - lb[n=83]:
       - entry:
         - sense:
@@ -2295,6 +2319,8 @@ text:
           - gloss[lg=lat-Latn]: Coalescere
         - form:
           - Me asciumuem
+    - pb[n=13]
+    - milestone[facs=#facs-209,unit=ref]
     - lb[n=112]:
       - entry:
         - sense:
@@ -2463,6 +2489,8 @@ text:
           - gloss[lg=lat-Latn]: Columba
         - form:
           - Pelumb
+    - pb[n=14]
+    - milestone[facs=#facs-208,unit=ref]
     - lb[n=140]:
       - entry:
         - sense:
@@ -2631,6 +2659,8 @@ text:
           - gloss[lg=lat-Latn]: Confessio
         - form:
           - Te refɣemite
+    - pb[n=15]
+    - milestone[facs=#facs-207,unit=ref]
     - lb[n=168]:
       - entry:
         - sense:
@@ -2811,6 +2841,8 @@ text:
           - gloss[lg=lat-Latn]: Cornus, Corniolo
         - form:
           - ξana
+    - pb[n=16]
+    - milestone[facs=#facs-206,unit=ref]
     - lb[n=198]:
       - entry:
         - sense:
@@ -2991,6 +3023,8 @@ text:
           - gloss[lg=lat-Latn]: Cumulus
         - form:
           - Grubule
+    - pb[n=17]
+    - milestone[facs=#facs-205,unit=ref]
     - lb[n=228]:
       - entry:
         - sense:
@@ -3141,6 +3175,8 @@ text:
           - gloss[lg=lat-Latn]: Decipere
         - form:
           - Me ghegnɣem
+    - pb[n=18]
+    - milestone[facs=#facs-204,unit=ref]
     - lb[n=13]:
       - entry:
         - sense:
@@ -3303,6 +3339,8 @@ text:
           - gloss[lg=lat-Latn]: Desiderium
         - form:
           - Descijr
+    - pb[n=19]
+    - milestone[facs=#facs-203,unit=ref]
     - lb[n=40]:
       - entry:
         - sense:
@@ -3459,6 +3497,8 @@ text:
           - gloss[lg=lat-Latn]: Dies Veneris
         - form:
           - Dita eprende
+    - pb[n=20]
+    - milestone[facs=#facs-202,unit=ref]
     - lb[n=66]:
       - entry:
         - sense:
@@ -3615,6 +3655,8 @@ text:
           - gloss[lg=lat-Latn]: Docilis
         - form:
           - Cusze gnocias, imbsuescim
+    - pb[n=21]
+    - milestone[facs=#facs-201,unit=ref]
     - lb[n=92]:
       - entry:
         - sense:
@@ -3765,6 +3807,8 @@ text:
           - gloss[lg=lat-Latn]: Dyrrachium
         - form:
           - Durrez
+    - pb[n=22]
+    - milestone[facs=#facs-200,unit=ref]
     - lb[n=1]:
       - entry:
         - sense:
@@ -3909,6 +3953,8 @@ text:
           - gloss[lg=lat-Latn]: Equa, caualla
         - form:
           - Pella
+    - pb[n=23]
+    - milestone[facs=#facs-199,unit=ref]
     - lb[n=25]:
       - entry:
         - sense:
@@ -4065,6 +4111,8 @@ text:
           - gloss[lg=lat-Latn]: Expeditè habebimus
         - form:
           - Udob chemi me epassune
+    - pb[n=24]
+    - milestone[facs=#facs-198,unit=ref]
     - lb[n=51]:
       - entry:
         - sense:
@@ -4215,6 +4263,8 @@ text:
           - gloss[lg=lat-Latn]: Factura
         - form:
           - Ebameia
+    - pb[n=25]
+    - milestone[facs=#facs-197,unit=ref]
     - lb[n=11]:
       - entry:
         - sense:
@@ -4371,6 +4421,8 @@ text:
           - gloss[lg=lat-Latn]: Fiat, sia
         - form:
           - Chiofte
+    - pb[n=26]
+    - milestone[facs=#facs-196,unit=ref]
     - lb[n=37]:
       - entry:
         - sense:
@@ -4533,6 +4585,8 @@ text:
           - gloss[lg=lat-Latn]: Foramen, buco
         - form:
           - Bire
+    - pb[n=27]
+    - milestone[facs=#facs-195,unit=ref]
     - lb[n=64]:
       - entry:
         - sense:
@@ -4689,6 +4743,8 @@ text:
           - gloss[lg=lat-Latn]: Frequenter
         - form:
           - Scpess
+    - pb[n=28]
+    - milestone[facs=#facs-194,unit=ref]
     - lb[n=90]:
       - entry:
         - sense:
@@ -4857,6 +4913,8 @@ text:
           - gloss[lg=lat-Latn]: Fuscina, tridente
         - form:
           - Fussgnana
+    - pb[n=29]
+    - milestone[facs=#facs-193,unit=ref]
     - lb[n=1]:
       - entry:
         - sense:
@@ -4995,6 +5053,8 @@ text:
           - gloss[lg=lat-Latn]: Granarium, granaio
         - form:
           - Magazzij, oò hambaar
+    - pb[n=30]
+    - milestone[facs=#facs-192,unit=ref]
     - lb[n=24]:
       - entry:
         - sense:
@@ -5145,6 +5205,8 @@ text:
           - gloss[lg=lat-Latn]: Hedera, hellera
         - form:
           - Urξ
+    - pb[n=31]
+    - milestone[facs=#facs-191,unit=ref]
     - lb[n=9]:
       - entry:
         - sense:
@@ -5319,6 +5381,8 @@ text:
           - gloss[lg=lat-Latn]: Horrenda mors est
         - form:
           - Echechie moortia aste
+    - pb[n=32]
+    - milestone[facs=#facs-190,unit=ref]
     - lb[n=38]:
       - entry:
         - sense:
@@ -5463,6 +5527,8 @@ text:
           - gloss[lg=lat-Latn]: Iam tum
         - form:
           - Athere
+    - pb[n=33]
+    - milestone[facs=#facs-189,unit=ref]
     - lb[n=7]:
       - entry:
         - sense:
@@ -5619,6 +5685,8 @@ text:
           - gloss[lg=lat-Latn]: Imbecillis
         - form:
           - Te Keξolete
+    - pb[n=34]
+    - milestone[facs=#facs-188,unit=ref]
     - lb[n=33]:
       - entry:
         - sense:
@@ -5769,6 +5837,8 @@ text:
           - gloss[lg=lat-Latn]: Imperare
         - form:
           - Me urξenuem
+    - pb[n=35]
+    - milestone[facs=#facs-187,unit=ref]
     - lb[n=58]:
       - entry:
         - sense:
@@ -5937,6 +6007,8 @@ text:
           - gloss[lg=lat-Latn]: Incontaminatus
         - form:
           - Idelire, eipaamcat
+    - pb[n=36]
+    - milestone[facs=#facs-186,unit=ref]
     - lb[n=86]:
       - entry:
         - sense:
@@ -6087,6 +6159,8 @@ text:
           - gloss[lg=lat-Latn]: Infirmus
         - form:
           - Issemune
+    - pb[n=37]
+    - milestone[facs=#facs-185,unit=ref]
     - lb[n=111]:
       - entry:
         - sense:
@@ -6261,6 +6335,8 @@ text:
           - gloss[lg=lat-Latn]: Inquinare
         - form:
           - Meu pegaam
+    - pb[n=38]
+    - milestone[facs=#facs-184,unit=ref]
     - lb[n=140]:
       - entry:
         - sense:
@@ -6417,6 +6493,8 @@ text:
           - gloss[lg=lat-Latn]: Intercinere, cantar in mezzo
         - form:
           - Me cheduem ndemiedist
+    - pb[n=39]
+    - milestone[facs=#facs-183,unit=ref]
     - lb[n=166]:
       - entry:
         - sense:
@@ -6543,6 +6621,8 @@ text:
           - gloss[lg=lat-Latn]: Interritus vir
         - form:
           - Ipaa mneerscim Nierij
+    - pb[n=40]
+    - milestone[facs=#facs-182,unit=ref]
     - lb[n=187]:
       - entry:
         - sense:
@@ -6687,6 +6767,8 @@ text:
           - gloss[lg=lat-Latn]: Inturbatus
         - form:
           - Ipaa turbulluem
+    - pb[n=41]
+    - milestone[facs=#facs-181,unit=ref]
     - lb[n=211]:
       - entry:
         - sense:
@@ -6843,6 +6925,8 @@ text:
           - gloss[lg=lat-Latn]: Iocari, scherzare
         - form:
           - Meu gumezune
+    - pb[n=42]
+    - milestone[facs=#facs-180,unit=ref]
     - lb[n=237]:
       - entry:
         - sense:
@@ -7005,6 +7089,8 @@ text:
           - gloss[lg=lat-Latn]: Iubar
         - form:
           - Te shelchɣemtee Dielit
+    - pb[n=43]
+    - milestone[facs=#facs-179,unit=ref]
     - lb[n=264]:
       - entry:
         - sense:
@@ -7161,6 +7247,8 @@ text:
           - gloss[lg=lat-Latn]: Iuuenis
         - form:
           - Irij
+    - pb[n=44]
+    - milestone[facs=#facs-178,unit=ref]
     - lb[n=290]:
       - entry:
         - sense:
@@ -7299,6 +7387,8 @@ text:
           - gloss[lg=lat-Latn]: Lacrymula, lacrimetta
         - form:
           - Lotɛe
+    - pb[n=45]
+    - milestone[facs=#facs-177,unit=ref]
     - lb[n=19]:
       - entry:
         - sense:
@@ -7467,6 +7557,8 @@ text:
           - gloss[lg=lat-Latn]: Lardum, lardo
         - form:
           - Larξ
+    - pb[n=46]
+    - milestone[facs=#facs-176,unit=ref]
     - lb[n=47]:
       - entry:
         - sense:
@@ -7635,6 +7727,8 @@ text:
           - gloss[lg=lat-Latn]: Leæna, leona
         - form:
           - Luana
+    - pb[n=47]
+    - milestone[facs=#facs-175,unit=ref]
     - lb[n=75]:
       - entry:
         - sense:
@@ -7797,6 +7891,8 @@ text:
           - gloss[lg=lat-Latn]: Lex nostra
         - form:
           - Liggia ione
+    - pb[n=48]
+    - milestone[facs=#facs-174,unit=ref]
     - lb[n=102]:
       - entry:
         - sense:
@@ -7959,6 +8055,8 @@ text:
           - gloss[lg=lat-Latn]: Lilium
         - form:
           - Lilia
+    - pb[n=49]
+    - milestone[facs=#facs-173,unit=ref]
     - lb[n=129]:
       - entry:
         - sense:
@@ -8121,6 +8219,8 @@ text:
           - gloss[lg=lat-Latn]: Lix, cenere
         - form:
           - Hij
+    - pb[n=50]
+    - milestone[facs=#facs-172,unit=ref]
     - lb[n=156]:
       - entry:
         - sense:
@@ -8289,6 +8389,8 @@ text:
           - gloss[lg=lat-Latn]: Lucidè
         - form:
           - Ndricim
+    - pb[n=51]
+    - milestone[facs=#facs-171,unit=ref]
     - lb[n=184]:
       - entry:
         - sense:
@@ -8463,6 +8565,8 @@ text:
           - gloss[lg=lat-Latn]: Luxuriosè
         - form:
           - Curuenist
+    - pb[n=52]
+    - milestone[facs=#facs-170,unit=ref]
     - lb[n=213]:
       - entry:
         - sense:
@@ -8619,6 +8723,8 @@ text:
           - gloss[lg=lat-Latn]: Magnanimitas
         - form:
           - Trimenia
+    - pb[n=53]
+    - milestone[facs=#facs-169,unit=ref]
     - lb[n=24]:
       - entry:
         - sense:
@@ -8769,6 +8875,8 @@ text:
           - gloss[lg=lat-Latn]: Malus, pomo
         - form:
           - Molle
+    - pb[n=54]
+    - milestone[facs=#facs-168,unit=ref]
     - lb[n=49]:
       - entry:
         - sense:
@@ -8937,6 +9045,8 @@ text:
           - gloss[lg=lat-Latn]: Manat sanguis
         - form:
           - Cullongiacu
+    - pb[n=55]
+    - milestone[facs=#facs-167,unit=ref]
     - lb[n=77]:
       - entry:
         - sense:
@@ -9105,6 +9215,8 @@ text:
           - gloss[lg=lat-Latn]: Mater
         - form:
           - Mame
+    - pb[n=56]
+    - milestone[facs=#facs-166,unit=ref]
     - lb[n=105]:
       - entry:
         - sense:
@@ -9267,6 +9379,8 @@ text:
           - gloss[lg=lat-Latn]: medicina
         - form:
           - mieghia
+    - pb[n=57]
+    - milestone[facs=#facs-165,unit=ref]
     - lb[n=132]:
       - entry:
         - sense:
@@ -9435,6 +9549,8 @@ text:
           - gloss[lg=lat-Latn]: mensam parare
         - form:
           - Trɣessene me parechiuem
+    - pb[n=58]
+    - milestone[facs=#facs-164,unit=ref]
     - lb[n=160]:
       - entry:
         - sense:
@@ -9597,6 +9713,8 @@ text:
           - gloss[lg=lat-Latn]: militia
         - form:
           - Lufta
+    - pb[n=59]
+    - milestone[facs=#facs-163,unit=ref]
     - lb[n=187]:
       - entry:
         - sense:
@@ -9771,6 +9889,8 @@ text:
           - gloss[lg=lat-Latn]: mitissime
         - form:
           - Pelchɣescim
+    - pb[n=60]
+    - milestone[facs=#facs-162,unit=ref]
     - lb[n=216]:
       - entry:
         - sense:
@@ -9945,6 +10065,8 @@ text:
           - gloss[lg=lat-Latn]: monticulus
         - form:
           - Sucche
+    - pb[n=61]
+    - milestone[facs=#facs-161,unit=ref]
     - lb[n=245]:
       - entry:
         - sense:
@@ -10113,6 +10235,8 @@ text:
           - gloss[lg=lat-Latn]: mucro
         - form:
           - maieia
+    - pb[n=62]
+    - milestone[facs=#facs-160,unit=ref]
     - lb[n=273]:
       - entry:
         - sense:
@@ -10275,6 +10399,8 @@ text:
           - gloss[lg=lat-Latn]: mundus
         - form:
           - Laam, delijr
+    - pb[n=63]
+    - milestone[facs=#facs-159,unit=ref]
     - lb[n=300]:
       - entry:
         - sense:
@@ -10413,6 +10539,8 @@ text:
           - gloss[lg=lat-Latn]: Natalis
         - form:
           - Nata
+    - pb[n=64]
+    - milestone[facs=#facs-158,unit=ref]
     - lb[n=7]:
       - entry:
         - sense:
@@ -10581,6 +10709,8 @@ text:
           - gloss[lg=lat-Latn]: Negotiosus
         - form:
           - Te baame
+    - pb[n=65]
+    - milestone[facs=#facs-157,unit=ref]
     - lb[n=35]:
       - entry:
         - sense:
@@ -10743,6 +10873,8 @@ text:
           - gloss[lg=lat-Latn]: Nictare
         - form:
           - Me baam mbsɣɣs
+    - pb[n=66]
+    - milestone[facs=#facs-156,unit=ref]
     - lb[n=62]:
       - entry:
         - sense:
@@ -10893,6 +11025,8 @@ text:
           - gloss[lg=lat-Latn]: Nodosum lignum
         - form:
           - Negnesse druu
+    - pb[n=67]
+    - milestone[facs=#facs-155,unit=ref]
     - lb[n=87]:
       - entry:
         - sense:
@@ -11061,6 +11195,8 @@ text:
           - gloss[lg=lat-Latn]: Notus
         - form:
           - Gnofune
+    - pb[n=68]
+    - milestone[facs=#facs-154,unit=ref]
     - lb[n=115]:
       - entry:
         - sense:
@@ -11229,6 +11365,8 @@ text:
           - gloss[lg=lat-Latn]: Nullus
         - form:
           - Asgna
+    - pb[n=69]
+    - milestone[facs=#facs-153,unit=ref]
     - lb[n=143]:
       - entry:
         - sense:
@@ -11373,6 +11511,8 @@ text:
           - gloss[lg=lat-Latn]: Nundinæ
         - form:
           - Paɛaar oò Treghetij, oò Tregh
+    - pb[n=70]
+    - milestone[facs=#facs-152,unit=ref]
     - lb[n=167]:
       - entry:
         - sense:
@@ -11529,6 +11669,8 @@ text:
           - gloss[lg=lat-Latn]: Obdormire
         - form:
           - Me fietune
+    - pb[n=71]
+    - milestone[facs=#facs-151,unit=ref]
     - lb[n=8]:
       - entry:
         - sense:
@@ -11559,6 +11701,8 @@ text:
           - gloss[lg=lat-Latn]: Obediens
         - form:
           - Igcescim
+    - foreign[lg=und-Latn-x-general]: '[recte:'
+    - Igiescim]
     - lb[n=13]:
       - entry:
         - sense:
@@ -11667,6 +11811,8 @@ text:
           - gloss[lg=lat-Latn]: Oblectamentum, diletto
         - form:
           - Pelchim
+    - pb[n=72]
+    - milestone[facs=#facs-150,unit=ref]
     - lb[n=31]:
       - entry:
         - sense:
@@ -11805,6 +11951,8 @@ text:
           - gloss[lg=lat-Latn]: Obnoxiè, timidamente
         - form:
           - Mneruescim
+    - pb[n=73]
+    - milestone[facs=#facs-149,unit=ref]
     - lb[n=54]:
       - entry:
         - sense:
@@ -11943,6 +12091,8 @@ text:
           - gloss[lg=lat-Latn]: Obserere
         - form:
           - Me mbielle
+    - pb[n=74]
+    - milestone[facs=#facs-148,unit=ref]
     - lb[n=77]:
       - entry:
         - sense:
@@ -12081,6 +12231,8 @@ text:
           - gloss[lg=lat-Latn]: Obuertere
         - form:
           - Meu ngheξuem cundre
+    - pb[n=75]
+    - milestone[facs=#facs-147,unit=ref]
     - lb[n=100]:
       - entry:
         - sense:
@@ -12237,6 +12389,8 @@ text:
           - gloss[lg=lat-Latn]: Odi
         - form:
           - Me passune menij
+    - pb[n=76]
+    - milestone[facs=#facs-146,unit=ref]
     - lb[n=126]:
       - entry:
         - sense:
@@ -12381,6 +12535,8 @@ text:
           - gloss[lg=lat-Latn]: Oliuetum
         - form:
           - Ullijste
+    - pb[n=77]
+    - milestone[facs=#facs-145,unit=ref]
     - lb[n=150]:
       - entry:
         - sense:
@@ -12543,6 +12699,8 @@ text:
           - gloss[lg=lat-Latn]: Opicus, lordo
         - form:
           - Ipaa laam
+    - pb[n=78]
+    - milestone[facs=#facs-144,unit=ref]
     - lb[n=177]:
       - entry:
         - sense:
@@ -12717,6 +12875,8 @@ text:
           - gloss[lg=lat-Latn]: Optimates nostri
         - form:
           - Teparete tane
+    - pb[n=79]
+    - milestone[facs=#facs-143,unit=ref]
     - lb[n=206]:
       - entry:
         - sense:
@@ -12879,6 +13039,8 @@ text:
           - gloss[lg=lat-Latn]: oriri
         - form:
           - Me leem
+    - pb[n=80]
+    - milestone[facs=#facs-142,unit=ref]
     - lb[n=233]:
       - entry:
         - sense:
@@ -13047,6 +13209,8 @@ text:
           - gloss[lg=lat-Latn]: ouiaria
         - form:
           - Grigia
+    - pb[n=81]
+    - milestone[facs=#facs-141,unit=ref]
     - lb[n=261]:
       - entry:
         - sense:
@@ -13197,6 +13361,8 @@ text:
           - gloss[lg=lat-Latn]: Palatum
         - form:
           - Kielɛa
+    - pb[n=82]
+    - milestone[facs=#facs-140,unit=ref]
     - lb[n=22]:
       - entry:
         - sense:
@@ -13353,6 +13519,8 @@ text:
           - gloss[lg=lat-Latn]: panurgia
         - form:
           - Diechechia
+    - pb[n=83]
+    - milestone[facs=#facs-139,unit=ref]
     - lb[n=48]:
       - entry:
         - sense:
@@ -13521,6 +13689,8 @@ text:
           - gloss[lg=lat-Latn]: parum
         - form:
           - Pach
+    - pb[n=84]
+    - milestone[facs=#facs-138,unit=ref]
     - lb[n=76]:
       - entry:
         - sense:
@@ -13689,6 +13859,8 @@ text:
           - gloss[lg=lat-Latn]: patina, piadena
         - form:
           - Pallaree, e maɛe, oò Tepssij
+    - pb[n=85]
+    - milestone[facs=#facs-137,unit=ref]
     - lb[n=104]:
       - entry:
         - sense:
@@ -13833,6 +14005,8 @@ text:
           - gloss[lg=lat-Latn]: paulatim
         - form:
           - Caa pac, caa paai
+    - pb[n=86]
+    - milestone[facs=#facs-136,unit=ref]
     - lb[n=128]:
       - entry:
         - sense:
@@ -14007,6 +14181,8 @@ text:
           - gloss[lg=lat-Latn]: pedester
         - form:
           - Cambesuer
+    - pb[n=87]
+    - milestone[facs=#facs-135,unit=ref]
     - lb[n=157]:
       - entry:
         - sense:
@@ -14139,6 +14315,8 @@ text:
           - gloss[lg=lat-Latn]: penes
         - form:
           - Nadai
+    - foreign[lg=und-Latn-x-general]: '[recte'
+    - Ndai ?]
     - lb[n=179]:
       - entry:
         - sense:
@@ -14169,6 +14347,8 @@ text:
           - gloss[lg=lat-Latn]: penitus
         - form:
           - Fort mbrende
+    - pb[n=88]
+    - milestone[facs=#facs-134,unit=ref]
     - lb[n=184]:
       - entry:
         - sense:
@@ -14325,6 +14505,8 @@ text:
           - gloss[lg=lat-Latn]: per Deum, qui est super Cœlos
         - form:
           - Pertene ɛone ghi ascte mbi Kielt
+    - pb[n=89]
+    - milestone[facs=#facs-133,unit=ref]
     - lb[n=210]:
       - entry:
         - sense:
@@ -14487,6 +14669,8 @@ text:
           - gloss[lg=lat-Latn]: perdolere
         - form:
           - meu ɛimtune fort
+    - pb[n=90]
+    - milestone[facs=#facs-132,unit=ref]
     - lb[n=237]:
       - entry:
         - sense:
@@ -14655,6 +14839,8 @@ text:
           - gloss[lg=lat-Latn]: perfluere
         - form:
           - me rieξune
+    - pb[n=91]
+    - milestone[facs=#facs-131,unit=ref]
     - lb[n=265]:
       - entry:
         - sense:
@@ -14817,6 +15003,8 @@ text:
           - gloss[lg=lat-Latn]: peritus
         - form:
           - mbsuem
+    - pb[n=92]
+    - milestone[facs=#facs-130,unit=ref]
     - lb[n=292]:
       - entry:
         - sense:
@@ -14967,6 +15155,8 @@ text:
           - gloss[lg=lat-Latn]: perna
         - form:
           - Bersuteia e ξiut
+    - pb[n=93]
+    - milestone[facs=#facs-129,unit=ref]
     - lb[n=317]:
       - entry:
         - sense:
@@ -15117,6 +15307,8 @@ text:
           - gloss[lg=lat-Latn]: perquirere
         - form:
           - Me cherchuem me te ditune
+    - pb[n=94]
+    - milestone[facs=#facs-128,unit=ref]
     - lb[n=342]:
       - entry:
         - sense:
@@ -15255,6 +15447,8 @@ text:
           - gloss[lg=lat-Latn]: perspicientia
         - form:
           - Tegnoffune
+    - pb[n=95]
+    - milestone[facs=#facs-127,unit=ref]
     - lb[n=365]:
       - entry:
         - sense:
@@ -15405,6 +15599,8 @@ text:
           - gloss[lg=lat-Latn]: pertolerare
         - form:
           - Me pessuem ndieri nde tesossunit
+    - pb[n=96]
+    - milestone[facs=#facs-126,unit=ref]
     - lb[n=390]:
       - entry:
         - sense:
@@ -15555,6 +15751,8 @@ text:
           - gloss[lg=lat-Latn]: pes
         - form:
           - Cambe
+    - pb[n=97]
+    - milestone[facs=#facs-125,unit=ref]
     - lb[n=415]:
       - entry:
         - sense:
@@ -15669,6 +15867,10 @@ text:
           - gloss[lg=lat-Latn]: phanum
         - form:
           - Kesca
+    - foreign[lg=und-Latn-x-general]: '[or'
+    - Kcsca,
+    - foreign[lg=und-Latn-x-general]: recte
+    - Kisca?]
     - lb[n=434]:
       - entry:
         - sense:
@@ -15699,6 +15901,8 @@ text:
           - gloss[lg=lat-Latn]: philosophari
         - form:
           - Me cuituem cafscetee nautɣresse
+    - pb[n=98]
+    - milestone[facs=#facs-124,unit=ref]
     - lb[n=439]:
       - entry:
         - sense:
@@ -15861,6 +16065,8 @@ text:
           - gloss[lg=lat-Latn]: pinsare
         - form:
           - Me stɣpune
+    - pb[n=99]
+    - milestone[facs=#facs-123,unit=ref]
     - lb[n=466]:
       - entry:
         - sense:
@@ -16023,6 +16229,8 @@ text:
           - gloss[lg=lat-Latn]: platea, piazza
         - form:
           - Uξξa egiane, e giate
+    - pb[n=100]
+    - milestone[facs=#facs-122,unit=ref]
     - lb[n=493]:
       - entry:
         - sense:
@@ -16185,6 +16393,8 @@ text:
           - gloss[lg=lat-Latn]: pœna
         - form:
           - Mundim
+    - pb[n=101]
+    - milestone[facs=#facs-121,unit=ref]
     - lb[n=520]:
       - entry:
         - sense:
@@ -16347,6 +16557,8 @@ text:
           - gloss[lg=lat-Latn]: pontifex Romanus
         - form:
           - Papa I Romesse
+    - pb[n=102]
+    - milestone[facs=#facs-120,unit=ref]
     - lb[n=547]:
       - entry:
         - sense:
@@ -16509,6 +16721,8 @@ text:
           - gloss[lg=lat-Latn]: possidere
         - form:
           - me epustuem
+    - pb[n=103]
+    - milestone[facs=#facs-119,unit=ref]
     - lb[n=574]:
       - entry:
         - sense:
@@ -16683,6 +16897,8 @@ text:
           - gloss[lg=lat-Latn]: præcantatio
         - form:
           - Striginia
+    - pb[n=104]
+    - milestone[facs=#facs-118,unit=ref]
     - lb[n=603]:
       - entry:
         - sense:
@@ -16833,6 +17049,8 @@ text:
           - gloss[lg=lat-Latn]: prædictus
         - form:
           - ξane perpara
+    - pb[n=105]
+    - milestone[facs=#facs-117,unit=ref]
     - lb[n=628]:
       - entry:
         - sense:
@@ -17001,6 +17219,8 @@ text:
           - gloss[lg=lat-Latn]: prælucere
         - form:
           - Me ndritune perpara
+    - pb[n=106]
+    - milestone[facs=#facs-116,unit=ref]
     - lb[n=656]:
       - entry:
         - sense:
@@ -17157,6 +17377,8 @@ text:
           - gloss[lg=lat-Latn]: præpollet Dominus
         - form:
           - Munden scume ɛoti
+    - pb[n=107]
+    - milestone[facs=#facs-115,unit=ref]
     - lb[n=682]:
       - entry:
         - sense:
@@ -17301,6 +17523,8 @@ text:
           - gloss[lg=lat-Latn]: præstolari
         - form:
           - Me pritune
+    - pb[n=108]
+    - milestone[facs=#facs-114,unit=ref]
     - lb[n=706]:
       - entry:
         - sense:
@@ -17445,6 +17669,8 @@ text:
           - gloss[lg=lat-Latn]: preces vespertinæ
         - form:
           - Telutunate kiendijsse
+    - pb[n=109]
+    - milestone[facs=#facs-113,unit=ref]
     - lb[n=730]:
       - entry:
         - sense:
@@ -17619,6 +17845,8 @@ text:
           - gloss[lg=lat-Latn]: probabilis
         - form:
           - Mund me chiene
+    - pb[n=110]
+    - milestone[facs=#facs-112,unit=ref]
     - lb[n=759]:
       - entry:
         - sense:
@@ -17769,6 +17997,8 @@ text:
           - gloss[lg=lat-Latn]: procurrere
         - form:
           - Me vote perpara gnacas
+    - pb[n=111]
+    - milestone[facs=#facs-111,unit=ref]
     - lb[n=784]:
       - entry:
         - sense:
@@ -17937,6 +18167,8 @@ text:
           - gloss[lg=lat-Latn]: progenies
         - form:
           - Fissi
+    - pb[n=112]
+    - milestone[facs=#facs-110,unit=ref]
     - lb[n=812]:
       - entry:
         - sense:
@@ -18099,6 +18331,8 @@ text:
           - gloss[lg=lat-Latn]: propalam, apertamente
         - form:
           - Struem
+    - pb[n=113]
+    - milestone[facs=#facs-109,unit=ref]
     - lb[n=839]:
       - entry:
         - sense:
@@ -18261,6 +18495,8 @@ text:
           - gloss[lg=lat-Latn]: prorsus
         - form:
           - Hicc
+    - pb[n=114]
+    - milestone[facs=#facs-108,unit=ref]
     - lb[n=866]:
       - entry:
         - sense:
@@ -18423,6 +18659,8 @@ text:
           - gloss[lg=lat-Latn]: prouincialis
         - form:
           - Nregeniet
+    - pb[n=115]
+    - milestone[facs=#facs-107,unit=ref]
     - lb[n=893]:
       - entry:
         - sense:
@@ -18591,6 +18829,8 @@ text:
           - gloss[lg=lat-Latn]: puerperium
         - form:
           - Te ɛimtunijtee gruesse cuur lenfosgna
+    - pb[n=116]
+    - milestone[facs=#facs-106,unit=ref]
     - lb[n=921]:
       - entry:
         - sense:
@@ -18765,6 +19005,8 @@ text:
           - gloss[lg=lat-Latn]: pupula
         - form:
           - Drita esɣut
+    - pb[n=117]
+    - milestone[facs=#facs-105,unit=ref]
     - lb[n=950]:
       - entry:
         - sense:
@@ -18921,6 +19163,8 @@ text:
           - gloss[lg=lat-Latn]: Quadrilibris
         - form:
           - Ncater ochess
+    - pb[n=118]
+    - milestone[facs=#facs-104,unit=ref]
     - lb[n=15]:
       - entry:
         - sense:
@@ -19071,6 +19315,8 @@ text:
           - gloss[lg=lat-Latn]: quamdudum?
         - form:
           - Saamot aste, se erξe?
+    - pb[n=119]
+    - milestone[facs=#facs-103,unit=ref]
     - lb[n=40]:
       - entry:
         - sense:
@@ -19233,6 +19479,8 @@ text:
           - gloss[lg=lat-Latn]: Quicumque
         - form:
           - Cuscdo
+    - pb[n=120]
+    - milestone[facs=#facs-102,unit=ref]
     - lb[n=67]:
       - entry:
         - sense:
@@ -19395,6 +19643,8 @@ text:
           - gloss[lg=lat-Latn]: Quoad
         - form:
           - Ndiere cuur
+    - pb[n=121]
+    - milestone[facs=#facs-101,unit=ref]
     - lb[n=94]:
       - entry:
         - sense:
@@ -19557,6 +19807,8 @@ text:
           - gloss[lg=lat-Latn]: Rabidus
         - form:
           - Mnijs
+    - pb[n=122]
+    - milestone[facs=#facs-100,unit=ref]
     - lb[n=3]:
       - entry:
         - sense:
@@ -19719,6 +19971,8 @@ text:
           - gloss[lg=lat-Latn]: Rastrum
         - form:
           - Rastiel
+    - pb[n=123]
+    - milestone[facs=#facs-99,unit=ref]
     - lb[n=30]:
       - entry:
         - sense:
@@ -19863,6 +20117,8 @@ text:
           - gloss[lg=lat-Latn]: Reclamare
         - form:
           - Me britune, e meξane cundre
+    - pb[n=124]
+    - milestone[facs=#facs-98,unit=ref]
     - lb[n=54]:
       - entry:
         - sense:
@@ -20019,6 +20275,8 @@ text:
           - gloss[lg=lat-Latn]: recuruare
         - form:
           - Me stermenuem
+    - pb[n=125]
+    - milestone[facs=#facs-97,unit=ref]
     - lb[n=80]:
       - entry:
         - sense:
@@ -20121,6 +20379,8 @@ text:
           - gloss[lg=lat-Latn]: referire
         - form:
           - Me erafune per sedɣti
+    - pb[n=126]
+    - milestone[facs=#facs-96,unit=ref]
     - lb[n=97]:
       - entry:
         - sense:
@@ -20253,6 +20513,8 @@ text:
           - gloss[lg=lat-Latn]: regalis
         - form:
           - ɛunetije edegne per ɛot, oò per Règ
+    - pb[n=127]
+    - milestone[facs=#facs-95,unit=ref]
     - lb[n=119]:
       - entry:
         - sense:
@@ -20385,6 +20647,8 @@ text:
           - gloss[lg=lat-Latn]: relucere
         - form:
           - me schelchɣem
+    - pb[n=128]
+    - milestone[facs=#facs-94,unit=ref]
     - lb[n=141]:
       - entry:
         - sense:
@@ -20517,6 +20781,8 @@ text:
           - gloss[lg=lat-Latn]: remus
         - form:
           - Remb
+    - pb[n=129]
+    - milestone[facs=#facs-93,unit=ref]
     - lb[n=163]:
       - entry:
         - sense:
@@ -20631,6 +20897,8 @@ text:
           - gloss[lg=lat-Latn]: reponere
         - form:
           - Me embluem
+    - pb[n=130]
+    - milestone[facs=#facs-92,unit=ref]
     - lb[n=182]:
       - entry:
         - sense:
@@ -20751,6 +21019,8 @@ text:
           - gloss[lg=lat-Latn]: requirere
         - form:
           - Me cherchuem, e me pɣetune
+    - pb[n=131]
+    - milestone[facs=#facs-91,unit=ref]
     - lb[n=202]:
       - entry:
         - sense:
@@ -20889,6 +21159,8 @@ text:
           - gloss[lg=lat-Latn]: respergere
         - form:
           - Me perderξune
+    - pb[n=132]
+    - milestone[facs=#facs-90,unit=ref]
     - lb[n=225]:
       - entry:
         - sense:
@@ -21015,6 +21287,8 @@ text:
           - gloss[lg=lat-Latn]: resultare
         - form:
           - Me chezɣem tepermal
+    - pb[n=133]
+    - milestone[facs=#facs-89,unit=ref]
     - lb[n=246]:
       - entry:
         - sense:
@@ -21153,6 +21427,8 @@ text:
           - gloss[lg=lat-Latn]: retrimentum, ti
         - form:
           - Bersij
+    - pb[n=134]
+    - milestone[facs=#facs-88,unit=ref]
     - lb[n=269]:
       - entry:
         - sense:
@@ -21273,6 +21549,8 @@ text:
           - gloss[lg=lat-Latn]: rheda
         - form:
           - Carroza
+    - pb[n=135]
+    - milestone[facs=#facs-87,unit=ref]
     - lb[n=289]:
       - entry:
         - sense:
@@ -21423,6 +21701,8 @@ text:
           - gloss[lg=lat-Latn]: rogator
         - form:
           - Lɣpss, oò Lutess
+    - pb[n=136]
+    - milestone[facs=#facs-86,unit=ref]
     - lb[n=314]:
       - entry:
         - sense:
@@ -21573,6 +21853,8 @@ text:
           - gloss[lg=lat-Latn]: rudimentum
         - form:
           - Te ɛanete fiill te leteresse
+    - pb[n=137]
+    - milestone[facs=#facs-85,unit=ref]
     - lb[n=339]:
       - entry:
         - sense:
@@ -21717,6 +21999,8 @@ text:
           - gloss[lg=lat-Latn]: rusticari
         - form:
           - Me gielune nder nierɛ te paaditune
+    - pb[n=138]
+    - milestone[facs=#facs-84,unit=ref]
     - lb[n=363]:
       - entry:
         - sense:
@@ -21849,6 +22133,8 @@ text:
           - gloss[lg=lat-Latn]: Sacrilegus
         - form:
           - Ai ghi vieξ nde chisce
+    - pb[n=139]
+    - milestone[facs=#facs-83,unit=ref]
     - lb[n=18]:
       - entry:
         - sense:
@@ -21993,6 +22279,8 @@ text:
           - gloss[lg=lat-Latn]: 'Salamon Iu: Rex fili: Dauid'
         - form:
           - Sallamoni, I biri i Regit Dauid
+    - pb[n=140]
+    - milestone[facs=#facs-82,unit=ref]
     - lb[n=42]:
       - entry:
         - sense:
@@ -22161,6 +22449,8 @@ text:
           - gloss[lg=lat-Latn]: sanctitas
         - form:
           - Scintenia
+    - pb[n=141]
+    - milestone[facs=#facs-81,unit=ref]
     - lb[n=70]:
       - entry:
         - sense:
@@ -22329,6 +22619,8 @@ text:
           - gloss[lg=lat-Latn]: sardare
         - form:
           - Me ndeguem
+    - pb[n=142]
+    - milestone[facs=#facs-80,unit=ref]
     - lb[n=98]:
       - entry:
         - sense:
@@ -22473,6 +22765,8 @@ text:
           - gloss[lg=lat-Latn]: saxosus
         - form:
           - Plot me gure
+    - pb[n=143]
+    - milestone[facs=#facs-79,unit=ref]
     - lb[n=122]:
       - entry:
         - sense:
@@ -22605,6 +22899,8 @@ text:
           - gloss[lg=lat-Latn]: sceptrum
         - form:
           - Scopi i Regit, oò I Perandorit
+    - pb[n=144]
+    - milestone[facs=#facs-78,unit=ref]
     - lb[n=144]:
       - entry:
         - sense:
@@ -22743,6 +23039,8 @@ text:
           - gloss[lg=lat-Latn]: scopus
         - form:
           - Scign cu nderechiene scegettete
+    - pb[n=145]
+    - milestone[facs=#facs-77,unit=ref]
     - lb[n=167]:
       - entry:
         - sense:
@@ -22905,6 +23203,8 @@ text:
           - gloss[lg=lat-Latn]: scutum
         - form:
           - Sciut
+    - pb[n=146]
+    - milestone[facs=#facs-76,unit=ref]
     - lb[n=194]:
       - entry:
         - sense:
@@ -23073,6 +23373,8 @@ text:
           - gloss[lg=lat-Latn]: securus
         - form:
           - Paa droe
+    - pb[n=147]
+    - milestone[facs=#facs-75,unit=ref]
     - lb[n=222]:
       - entry:
         - sense:
@@ -23217,6 +23519,8 @@ text:
           - gloss[lg=lat-Latn]: semestris
         - form:
           - Ngiaste mueiss
+    - pb[n=148]
+    - milestone[facs=#facs-74,unit=ref]
     - lb[n=246]:
       - entry:
         - sense:
@@ -23379,6 +23683,8 @@ text:
           - gloss[lg=lat-Latn]: sententia
         - form:
           - Hesaap, aresɣɣe
+    - pb[n=149]
+    - milestone[facs=#facs-73,unit=ref]
     - lb[n=273]:
       - entry:
         - sense:
@@ -23541,6 +23847,8 @@ text:
           - gloss[lg=lat-Latn]: sequor te
         - form:
           - Ndiech tɣɣ
+    - pb[n=150]
+    - milestone[facs=#facs-72,unit=ref]
     - lb[n=300]:
       - entry:
         - sense:
@@ -23685,6 +23993,8 @@ text:
           - gloss[lg=lat-Latn]: seruare
         - form:
           - Me eruetune, me embluem
+    - pb[n=151]
+    - milestone[facs=#facs-71,unit=ref]
     - lb[n=324]:
       - entry:
         - sense:
@@ -23847,6 +24157,8 @@ text:
           - gloss[lg=lat-Latn]: silibare
         - form:
           - Me vescelɣem
+    - pb[n=152]
+    - milestone[facs=#facs-70,unit=ref]
     - lb[n=351]:
       - entry:
         - sense:
@@ -24009,6 +24321,8 @@ text:
           - gloss[lg=lat-Latn]: signum
         - form:
           - Sceign
+    - pb[n=153]
+    - milestone[facs=#facs-69,unit=ref]
     - lb[n=378]:
       - entry:
         - sense:
@@ -24159,6 +24473,8 @@ text:
           - gloss[lg=lat-Latn]: sinistra
         - form:
           - Dora estemangte
+    - pb[n=154]
+    - milestone[facs=#facs-68,unit=ref]
     - lb[n=403]:
       - entry:
         - sense:
@@ -24291,6 +24607,8 @@ text:
           - gloss[lg=lat-Latn]: sociare
         - form:
           - Me scioghenuem
+    - pb[n=155]
+    - milestone[facs=#facs-67,unit=ref]
     - lb[n=425]:
       - entry:
         - sense:
@@ -24453,6 +24771,8 @@ text:
           - gloss[lg=lat-Latn]: solum
         - form:
           - Vece
+    - pb[n=156]
+    - milestone[facs=#facs-66,unit=ref]
     - lb[n=452]:
       - entry:
         - sense:
@@ -24603,6 +24923,8 @@ text:
           - gloss[lg=lat-Latn]: sospitare
         - form:
           - Me mbetune scendos
+    - pb[n=157]
+    - milestone[facs=#facs-65,unit=ref]
     - lb[n=477]:
       - entry:
         - sense:
@@ -24765,6 +25087,8 @@ text:
           - gloss[lg=lat-Latn]: spirare
         - form:
           - Me mare frɣme
+    - pb[n=158]
+    - milestone[facs=#facs-64,unit=ref]
     - lb[n=504]:
       - entry:
         - sense:
@@ -24921,6 +25245,8 @@ text:
           - gloss[lg=lat-Latn]: stabilire
         - form:
           - me mbetune mbegna vend fermo
+    - pb[n=159]
+    - milestone[facs=#facs-63,unit=ref]
     - lb[n=530]:
       - entry:
         - sense:
@@ -25077,6 +25403,8 @@ text:
           - gloss[lg=lat-Latn]: stipare
         - form:
           - Me sciochenuem, oò me perciele
+    - pb[n=160]
+    - milestone[facs=#facs-62,unit=ref]
     - lb[n=556]:
       - entry:
         - sense:
@@ -25197,6 +25525,8 @@ text:
           - gloss[lg=lat-Latn]: studiosus
         - form:
           - I ditescim
+    - pb[n=161]
+    - milestone[facs=#facs-61,unit=ref]
     - lb[n=576]:
       - entry:
         - sense:
@@ -25341,6 +25671,8 @@ text:
           - gloss[lg=lat-Latn]: subarrogans
         - form:
           - Ndene maξestij
+    - pb[n=162]
+    - milestone[facs=#facs-60,unit=ref]
     - lb[n=600]:
       - entry:
         - sense:
@@ -25491,6 +25823,8 @@ text:
           - gloss[lg=lat-Latn]: sublegere
         - form:
           - Me zghieξune pertecpeite
+    - pb[n=163]
+    - milestone[facs=#facs-59,unit=ref]
     - lb[n=625]:
       - entry:
         - sense:
@@ -25629,6 +25963,8 @@ text:
           - gloss[lg=lat-Latn]: subrubere
         - form:
           - Meu ncuchiune pacheɛe
+    - pb[n=164]
+    - milestone[facs=#facs-58,unit=ref]
     - lb[n=648]:
       - entry:
         - sense:
@@ -25779,6 +26115,8 @@ text:
           - gloss[lg=lat-Latn]: subuolare
         - form:
           - Me fluuruem te permal
+    - pb[n=165]
+    - milestone[facs=#facs-57,unit=ref]
     - lb[n=673]:
       - entry:
         - sense:
@@ -25917,6 +26255,8 @@ text:
           - gloss[lg=lat-Latn]: suescere
         - form:
           - Meu mbsuem cheich, oò mire
+    - pb[n=166]
+    - milestone[facs=#facs-56,unit=ref]
     - lb[n=696]:
       - entry:
         - sense:
@@ -26079,6 +26419,8 @@ text:
           - gloss[lg=lat-Latn]: superbibare
         - form:
           - me pijm paa cuer scume
+    - pb[n=167]
+    - milestone[facs=#facs-55,unit=ref]
     - lb[n=723]:
       - entry:
         - sense:
@@ -26217,6 +26559,8 @@ text:
           - gloss[lg=lat-Latn]: supplicare
         - form:
           - Me lutune me te prugnete
+    - pb[n=168]
+    - milestone[facs=#facs-54,unit=ref]
     - lb[n=746]:
       - entry:
         - sense:
@@ -26367,6 +26711,8 @@ text:
           - gloss[lg=lat-Latn]: sutor, calzolaio
         - form:
           - Capuzaar
+    - pb[n=169]
+    - milestone[facs=#facs-53,unit=ref]
     - lb[n=771]:
       - entry:
         - sense:
@@ -26493,6 +26839,8 @@ text:
           - gloss[lg=lat-Latn]: tabellarius
         - form:
           - Ai ghi bie, e spie lettere
+    - pb[n=170]
+    - milestone[facs=#facs-52,unit=ref]
     - lb[n=3]:
       - entry:
         - sense:
@@ -26643,6 +26991,8 @@ text:
           - gloss[lg=lat-Latn]: tamquam
         - form:
           - Possi
+    - pb[n=171]
+    - milestone[facs=#facs-51,unit=ref]
     - lb[n=28]:
       - entry:
         - sense:
@@ -26793,6 +27143,8 @@ text:
           - gloss[lg=lat-Latn]: telum
         - form:
           - Arme, oò te ieete Paterɛane, scpate, oò cdo
+    - pb[n=172]
+    - milestone[facs=#facs-50,unit=ref]
     - lb[n=53]:
       - entry:
         - sense:
@@ -26961,6 +27313,8 @@ text:
           - gloss[lg=lat-Latn]: trecentum
         - form:
           - Tre ghind
+    - pb[n=173]
+    - milestone[facs=#facs-49,unit=ref]
     - lb[n=81]:
       - entry:
         - sense:
@@ -27117,6 +27471,8 @@ text:
           - gloss[lg=lat-Latn]: theologia
         - form:
           - Teologia
+    - pb[n=174]
+    - milestone[facs=#facs-48,unit=ref]
     - lb[n=107]:
       - entry:
         - sense:
@@ -27285,6 +27641,8 @@ text:
           - gloss[lg=lat-Latn]: torrens
         - form:
           - Lɣme, Perrue
+    - pb[n=175]
+    - milestone[facs=#facs-47,unit=ref]
     - lb[n=135]:
       - entry:
         - sense:
@@ -27429,6 +27787,7 @@ text:
           - gloss[lg=lat-Latn]: transnominare
         - form:
           - Me nderruem emenite
+    - pb[n=176]
     - lb[n=159]:
       - entry:
         - sense:
@@ -27597,6 +27956,7 @@ text:
           - gloss[lg=lat-Latn]: tristis
         - form:
           - Malegnɣem, per cuidessune
+    - pb[n=177]
     - lb[n=187]:
       - entry:
         - sense:
@@ -27759,6 +28119,8 @@ text:
           - gloss[lg=lat-Latn]: turpiter
         - form:
           - ξuunist
+    - pb[n=178]
+    - milestone[facs=#facs-46,unit=ref]
     - lb[n=214]:
       - entry:
         - sense:
@@ -27909,6 +28271,8 @@ text:
           - gloss[lg=lat-Latn]: valentia
         - form:
           - Pustetia
+    - pb[n=179]
+    - milestone[facs=#facs-45,unit=ref]
     - lb[n=13]:
       - entry:
         - sense:
@@ -28065,6 +28429,8 @@ text:
           - gloss[lg=lat-Latn]: vecors
         - form:
           - Iharruem
+    - pb[n=180]
+    - milestone[facs=#facs-44,unit=ref]
     - lb[n=39]:
       - entry:
         - sense:
@@ -28233,6 +28599,8 @@ text:
           - gloss[lg=lat-Latn]: ventosus
         - form:
           - Plot me ere
+    - pb[n=181]
+    - milestone[facs=#facs-43,unit=ref]
     - lb[n=67]:
       - entry:
         - sense:
@@ -28371,6 +28739,8 @@ text:
           - gloss[lg=lat-Latn]: vertagus
         - form:
           - ɛagaar
+    - pb[n=182]
+    - milestone[facs=#facs-42,unit=ref]
     - lb[n=90]:
       - entry:
         - sense:
@@ -28527,6 +28897,8 @@ text:
           - gloss[lg=lat-Latn]: vetus
         - form:
           - Plach
+    - pb[n=183]
+    - milestone[facs=#facs-41,unit=ref]
     - lb[n=116]:
       - entry:
         - sense:
@@ -28695,6 +29067,8 @@ text:
           - gloss[lg=lat-Latn]: vincire
         - form:
           - Me liξune
+    - pb[n=184]
+    - milestone[facs=#facs-40,unit=ref]
     - lb[n=144]:
       - entry:
         - sense:
@@ -28863,6 +29237,8 @@ text:
           - gloss[lg=lat-Latn]: vitulus
         - form:
           - Vic
+    - pb[n=185]
+    - milestone[facs=#facs-39,unit=ref]
     - lb[n=172]:
       - entry:
         - sense:
@@ -29031,6 +29407,8 @@ text:
           - gloss[lg=lat-Latn]: unctio
         - form:
           - Telɣem
+    - pb[n=186]
+    - milestone[facs=#facs-38,unit=ref]
     - lb[n=200]:
       - entry:
         - sense:
@@ -29199,6 +29577,8 @@ text:
           - gloss[lg=lat-Latn]: vomer
         - form:
           - Humb, Pluer ξika e plorit
+    - pb[n=187]
+    - milestone[facs=#facs-37,unit=ref]
     - lb[n=228]:
       - entry:
         - sense:
@@ -29361,6 +29741,8 @@ text:
           - gloss[lg=lat-Latn]: ut
         - form:
           - Chinesse
+    - pb[n=188]
+    - milestone[facs=#facs-36,unit=ref]
     - lb[n=255]:
       - entry:
         - sense:
@@ -29499,6 +29881,8 @@ text:
           - gloss[lg=lat-Latn]: Zygantes
         - form:
           - Gigante
+    - pb[n=189]
+    - milestone[facs=#facs-35,unit=ref]
   - chapter[n=1]:
     - head:
       - foreign[lg=lat-Latn]: CAP. I
