@@ -1783,8 +1783,7 @@ text:
           - gloss[lg=lat-Latn]: Calefacere
         - form:
           - Me enzzem
-    - foreign[lg=und-Latn-x-general]: '(recte:'
-    - me enzeem)
+          - corr: me enzeem
     - lb[n=24]:
       - entry:
         - sense:
@@ -11701,8 +11700,7 @@ text:
           - gloss[lg=lat-Latn]: Obediens
         - form:
           - Igcescim
-    - foreign[lg=und-Latn-x-general]: '[recte:'
-    - Igiescim]
+          - corr: Igiescim
     - lb[n=13]:
       - entry:
         - sense:
@@ -14315,8 +14313,7 @@ text:
           - gloss[lg=lat-Latn]: penes
         - form:
           - Nadai
-    - foreign[lg=und-Latn-x-general]: '[recte'
-    - Ndai ?]
+          - corr: Ndai ?
     - lb[n=179]:
       - entry:
         - sense:
@@ -15867,10 +15864,9 @@ text:
           - gloss[lg=lat-Latn]: phanum
         - form:
           - Kesca
-    - foreign[lg=und-Latn-x-general]: '[or'
-    - Kcsca,
-    - foreign[lg=und-Latn-x-general]: recte
-    - Kisca?]
+          - choice:
+            - sic: Kcsca,
+            - corr: Kisca?
     - lb[n=434]:
       - entry:
         - sense:

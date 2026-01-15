@@ -1212,7 +1212,7 @@
   </facsimile>
   <text xml:lang="aln-Latn-x-buzuku">
     <front xml:id="front-1">
-      <titlePage xml:id="front-1-titlePage-1">
+      <titlePage xml:id="front-1-titlePage-1" xml:lang="lat-Latn">
         <milestone facs="#facs-236" unit="ref" xml:id="front-1-titlePage-1-milestone-1" />
         <docTitle xml:id="front-1-titlePage-1-docTitle-1">
           <titlePart xml:id="front-1-titlePage-1-docTitle-1-titlePart-1">DICTIONARIVM</titlePart>
@@ -1220,9 +1220,7 @@
           <titlePart xml:id="front-1-titlePage-1-docTitle-1-titlePart-3">Una</titlePart>
           <titlePart xml:id="front-1-titlePage-1-docTitle-1-titlePart-4">Cum nonnullis usitatioribus loquendi formulis</titlePart>
         </docTitle>
-        <byline>
-          <foreign xml:lang="lat-Latn">Per</foreign>
-          <docAuthor>R. D. FRANCISCVM BLANCHVM Epirotam Coll. de Propag. Fide Alumnum</docAuthor>
+        <byline>Per<docAuthor>R. D. FRANCISCVM BLANCHVM Epirotam Coll. de Propag. Fide Alumnum</docAuthor>
         </byline>
         <docImprint>
           <pubPlace xml:id="front-1-titlePage-1-pubPlace-1">Romae,</pubPlace>
@@ -1273,8 +1271,7 @@
         <p xml:id="front-1-dedication-1-preface-1-imprimatur-1-p-5">A. Torniellus Vicesg.</p>
         <p xml:id="front-1-dedication-1-preface-1-imprimatur-1-p-6">Nos Fr. Marcus Scura Episcopus Stephanensis, iussu Reuerendissimi P. F. Nicolai Riccardij Sac. Pal. Apost. Mag. legimus ac perpendimus librum hunc, qui inscribitur Dictionarium Latino Epiroticum, à Perillustri D. Francisco de Blancis Epirota, Collegij de Propaganda Fide Alumno professori Theologica, elaboratum, illudq. non solum Epirotis, sed etiam alijs externarum linguarum studiosis, iucundum æquè, atq; utile visum est. Romæ 30. Maii 1635.</p>
         <signed>Fr. Marcus Scura Episc. Stephanen.</signed>
-        <signed>
-          <note xml:id="front-1-dedication-1-preface-1-imprimatur-1-note-1">Imprimatur.</note> Fr. Nicolaus Riccardius Sacri Palatij Apostolici Mag.</signed>
+        <signed>Imprimatur. Fr. Nicolaus Riccardius Sacri Palatij Apostolici Mag.</signed>
       </div>
       <div type="notes" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1" data-level="1">
         <milestone facs="#facs-226" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-milestone-11" />
@@ -1518,6 +1515,8 @@
           </sense>
           <form>Temaimite</form>
         </entry>
+        <pb n="2" />
+        <milestone facs="#facs-220" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-17" />
         <lb n="23" />
         <entry>
           <sense>
@@ -1721,6 +1720,8 @@
           </sense>
           <form>Mbale</form>
         </entry>
+        <pb n="3" />
+        <milestone facs="#facs-219" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-18" />
         <lb n="52" />
         <entry>
           <sense>
@@ -1924,6 +1925,8 @@
           </sense>
           <form>Dasciune</form>
         </entry>
+        <pb n="4" />
+        <milestone facs="#facs-218" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-19" />
         <lb n="81" />
         <entry>
           <sense>
@@ -2134,6 +2137,8 @@
           </sense>
           <form>Mich</form>
         </entry>
+        <pb n="5" />
+        <milestone facs="#facs-217" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-20" />
         <lb n="111" />
         <entry>
           <sense>
@@ -2344,6 +2349,8 @@
           </sense>
           <form>Hain</form>
         </entry>
+        <pb n="6" />
+        <milestone facs="#facs-216" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-21" />
         <lb n="141" />
         <entry>
           <sense>
@@ -2547,6 +2554,8 @@
           </sense>
           <form>Vendi cu vihene armete</form>
         </entry>
+        <pb n="7" />
+        <milestone facs="#facs-215" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-22" />
         <lb n="170" />
         <entry>
           <sense>
@@ -2743,6 +2752,8 @@
           </sense>
           <form>Nierij i forte</form>
         </entry>
+        <pb n="8" />
+        <milestone facs="#facs-214" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-23" />
         <lb n="1" />
         <entry>
           <sense>
@@ -2925,6 +2936,8 @@
           </sense>
           <form>Craha</form>
         </entry>
+        <pb n="9" />
+        <milestone facs="#facs-213" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-24" />
         <lb n="27" />
         <entry>
           <sense>
@@ -3105,7 +3118,8 @@
           <sense>
             <gloss xml:lang="lat-Latn">Calefacere</gloss>
           </sense>
-          <form>Me enzzem</form>
+          <form>Me enzzem<corr>me enzeem</corr>
+          </form>
         </entry>
         <lb n="24" />
         <entry>
@@ -3114,6 +3128,8 @@
           </sense>
           <form>Tenzeete</form>
         </entry>
+        <pb n="10" />
+        <milestone facs="#facs-212" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-25" />
         <lb n="25" />
         <entry>
           <sense>
@@ -3317,6 +3333,8 @@
           </sense>
           <form>Chestegne</form>
         </entry>
+        <pb n="11" />
+        <milestone facs="#facs-211" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-26" />
         <lb n="54" />
         <entry>
           <sense>
@@ -3520,6 +3538,8 @@
           </sense>
           <form>Rcoreia</form>
         </entry>
+        <pb n="12" />
+        <milestone facs="#facs-210" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-27" />
         <lb n="83" />
         <entry>
           <sense>
@@ -3723,6 +3743,8 @@
           </sense>
           <form>Me asciumuem</form>
         </entry>
+        <pb n="13" />
+        <milestone facs="#facs-209" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-28" />
         <lb n="112" />
         <entry>
           <sense>
@@ -3919,6 +3941,8 @@
           </sense>
           <form>Pelumb</form>
         </entry>
+        <pb n="14" />
+        <milestone facs="#facs-208" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-29" />
         <lb n="140" />
         <entry>
           <sense>
@@ -4115,6 +4139,8 @@
           </sense>
           <form>Te refɣemite</form>
         </entry>
+        <pb n="15" />
+        <milestone facs="#facs-207" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-30" />
         <lb n="168" />
         <entry>
           <sense>
@@ -4325,6 +4351,8 @@
           </sense>
           <form>ξana</form>
         </entry>
+        <pb n="16" />
+        <milestone facs="#facs-206" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-31" />
         <lb n="198" />
         <entry>
           <sense>
@@ -4535,6 +4563,8 @@
           </sense>
           <form>Grubule</form>
         </entry>
+        <pb n="17" />
+        <milestone facs="#facs-205" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-32" />
         <lb n="228" />
         <entry>
           <sense>
@@ -4710,6 +4740,8 @@
           </sense>
           <form>Me ghegnɣem</form>
         </entry>
+        <pb n="18" />
+        <milestone facs="#facs-204" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-33" />
         <lb n="13" />
         <entry>
           <sense>
@@ -4899,6 +4931,8 @@
           </sense>
           <form>Descijr</form>
         </entry>
+        <pb n="19" />
+        <milestone facs="#facs-203" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-34" />
         <lb n="40" />
         <entry>
           <sense>
@@ -5081,6 +5115,8 @@
           </sense>
           <form>Dita eprende</form>
         </entry>
+        <pb n="20" />
+        <milestone facs="#facs-202" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-35" />
         <lb n="66" />
         <entry>
           <sense>
@@ -5263,6 +5299,8 @@
           </sense>
           <form>Cusze gnocias, imbsuescim</form>
         </entry>
+        <pb n="21" />
+        <milestone facs="#facs-201" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-36" />
         <lb n="92" />
         <entry>
           <sense>
@@ -5438,6 +5476,8 @@
           </sense>
           <form>Durrez</form>
         </entry>
+        <pb n="22" />
+        <milestone facs="#facs-200" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-37" />
         <lb n="1" />
         <entry>
           <sense>
@@ -5606,6 +5646,8 @@
           </sense>
           <form>Pella</form>
         </entry>
+        <pb n="23" />
+        <milestone facs="#facs-199" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-38" />
         <lb n="25" />
         <entry>
           <sense>
@@ -5788,6 +5830,8 @@
           </sense>
           <form>Udob chemi me epassune</form>
         </entry>
+        <pb n="24" />
+        <milestone facs="#facs-198" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-39" />
         <lb n="51" />
         <entry>
           <sense>
@@ -5963,6 +6007,8 @@
           </sense>
           <form>Ebameia</form>
         </entry>
+        <pb n="25" />
+        <milestone facs="#facs-197" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-40" />
         <lb n="11" />
         <entry>
           <sense>
@@ -6145,6 +6191,8 @@
           </sense>
           <form>Chiofte</form>
         </entry>
+        <pb n="26" />
+        <milestone facs="#facs-196" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-41" />
         <lb n="37" />
         <entry>
           <sense>
@@ -6334,6 +6382,8 @@
           </sense>
           <form>Bire</form>
         </entry>
+        <pb n="27" />
+        <milestone facs="#facs-195" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-42" />
         <lb n="64" />
         <entry>
           <sense>
@@ -6516,6 +6566,8 @@
           </sense>
           <form>Scpess</form>
         </entry>
+        <pb n="28" />
+        <milestone facs="#facs-194" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-43" />
         <lb n="90" />
         <entry>
           <sense>
@@ -6712,6 +6764,8 @@
           </sense>
           <form>Fussgnana</form>
         </entry>
+        <pb n="29" />
+        <milestone facs="#facs-193" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-44" />
         <lb n="1" />
         <entry>
           <sense>
@@ -6873,6 +6927,8 @@
           </sense>
           <form>Magazzij, oò hambaar</form>
         </entry>
+        <pb n="30" />
+        <milestone facs="#facs-192" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-45" />
         <lb n="24" />
         <entry>
           <sense>
@@ -7048,6 +7104,8 @@
           </sense>
           <form>Urξ</form>
         </entry>
+        <pb n="31" />
+        <milestone facs="#facs-191" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-46" />
         <lb n="9" />
         <entry>
           <sense>
@@ -7251,6 +7309,8 @@
           </sense>
           <form>Echechie moortia aste</form>
         </entry>
+        <pb n="32" />
+        <milestone facs="#facs-190" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-47" />
         <lb n="38" />
         <entry>
           <sense>
@@ -7419,6 +7479,8 @@
           </sense>
           <form>Athere</form>
         </entry>
+        <pb n="33" />
+        <milestone facs="#facs-189" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-48" />
         <lb n="7" />
         <entry>
           <sense>
@@ -7601,6 +7663,8 @@
           </sense>
           <form>Te Keξolete</form>
         </entry>
+        <pb n="34" />
+        <milestone facs="#facs-188" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-49" />
         <lb n="33" />
         <entry>
           <sense>
@@ -7776,6 +7840,8 @@
           </sense>
           <form>Me urξenuem</form>
         </entry>
+        <pb n="35" />
+        <milestone facs="#facs-187" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-50" />
         <lb n="58" />
         <entry>
           <sense>
@@ -7972,6 +8038,8 @@
           </sense>
           <form>Idelire, eipaamcat</form>
         </entry>
+        <pb n="36" />
+        <milestone facs="#facs-186" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-51" />
         <lb n="86" />
         <entry>
           <sense>
@@ -8147,6 +8215,8 @@
           </sense>
           <form>Issemune</form>
         </entry>
+        <pb n="37" />
+        <milestone facs="#facs-185" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-52" />
         <lb n="111" />
         <entry>
           <sense>
@@ -8350,6 +8420,8 @@
           </sense>
           <form>Meu pegaam</form>
         </entry>
+        <pb n="38" />
+        <milestone facs="#facs-184" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-53" />
         <lb n="140" />
         <entry>
           <sense>
@@ -8532,6 +8604,8 @@
           </sense>
           <form>Me cheduem ndemiedist</form>
         </entry>
+        <pb n="39" />
+        <milestone facs="#facs-183" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-54" />
         <lb n="166" />
         <entry>
           <sense>
@@ -8679,6 +8753,8 @@
           </sense>
           <form>Ipaa mneerscim Nierij</form>
         </entry>
+        <pb n="40" />
+        <milestone facs="#facs-182" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-55" />
         <lb n="187" />
         <entry>
           <sense>
@@ -8847,6 +8923,8 @@
           </sense>
           <form>Ipaa turbulluem</form>
         </entry>
+        <pb n="41" />
+        <milestone facs="#facs-181" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-56" />
         <lb n="211" />
         <entry>
           <sense>
@@ -9029,6 +9107,8 @@
           </sense>
           <form>Meu gumezune</form>
         </entry>
+        <pb n="42" />
+        <milestone facs="#facs-180" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-57" />
         <lb n="237" />
         <entry>
           <sense>
@@ -9218,6 +9298,8 @@
           </sense>
           <form>Te shelchɣemtee Dielit</form>
         </entry>
+        <pb n="43" />
+        <milestone facs="#facs-179" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-58" />
         <lb n="264" />
         <entry>
           <sense>
@@ -9400,6 +9482,8 @@
           </sense>
           <form>Irij</form>
         </entry>
+        <pb n="44" />
+        <milestone facs="#facs-178" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-59" />
         <lb n="290" />
         <entry>
           <sense>
@@ -9561,6 +9645,8 @@
           </sense>
           <form>Lotɛe</form>
         </entry>
+        <pb n="45" />
+        <milestone facs="#facs-177" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-60" />
         <lb n="19" />
         <entry>
           <sense>
@@ -9757,6 +9843,8 @@
           </sense>
           <form>Larξ</form>
         </entry>
+        <pb n="46" />
+        <milestone facs="#facs-176" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-61" />
         <lb n="47" />
         <entry>
           <sense>
@@ -9953,6 +10041,8 @@
           </sense>
           <form>Luana</form>
         </entry>
+        <pb n="47" />
+        <milestone facs="#facs-175" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-62" />
         <lb n="75" />
         <entry>
           <sense>
@@ -10142,6 +10232,8 @@
           </sense>
           <form>Liggia ione</form>
         </entry>
+        <pb n="48" />
+        <milestone facs="#facs-174" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-63" />
         <lb n="102" />
         <entry>
           <sense>
@@ -10331,6 +10423,8 @@
           </sense>
           <form>Lilia</form>
         </entry>
+        <pb n="49" />
+        <milestone facs="#facs-173" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-64" />
         <lb n="129" />
         <entry>
           <sense>
@@ -10520,6 +10614,8 @@
           </sense>
           <form>Hij</form>
         </entry>
+        <pb n="50" />
+        <milestone facs="#facs-172" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-65" />
         <lb n="156" />
         <entry>
           <sense>
@@ -10716,6 +10812,8 @@
           </sense>
           <form>Ndricim</form>
         </entry>
+        <pb n="51" />
+        <milestone facs="#facs-171" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-66" />
         <lb n="184" />
         <entry>
           <sense>
@@ -10919,6 +11017,8 @@
           </sense>
           <form>Curuenist</form>
         </entry>
+        <pb n="52" />
+        <milestone facs="#facs-170" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-67" />
         <lb n="213" />
         <entry>
           <sense>
@@ -11101,6 +11201,8 @@
           </sense>
           <form>Trimenia</form>
         </entry>
+        <pb n="53" />
+        <milestone facs="#facs-169" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-68" />
         <lb n="24" />
         <entry>
           <sense>
@@ -11276,6 +11378,8 @@
           </sense>
           <form>Molle</form>
         </entry>
+        <pb n="54" />
+        <milestone facs="#facs-168" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-69" />
         <lb n="49" />
         <entry>
           <sense>
@@ -11472,6 +11576,8 @@
           </sense>
           <form>Cullongiacu</form>
         </entry>
+        <pb n="55" />
+        <milestone facs="#facs-167" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-70" />
         <lb n="77" />
         <entry>
           <sense>
@@ -11668,6 +11774,8 @@
           </sense>
           <form>Mame</form>
         </entry>
+        <pb n="56" />
+        <milestone facs="#facs-166" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-71" />
         <lb n="105" />
         <entry>
           <sense>
@@ -11857,6 +11965,8 @@
           </sense>
           <form>mieghia</form>
         </entry>
+        <pb n="57" />
+        <milestone facs="#facs-165" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-72" />
         <lb n="132" />
         <entry>
           <sense>
@@ -12053,6 +12163,8 @@
           </sense>
           <form>Trɣessene me parechiuem</form>
         </entry>
+        <pb n="58" />
+        <milestone facs="#facs-164" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-73" />
         <lb n="160" />
         <entry>
           <sense>
@@ -12242,6 +12354,8 @@
           </sense>
           <form>Lufta</form>
         </entry>
+        <pb n="59" />
+        <milestone facs="#facs-163" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-74" />
         <lb n="187" />
         <entry>
           <sense>
@@ -12445,6 +12559,8 @@
           </sense>
           <form>Pelchɣescim</form>
         </entry>
+        <pb n="60" />
+        <milestone facs="#facs-162" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-75" />
         <lb n="216" />
         <entry>
           <sense>
@@ -12648,6 +12764,8 @@
           </sense>
           <form>Sucche</form>
         </entry>
+        <pb n="61" />
+        <milestone facs="#facs-161" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-76" />
         <lb n="245" />
         <entry>
           <sense>
@@ -12844,6 +12962,8 @@
           </sense>
           <form>maieia</form>
         </entry>
+        <pb n="62" />
+        <milestone facs="#facs-160" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-77" />
         <lb n="273" />
         <entry>
           <sense>
@@ -13033,6 +13153,8 @@
           </sense>
           <form>Laam, delijr</form>
         </entry>
+        <pb n="63" />
+        <milestone facs="#facs-159" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-78" />
         <lb n="300" />
         <entry>
           <sense>
@@ -13194,6 +13316,8 @@
           </sense>
           <form>Nata</form>
         </entry>
+        <pb n="64" />
+        <milestone facs="#facs-158" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-79" />
         <lb n="7" />
         <entry>
           <sense>
@@ -13390,6 +13514,8 @@
           </sense>
           <form>Te baame</form>
         </entry>
+        <pb n="65" />
+        <milestone facs="#facs-157" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-80" />
         <lb n="35" />
         <entry>
           <sense>
@@ -13579,6 +13705,8 @@
           </sense>
           <form>Me baam mbsɣɣs</form>
         </entry>
+        <pb n="66" />
+        <milestone facs="#facs-156" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-81" />
         <lb n="62" />
         <entry>
           <sense>
@@ -13754,6 +13882,8 @@
           </sense>
           <form>Negnesse druu</form>
         </entry>
+        <pb n="67" />
+        <milestone facs="#facs-155" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-82" />
         <lb n="87" />
         <entry>
           <sense>
@@ -13950,6 +14080,8 @@
           </sense>
           <form>Gnofune</form>
         </entry>
+        <pb n="68" />
+        <milestone facs="#facs-154" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-83" />
         <lb n="115" />
         <entry>
           <sense>
@@ -14146,6 +14278,8 @@
           </sense>
           <form>Asgna</form>
         </entry>
+        <pb n="69" />
+        <milestone facs="#facs-153" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-84" />
         <lb n="143" />
         <entry>
           <sense>
@@ -14314,6 +14448,8 @@
           </sense>
           <form>Paɛaar oò Treghetij, oò Tregh</form>
         </entry>
+        <pb n="70" />
+        <milestone facs="#facs-152" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-85" />
         <lb n="167" />
         <entry>
           <sense>
@@ -14496,6 +14632,8 @@
           </sense>
           <form>Me fietune</form>
         </entry>
+        <pb n="71" />
+        <milestone facs="#facs-151" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-86" />
         <lb n="8" />
         <entry>
           <sense>
@@ -14529,7 +14667,8 @@
           <sense>
             <gloss xml:lang="lat-Latn">Obediens</gloss>
           </sense>
-          <form>Igcescim</form>
+          <form>Igcescim<corr>Igiescim</corr>
+          </form>
         </entry>
         <lb n="13" />
         <entry>
@@ -14657,6 +14796,8 @@
           </sense>
           <form>Pelchim</form>
         </entry>
+        <pb n="72" />
+        <milestone facs="#facs-150" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-87" />
         <lb n="31" />
         <entry>
           <sense>
@@ -14818,6 +14959,8 @@
           </sense>
           <form>Mneruescim</form>
         </entry>
+        <pb n="73" />
+        <milestone facs="#facs-149" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-88" />
         <lb n="54" />
         <entry>
           <sense>
@@ -14979,6 +15122,8 @@
           </sense>
           <form>Me mbielle</form>
         </entry>
+        <pb n="74" />
+        <milestone facs="#facs-148" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-89" />
         <lb n="77" />
         <entry>
           <sense>
@@ -15140,6 +15285,8 @@
           </sense>
           <form>Meu ngheξuem cundre</form>
         </entry>
+        <pb n="75" />
+        <milestone facs="#facs-147" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-90" />
         <lb n="100" />
         <entry>
           <sense>
@@ -15322,6 +15469,8 @@
           </sense>
           <form>Me passune menij</form>
         </entry>
+        <pb n="76" />
+        <milestone facs="#facs-146" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-91" />
         <lb n="126" />
         <entry>
           <sense>
@@ -15490,6 +15639,8 @@
           </sense>
           <form>Ullijste</form>
         </entry>
+        <pb n="77" />
+        <milestone facs="#facs-145" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-92" />
         <lb n="150" />
         <entry>
           <sense>
@@ -15679,6 +15830,8 @@
           </sense>
           <form>Ipaa laam</form>
         </entry>
+        <pb n="78" />
+        <milestone facs="#facs-144" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-93" />
         <lb n="177" />
         <entry>
           <sense>
@@ -15882,6 +16035,8 @@
           </sense>
           <form>Teparete tane</form>
         </entry>
+        <pb n="79" />
+        <milestone facs="#facs-143" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-94" />
         <lb n="206" />
         <entry>
           <sense>
@@ -16071,6 +16226,8 @@
           </sense>
           <form>Me leem</form>
         </entry>
+        <pb n="80" />
+        <milestone facs="#facs-142" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-95" />
         <lb n="233" />
         <entry>
           <sense>
@@ -16267,6 +16424,8 @@
           </sense>
           <form>Grigia</form>
         </entry>
+        <pb n="81" />
+        <milestone facs="#facs-141" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-96" />
         <lb n="261" />
         <entry>
           <sense>
@@ -16442,6 +16601,8 @@
           </sense>
           <form>Kielɛa</form>
         </entry>
+        <pb n="82" />
+        <milestone facs="#facs-140" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-97" />
         <lb n="22" />
         <entry>
           <sense>
@@ -16624,6 +16785,8 @@
           </sense>
           <form>Diechechia</form>
         </entry>
+        <pb n="83" />
+        <milestone facs="#facs-139" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-98" />
         <lb n="48" />
         <entry>
           <sense>
@@ -16820,6 +16983,8 @@
           </sense>
           <form>Pach</form>
         </entry>
+        <pb n="84" />
+        <milestone facs="#facs-138" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-99" />
         <lb n="76" />
         <entry>
           <sense>
@@ -17016,6 +17181,8 @@
           </sense>
           <form>Pallaree, e maɛe, oò Tepssij</form>
         </entry>
+        <pb n="85" />
+        <milestone facs="#facs-137" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-100" />
         <lb n="104" />
         <entry>
           <sense>
@@ -17184,6 +17351,8 @@
           </sense>
           <form>Caa pac, caa paai</form>
         </entry>
+        <pb n="86" />
+        <milestone facs="#facs-136" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-101" />
         <lb n="128" />
         <entry>
           <sense>
@@ -17387,6 +17556,8 @@
           </sense>
           <form>Cambesuer</form>
         </entry>
+        <pb n="87" />
+        <milestone facs="#facs-135" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-102" />
         <lb n="157" />
         <entry>
           <sense>
@@ -17539,7 +17710,8 @@
           <sense>
             <gloss xml:lang="lat-Latn">penes</gloss>
           </sense>
-          <form>Nadai</form>
+          <form>Nadai<corr>Ndai ?</corr>
+          </form>
         </entry>
         <lb n="179" />
         <entry>
@@ -17576,6 +17748,8 @@
           </sense>
           <form>Fort mbrende</form>
         </entry>
+        <pb n="88" />
+        <milestone facs="#facs-134" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-103" />
         <lb n="184" />
         <entry>
           <sense>
@@ -17758,6 +17932,8 @@
           </sense>
           <form>Pertene ɛone ghi ascte mbi Kielt</form>
         </entry>
+        <pb n="89" />
+        <milestone facs="#facs-133" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-104" />
         <lb n="210" />
         <entry>
           <sense>
@@ -17947,6 +18123,8 @@
           </sense>
           <form>meu ɛimtune fort</form>
         </entry>
+        <pb n="90" />
+        <milestone facs="#facs-132" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-105" />
         <lb n="237" />
         <entry>
           <sense>
@@ -18143,6 +18321,8 @@
           </sense>
           <form>me rieξune</form>
         </entry>
+        <pb n="91" />
+        <milestone facs="#facs-131" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-106" />
         <lb n="265" />
         <entry>
           <sense>
@@ -18332,6 +18512,8 @@
           </sense>
           <form>mbsuem</form>
         </entry>
+        <pb n="92" />
+        <milestone facs="#facs-130" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-107" />
         <lb n="292" />
         <entry>
           <sense>
@@ -18507,6 +18689,8 @@
           </sense>
           <form>Bersuteia e ξiut</form>
         </entry>
+        <pb n="93" />
+        <milestone facs="#facs-129" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-108" />
         <lb n="317" />
         <entry>
           <sense>
@@ -18682,6 +18866,8 @@
           </sense>
           <form>Me cherchuem me te ditune</form>
         </entry>
+        <pb n="94" />
+        <milestone facs="#facs-128" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-109" />
         <lb n="342" />
         <entry>
           <sense>
@@ -18843,6 +19029,8 @@
           </sense>
           <form>Tegnoffune</form>
         </entry>
+        <pb n="95" />
+        <milestone facs="#facs-127" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-110" />
         <lb n="365" />
         <entry>
           <sense>
@@ -19018,6 +19206,8 @@
           </sense>
           <form>Me pessuem ndieri nde tesossunit</form>
         </entry>
+        <pb n="96" />
+        <milestone facs="#facs-126" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-111" />
         <lb n="390" />
         <entry>
           <sense>
@@ -19193,6 +19383,8 @@
           </sense>
           <form>Cambe</form>
         </entry>
+        <pb n="97" />
+        <milestone facs="#facs-125" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-112" />
         <lb n="415" />
         <entry>
           <sense>
@@ -19324,7 +19516,11 @@
           <sense>
             <gloss xml:lang="lat-Latn">phanum</gloss>
           </sense>
-          <form>Kesca</form>
+          <form>Kesca<choice>
+              <sic>Kcsca,</sic>
+              <corr>Kisca?</corr>
+            </choice>
+          </form>
         </entry>
         <lb n="434" />
         <entry>
@@ -19361,6 +19557,8 @@
           </sense>
           <form>Me cuituem cafscetee nautɣresse</form>
         </entry>
+        <pb n="98" />
+        <milestone facs="#facs-124" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-113" />
         <lb n="439" />
         <entry>
           <sense>
@@ -19550,6 +19748,8 @@
           </sense>
           <form>Me stɣpune</form>
         </entry>
+        <pb n="99" />
+        <milestone facs="#facs-123" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-114" />
         <lb n="466" />
         <entry>
           <sense>
@@ -19739,6 +19939,8 @@
           </sense>
           <form>Uξξa egiane, e giate</form>
         </entry>
+        <pb n="100" />
+        <milestone facs="#facs-122" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-115" />
         <lb n="493" />
         <entry>
           <sense>
@@ -19928,6 +20130,8 @@
           </sense>
           <form>Mundim</form>
         </entry>
+        <pb n="101" />
+        <milestone facs="#facs-121" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-116" />
         <lb n="520" />
         <entry>
           <sense>
@@ -20117,6 +20321,8 @@
           </sense>
           <form>Papa I Romesse</form>
         </entry>
+        <pb n="102" />
+        <milestone facs="#facs-120" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-117" />
         <lb n="547" />
         <entry>
           <sense>
@@ -20306,6 +20512,8 @@
           </sense>
           <form>me epustuem</form>
         </entry>
+        <pb n="103" />
+        <milestone facs="#facs-119" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-118" />
         <lb n="574" />
         <entry>
           <sense>
@@ -20509,6 +20717,8 @@
           </sense>
           <form>Striginia</form>
         </entry>
+        <pb n="104" />
+        <milestone facs="#facs-118" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-119" />
         <lb n="603" />
         <entry>
           <sense>
@@ -20684,6 +20894,8 @@
           </sense>
           <form>ξane perpara</form>
         </entry>
+        <pb n="105" />
+        <milestone facs="#facs-117" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-120" />
         <lb n="628" />
         <entry>
           <sense>
@@ -20880,6 +21092,8 @@
           </sense>
           <form>Me ndritune perpara</form>
         </entry>
+        <pb n="106" />
+        <milestone facs="#facs-116" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-121" />
         <lb n="656" />
         <entry>
           <sense>
@@ -21062,6 +21276,8 @@
           </sense>
           <form>Munden scume ɛoti</form>
         </entry>
+        <pb n="107" />
+        <milestone facs="#facs-115" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-122" />
         <lb n="682" />
         <entry>
           <sense>
@@ -21230,6 +21446,8 @@
           </sense>
           <form>Me pritune</form>
         </entry>
+        <pb n="108" />
+        <milestone facs="#facs-114" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-123" />
         <lb n="706" />
         <entry>
           <sense>
@@ -21398,6 +21616,8 @@
           </sense>
           <form>Telutunate kiendijsse</form>
         </entry>
+        <pb n="109" />
+        <milestone facs="#facs-113" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-124" />
         <lb n="730" />
         <entry>
           <sense>
@@ -21601,6 +21821,8 @@
           </sense>
           <form>Mund me chiene</form>
         </entry>
+        <pb n="110" />
+        <milestone facs="#facs-112" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-125" />
         <lb n="759" />
         <entry>
           <sense>
@@ -21776,6 +21998,8 @@
           </sense>
           <form>Me vote perpara gnacas</form>
         </entry>
+        <pb n="111" />
+        <milestone facs="#facs-111" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-126" />
         <lb n="784" />
         <entry>
           <sense>
@@ -21972,6 +22196,8 @@
           </sense>
           <form>Fissi</form>
         </entry>
+        <pb n="112" />
+        <milestone facs="#facs-110" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-127" />
         <lb n="812" />
         <entry>
           <sense>
@@ -22161,6 +22387,8 @@
           </sense>
           <form>Struem</form>
         </entry>
+        <pb n="113" />
+        <milestone facs="#facs-109" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-128" />
         <lb n="839" />
         <entry>
           <sense>
@@ -22350,6 +22578,8 @@
           </sense>
           <form>Hicc</form>
         </entry>
+        <pb n="114" />
+        <milestone facs="#facs-108" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-129" />
         <lb n="866" />
         <entry>
           <sense>
@@ -22539,6 +22769,8 @@
           </sense>
           <form>Nregeniet</form>
         </entry>
+        <pb n="115" />
+        <milestone facs="#facs-107" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-130" />
         <lb n="893" />
         <entry>
           <sense>
@@ -22735,6 +22967,8 @@
           </sense>
           <form>Te ɛimtunijtee gruesse cuur lenfosgna</form>
         </entry>
+        <pb n="116" />
+        <milestone facs="#facs-106" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-131" />
         <lb n="921" />
         <entry>
           <sense>
@@ -22938,6 +23172,8 @@
           </sense>
           <form>Drita esɣut</form>
         </entry>
+        <pb n="117" />
+        <milestone facs="#facs-105" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-132" />
         <lb n="950" />
         <entry>
           <sense>
@@ -23120,6 +23356,8 @@
           </sense>
           <form>Ncater ochess</form>
         </entry>
+        <pb n="118" />
+        <milestone facs="#facs-104" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-133" />
         <lb n="15" />
         <entry>
           <sense>
@@ -23295,6 +23533,8 @@
           </sense>
           <form>Saamot aste, se erξe?</form>
         </entry>
+        <pb n="119" />
+        <milestone facs="#facs-103" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-134" />
         <lb n="40" />
         <entry>
           <sense>
@@ -23484,6 +23724,8 @@
           </sense>
           <form>Cuscdo</form>
         </entry>
+        <pb n="120" />
+        <milestone facs="#facs-102" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-135" />
         <lb n="67" />
         <entry>
           <sense>
@@ -23673,6 +23915,8 @@
           </sense>
           <form>Ndiere cuur</form>
         </entry>
+        <pb n="121" />
+        <milestone facs="#facs-101" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-136" />
         <lb n="94" />
         <entry>
           <sense>
@@ -23862,6 +24106,8 @@
           </sense>
           <form>Mnijs</form>
         </entry>
+        <pb n="122" />
+        <milestone facs="#facs-100" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-137" />
         <lb n="3" />
         <entry>
           <sense>
@@ -24051,6 +24297,8 @@
           </sense>
           <form>Rastiel</form>
         </entry>
+        <pb n="123" />
+        <milestone facs="#facs-99" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-138" />
         <lb n="30" />
         <entry>
           <sense>
@@ -24219,6 +24467,8 @@
           </sense>
           <form>Me britune, e meξane cundre</form>
         </entry>
+        <pb n="124" />
+        <milestone facs="#facs-98" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-139" />
         <lb n="54" />
         <entry>
           <sense>
@@ -24401,6 +24651,8 @@
           </sense>
           <form>Me stermenuem</form>
         </entry>
+        <pb n="125" />
+        <milestone facs="#facs-97" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-140" />
         <lb n="80" />
         <entry>
           <sense>
@@ -24520,6 +24772,8 @@
           </sense>
           <form>Me erafune per sedɣti</form>
         </entry>
+        <pb n="126" />
+        <milestone facs="#facs-96" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-141" />
         <lb n="97" />
         <entry>
           <sense>
@@ -24674,6 +24928,8 @@
           </sense>
           <form>ɛunetije edegne per ɛot, oò per Règ</form>
         </entry>
+        <pb n="127" />
+        <milestone facs="#facs-95" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-142" />
         <lb n="119" />
         <entry>
           <sense>
@@ -24828,6 +25084,8 @@
           </sense>
           <form>me schelchɣem</form>
         </entry>
+        <pb n="128" />
+        <milestone facs="#facs-94" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-143" />
         <lb n="141" />
         <entry>
           <sense>
@@ -24982,6 +25240,8 @@
           </sense>
           <form>Remb</form>
         </entry>
+        <pb n="129" />
+        <milestone facs="#facs-93" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-144" />
         <lb n="163" />
         <entry>
           <sense>
@@ -25115,6 +25375,8 @@
           </sense>
           <form>Me embluem</form>
         </entry>
+        <pb n="130" />
+        <milestone facs="#facs-92" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-145" />
         <lb n="182" />
         <entry>
           <sense>
@@ -25255,6 +25517,8 @@
           </sense>
           <form>Me cherchuem, e me pɣetune</form>
         </entry>
+        <pb n="131" />
+        <milestone facs="#facs-91" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-146" />
         <lb n="202" />
         <entry>
           <sense>
@@ -25416,6 +25680,8 @@
           </sense>
           <form>Me perderξune</form>
         </entry>
+        <pb n="132" />
+        <milestone facs="#facs-90" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-147" />
         <lb n="225" />
         <entry>
           <sense>
@@ -25563,6 +25829,8 @@
           </sense>
           <form>Me chezɣem tepermal</form>
         </entry>
+        <pb n="133" />
+        <milestone facs="#facs-89" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-148" />
         <lb n="246" />
         <entry>
           <sense>
@@ -25724,6 +25992,8 @@
           </sense>
           <form>Bersij</form>
         </entry>
+        <pb n="134" />
+        <milestone facs="#facs-88" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-149" />
         <lb n="269" />
         <entry>
           <sense>
@@ -25864,6 +26134,8 @@
           </sense>
           <form>Carroza</form>
         </entry>
+        <pb n="135" />
+        <milestone facs="#facs-87" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-150" />
         <lb n="289" />
         <entry>
           <sense>
@@ -26039,6 +26311,8 @@
           </sense>
           <form>Lɣpss, oò Lutess</form>
         </entry>
+        <pb n="136" />
+        <milestone facs="#facs-86" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-151" />
         <lb n="314" />
         <entry>
           <sense>
@@ -26214,6 +26488,8 @@
           </sense>
           <form>Te ɛanete fiill te leteresse</form>
         </entry>
+        <pb n="137" />
+        <milestone facs="#facs-85" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-152" />
         <lb n="339" />
         <entry>
           <sense>
@@ -26382,6 +26658,8 @@
           </sense>
           <form>Me gielune nder nierɛ te paaditune</form>
         </entry>
+        <pb n="138" />
+        <milestone facs="#facs-84" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-153" />
         <lb n="363" />
         <entry>
           <sense>
@@ -26536,6 +26814,8 @@
           </sense>
           <form>Ai ghi vieξ nde chisce</form>
         </entry>
+        <pb n="139" />
+        <milestone facs="#facs-83" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-154" />
         <lb n="18" />
         <entry>
           <sense>
@@ -26704,6 +26984,8 @@
           </sense>
           <form>Sallamoni, I biri i Regit Dauid</form>
         </entry>
+        <pb n="140" />
+        <milestone facs="#facs-82" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-155" />
         <lb n="42" />
         <entry>
           <sense>
@@ -26900,6 +27182,8 @@
           </sense>
           <form>Scintenia</form>
         </entry>
+        <pb n="141" />
+        <milestone facs="#facs-81" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-156" />
         <lb n="70" />
         <entry>
           <sense>
@@ -27096,6 +27380,8 @@
           </sense>
           <form>Me ndeguem</form>
         </entry>
+        <pb n="142" />
+        <milestone facs="#facs-80" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-157" />
         <lb n="98" />
         <entry>
           <sense>
@@ -27264,6 +27550,8 @@
           </sense>
           <form>Plot me gure</form>
         </entry>
+        <pb n="143" />
+        <milestone facs="#facs-79" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-158" />
         <lb n="122" />
         <entry>
           <sense>
@@ -27418,6 +27706,8 @@
           </sense>
           <form>Scopi i Regit, oò I Perandorit</form>
         </entry>
+        <pb n="144" />
+        <milestone facs="#facs-78" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-159" />
         <lb n="144" />
         <entry>
           <sense>
@@ -27579,6 +27869,8 @@
           </sense>
           <form>Scign cu nderechiene scegettete</form>
         </entry>
+        <pb n="145" />
+        <milestone facs="#facs-77" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-160" />
         <lb n="167" />
         <entry>
           <sense>
@@ -27768,6 +28060,8 @@
           </sense>
           <form>Sciut</form>
         </entry>
+        <pb n="146" />
+        <milestone facs="#facs-76" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-161" />
         <lb n="194" />
         <entry>
           <sense>
@@ -27964,6 +28258,8 @@
           </sense>
           <form>Paa droe</form>
         </entry>
+        <pb n="147" />
+        <milestone facs="#facs-75" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-162" />
         <lb n="222" />
         <entry>
           <sense>
@@ -28132,6 +28428,8 @@
           </sense>
           <form>Ngiaste mueiss</form>
         </entry>
+        <pb n="148" />
+        <milestone facs="#facs-74" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-163" />
         <lb n="246" />
         <entry>
           <sense>
@@ -28321,6 +28619,8 @@
           </sense>
           <form>Hesaap, aresɣɣe</form>
         </entry>
+        <pb n="149" />
+        <milestone facs="#facs-73" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-164" />
         <lb n="273" />
         <entry>
           <sense>
@@ -28510,6 +28810,8 @@
           </sense>
           <form>Ndiech tɣɣ</form>
         </entry>
+        <pb n="150" />
+        <milestone facs="#facs-72" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-165" />
         <lb n="300" />
         <entry>
           <sense>
@@ -28678,6 +28980,8 @@
           </sense>
           <form>Me eruetune, me embluem</form>
         </entry>
+        <pb n="151" />
+        <milestone facs="#facs-71" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-166" />
         <lb n="324" />
         <entry>
           <sense>
@@ -28867,6 +29171,8 @@
           </sense>
           <form>Me vescelɣem</form>
         </entry>
+        <pb n="152" />
+        <milestone facs="#facs-70" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-167" />
         <lb n="351" />
         <entry>
           <sense>
@@ -29056,6 +29362,8 @@
           </sense>
           <form>Sceign</form>
         </entry>
+        <pb n="153" />
+        <milestone facs="#facs-69" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-168" />
         <lb n="378" />
         <entry>
           <sense>
@@ -29231,6 +29539,8 @@
           </sense>
           <form>Dora estemangte</form>
         </entry>
+        <pb n="154" />
+        <milestone facs="#facs-68" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-169" />
         <lb n="403" />
         <entry>
           <sense>
@@ -29385,6 +29695,8 @@
           </sense>
           <form>Me scioghenuem</form>
         </entry>
+        <pb n="155" />
+        <milestone facs="#facs-67" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-170" />
         <lb n="425" />
         <entry>
           <sense>
@@ -29574,6 +29886,8 @@
           </sense>
           <form>Vece</form>
         </entry>
+        <pb n="156" />
+        <milestone facs="#facs-66" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-171" />
         <lb n="452" />
         <entry>
           <sense>
@@ -29749,6 +30063,8 @@
           </sense>
           <form>Me mbetune scendos</form>
         </entry>
+        <pb n="157" />
+        <milestone facs="#facs-65" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-172" />
         <lb n="477" />
         <entry>
           <sense>
@@ -29938,6 +30254,8 @@
           </sense>
           <form>Me mare frɣme</form>
         </entry>
+        <pb n="158" />
+        <milestone facs="#facs-64" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-173" />
         <lb n="504" />
         <entry>
           <sense>
@@ -30120,6 +30438,8 @@
           </sense>
           <form>me mbetune mbegna vend fermo</form>
         </entry>
+        <pb n="159" />
+        <milestone facs="#facs-63" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-174" />
         <lb n="530" />
         <entry>
           <sense>
@@ -30302,6 +30622,8 @@
           </sense>
           <form>Me sciochenuem, oò me perciele</form>
         </entry>
+        <pb n="160" />
+        <milestone facs="#facs-62" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-175" />
         <lb n="556" />
         <entry>
           <sense>
@@ -30442,6 +30764,8 @@
           </sense>
           <form>I ditescim</form>
         </entry>
+        <pb n="161" />
+        <milestone facs="#facs-61" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-176" />
         <lb n="576" />
         <entry>
           <sense>
@@ -30610,6 +30934,8 @@
           </sense>
           <form>Ndene maξestij</form>
         </entry>
+        <pb n="162" />
+        <milestone facs="#facs-60" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-177" />
         <lb n="600" />
         <entry>
           <sense>
@@ -30785,6 +31111,8 @@
           </sense>
           <form>Me zghieξune pertecpeite</form>
         </entry>
+        <pb n="163" />
+        <milestone facs="#facs-59" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-178" />
         <lb n="625" />
         <entry>
           <sense>
@@ -30946,6 +31274,8 @@
           </sense>
           <form>Meu ncuchiune pacheɛe</form>
         </entry>
+        <pb n="164" />
+        <milestone facs="#facs-58" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-179" />
         <lb n="648" />
         <entry>
           <sense>
@@ -31121,6 +31451,8 @@
           </sense>
           <form>Me fluuruem te permal</form>
         </entry>
+        <pb n="165" />
+        <milestone facs="#facs-57" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-180" />
         <lb n="673" />
         <entry>
           <sense>
@@ -31282,6 +31614,8 @@
           </sense>
           <form>Meu mbsuem cheich, oò mire</form>
         </entry>
+        <pb n="166" />
+        <milestone facs="#facs-56" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-181" />
         <lb n="696" />
         <entry>
           <sense>
@@ -31471,6 +31805,8 @@
           </sense>
           <form>me pijm paa cuer scume</form>
         </entry>
+        <pb n="167" />
+        <milestone facs="#facs-55" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-182" />
         <lb n="723" />
         <entry>
           <sense>
@@ -31632,6 +31968,8 @@
           </sense>
           <form>Me lutune me te prugnete</form>
         </entry>
+        <pb n="168" />
+        <milestone facs="#facs-54" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-183" />
         <lb n="746" />
         <entry>
           <sense>
@@ -31807,6 +32145,8 @@
           </sense>
           <form>Capuzaar</form>
         </entry>
+        <pb n="169" />
+        <milestone facs="#facs-53" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-184" />
         <lb n="771" />
         <entry>
           <sense>
@@ -31954,6 +32294,8 @@
           </sense>
           <form>Ai ghi bie, e spie lettere</form>
         </entry>
+        <pb n="170" />
+        <milestone facs="#facs-52" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-185" />
         <lb n="3" />
         <entry>
           <sense>
@@ -32129,6 +32471,8 @@
           </sense>
           <form>Possi</form>
         </entry>
+        <pb n="171" />
+        <milestone facs="#facs-51" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-186" />
         <lb n="28" />
         <entry>
           <sense>
@@ -32304,6 +32648,8 @@
           </sense>
           <form>Arme, oò te ieete Paterɛane, scpate, oò cdo</form>
         </entry>
+        <pb n="172" />
+        <milestone facs="#facs-50" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-187" />
         <lb n="53" />
         <entry>
           <sense>
@@ -32500,6 +32846,8 @@
           </sense>
           <form>Tre ghind</form>
         </entry>
+        <pb n="173" />
+        <milestone facs="#facs-49" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-188" />
         <lb n="81" />
         <entry>
           <sense>
@@ -32682,6 +33030,8 @@
           </sense>
           <form>Teologia</form>
         </entry>
+        <pb n="174" />
+        <milestone facs="#facs-48" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-189" />
         <lb n="107" />
         <entry>
           <sense>
@@ -32878,6 +33228,8 @@
           </sense>
           <form>Lɣme, Perrue</form>
         </entry>
+        <pb n="175" />
+        <milestone facs="#facs-47" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-190" />
         <lb n="135" />
         <entry>
           <sense>
@@ -33046,6 +33398,7 @@
           </sense>
           <form>Me nderruem emenite</form>
         </entry>
+        <pb n="176" />
         <lb n="159" />
         <entry>
           <sense>
@@ -33242,6 +33595,7 @@
           </sense>
           <form>Malegnɣem, per cuidessune</form>
         </entry>
+        <pb n="177" />
         <lb n="187" />
         <entry>
           <sense>
@@ -33431,6 +33785,8 @@
           </sense>
           <form>ξuunist</form>
         </entry>
+        <pb n="178" />
+        <milestone facs="#facs-46" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-191" />
         <lb n="214" />
         <entry>
           <sense>
@@ -33606,6 +33962,8 @@
           </sense>
           <form>Pustetia</form>
         </entry>
+        <pb n="179" />
+        <milestone facs="#facs-45" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-192" />
         <lb n="13" />
         <entry>
           <sense>
@@ -33788,6 +34146,8 @@
           </sense>
           <form>Iharruem</form>
         </entry>
+        <pb n="180" />
+        <milestone facs="#facs-44" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-193" />
         <lb n="39" />
         <entry>
           <sense>
@@ -33984,6 +34344,8 @@
           </sense>
           <form>Plot me ere</form>
         </entry>
+        <pb n="181" />
+        <milestone facs="#facs-43" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-194" />
         <lb n="67" />
         <entry>
           <sense>
@@ -34145,6 +34507,8 @@
           </sense>
           <form>ɛagaar</form>
         </entry>
+        <pb n="182" />
+        <milestone facs="#facs-42" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-195" />
         <lb n="90" />
         <entry>
           <sense>
@@ -34327,6 +34691,8 @@
           </sense>
           <form>Plach</form>
         </entry>
+        <pb n="183" />
+        <milestone facs="#facs-41" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-196" />
         <lb n="116" />
         <entry>
           <sense>
@@ -34523,6 +34889,8 @@
           </sense>
           <form>Me liξune</form>
         </entry>
+        <pb n="184" />
+        <milestone facs="#facs-40" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-197" />
         <lb n="144" />
         <entry>
           <sense>
@@ -34719,6 +35087,8 @@
           </sense>
           <form>Vic</form>
         </entry>
+        <pb n="185" />
+        <milestone facs="#facs-39" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-198" />
         <lb n="172" />
         <entry>
           <sense>
@@ -34915,6 +35285,8 @@
           </sense>
           <form>Telɣem</form>
         </entry>
+        <pb n="186" />
+        <milestone facs="#facs-38" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-199" />
         <lb n="200" />
         <entry>
           <sense>
@@ -35111,6 +35483,8 @@
           </sense>
           <form>Humb, Pluer ξika e plorit</form>
         </entry>
+        <pb n="187" />
+        <milestone facs="#facs-37" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-200" />
         <lb n="228" />
         <entry>
           <sense>
@@ -35300,6 +35674,8 @@
           </sense>
           <form>Chinesse</form>
         </entry>
+        <pb n="188" />
+        <milestone facs="#facs-36" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-201" />
         <lb n="255" />
         <entry>
           <sense>
@@ -35461,6 +35837,8 @@
           </sense>
           <form>Gigante</form>
         </entry>
+        <pb n="189" />
+        <milestone facs="#facs-35" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-202" />
       </div>
       <div n="1" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1" type="chapter" data-level="1">
         <head>
@@ -35507,7 +35885,7 @@
           <foreign xml:lang="lat-Latn">Tredecim,</foreign>
           <foreign xml:lang="ita-Latn">tredeci</foreign> Tre mbeξiete, <foreign xml:lang="tur-Latn">On üch</foreign>
           <pb n="190" />
-          <milestone facs="#facs-34" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1-p-8-milestone-17" />
+          <milestone facs="#facs-34" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1-p-8-milestone-203" />
           <lb n="14" />
           <foreign xml:lang="lat-Latn">Quatuorcedim,</foreign>
           <foreign xml:lang="ita-Latn">quatordeci</foreign> Catere mbeξiete, <foreign xml:lang="tur-Latn">On dort</foreign>
@@ -35554,7 +35932,7 @@
           <foreign xml:lang="lat-Latn">Viginti octo,</foreign>
           <foreign xml:lang="ita-Latn">venti otto</foreign> Gnaɛet etete, <foreign xml:lang="tur-Latn">Ighermi sekus</foreign>
           <pb n="191" />
-          <milestone facs="#facs-33" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1-p-8-milestone-18" />
+          <milestone facs="#facs-33" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1-p-8-milestone-204" />
           <lb n="29" />
           <foreign xml:lang="lat-Latn">Viginti nouem,</foreign>
           <foreign xml:lang="ita-Latn">venti noue</foreign> Gnaɛet enande, <foreign xml:lang="tur-Latn">Ighermi dokus</foreign>
@@ -35607,7 +35985,7 @@
           <foreign xml:lang="lat-Latn">Noningenti,</foreign>
           <foreign xml:lang="ita-Latn">noue cento</foreign> Nande ghind, <foreign xml:lang="tur-Latn">Dcchus ius</foreign>
           <pb n="192" />
-          <milestone facs="#facs-32" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1-p-8-milestone-19" />
+          <milestone facs="#facs-32" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1-p-8-milestone-205" />
           <lb n="46" />
           <foreign xml:lang="lat-Latn">Mille,</foreign>
           <foreign xml:lang="ita-Latn">mille</foreign> Gne mije, <foreign xml:lang="tur-Latn">Bin</foreign>
@@ -35649,7 +36027,7 @@
 <lb n="10" />
           <foreign xml:lang="lat-Latn">Decimus</foreign> I ξieti
 <pb n="193" />
-          <milestone facs="#facs-31" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1-p-9-milestone-20" />
+          <milestone facs="#facs-31" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1-p-9-milestone-206" />
           <lb n="11" />
           <foreign xml:lang="lat-Latn">Undecimus</foreign> Igna mbeξieti
 <lb n="12" />
@@ -35693,7 +36071,7 @@
 <lb n="31" />
           <foreign xml:lang="lat-Latn">Et sic ininfinitum</foreign> E chestu paa tesossune
 <pb n="194" />
-          <milestone facs="#facs-30" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1-p-9-milestone-21" />
+          <milestone facs="#facs-30" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1-p-9-milestone-207" />
         </p>
       </div>
       <div n="2" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-2" type="chapter" data-level="1">
@@ -35721,7 +36099,7 @@
           <foreign xml:lang="lat-Latn">Consobrinus,</foreign>
           <foreign xml:lang="ita-Latn">Cugino</foreign> Cuscerij, <foreign xml:lang="tur-Latn">Amuga</foreign>
           <pb n="195" />
-          <milestone facs="#facs-29" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-2-p-10-milestone-22" />
+          <milestone facs="#facs-29" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-2-p-10-milestone-208" />
           <lb n="7" />
           <foreign xml:lang="lat-Latn">Nepos,</foreign>
           <foreign xml:lang="ita-Latn">fratris filius, siuè sororis</foreign> Inipij tuelaat, <foreign xml:lang="tur-Latn">oò semotresse</foreign>
@@ -35771,7 +36149,7 @@
           <foreign xml:lang="lat-Latn">Sponsa,</foreign>
           <foreign xml:lang="ita-Latn">sposa</foreign> Nusseia, <foreign xml:lang="tur-Latn">Gelin</foreign>
           <pb n="196" />
-          <milestone facs="#facs-28" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-2-p-11-milestone-23" />
+          <milestone facs="#facs-28" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-2-p-11-milestone-209" />
         </p>
       </div>
       <div n="3" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-3" type="chapter" data-level="1">
@@ -35786,7 +36164,7 @@
 <lb n="3" />
           <foreign xml:lang="lat-Latn">Ciuitas noua, siuè</foreign> Ducagina <foreign xml:lang="lat-Latn">ædificata his nostris temporibus in arduis, asperisque Albaniæ montibus à Turca quodam Epirota nomine</foreign>
           <pb n="197" />
-          <milestone facs="#facs-27" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-3-p-12-milestone-24" />
+          <milestone facs="#facs-27" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-3-p-12-milestone-210" />
           <lb n="4" />
           <foreign xml:lang="lat-Latn">Buloli, Ducaginorum</foreign>
           <foreign xml:lang="lat-Latn">Præfecto, vel ut Turcico more dicamus,</foreign> Sanzacho, <foreign xml:lang="lat-Latn">Città nuoua, ò</foreign> Ducagini, Gɣtetia eree, oò Ducagin.
@@ -35802,7 +36180,7 @@
           <lb n="8" />
           <foreign xml:lang="lat-Latn">Euorea, Patria S. Donati Episcopi, vide Baronium in Martyrologio Romano ultimo die Aprilis, Euoria.</foreign>
           <pb n="198" />
-          <milestone facs="#facs-26" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-3-p-12-milestone-25" />
+          <milestone facs="#facs-26" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-3-p-12-milestone-211" />
           <lb n="9" />
           <foreign xml:lang="lat-Latn">Lissus, siuè Alessium Urbs iuxta mare Ionium ad ripam amænissimi fluminis Drini constituta, in qua obijt Georgius Scanderbegus, iam nominatus, consule Marinum Barletium &amp; Georgium Bartholdum de eiusdem vita, &amp; nobilissimis voctoriis portatis. Alessio,</foreign> Lescia.
 <lb n="10" />
@@ -35829,7 +36207,7 @@
 <lb n="20" />
           <foreign xml:lang="lat-Latn">Ulcinium,</foreign> Dolcigno, Ulgnigni, <foreign xml:lang="lat-Latn">&amp;c.</foreign>
           <pb n="199" />
-          <milestone facs="#facs-25" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-3-p-12-milestone-26" />
+          <milestone facs="#facs-25" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-3-p-12-milestone-212" />
         </p>
       </div>
       <div n="4" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4" type="chapter" data-level="1">
@@ -35869,7 +36247,7 @@
           <lb n="24" />Mbeccane vende <foreign xml:lang="lat-Latn">Quorsum, ad quod latus</foreign>
           <lb n="25" />Mbanete diaξξte <foreign xml:lang="lat-Latn">Dextrorsum</foreign>
           <pb n="200" />
-          <milestone facs="#facs-24" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4-p-13-milestone-27" />
+          <milestone facs="#facs-24" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4-p-13-milestone-213" />
           <foreign xml:lang="lat-Latn">De Aduerbiis</foreign>
           <lb n="26" />Mbanete stemangte <foreign xml:lang="lat-Latn">Sinistrorsum</foreign>
           <lb n="27" />Perpara <foreign xml:lang="lat-Latn">Antè</foreign>
@@ -35918,7 +36296,7 @@
           <lb n="2" />Sascte <foreign xml:lang="lat-Latn">Non est</foreign>
           <lb n="3" />Sascte emi <foreign xml:lang="lat-Latn">non est Meum</foreign>
           <pb n="201" />
-          <milestone facs="#facs-23" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4-p-16-milestone-28" />
+          <milestone facs="#facs-23" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4-p-16-milestone-214" />
           <foreign xml:lang="lat-Latn">Affirmandi</foreign>
           <lb n="4" />Asctu ascte <foreign xml:lang="lat-Latn">Ita est</foreign>
           <lb n="5" />Vertet ascte <foreign xml:lang="lat-Latn">Verum est. quod melius</foreign>
@@ -35949,7 +36327,7 @@
           <lb n="23" />Perssechestu <foreign xml:lang="lat-Latn">quid ita?</foreign>
           <lb n="24" />Chiscdò <foreign xml:lang="lat-Latn">quid vis</foreign>
           <pb n="202" />
-          <milestone facs="#facs-22" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4-p-16-milestone-29" />
+          <milestone facs="#facs-22" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4-p-16-milestone-215" />
           <foreign xml:lang="lat-Latn">Similitudinis</foreign>
           <lb n="25" />Possi <foreign xml:lang="lat-Latn">tanquam</foreign>
           <lb n="26" />Possi Cau <foreign xml:lang="lat-Latn">tanquam Bos</foreign>
@@ -35987,7 +36365,7 @@
           <lb n="9" />Ghiscdo <foreign xml:lang="lat-Latn">quid vis?</foreign>
           <lb n="10" />Iam chetu <foreign xml:lang="lat-Latn">adsum,</foreign> Turghist <foreign xml:lang="tur-Latn">Bundaim</foreign>
           <pb n="203" />
-          <milestone facs="#facs-21" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4-p-17-milestone-30" />
+          <milestone facs="#facs-21" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4-p-17-milestone-216" />
           <foreign xml:lang="lat-Latn">Iurandi</foreign>
           <lb n="11" />Pertene ɛone <foreign xml:lang="lat-Latn">Per nostrum Deum</foreign>
           <lb n="12" />Pertene ɛone ghi haste mbi chielt <foreign xml:lang="lat-Latn">Per Deum nostrum quæ est super cœlos</foreign>
@@ -36011,7 +36389,7 @@
           <lb n="27" />Chiofte <foreign xml:lang="lat-Latn">fiat</foreign>
           <lb n="28" />Letescogne <foreign xml:lang="lat-Latn">Transeat</foreign>
           <pb n="204" />
-          <milestone facs="#facs-20" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4-p-17-milestone-31" />
+          <milestone facs="#facs-20" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4-p-17-milestone-217" />
         </p>
       </div>
       <div n="5" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-5" type="chapter" data-level="1">
@@ -36036,7 +36414,7 @@
           <foreign xml:lang="lat-Latn">Et isti etiam.</foreign> Nde <foreign xml:lang="lat-Latn">si addatur R fit</foreign> Nder, <foreign xml:lang="lat-Latn">&amp; seruiet loco præpositionis Inter. Ut:</foreign>
           <lb n="11" />Nder mue e Nder tɣɣ ɛotɣne Kaa megɣcuem <foreign xml:lang="lat-Latn">Inter me &amp; Inter te Deus noster iudicabit.</foreign>
           <pb n="205" />
-          <milestone facs="#facs-19" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-5-p-18-milestone-32" />
+          <milestone facs="#facs-19" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-5-p-18-milestone-218" />
         </p>
         <p n="Praep.temp." xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-5-p-19">
           <lb n="1" />
@@ -36076,7 +36454,7 @@
           <lb n="20" />
           <foreign xml:lang="lat-Latn">Absque sine</foreign> Paa, <foreign xml:lang="lat-Latn">quæ priuationem significant, ut</foreign>
           <pb n="206" />
-          <milestone facs="#facs-18" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-5-p-20-milestone-33" />
+          <milestone facs="#facs-18" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-5-p-20-milestone-219" />
           <lb n="21" />Paa duer <foreign xml:lang="lat-Latn">absque manibus</foreign>
           <lb n="22" />Paa Denare <foreign xml:lang="lat-Latn">sine pecunijs</foreign>
           <lb n="23" />Paa miecre <foreign xml:lang="lat-Latn">sine barba</foreign>
@@ -36106,7 +36484,7 @@
           <lb n="5" />Bucure: afferim: Euge. <foreign xml:lang="lat-Latn">Admirantis:</foreign>
           <lb n="6" />Allaha, allaha, Pachechɣre, Pachechɣre.
           <pb n="207" />
-          <milestone facs="#facs-17" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-6-p-21-milestone-34" />
+          <milestone facs="#facs-17" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-6-p-21-milestone-220" />
         </p>
       </div>
       <div n="8_(7)" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7" type="chapter" data-level="1">
@@ -36126,7 +36504,7 @@
           <lb n="8" />Kis te baiss bane urtscim, e sucò si Kaa mete dale. <foreign xml:lang="lat-Latn">Quidquid agis, prudenter agis, &amp; respice finem.</foreign>
           <lb n="9" />Giξξe cafscene mete percuerm <foreign xml:lang="lat-Latn">Omnia cum mediocritate.</foreign>
           <pb n="208" />
-          <milestone facs="#facs-16" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-35" />
+          <milestone facs="#facs-16" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-221" />
           <lb n="10" />Nieriu iurte giξξe cafscene tndom <foreign xml:lang="lat-Latn">Prudens homo omnia tentat</foreign>
           <lb n="11" />Gindene scume duer Niereɛis <foreign xml:lang="ita-Latn">Egli è differenza tra gli huomini.</foreign>
           <lb n="12" />Sucome stane, ani te baamete <foreign xml:lang="lat-Latn">Qualis vir talis oratio.</foreign>
@@ -36141,7 +36519,7 @@
           <lb n="20" />Memijte hà, e pi, e tregh mos ban. <foreign xml:lang="ita-Latn">Con gli amici mangiar', e bere, e non intrar in partida.</foreign>
           <lb n="21" />Gnana doræ laan tieterene, ete dɣɣia laagnene fachiene <foreign xml:lang="ita-Latn">Una mano laua l'altra, &amp; le due lauano la faccia.</foreign>
           <pb n="209" />
-          <milestone facs="#facs-15" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-36" />
+          <milestone facs="#facs-15" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-222" />
           <lb n="22" />Anemicu plach, stebahete cuurre mich, ende tu mbafte sbahete idereite <foreign xml:lang="ita-Latn">Un vecchio nemico non può diuentar amico, &amp; se sarà non sarà perfetto.</foreign>
           <lb n="23" />Schiferi sgittete mbas miɛascit <foreign xml:lang="lat-Latn">Accipiter non captat Muscas.</foreign>
           <lb n="24" />Ma mire me hestune, se scume me fole <foreign xml:lang="lat-Latn">Melius est tacere, quam multa loqui</foreign>
@@ -36156,7 +36534,7 @@
           <lb n="31" />Atto cafsce ghi ste kaane bie, este per kassene Sduhete me i desceruem <foreign xml:lang="lat-Latn">Quæ non decent, ea nè appetas.</foreign>
           <lb n="32" />Atto cafsce ghi biene teξimtune sduhete mei cuituem
           <pb n="210" />
-          <milestone facs="#facs-14" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-37" />
+          <milestone facs="#facs-14" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-223" />
           <foreign xml:lang="ita-Latn">Meglio è passare con silentio, che ricordarsi di quelle, che portano dolore.</foreign>
           <lb n="33" />Ma mire me decune gna here, se me ureɛicuem giξξehere. <foreign xml:lang="lat-Latn">Satius est semel subire quam cauere semper.</foreign>
           <lb n="34" />Kisdo ɛoghela oò bilbili ia biè prendeueera. <foreign xml:lang="lat-Latn">Qui amat perculum, peribit in eo.</foreign>
@@ -36175,7 +36553,7 @@
           <lb n="42" />Molla nuche rezohete largh mmollet. Turghist: <foreign xml:lang="tur-Latn">Alma agatsdan irak duschamas.</foreign>
           <lb n="43" />Giξξe cafscene me mot Turghist: <foreign xml:lang="tur-Latn">hernes/fte samanile.</foreign>
           <pb n="211" />
-          <milestone facs="#facs-13" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-38" />
+          <milestone facs="#facs-13" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-224" />
           <foreign xml:lang="ita-Latn">Ogni cosa col tempo.</foreign>
           <lb n="44" />Duhete me pritune rend. <foreign xml:lang="lat-Latn">Temporibus decet optari.</foreign>
           <foreign xml:lang="lat-Latn">Seneca.</foreign>
@@ -36194,7 +36572,7 @@
           <foreign xml:lang="lat-Latn">Unusquisque poculum mortis bibit.</foreign>
           <lb n="55" />Morne sduhete mee haruem, persse sod mue neseere tɣɣ
           <pb n="212" />
-          <milestone facs="#facs-12" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-39" />
+          <milestone facs="#facs-12" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-225" />
           <foreign xml:lang="lat-Latn">Mortem haud obliuiscere: nam semper hodie mihi cras tibi. Hodie mihi cras tibi.</foreign> Sod mue nessere tɣɣ
 <lb n="56" />Site ndeergnes asctu chee mechiene ndeerune <foreign xml:lang="lat-Latn">Ut salutabis ita resalutaberis,</foreign>
           <foreign xml:lang="lat-Latn">vel:</foreign>
@@ -36208,7 +36586,7 @@
           <lb n="63" />Cu giaa saste, giaa sgindete <foreign xml:lang="ita-Latn">Doue non è non sene può torre.</foreign>
           <lb n="64" />Possi leu astu des Nierij. Iob. c. 21 <foreign xml:lang="lat-Latn">Nudus egressus sum, &amp; nudud reuertar illuc.</foreign>
           <pb n="213" />
-          <milestone facs="#facs-11" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-40" />
+          <milestone facs="#facs-11" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-226" />
           <lb n="65" />Kaali aste iatij ghi egalcon <foreign xml:lang="ita-Latn">I Cauallo è di quel, che lo caualca.</foreign>
           <lb n="66" />Gna guur sban muur <foreign xml:lang="ita-Latn">Una pietra non fa il muro.</foreign>
           <lb n="67" />ξeu iɛij ban buchenee barξξe <foreign xml:lang="ita-Latn">Terra negra fa buona biada.</foreign>
@@ -36224,7 +36602,7 @@
           <lb n="77" />Si me sce, astu me scruei <foreign xml:lang="lat-Latn">Come me vedette, così mi scriuete.</foreign>
           <lb n="78" />Chiet scegiettene, embscefen archne <foreign xml:lang="lat-Latn">Sagittam emittit, arcumque abscondit.</foreign>
           <pb n="214" />
-          <milestone facs="#facs-10" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-41" />
+          <milestone facs="#facs-10" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-227" />
           <lb n="79" />Nde gnanet vesc me hijn, e per tieterit me del <foreign xml:lang="lat-Latn">In auribus verbum istud peregrinatur.</foreign>
           <lb n="80" />Nderte verbenit ti ende mberscil sɣɣte <foreign xml:lang="ita-Latn">Fra gli orbi tu anchora serra gli occhi</foreign>
           <lb n="81" />Iuerbeni hiec te verbenine, ete dɣ nde fosset rezohene Iscen Maξξei c. 15 <foreign xml:lang="lat-Latn">Cæcus si cæco ductum det ambo in foueam cadunt,</foreign>
@@ -36242,7 +36620,7 @@
           <lb n="90" />Mos me mer cmos me chieξane <foreign xml:lang="lat-Latn">Ne tollas quod mihi non dedisti.</foreign>
           <lb n="91" />Lufta emaξe ban painee amble
           <pb n="215" />
-          <milestone facs="#facs-9" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-42" />
+          <milestone facs="#facs-9" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-228" />
           <foreign xml:lang="ita-Latn">Una gran guerra fa una dolce pace</foreign>
           <lb n="92" />Euerteta spelchien giξξe cuui <foreign xml:lang="lat-Latn">Non omnibus veritas placet</foreign>
           <lb n="93" />Ucucu ghimene nderron, ma vessne se harron <foreign xml:lang="lat-Latn">Lupus pilum mutat, non mentem, vel mores.</foreign>
@@ -36259,7 +36637,7 @@
           <foreign xml:lang="lat-Latn">Turcicè,</foreign> Turghist. <foreign xml:lang="tur-Latn">Ben gelebi, se gelebi Att khim kaschar?</foreign>
           <lb n="101" />Hu fisnich, eti finich, e caste caalit cusistie? <foreign xml:lang="ita-Latn">Io sono nobile, &amp; tu sei nobile: ma chi darà il fieno al Cauallo?</foreign>
           <pb n="216" />
-          <milestone facs="#facs-8" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-43" />
+          <milestone facs="#facs-8" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-229" />
           <lb n="102" />Scegeta estijme scheξξen <foreign xml:lang="ita-Latn">La frezza tirata non torna.</foreign>
           <lb n="103" />Mos te mundofte imunduemi <foreign xml:lang="ita-Latn">Dio ti guardi da quello que estato battuto.</foreign>
           <lb n="104" />Si te bais, astu chie megietune <foreign xml:lang="ita-Latn">Secondo che un fà, cosi trouarà.</foreign>
@@ -36272,7 +36650,7 @@
           <lb n="109" />Maa mire meξɣem crɣete se me vum ɛacon terij oò te ligteree <foreign xml:lang="ita-Latn">E meglio sparger sangue che far nuoua legge.</foreign>
           <lb n="110" />Nde tepaassa gna tieter here, kaa mechiene edɣta here.
           <pb n="217" />
-          <milestone facs="#facs-7" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-44" />
+          <milestone facs="#facs-7" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-22-milestone-230" />
           <foreign xml:lang="ita-Latn">Se te vederò un'altra volta, sarà la seconda volta.</foreign>
           <lb n="111" />Sduhete me lueitune megure perplete <foreign xml:lang="ita-Latn">Non bisogna scherzare con i sassi in sù.</foreign>
           <lb n="112" />Ma veien gna ξelpene igiale, se gna Luaa izoffete <foreign xml:lang="ita-Latn">Val più una colpe che camina, che un Leone che giace.</foreign>
@@ -36286,7 +36664,7 @@
           <lb n="2" />
           <foreign xml:lang="lat-Latn">Responsio eorum</foreign> Mirese tesijellechaa ediaξata etine ɛot, Ndo ende tɣɣ teξascte paich illumi ɛot;
 <pb n="218" />
-          <milestone facs="#facs-6" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-23-milestone-45" />
+          <milestone facs="#facs-6" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-23-milestone-231" />
           <foreign xml:lang="lat-Latn">Benè te conduxit dextera nostri Dei,</foreign> vel. <foreign xml:lang="lat-Latn">Et tibi donet pacem misericors Deus,</foreign>
           <foreign xml:lang="lat-Latn">&amp;c.</foreign>
           <lb n="3" />
@@ -36306,7 +36684,7 @@
           <lb n="7" />
           <foreign xml:lang="lat-Latn">Interrogatio:</foreign> Ghisterij aste ndato ane tuei andei? <foreign xml:lang="lat-Latn">Quid noui est in vestris partibus?</foreign>
           <pb n="219" />
-          <milestone facs="#facs-5" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-23-milestone-46" />
+          <milestone facs="#facs-5" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-23-milestone-232" />
           <lb n="8" />
           <foreign xml:lang="lat-Latn">Responsio:</foreign> Sdij chisc terij desceron me ditune, ghi teteξom. <foreign xml:lang="lat-Latn">Nescio quid novis cupis scire, ut tibi dicam.</foreign>
           <lb n="9" />
@@ -36326,7 +36704,7 @@
           <lb n="16" />
           <foreign xml:lang="lat-Latn">Demonstratio:</foreign> Scucò mbanete diasξte preisedalet se Dielit. <foreign xml:lang="lat-Latn">Respice ad dexteram ad ortum Solis.</foreign>
           <pb n="220" />
-          <milestone facs="#facs-4" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-23-milestone-47" />
+          <milestone facs="#facs-4" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-23-milestone-233" />
           <lb n="17" />
           <foreign xml:lang="lat-Latn">Descriptio</foreign> Aste gna stepij enalte possi Chestiel <foreign xml:lang="lat-Latn">Est una Domus alta tamquam Castellum.</foreign>
           <lb n="18" />
@@ -36336,7 +36714,7 @@
           <lb n="20" />
           <foreign xml:lang="lat-Latn">Interrogatio:</foreign> Chisc dro hoi perse suien? <foreign xml:lang="lat-Latn">He quem times quare non venis?</foreign> Nata emire te chiofte <foreign xml:lang="lat-Latn">Nox fausta tibi sit.</foreign> Ende tɣɣ mae mire <foreign xml:lang="lat-Latn">Et tibi fælicior.</foreign> Chiofte, Lbeduem ɛotɣne ghi me dau nsi <foreign xml:lang="lat-Latn">Sit laudatus Deus noster qui me separauit ab illo.</foreign>
           <pb n="221" />
-          <milestone facs="#facs-3" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-23-milestone-48" />
+          <milestone facs="#facs-3" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-23-milestone-234" />
           <lb n="21" />
           <foreign xml:lang="lat-Latn">Aliæ salutationes eiusdem pulchriores præcedentibus</foreign> Tefalunite <foreign xml:lang="lat-Latn">Salutatio</foreign> Falemi genioo <foreign xml:lang="lat-Latn">Aue mi parens.</foreign>
           <lb n="22" />
@@ -36354,7 +36732,7 @@
           <lb n="28" />
           <foreign xml:lang="lat-Latn">Responsio:</foreign> Heia me mue emos drue giaa hijc <foreign xml:lang="lat-Latn">veni mecum ne timeas quicquem.</foreign>
           <pb n="222" />
-          <milestone facs="#facs-2" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-23-milestone-49" />
+          <milestone facs="#facs-2" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-23-milestone-235" />
           <lb n="29" />
           <foreign xml:lang="lat-Latn">Interrogatio:</foreign> Aiane tas chetɣne uξeue Cussare, oò hain? <foreign xml:lang="lat-Latn">Sunt nè in istis itineribus Latrones?</foreign>
           <lb n="30" />
@@ -36368,7 +36746,7 @@
           <lb n="34" />
           <foreign xml:lang="lat-Latn">Hæc pauca linguæ Epirotarum, siuè Albenesiorum vocabula tibi non tam necessitatis, quam delectationis gratia, candide lector adduxi. Vale.</foreign>
           <pb n="223" />
-          <milestone facs="#facs-1" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-23-milestone-50" />
+          <milestone facs="#facs-1" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-23-milestone-236" />
         </p>
         <p n="Adm." xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7-p-24">
           <foreign xml:lang="lat-Latn">Admonitio de erroribus</foreign> Tue mos dijtune Stampatorete ghiuhenee Arbenesce, ndoonesse une iemendogne, ei nderegne fiallete, persseriu ncheξeine e feieine mbe dissa visse: prastù dissa error ghi muita indereghia, ei vuna giξξe basche, e mundeni me igetune chetu perfundi me te gnefunat; ete tierete ilae urtijsse saai, ghi ti emendogne paa nɣterime, e paa ɛaa; flass chesctù, persse udob chiscte cusc me stremenuem buɛete, e me scundune crɣete mbe vepera te tiereue, maa me vum dorene mbe Pendet, e me fietune pach, <foreign xml:lang="lat-Latn">hoc opus hic labor,</foreign> sicuur me ξane cheto festijr iane, e scume vete chisne me sterguem crahete e me ξane se smundign, e siam iɛoti: <foreign xml:lang="lat-Latn">itaque mitè corriges.</foreign>
