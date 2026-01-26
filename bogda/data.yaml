@@ -71,8 +71,8 @@ text:
             - item[n=IV.XI]: Ligierata IV. E caterta Jette e scecuλit.
             - item[n=IV.XI]: Ligierata V. E pensta jetè e scecuλit.
             - item[n=IV.XI]: Ligierata VI. E giascta Jetè e scecuλit.
+    - pb[n=xiii]
     - scala[n=Prim.]:
-      - pb[n=xiii]
       - head: TE PRIMITE PERPARA LETTERARIT
       - ab[n=a,type=verse]:
         - foreign[lg=lat-Latn]:
@@ -373,8 +373,8 @@ text:
       - ab[n=dw,type=verse]: Giξξe kusc dò gni Selij,
       - ab[n=dx,type=verse]: Mbe Chielt' ani ta gheɛogne,
       - ab[n=dy,type=verse]: Kendoj Luca Bogdani.
+    - pb[n=1]
     - scala[n=I]:
-      - pb[n=1]
       - head: Si criioi ɛotüne nierine; Mcatit, e mengijet sè tijnaj.
       - chapter[n=I]:
         - head: Si ansctè Hüji ndè vetèhe.
@@ -5327,8 +5327,8 @@ text:
             fachiessè simè, e cpeit ka me arξunè ndè Kiscetè vet ɛotenori ɛot. Ketù
             vertetetè descmignenia, e Ungiλit Scint Marcu 3. ɛanij i ξξirrezit ndè
             sckretetijt, gatoni uξenè Tiuèɛot e nderecheni giurmetè tijnaj.
+    - pb[n=157]
     - scala[n=IV]:
-      - pb[n=157]
       - chapter[n=I]:
         - head: Ieta e ξiete Sibilavet, e kankete tüne.
         - p[n=1]:
@@ -5648,8 +5648,8 @@ text:
             mbajtunè pèr Profetessa. Ma vecè atò tè ξjetè pèrsipèri janè prej Dottoresc
             mbajtunè pèr tè scelbuemè. Ketà ansctè atà, chi mujnti meu mbeleξunè pèr
             mbij Sibilat.
+    - pb[n=177]
     - scala[n=Lig.I]:
-      - pb[n=177]
       - head: Per mbi te giascte Ietete Sceculit.
       - ab[n=a,type=verse]: 'I pari Vjet   Adami kjè Crijuem te parene Vjette se crijumise
           Scecuλit e tè giasctene ditte. Adami gniofti Euene gruene vet essiλa leu
@@ -6061,8 +6061,8 @@ text:
             - item[n=IV.IV.]: Si ka me arξune Iesu Chriscti me giukuem sceculline
                 dittet se giüchit
             - item[n=IV.IV.]: Plechienia e sctepisse Bogdanagnet
+    - pb[n=1]
     - scala[n=I]:
-      - pb[n=1]
       - head: Scala I.
       - head: Ieta e Iesu Chrisctit scelbues vertetit Messii.
       - chapter[n=I]:
@@ -7573,8 +7573,8 @@ text:
             endè t' pa ditunet, Michiè, e Anemichiè, Dittenè, e Nattene, kiscevet,
             e uξevet, Malevet, e fusciauet, me gni te veteme fjale, me duer, e me
             urate.
+    - pb[n=46]
     - scala[n=II]:
-      - pb[n=46]
       - head: E mreculiit e Iesu Chrisctit ɛotit tine
       - chapter[n=I]:
         - head: Si è kξei Iesu Chriscti Ujetè ndè vene Ndè Cana Gallillet. Si è kîei
@@ -9250,8 +9250,8 @@ text:
             ata fort i ξunè, duel' assò Sctepijè, e assò Giütetjè, basckè me senjtenit
             Apostujitè vet, e mè ata votè possi kisc ɛacon per herè mè baam nde Copesctitè
             Getsemanit per tè Perruenè Cedronit.
+    - pb[n=97]
     - scala[n=III]:
-      - pb[n=97]
       - head: Pessimi e mortia e ɛotit tine Iesu Chrisct
       - chapter[n=I]:
         - head: Si Iesu Chriscti diersi giak nde kopescte e traξetiia e Iudesse. Si
@@ -10314,8 +10314,8 @@ text:
             mè vetehe Spijrtenit' e Scenjtenet Atè; Vottè Scenjti Spijrt ndè vor'
             ku po rrij Scenjti Corpi vet mbesctieλè ndè Lenzojt', e fachieja ndè Pasctèmalt',
             pergni si hini aj i Lum Spijrt, e ngitti mè vetehè, e kξej mbè jetè.
+    - pb[n=130]
     - scala[n=IV]:
-      - pb[n=130]
       - head: Se ngiallunit e se arξunit se düiti, te Chrisctit scelbues. Se ngiallunit
           e se arîunit se düiti, te Chrisctit scelbues.
       - chapter[n=I]:
