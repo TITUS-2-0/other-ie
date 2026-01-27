@@ -8,6 +8,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
+- fix notes (2026-01-04)
 - dictionary version (2025-12-22)
 - valid version (2025-12-02)
 
