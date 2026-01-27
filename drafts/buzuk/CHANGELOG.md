@@ -8,4 +8,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- valid version (2025-04-22)
+- handle chapter headers (2025-12-13)
+- split into `<p>` (2025-12-13)
+- valid version (2025-04-21)
