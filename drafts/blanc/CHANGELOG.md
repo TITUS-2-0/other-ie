@@ -8,4 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Changed
-- valid version (2025-04-22)
+- fix notes (2026-01-15)
+- dictionary version (2025-12-22)
+- valid version (2025-12-02)
+
+### Added
+- titlepage (2025-12-14)
