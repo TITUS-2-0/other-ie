@@ -28,7 +28,7 @@
           <p>Preferred citation: <note type="citation">Digital version of Missale by Gjon Buzuku (draft version). 2025-12-13. By: Jost Gippert, Wolfgang Hock, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">unreleased</idno>
+        <idno type="version">0.1.0</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl xml:id="buzuk-1">
