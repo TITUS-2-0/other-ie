@@ -39,11 +39,11 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="aln-Latn-x-buzuku" ana="primary">Gheg Albanian</language>
-        <language ident="lat-Latn" ana="secondary">Latin</language>
-        <language ident="ita-Latn" ana="secondary">Italian</language>
-        <language ident="tur-Latn" ana="secondary">Turkish</language>
-        <language ident="und-Latn-x-general" ana="meta">General</language>
+        <language ana="primary" ident="aln-Latn-x-buzuku">Gheg Albanian</language>
+        <language ana="secondary" ident="lat-Latn">Latin</language>
+        <language ana="secondary" ident="ita-Latn">Italian</language>
+        <language ana="secondary" ident="tur-Latn">Turkish</language>
+        <language ana="meta" ident="und-Latn-x-general">General</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
@@ -1246,7 +1246,7 @@
         </docImprint>
         <imprimatur>SVPERIORVM PERMISSV.</imprimatur>
       </titlePage>
-      <div type="dedication" xml:id="front-1-dedication-1" data-level="1">
+      <div data-level="1" type="dedication" xml:id="front-1-dedication-1">
         <milestone facs="#facs-235" unit="ref" xml:id="front-1-dedication-1-milestone-2" />
         <head>
           <foreign xml:lang="lat-Latn">MIS</foreign>
@@ -1266,7 +1266,7 @@
           <foreign xml:lang="lat-Latn">quàm sint latinae omninò imperiti. Iam in dies, quod omnium pessimarum institutionem ingenium est, serpunt in Sacramentis administrandis improbandae consuetudines, sacerdotumq. vitio Christianae religionis optimi ritus, atque Sanctissimi exolescunt. Integrae nationi consultum satis existimaui, si cum latino sermone formulas Epiroticae linguae componerem, si nominum, atque verborum seriem complurium exponerem ratus, faciliorem in regiones illas aditum Sacri Euangelii propagatoribus redditurum. Vos Principes Eminentissimi qui totum terrarum orbem eximiae charitatis fouvetis amplexu, Vestra beneficentia, et Epirum subleuate, ut caetri omnes intelligant Vobis non minus regionem illam, quam Prouincias alias, et Regna integra Cordi esse. Valete.</foreign>
         </p>
       </div>
-      <div type="preface" xml:id="front-1-dedication-1-preface-1" data-level="1">
+      <div data-level="1" type="preface" xml:id="front-1-dedication-1-preface-1">
         <milestone facs="#facs-233" unit="ref" xml:id="front-1-dedication-1-preface-1-milestone-4" />
         <head>GIξξE ATÜNE TARBENESCEVE GHI Ta marrene mee zghieξune, e mee zane. <foreign xml:lang="lat-Latn">Hoc est ad Epirotas, seù Albaneses Lectores.</foreign>
         </head>
@@ -1282,7 +1282,7 @@
           <signed>Une D. Frangu Ibarξξe Scholaar nde College te Scintesse Fee.</signed>
         </closer>
       </div>
-      <div type="imprimatur" xml:id="front-1-dedication-1-preface-1-imprimatur-1" data-level="1">
+      <div data-level="1" type="imprimatur" xml:id="front-1-dedication-1-preface-1-imprimatur-1">
         <milestone facs="#facs-227" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-milestone-10" />
         <p xml:id="front-1-dedication-1-preface-1-imprimatur-1-p-4">Imprimatur si videbitur Reuerendiss. P. Mag. Sac. Pal. Apost.</p>
         <p xml:id="front-1-dedication-1-preface-1-imprimatur-1-p-5">A. Torniellus Vicesg.</p>
@@ -1290,7 +1290,7 @@
         <signed>Fr. Marcus Scura Episc. Stephanen.</signed>
         <signed>Imprimatur. Fr. Nicolaus Riccardius Sacri Palatij Apostolici Mag.</signed>
       </div>
-      <div type="notes" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1" data-level="1">
+      <div data-level="1" type="notes" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1">
         <milestone facs="#facs-226" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-milestone-11" />
         <head>Annotationes de lingua, &amp; litteris Epirotarum, seù Albanesiorum.</head>
         <p xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-p-7">
@@ -1308,7 +1308,7 @@
           <foreign xml:lang="lat-Latn">habeant affinitatem, quandoquidem Turcarum Imperio moderantur, ac legibus ideò sub finem operis habes praeter numerandi rationem nonnulla etiam vocabula Turcicè, atque Epiroticè expressa, ex quibus facilè erit inter utrumque sermonem diuersitatem colligere &amp;c.</foreign>
         </p>
       </div>
-      <div type="commendatory_poems" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1" data-level="1">
+      <div data-level="1" type="commendatory_poems" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1">
         <lg xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-lg-1">
           <head>
             <milestone facs="#facs-224" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-lg-1-milestone-13" />
@@ -1357,7 +1357,7 @@
           <l xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-lg-3-l-25">Linguæ qui Patriæ dat documenta suæ.</l>
         </lg>
       </div>
-      <div type="contents" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1" data-level="1">
+      <div data-level="1" type="contents" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1">
         <milestone facs="#facs-222" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-milestone-15" />
         <head>INDEX CAPITVM</head>
         <head>Quæ continentur in fine huius Opusculi</head>
@@ -1375,7 +1375,7 @@
       </div>
     </front>
     <body>
-      <div n="Alph." type="dictionary" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1" data-level="1">
+      <div data-level="1" n="Alph." type="dictionary" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1">
         <head>DICTIONARIUM</head>
         <head>LATINO-EPIROTICVM</head>
         <lb n="1" />
@@ -35857,7 +35857,7 @@
         <pb n="189" />
         <milestone facs="#facs-35" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-milestone-202" />
       </div>
-      <div n="1" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1" type="chapter" data-level="1">
+      <div data-level="1" n="1" type="chapter" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1">
         <head>
           <foreign xml:lang="lat-Latn">CAP. I</foreign>
         </head>
@@ -36091,7 +36091,7 @@
           <milestone facs="#facs-30" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-1-p-9-milestone-207" />
         </p>
       </div>
-      <div n="2" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-2" type="chapter" data-level="1">
+      <div data-level="1" n="2" type="chapter" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-2">
         <head>
           <foreign xml:lang="lat-Latn">CAP. II</foreign>
         </head>
@@ -36169,7 +36169,7 @@
           <milestone facs="#facs-28" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-2-p-11-milestone-209" />
         </p>
       </div>
-      <div n="3" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-3" type="chapter" data-level="1">
+      <div data-level="1" n="3" type="chapter" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-3">
         <head>
           <foreign xml:lang="lat-Latn">CAP. III</foreign>
         </head>
@@ -36227,7 +36227,7 @@
           <milestone facs="#facs-25" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-3-p-12-milestone-212" />
         </p>
       </div>
-      <div n="4" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4" type="chapter" data-level="1">
+      <div data-level="1" n="4" type="chapter" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4">
         <head>
           <foreign xml:lang="lat-Latn">CAP. IV</foreign>
         </head>
@@ -36409,7 +36409,7 @@
           <milestone facs="#facs-20" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-4-p-17-milestone-217" />
         </p>
       </div>
-      <div n="5" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-5" type="chapter" data-level="1">
+      <div data-level="1" n="5" type="chapter" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-5">
         <head>
           <foreign xml:lang="lat-Latn">CAP. V</foreign>
         </head>
@@ -36487,7 +36487,7 @@
           <lb n="30" />Per tɣɣ <foreign xml:lang="lat-Latn">Propter te, &amp;c.</foreign>
         </p>
       </div>
-      <div n="6" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-6" type="chapter" data-level="1">
+      <div data-level="1" n="6" type="chapter" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-6">
         <head>
           <foreign xml:lang="lat-Latn">CAP. VI</foreign>
         </head>
@@ -36504,7 +36504,7 @@
           <milestone facs="#facs-17" unit="ref" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-6-p-21-milestone-220" />
         </p>
       </div>
-      <div n="8_(7)" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7" type="chapter" data-level="1">
+      <div data-level="1" n="8_(7)" type="chapter" xml:id="front-1-dedication-1-preface-1-imprimatur-1-notes-1-commendatory_poems-1-contents-1-dictionary-1-chapter-7">
         <head>
           <foreign xml:lang="lat-Latn">CAP. VIII</foreign>
           <foreign xml:lang="und-Latn-x-general">[sic]</foreign>
