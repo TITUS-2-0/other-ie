@@ -4,13 +4,13 @@
 
 This is a TEI port of a [TITUS dataset](http://titus.uni-frankfurt.de/texte/etcs/alban/bogdani/bogda.htm).
 
-* URL: https://github.com/TITUS-2-0/other-ie/tree/main/drafts/bogda
-* version: 0.1.0
-* date: 2025-12-04
+* URL: https://titus2.uni-frankfurt.de/dataset/bogda
+* version: 0.1.1
+* date: 2026-06-01
 
 ## Citation
 ```text
-Digital version of Cuneus prophetarum (1685) by Pjetër Bogdani (v0.1.0). By: Michiel de Vaan, Jost Gippert, Florian Matter. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://github.com/TITUS-2-0/other-ie/tree/main/drafts/bogda, visited on <insert date>)
+Digital version of Cuneus prophetarum (1685) by Pjetër Bogdani (v0.1.1). By: Michiel de Vaan, Jost Gippert, Florian Matter. In: Carling, Gerd & Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University. (URL: https://titus2.uni-frankfurt.de/dataset/bogda, visited on <insert date>)
 ```
 
 ## TEI encoding
