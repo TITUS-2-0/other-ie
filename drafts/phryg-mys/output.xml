@@ -21,13 +21,13 @@
       <publicationStmt>
         <publisher>Goethe University</publisher>
         <pubPlace>Frankfurt</pubPlace>
-        <date when="2025-02-24">2025-02-24</date>
+        <date when="2026-11-13">2026-11-13</date>
         <availability>
           <licence target="https://creativecommons.org/licenses/by-nc-sa/4.0/">This dataset is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.</licence>
-          <p>Preferred citation: <note type="citation">Digital version of "Mysian" inscriptions (draft version). 2025-02-24. By: Jost Gippert, A. Lubotsky, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
+          <p>Preferred citation: <note type="citation">Digital version of "Mysian" inscriptions (v0.0.1.draft). 2026-11-13. By: Jost Gippert, A. Lubotsky, Florian Matter. In: Carling, Gerd &amp; Jost Gippert (2025). TITUS 2.0. Frankfurt: Goethe University.</note>
           </p>
         </availability>
-        <idno type="version">unreleased</idno>
+        <idno type="version">0.0.1.draft</idno>
       </publicationStmt>
       <sourceDesc>
         <bibl xml:id="phryg-ba">
@@ -38,15 +38,15 @@
     </fileDesc>
     <profileDesc>
       <langUsage>
-        <language ident="yms-Grek" ana="primary">Mysian</language>
-        <language ident="yms-Latn-x-tld" ana="secondary">Mysian</language>
+        <language ana="primary" ident="yms-Grek">Mysian</language>
+        <language ana="secondary" ident="yms-Latn-x-tld">Mysian</language>
       </langUsage>
     </profileDesc>
   </teiHeader>
   <text xml:lang="yms-Grek">
     <body>
-      <div n="BO" xml:id="provenance-1" type="provenance" data-level="1">
-        <div n="1" xml:id="provenance-1-inscription-1" type="inscription" data-level="2">
+      <div data-level="1" n="BO" type="provenance" xml:id="provenance-1">
+        <div data-level="2" n="1" type="inscription" xml:id="provenance-1-inscription-1">
           <lb n="1" />
           <app xml:id="provenance-1-inscription-1-app-1">
             <rdg xml:id="provenance-1-inscription-1-app-1-rdg-1">
@@ -64,7 +64,7 @@
             </rdg>
           </app>
         </div>
-        <div n="2" xml:id="provenance-1-inscription-2" type="inscription" data-level="2">
+        <div data-level="2" n="2" type="inscription" xml:id="provenance-1-inscription-2">
           <lb n="1" />
           <app xml:id="provenance-1-inscription-2-app-2">
             <rdg xml:id="provenance-1-inscription-2-app-2-rdg-3">
@@ -82,7 +82,7 @@
             </rdg>
           </app>
         </div>
-        <div n="3" xml:id="provenance-1-inscription-3" type="inscription" data-level="2">
+        <div data-level="2" n="3" type="inscription" xml:id="provenance-1-inscription-3">
           <lb n="1" />
           <app xml:id="provenance-1-inscription-3-app-3">
             <rdg xml:id="provenance-1-inscription-3-app-3-rdg-5">
@@ -100,7 +100,7 @@
             </rdg>
           </app>
         </div>
-        <div n="4" xml:id="provenance-1-inscription-4" type="inscription" data-level="2">
+        <div data-level="2" n="4" type="inscription" xml:id="provenance-1-inscription-4">
           <lb n="1" />
           <app xml:id="provenance-1-inscription-4-app-4">
             <rdg xml:id="provenance-1-inscription-4-app-4-rdg-7">
@@ -118,7 +118,7 @@
             </rdg>
           </app>
         </div>
-        <div n="5" xml:id="provenance-1-inscription-5" type="inscription" data-level="2">
+        <div data-level="2" n="5" type="inscription" xml:id="provenance-1-inscription-5">
           <lb n="1" />
           <app xml:id="provenance-1-inscription-5-app-5">
             <rdg xml:id="provenance-1-inscription-5-app-5-rdg-9">
@@ -136,7 +136,7 @@
             </rdg>
           </app>
         </div>
-        <div n="6" xml:id="provenance-1-inscription-6" type="inscription" data-level="2">
+        <div data-level="2" n="6" type="inscription" xml:id="provenance-1-inscription-6">
           <lb n="1" />
           <app xml:id="provenance-1-inscription-6-app-6">
             <rdg xml:id="provenance-1-inscription-6-app-6-rdg-11">
@@ -154,7 +154,7 @@
             </rdg>
           </app>
         </div>
-        <div n="7" xml:id="provenance-1-inscription-7" type="inscription" data-level="2">
+        <div data-level="2" n="7" type="inscription" xml:id="provenance-1-inscription-7">
           <lb n="1" />
           <app xml:id="provenance-1-inscription-7-app-7">
             <rdg xml:id="provenance-1-inscription-7-app-7-rdg-13">

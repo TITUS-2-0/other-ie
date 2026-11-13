@@ -2,7 +2,7 @@ text:
 - body:
   - provenance[n=BO]:
     - inscription[n=1]:
-      - lb[n=1]
+      - lb: 1
       - app:
         - rdg:
           - choice:
@@ -14,7 +14,7 @@ text:
             - reg@transliteration[lg=yms-Latn-x-tld]: ']e[ ]y...'
             - orig: ']Ε[ ]J...'
     - inscription[n=2]:
-      - lb[n=1]
+      - lb: 1
       - app:
         - rdg:
           - choice:
@@ -26,7 +26,7 @@ text:
             - reg@transliteration[lg=yms-Latn-x-tld]: ']ka.[...]an.e[ ]a['
             - orig: ']ΚΑ.[...]ΑΝ.Ε[ ]Α['
     - inscription[n=3]:
-      - lb[n=1]
+      - lb: 1
       - app:
         - rdg:
           - choice:
@@ -39,7 +39,7 @@ text:
             - reg@transliteration[lg=yms-Latn-x-tld]: 'lamnlavaz nokses+ : amri'
             - orig: 'ΛΑΜΝΛΑFΑΖ ΝΟΚΣΕC : ΑΜΡΙ'
     - inscription[n=4]:
-      - lb[n=1]
+      - lb: 1
       - app:
         - rdg:
           - choice:
@@ -51,7 +51,7 @@ text:
             - reg@transliteration[lg=yms-Latn-x-tld]: 'adlevasiz arlavoz : te'
             - orig: 'ΑΔΛΕFΑΣΙΖ ΑΡΛΑFΟΖ : ΤΕ'
     - inscription[n=5]:
-      - lb[n=1]
+      - lb: 1
       - app:
         - rdg:
           - choice:
@@ -63,7 +63,7 @@ text:
             - reg@transliteration[lg=yms-Latn-x-tld]: 'epavizuis+ : anevnevez'
             - orig: 'ΕΠΑFΙΖΥΙC : ΑΝΕFΝΕFΕΖ'
     - inscription[n=6]:
-      - lb[n=1]
+      - lb: 1
       - app:
         - rdg:
           - choice:
@@ -76,7 +76,7 @@ text:
                 tv[-]'
             - orig: '[-]ΑΝΟΙ ΑΠΝΕΚΟFΣΝ : Ο.ΑΤΑΝ ΤF[-]'
     - inscription[n=7]:
-      - lb[n=1]
+      - lb: 1
       - app:
         - rdg:
           - choice:
